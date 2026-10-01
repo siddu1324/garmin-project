@@ -1,0 +1,26 @@
+[project]
+name = "garmin-ema-inventory"
+version = "0.1.0"
+description = "Privacy-conscious corrected Garmin and EMA data inspection"
+requires-python = ">=3.11,<3.12"
+dependencies = [
+  "numpy==2.2.6",
+  "pandas==2.3.3",
+  "pyarrow==21.0.0",
+  "nbformat==5.10.4",
+  "nbconvert==7.16.6",
+  "ipykernel==6.30.1",
+  "jupyterlab==4.4.9",
+  "pypdf==6.1.1",
+]
+
+[dependency-groups]
+dev = ["pytest==8.4.2", "ruff==0.13.2"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[tool.ruff]
+target-version = "py311"
+line-length = 100
