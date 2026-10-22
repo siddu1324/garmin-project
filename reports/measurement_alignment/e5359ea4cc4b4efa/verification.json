@@ -1,0 +1,14 @@
+{
+  "all_ema_clock_delay_checks": 3706,
+  "corrected_scalar_boundary_checks": 5436,
+  "development_participants": 125,
+  "development_rows": 3706,
+  "final_test_evaluated": false,
+  "independent_shift_support_checks": 240,
+  "new_real_predictive_fits": 0,
+  "previous_checkpoint_seal_verified": true,
+  "prior_files_preserved": 969,
+  "prior_manifests_preserved": 3245,
+  "raw_reference_metadata_checks": 7870,
+  "zero_shift_quality_checks": 29648
+}

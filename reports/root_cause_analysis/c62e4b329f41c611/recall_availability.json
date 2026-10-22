@@ -1,0 +1,79 @@
+[
+  {
+    "boundary_reason": "previous_prompt_log_unavailable",
+    "n_survey_category": "Endday",
+    "participants": 124,
+    "responses": 934,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "boundary_reason": "previous_prompt_log_unavailable",
+    "n_survey_category": "Midday",
+    "participants": 125,
+    "responses": 1838,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "boundary_reason": "candidate",
+    "n_survey_category": "Morning",
+    "participants": 125,
+    "responses": 826,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "boundary_reason": "minute_uncertainty_reaches_cutoff",
+    "n_survey_category": "Morning",
+    "participants": 9,
+    "responses": 10,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "boundary_reason": "missing_wake_response",
+    "n_survey_category": "Morning",
+    "participants": 3,
+    "responses": 3,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "boundary_reason": "wake_not_before_cutoff",
+    "n_survey_category": "Morning",
+    "participants": 55,
+    "responses": 95,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "boundary_reason": "previous_prompt_log_unavailable",
+    "n_survey_category": "Endday",
+    "participants": 124,
+    "responses": 934,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "boundary_reason": "previous_prompt_log_unavailable",
+    "n_survey_category": "Midday",
+    "participants": 125,
+    "responses": 1838,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "boundary_reason": "candidate",
+    "n_survey_category": "Morning",
+    "participants": 125,
+    "responses": 836,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "boundary_reason": "missing_wake_response",
+    "n_survey_category": "Morning",
+    "participants": 3,
+    "responses": 3,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "boundary_reason": "wake_not_before_cutoff",
+    "n_survey_category": "Morning",
+    "participants": 55,
+    "responses": 95,
+    "scenario": "reported_minute_start"
+  }
+]

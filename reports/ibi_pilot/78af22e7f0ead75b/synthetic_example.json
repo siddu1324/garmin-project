@@ -1,0 +1,27 @@
+{
+  "intervals_ms": [
+    800,
+    900,
+    1000,
+    950,
+    850
+  ],
+  "label": "SYNTHETIC \u2014 not participant data",
+  "results": {
+    "intervals": 5,
+    "mean_ibi_ms": 900.0,
+    "median_ibi_ms": 900.0,
+    "nk_native_pnn50_percent": 60.0,
+    "pairs": 4,
+    "pnn50_pairs_percent": 75.0,
+    "rmssd_ms": 90.13878188659973,
+    "sd_population_ms": 70.71067811865476,
+    "sdnn_sample_ms": 79.05694150420949
+  },
+  "signed_differences_ms": [
+    100,
+    100,
+    -50,
+    -100
+  ]
+}

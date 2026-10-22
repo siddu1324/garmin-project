@@ -1,0 +1,818 @@
+[
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 0.28074919189008263,
+    "max_difference_from_training_median": 0.7449043096725232,
+    "max_within_fold_sd": 0.15664817132184095,
+    "min_within_fold_sd": 0.10226091208740765,
+    "model": "all_valid__context__elastic"
+  },
+  {
+    "constant_folds": 3,
+    "max_difference_from_training_mean": 0.487231182795699,
+    "max_difference_from_training_median": 0.9230550247232872,
+    "max_within_fold_sd": 0.30990847258695875,
+    "min_within_fold_sd": 0.0,
+    "model": "all_valid__context__hgb"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 0.603224243297154,
+    "max_difference_from_training_median": 0.8127977426862598,
+    "max_within_fold_sd": 0.19468757671480993,
+    "min_within_fold_sd": 0.13106981295709366,
+    "model": "all_valid__context__huber"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 0.2712937362400316,
+    "max_difference_from_training_median": 0.7316042780748662,
+    "max_within_fold_sd": 0.14920666281425565,
+    "min_within_fold_sd": 0.09269222831458782,
+    "model": "all_valid__context__lasso"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 1.1382266095095357,
+    "max_difference_from_training_median": 1.1967396161671084,
+    "max_within_fold_sd": 0.32315371271055127,
+    "min_within_fold_sd": 0.26706492036797713,
+    "model": "all_valid__context__lgbm"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 0.4567720115454472,
+    "max_difference_from_training_median": 0.9440031943411462,
+    "max_within_fold_sd": 0.17253634277001742,
+    "min_within_fold_sd": 0.10324609133858695,
+    "model": "all_valid__context__ridge"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 1.4046740751900533,
+    "max_difference_from_training_median": 1.0305461883544922,
+    "max_within_fold_sd": 0.33651572682199865,
+    "min_within_fold_sd": 0.16262139939881437,
+    "model": "all_valid__context__xgb"
+  },
+  {
+    "constant_folds": 5,
+    "max_difference_from_training_mean": 0.0,
+    "max_difference_from_training_median": 0.487231182795699,
+    "max_within_fold_sd": 0.0,
+    "min_within_fold_sd": 0.0,
+    "model": "all_valid__dummy_mean"
+  },
+  {
+    "constant_folds": 5,
+    "max_difference_from_training_mean": 0.487231182795699,
+    "max_difference_from_training_median": 0.0,
+    "max_within_fold_sd": 0.0,
+    "min_within_fold_sd": 0.0,
+    "model": "all_valid__dummy_median"
+  },
+  {
+    "constant_folds": 5,
+    "max_difference_from_training_mean": 0.0,
+    "max_difference_from_training_median": 0.487231182795699,
+    "max_within_fold_sd": 0.0,
+    "min_within_fold_sd": 0.0,
+    "model": "all_valid__full__elastic"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 1.657027485463252,
+    "max_difference_from_training_median": 2.144258668258951,
+    "max_within_fold_sd": 0.42941495635659926,
+    "min_within_fold_sd": 0.12313960144262591,
+    "model": "all_valid__full__hgb"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 27.614223883009902,
+    "max_difference_from_training_median": 28.101455065805602,
+    "max_within_fold_sd": 1.737748703270028,
+    "min_within_fold_sd": 0.7139163045313253,
+    "model": "all_valid__full__huber"
+  },
+  {
+    "constant_folds": 3,
+    "max_difference_from_training_mean": 4.1024465301949595,
+    "max_difference_from_training_median": 4.5896777129906585,
+    "max_within_fold_sd": 0.4257230821010179,
+    "min_within_fold_sd": 0.0,
+    "model": "all_valid__full__lasso"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 2.0315526670325275,
+    "max_difference_from_training_median": 2.509552417881416,
+    "max_within_fold_sd": 0.5633216643732681,
+    "min_within_fold_sd": 0.4699809425707204,
+    "model": "all_valid__full__lgbm"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 20.089327492777784,
+    "max_difference_from_training_median": 20.576558675573484,
+    "max_within_fold_sd": 1.142254581195734,
+    "min_within_fold_sd": 0.5333633235225861,
+    "model": "all_valid__full__ridge"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 2.3292588967642924,
+    "max_difference_from_training_median": 2.777698516845703,
+    "max_within_fold_sd": 0.4780302449959611,
+    "min_within_fold_sd": 0.31774952835656123,
+    "model": "all_valid__full__xgb"
+  },
+  {
+    "constant_folds": 5,
+    "max_difference_from_training_mean": 0.0,
+    "max_difference_from_training_median": 0.487231182795699,
+    "max_within_fold_sd": 0.0,
+    "min_within_fold_sd": 0.0,
+    "model": "all_valid__full_corr__elastic"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 1.657027485463252,
+    "max_difference_from_training_median": 2.144258668258951,
+    "max_within_fold_sd": 0.42941495635659926,
+    "min_within_fold_sd": 0.12313960144262591,
+    "model": "all_valid__full_corr__hgb"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 31.417135041374745,
+    "max_difference_from_training_median": 31.904366224170445,
+    "max_within_fold_sd": 1.8181361761989463,
+    "min_within_fold_sd": 0.6799752337325146,
+    "model": "all_valid__full_corr__huber"
+  },
+  {
+    "constant_folds": 3,
+    "max_difference_from_training_mean": 4.10244641560502,
+    "max_difference_from_training_median": 4.589677598400719,
+    "max_within_fold_sd": 0.4257230834564931,
+    "min_within_fold_sd": 0.0,
+    "model": "all_valid__full_corr__lasso"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 2.2099994932532523,
+    "max_difference_from_training_median": 2.6972306760489513,
+    "max_within_fold_sd": 0.6391458674764033,
+    "min_within_fold_sd": 0.47309544771455836,
+    "model": "all_valid__full_corr__lgbm"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 19.642799623548964,
+    "max_difference_from_training_median": 20.130030806344664,
+    "max_within_fold_sd": 1.1414686485205126,
+    "min_within_fold_sd": 0.524757129665659,
+    "model": "all_valid__full_corr__ridge"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 2.1504469635666057,
+    "max_difference_from_training_median": 2.6376781463623047,
+    "max_within_fold_sd": 0.48381491014135014,
+    "min_within_fold_sd": 0.3288437117527865,
+    "model": "all_valid__full_corr__xgb"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 1.6964103173858343,
+    "max_difference_from_training_median": 2.1836415001815332,
+    "max_within_fold_sd": 0.43105901046985073,
+    "min_within_fold_sd": 0.13047736044049832,
+    "model": "all_valid__full_enetselect__hgb"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 2.4034604817310123,
+    "max_difference_from_training_median": 2.8906916645267113,
+    "max_within_fold_sd": 0.5856662817602715,
+    "min_within_fold_sd": 0.47631164361001216,
+    "model": "all_valid__full_enetselect__lgbm"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 20.711192676500833,
+    "max_difference_from_training_median": 21.198423859296533,
+    "max_within_fold_sd": 1.0720402714815875,
+    "min_within_fold_sd": 0.4756590362108708,
+    "model": "all_valid__full_enetselect__ridge"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 2.2200384857834026,
+    "max_difference_from_training_median": 2.7072696685791016,
+    "max_within_fold_sd": 0.49658319759965835,
+    "min_within_fold_sd": 0.33677192542660705,
+    "model": "all_valid__full_enetselect__xgb"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 1.701118464361019,
+    "max_difference_from_training_median": 2.188349647156718,
+    "max_within_fold_sd": 0.42941495635659926,
+    "min_within_fold_sd": 0.13461062869943358,
+    "model": "all_valid__full_l1select__hgb"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 2.6141757065070648,
+    "max_difference_from_training_median": 3.1014068893027638,
+    "max_within_fold_sd": 0.597567720664533,
+    "min_within_fold_sd": 0.511977577653244,
+    "model": "all_valid__full_l1select__lgbm"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 16.03680946895226,
+    "max_difference_from_training_median": 16.52404065174796,
+    "max_within_fold_sd": 0.8550790477103548,
+    "min_within_fold_sd": 0.4102749814667887,
+    "model": "all_valid__full_l1select__ridge"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 2.411459994572465,
+    "max_difference_from_training_median": 2.898691177368164,
+    "max_within_fold_sd": 0.5288336439330037,
+    "min_within_fold_sd": 0.33386801507534186,
+    "model": "all_valid__full_l1select__xgb"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 1.5731390925898827,
+    "max_difference_from_training_median": 2.0603702753855817,
+    "max_within_fold_sd": 0.42941495635659926,
+    "min_within_fold_sd": 0.10542617735159854,
+    "model": "all_valid__full_no_flags__hgb"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 2.408079918318994,
+    "max_difference_from_training_median": 2.895311101114693,
+    "max_within_fold_sd": 0.5698200754999543,
+    "min_within_fold_sd": 0.4315859459339824,
+    "model": "all_valid__full_no_flags__lgbm"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 19.77745451227821,
+    "max_difference_from_training_median": 20.26468569507391,
+    "max_within_fold_sd": 1.0678345926383341,
+    "min_within_fold_sd": 0.46525470996589363,
+    "model": "all_valid__full_no_flags__ridge"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 2.3705940026602885,
+    "max_difference_from_training_median": 2.819033622741699,
+    "max_within_fold_sd": 0.47570013287833085,
+    "min_within_fold_sd": 0.27787311960681976,
+    "model": "all_valid__full_no_flags__xgb"
+  },
+  {
+    "constant_folds": 5,
+    "max_difference_from_training_mean": 0.0,
+    "max_difference_from_training_median": 0.487231182795699,
+    "max_within_fold_sd": 0.0,
+    "min_within_fold_sd": 0.0,
+    "model": "all_valid__hr60__elastic"
+  },
+  {
+    "constant_folds": 1,
+    "max_difference_from_training_mean": 1.3258234244531995,
+    "max_difference_from_training_median": 0.9230550247232872,
+    "max_within_fold_sd": 0.38711042053074973,
+    "min_within_fold_sd": 0.0,
+    "model": "all_valid__hr60__hgb"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 3.1468968369569144,
+    "max_difference_from_training_median": 3.595336457038325,
+    "max_within_fold_sd": 0.29017805914250444,
+    "min_within_fold_sd": 0.2016210400838391,
+    "model": "all_valid__hr60__huber"
+  },
+  {
+    "constant_folds": 5,
+    "max_difference_from_training_mean": 0.0,
+    "max_difference_from_training_median": 0.487231182795699,
+    "max_within_fold_sd": 0.0,
+    "min_within_fold_sd": 0.0,
+    "model": "all_valid__hr60__lasso"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 1.8994473929577476,
+    "max_difference_from_training_median": 2.0342060199528795,
+    "max_within_fold_sd": 0.3908779117541671,
+    "min_within_fold_sd": 0.2882070886719392,
+    "model": "all_valid__hr60__lgbm"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 2.1007318206120154,
+    "max_difference_from_training_median": 2.549171440693426,
+    "max_within_fold_sd": 0.22889981736100037,
+    "min_within_fold_sd": 0.15192208348338002,
+    "model": "all_valid__hr60__ridge"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 1.5710747695988063,
+    "max_difference_from_training_median": 1.4613914489746094,
+    "max_within_fold_sd": 0.3121922882871889,
+    "min_within_fold_sd": 0.1824321237410636,
+    "model": "all_valid__hr60__xgb"
+  },
+  {
+    "constant_folds": 1,
+    "max_difference_from_training_mean": 1.486775627821216,
+    "max_difference_from_training_median": 0.9995444450255171,
+    "max_within_fold_sd": 0.3489632853194633,
+    "min_within_fold_sd": 0.0,
+    "model": "all_valid__hr_120m__hgb"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 2.7897154316839554,
+    "max_difference_from_training_median": 3.238155051765366,
+    "max_within_fold_sd": 0.25104842213586576,
+    "min_within_fold_sd": 0.21685731813040146,
+    "model": "all_valid__hr_120m__ridge"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 1.3258234244531995,
+    "max_difference_from_training_median": 1.164909508138388,
+    "max_within_fold_sd": 0.42941495635659926,
+    "min_within_fold_sd": 0.11584078484266441,
+    "model": "all_valid__hr_1440m__hgb"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 1.2875672334463637,
+    "max_difference_from_training_median": 1.602652199374293,
+    "max_within_fold_sd": 0.32670417508244237,
+    "min_within_fold_sd": 0.22389520860636825,
+    "model": "all_valid__hr_1440m__ridge"
+  },
+  {
+    "constant_folds": 1,
+    "max_difference_from_training_mean": 1.486775627821216,
+    "max_difference_from_training_median": 1.3828677331235681,
+    "max_within_fold_sd": 0.3152488959459531,
+    "min_within_fold_sd": 0.0,
+    "model": "all_valid__hr_15m__hgb"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 3.4418042613505584,
+    "max_difference_from_training_median": 3.890243881431969,
+    "max_within_fold_sd": 0.41837535472378734,
+    "min_within_fold_sd": 0.18332065897132468,
+    "model": "all_valid__hr_15m__ridge"
+  },
+  {
+    "constant_folds": 1,
+    "max_difference_from_training_mean": 1.5488750078356217,
+    "max_difference_from_training_median": 2.0361061906313207,
+    "max_within_fold_sd": 0.26108866798760894,
+    "min_within_fold_sd": 0.0,
+    "model": "all_valid__hr_30m__hgb"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 2.727155897930687,
+    "max_difference_from_training_median": 2.573325440949638,
+    "max_within_fold_sd": 0.24411968089606514,
+    "min_within_fold_sd": 0.16372458515407126,
+    "model": "all_valid__hr_30m__ridge"
+  },
+  {
+    "constant_folds": 3,
+    "max_difference_from_training_mean": 1.2561619856740514,
+    "max_difference_from_training_median": 0.9230550247232872,
+    "max_within_fold_sd": 0.3989756797778271,
+    "min_within_fold_sd": 0.0,
+    "model": "all_valid__hr_360m__hgb"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 1.9530558552579045,
+    "max_difference_from_training_median": 2.401495475339315,
+    "max_within_fold_sd": 0.28194376408711264,
+    "min_within_fold_sd": 0.21103779924549484,
+    "model": "all_valid__hr_360m__ridge"
+  },
+  {
+    "constant_folds": 1,
+    "max_difference_from_training_mean": 1.3714946448046978,
+    "max_difference_from_training_median": 0.9230550247232872,
+    "max_within_fold_sd": 0.31792666201480657,
+    "min_within_fold_sd": 0.0,
+    "model": "all_valid__hr_5m__hgb"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 1.8942077841704936,
+    "max_difference_from_training_median": 2.304371094727406,
+    "max_within_fold_sd": 0.22979811336339243,
+    "min_within_fold_sd": 0.1429090322796164,
+    "model": "all_valid__hr_5m__ridge"
+  },
+  {
+    "constant_folds": 2,
+    "max_difference_from_training_mean": 1.2561619856740514,
+    "max_difference_from_training_median": 1.2365527517012325,
+    "max_within_fold_sd": 0.4346916783329237,
+    "min_within_fold_sd": 0.0,
+    "model": "all_valid__hr_720m__hgb"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 1.485365279895836,
+    "max_difference_from_training_median": 1.9338048999772468,
+    "max_within_fold_sd": 0.3316613595358612,
+    "min_within_fold_sd": 0.23331692321128933,
+    "model": "all_valid__hr_720m__ridge"
+  },
+  {
+    "constant_folds": 5,
+    "max_difference_from_training_mean": 0.0,
+    "max_difference_from_training_median": 0.487231182795699,
+    "max_within_fold_sd": 0.0,
+    "min_within_fold_sd": 0.0,
+    "model": "all_valid__hr_activity60__elastic"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 1.3714946448046978,
+    "max_difference_from_training_median": 0.9230550247232872,
+    "max_within_fold_sd": 0.18064248133329872,
+    "min_within_fold_sd": 0.08911225201418123,
+    "model": "all_valid__hr_activity60__hgb"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 8.235637978624023,
+    "max_difference_from_training_median": 8.597347380333424,
+    "max_within_fold_sd": 0.590681438891827,
+    "min_within_fold_sd": 0.2822414772279116,
+    "model": "all_valid__hr_activity60__huber"
+  },
+  {
+    "constant_folds": 5,
+    "max_difference_from_training_mean": 0.0,
+    "max_difference_from_training_median": 0.487231182795699,
+    "max_within_fold_sd": 0.0,
+    "min_within_fold_sd": 0.0,
+    "model": "all_valid__hr_activity60__lasso"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 2.1301590323919326,
+    "max_difference_from_training_median": 1.9747606693201094,
+    "max_within_fold_sd": 0.43978319829188484,
+    "min_within_fold_sd": 0.3458660609901332,
+    "model": "all_valid__hr_activity60__lgbm"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 6.596343076587645,
+    "max_difference_from_training_median": 6.958052478297047,
+    "max_within_fold_sd": 0.45596169979016893,
+    "min_within_fold_sd": 0.19964418386332533,
+    "model": "all_valid__hr_activity60__ridge"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 1.7231648422306423,
+    "max_difference_from_training_median": 1.3614554405212402,
+    "max_within_fold_sd": 0.37415630330032973,
+    "min_within_fold_sd": 0.22770184726110757,
+    "model": "all_valid__hr_activity60__xgb"
+  },
+  {
+    "constant_folds": 5,
+    "max_difference_from_training_mean": 0.0,
+    "max_difference_from_training_median": 0.487231182795699,
+    "max_within_fold_sd": 0.0,
+    "min_within_fold_sd": 0.0,
+    "model": "all_valid__hr_activity_all__elastic"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 1.6679006634240858,
+    "max_difference_from_training_median": 2.155131846219785,
+    "max_within_fold_sd": 0.42941495635659926,
+    "min_within_fold_sd": 0.12622756058818208,
+    "model": "all_valid__hr_activity_all__hgb"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 26.663536490687523,
+    "max_difference_from_training_median": 27.150767673483223,
+    "max_within_fold_sd": 1.6431264157763872,
+    "min_within_fold_sd": 0.698513082380742,
+    "model": "all_valid__hr_activity_all__huber"
+  },
+  {
+    "constant_folds": 4,
+    "max_difference_from_training_mean": 4.115097528562006,
+    "max_difference_from_training_median": 4.602328711357705,
+    "max_within_fold_sd": 0.4280723580188921,
+    "min_within_fold_sd": 0.0,
+    "model": "all_valid__hr_activity_all__lasso"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 2.4126669891755648,
+    "max_difference_from_training_median": 2.6435074031148034,
+    "max_within_fold_sd": 0.5795967734426891,
+    "min_within_fold_sd": 0.4437792615367409,
+    "model": "all_valid__hr_activity_all__lgbm"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 18.286504737740852,
+    "max_difference_from_training_median": 18.773735920536552,
+    "max_within_fold_sd": 1.0861724745562513,
+    "min_within_fold_sd": 0.5105916879896647,
+    "model": "all_valid__hr_activity_all__ridge"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 2.263865542668168,
+    "max_difference_from_training_median": 2.751096725463867,
+    "max_within_fold_sd": 0.48586386537381604,
+    "min_within_fold_sd": 0.31836445806184643,
+    "model": "all_valid__hr_activity_all__xgb"
+  },
+  {
+    "constant_folds": 5,
+    "max_difference_from_training_mean": 0.0,
+    "max_difference_from_training_median": 0.487231182795699,
+    "max_within_fold_sd": 0.0,
+    "min_within_fold_sd": 0.0,
+    "model": "all_valid__hr_all__elastic"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 1.3258234244531995,
+    "max_difference_from_training_median": 1.2102523453856486,
+    "max_within_fold_sd": 0.42941495635659926,
+    "min_within_fold_sd": 0.13129975339360475,
+    "model": "all_valid__hr_all__hgb"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 5.854090646722238,
+    "max_difference_from_training_median": 6.3025302668036485,
+    "max_within_fold_sd": 0.6436365170019658,
+    "min_within_fold_sd": 0.5790939059798287,
+    "model": "all_valid__hr_all__huber"
+  },
+  {
+    "constant_folds": 4,
+    "max_difference_from_training_mean": 0.6922055822326589,
+    "max_difference_from_training_median": 1.1406452023140696,
+    "max_within_fold_sd": 0.1466913512161075,
+    "min_within_fold_sd": 0.0,
+    "model": "all_valid__hr_all__lasso"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 1.8643734139888046,
+    "max_difference_from_training_median": 2.269841671880913,
+    "max_within_fold_sd": 0.5585734470497037,
+    "min_within_fold_sd": 0.42645681240294014,
+    "model": "all_valid__hr_all__lgbm"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 4.6008805106023445,
+    "max_difference_from_training_median": 5.049320130683755,
+    "max_within_fold_sd": 0.5005638753602067,
+    "min_within_fold_sd": 0.42044829024925945,
+    "model": "all_valid__hr_all__ridge"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 1.7696512199467067,
+    "max_difference_from_training_median": 2.0327301025390625,
+    "max_within_fold_sd": 0.49805434526569076,
+    "min_within_fold_sd": 0.2963571742868598,
+    "model": "all_valid__hr_all__xgb"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 1.2561619856740514,
+    "max_difference_from_training_median": 1.1180993285398078,
+    "max_within_fold_sd": 0.4408885497638882,
+    "min_within_fold_sd": 0.021766058441974618,
+    "model": "all_valid__missingness__hgb"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 1.2438625383427633,
+    "max_difference_from_training_median": 1.7310937211384623,
+    "max_within_fold_sd": 0.37796203419167806,
+    "min_within_fold_sd": 0.2787771515253582,
+    "model": "all_valid__missingness__ridge"
+  },
+  {
+    "constant_folds": 4,
+    "max_difference_from_training_mean": 0.22598282695566585,
+    "max_difference_from_training_median": 0.6560794620194308,
+    "max_within_fold_sd": 0.08466124917571731,
+    "min_within_fold_sd": 0.0,
+    "model": "all_valid__original60__elastic"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 1.4936202769352729,
+    "max_difference_from_training_median": 1.006389094139574,
+    "max_within_fold_sd": 0.22022413165300192,
+    "min_within_fold_sd": 0.08911225201418123,
+    "model": "all_valid__original60__hgb"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 2.1622750797897208,
+    "max_difference_from_training_median": 1.6750438969940218,
+    "max_within_fold_sd": 0.2340582857136666,
+    "min_within_fold_sd": 0.1644965837654173,
+    "model": "all_valid__original60__huber"
+  },
+  {
+    "constant_folds": 5,
+    "max_difference_from_training_mean": 0.0,
+    "max_difference_from_training_median": 0.487231182795699,
+    "max_within_fold_sd": 0.0,
+    "min_within_fold_sd": 0.0,
+    "model": "all_valid__original60__lasso"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 1.98268690487245,
+    "max_difference_from_training_median": 1.6088475008414065,
+    "max_within_fold_sd": 0.446129934321087,
+    "min_within_fold_sd": 0.3081769029597659,
+    "model": "all_valid__original60__lgbm"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 1.6428449896574966,
+    "max_difference_from_training_median": 1.287583610738844,
+    "max_within_fold_sd": 0.17932473202641327,
+    "min_within_fold_sd": 0.12777593593124023,
+    "model": "all_valid__original60__ridge"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 1.6469626646675923,
+    "max_difference_from_training_median": 1.232668399810791,
+    "max_within_fold_sd": 0.3593187511677164,
+    "min_within_fold_sd": 0.17180874385752512,
+    "model": "all_valid__original60__xgb"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 1.5048287163619118,
+    "max_difference_from_training_median": 1.9920598991576108,
+    "max_within_fold_sd": 0.42941495635659926,
+    "min_within_fold_sd": 0.1600320721155304,
+    "model": "all_valid__pulseox_full__hgb"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 2.395915256853198,
+    "max_difference_from_training_median": 2.883146439648897,
+    "max_within_fold_sd": 0.5838218769721563,
+    "min_within_fold_sd": 0.4989864664764925,
+    "model": "all_valid__pulseox_full__lgbm"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 20.694833270287216,
+    "max_difference_from_training_median": 21.182064453082916,
+    "max_within_fold_sd": 1.2553053577751108,
+    "min_within_fold_sd": 0.6478236023142395,
+    "model": "all_valid__pulseox_full__ridge"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 2.283639979618852,
+    "max_difference_from_training_median": 2.770871162414551,
+    "max_within_fold_sd": 0.4938969661881715,
+    "min_within_fold_sd": 0.37437751714401124,
+    "model": "all_valid__pulseox_full__xgb"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 1.3714946448046978,
+    "max_difference_from_training_median": 1.4057440824943397,
+    "max_within_fold_sd": 0.41782986317148063,
+    "min_within_fold_sd": 0.26843402321095605,
+    "model": "all_valid__quality__hgb"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 2.0857111448625396,
+    "max_difference_from_training_median": 2.5341507649439503,
+    "max_within_fold_sd": 0.5203683819253314,
+    "min_within_fold_sd": 0.4090857646027841,
+    "model": "all_valid__quality__ridge"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 0.5428500524991655,
+    "max_difference_from_training_median": 0.6791153471380289,
+    "max_within_fold_sd": 0.1340705487154688,
+    "min_within_fold_sd": 0.09953245661594473,
+    "model": "complete60__context__fixed_ridge"
+  },
+  {
+    "constant_folds": 2,
+    "max_difference_from_training_mean": 1.2266301796293835,
+    "max_difference_from_training_median": 0.9230550247232872,
+    "max_within_fold_sd": 0.20445706901026595,
+    "min_within_fold_sd": 0.0,
+    "model": "complete60__context__hgb"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 0.45318799645546193,
+    "max_difference_from_training_median": 0.6036768651627753,
+    "max_within_fold_sd": 0.10878969145204341,
+    "min_within_fold_sd": 0.02642294395842356,
+    "model": "complete60__context__ridge"
+  },
+  {
+    "constant_folds": 5,
+    "max_difference_from_training_mean": 0.0,
+    "max_difference_from_training_median": 0.3076248904469763,
+    "max_within_fold_sd": 0.0,
+    "min_within_fold_sd": 0.0,
+    "model": "complete60__dummy_mean"
+  },
+  {
+    "constant_folds": 5,
+    "max_difference_from_training_mean": 0.3076248904469763,
+    "max_difference_from_training_median": 0.0,
+    "max_within_fold_sd": 0.0,
+    "min_within_fold_sd": 0.0,
+    "model": "complete60__dummy_median"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 1.2996262222225248,
+    "max_difference_from_training_median": 1.0076414893980976,
+    "max_within_fold_sd": 0.4552566438923436,
+    "min_within_fold_sd": 0.14457745597915025,
+    "model": "complete60__full__hgb"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 7.234381203654565,
+    "max_difference_from_training_median": 7.526126044179893,
+    "max_within_fold_sd": 0.8027005508595484,
+    "min_within_fold_sd": 0.47801490893439275,
+    "model": "complete60__full__ridge"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 2.0263306278721256,
+    "max_difference_from_training_median": 1.7187057374251493,
+    "max_within_fold_sd": 0.26799267966580453,
+    "min_within_fold_sd": 0.20578941436764656,
+    "model": "complete60__original60__fixed_ridge"
+  },
+  {
+    "constant_folds": 1,
+    "max_difference_from_training_mean": 1.2147998652486152,
+    "max_difference_from_training_median": 0.9230550247232872,
+    "max_within_fold_sd": 0.2896485100451504,
+    "min_within_fold_sd": 0.0,
+    "model": "complete60__original60__hgb"
+  },
+  {
+    "constant_folds": 0,
+    "max_difference_from_training_mean": 0.7068485150619228,
+    "max_difference_from_training_median": 0.9985933555872508,
+    "max_within_fold_sd": 0.15831611637985463,
+    "min_within_fold_sd": 0.09997412998742412,
+    "model": "complete60__original60__ridge"
+  }
+]

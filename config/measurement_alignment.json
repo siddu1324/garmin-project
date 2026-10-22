@@ -1,0 +1,18 @@
+{
+  "version": "19-v1",
+  "seed": 20261021,
+  "normalized_bundle": "private/preprocessing/normalized/31e51c934bcdeffa",
+  "feature_bundle": "private/comprehensive_features/features/eecf1da995c39b27",
+  "development_bundle": "private/root_cause_analysis/data/6697122712d2b4ce",
+  "ledger_bundle": "private/hr_activity/features/76f5885b3955d5b0",
+  "metadata_inbox": "private/provider_metadata",
+  "lookbacks_minutes": [5, 15, 30, 60, 120, 360, 720, 1440],
+  "diagnostic_delay_minutes": [0, 5, 15, 60],
+  "diagnostic_gap_seconds": [2, 60, 300, 3600],
+  "sensor_clock_sensitivity_seconds": [-60, 0, 60],
+  "C_grid": [0.1, 1.0],
+  "inner_splits": 3,
+  "bootstrap_draws": 2000,
+  "acceptance": {"hr_min_bpm": 30, "hr_max_bpm": 240, "counter_maximum_gap_seconds": 300},
+  "prospective_real_modeling_requires_verified_metadata": true
+}

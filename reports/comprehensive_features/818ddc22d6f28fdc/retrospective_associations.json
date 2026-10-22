@@ -1,0 +1,62 @@
+[
+  {
+    "between_person_correlation": 0.13906910126435273,
+    "feature": "hr__mean__60m",
+    "participants": 120,
+    "responses": 1705,
+    "retrospective_within_person_correlation": -0.04099288532508906,
+    "warning": "Retrospective full-record centering for diagnosis only; never a predictor or validated prediction",
+    "within_cluster_high": 0.017743974577323386,
+    "within_cluster_low": -0.10818413123242554
+  },
+  {
+    "between_person_correlation": -0.040249960254098535,
+    "feature": "hr__slope__60m",
+    "participants": 118,
+    "responses": 1634,
+    "retrospective_within_person_correlation": 0.012325821616265588,
+    "warning": "Retrospective full-record centering for diagnosis only; never a predictor or validated prediction",
+    "within_cluster_high": 0.06983717988376568,
+    "within_cluster_low": -0.02850378904977335
+  },
+  {
+    "between_person_correlation": 0.08739443574777025,
+    "feature": "reference_mean_bpm",
+    "participants": 121,
+    "responses": 3046,
+    "retrospective_within_person_correlation": -0.04818829516247942,
+    "warning": "Retrospective full-record centering for diagnosis only; never a predictor or validated prediction",
+    "within_cluster_high": -0.0008387796576406628,
+    "within_cluster_low": -0.0945798274686096
+  },
+  {
+    "between_person_correlation": 0.24671069506033558,
+    "feature": "hr_mean_deviation_bpm",
+    "participants": 117,
+    "responses": 1631,
+    "retrospective_within_person_correlation": -0.023548396780015888,
+    "warning": "Retrospective full-record centering for diagnosis only; never a predictor or validated prediction",
+    "within_cluster_high": 0.03526851750525807,
+    "within_cluster_low": -0.08151239865514974
+  },
+  {
+    "between_person_correlation": 0.03416871246390575,
+    "feature": "steps__added_supported__60m",
+    "participants": 113,
+    "responses": 1402,
+    "retrospective_within_person_correlation": 0.01336632490513291,
+    "warning": "Retrospective full-record centering for diagnosis only; never a predictor or validated prediction",
+    "within_cluster_high": 0.11569888799927369,
+    "within_cluster_low": -0.08112472118838177
+  },
+  {
+    "between_person_correlation": 0.012163974454663063,
+    "feature": "pulseox__mean__60m",
+    "participants": 118,
+    "responses": 1285,
+    "retrospective_within_person_correlation": 0.014051161675390961,
+    "warning": "Retrospective full-record centering for diagnosis only; never a predictor or validated prediction",
+    "within_cluster_high": 0.0707792253623531,
+    "within_cluster_low": -0.04356622975250577
+  }
+]

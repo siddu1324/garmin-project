@@ -1,0 +1,458 @@
+[
+  {
+    "cohort": "all_development",
+    "measure": "pss_combo",
+    "responses": 705,
+    "value": 3.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "pss_combo",
+    "responses": 328,
+    "value": 4.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "pss_combo",
+    "responses": 553,
+    "value": 5.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "pss_combo",
+    "responses": 402,
+    "value": 6.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "pss_combo",
+    "responses": 500,
+    "value": 7.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "pss_combo",
+    "responses": 388,
+    "value": 8.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "pss_combo",
+    "responses": 298,
+    "value": 9.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "pss_combo",
+    "responses": 178,
+    "value": 10.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "pss_combo",
+    "responses": 194,
+    "value": 11.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "pss_combo",
+    "responses": 75,
+    "value": 12.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "pss_combo",
+    "responses": 35,
+    "value": 13.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "pss_combo",
+    "responses": 19,
+    "value": 14.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "pss_combo",
+    "responses": 14,
+    "value": 15.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "ordinal_nervous",
+    "responses": 1896,
+    "value": 1.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "ordinal_nervous",
+    "responses": 864,
+    "value": 2.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "ordinal_nervous",
+    "responses": 587,
+    "value": 3.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "ordinal_nervous",
+    "responses": 257,
+    "value": 4.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "ordinal_nervous",
+    "responses": 88,
+    "value": 5.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "ordinal_cope_difficulty",
+    "responses": 1284,
+    "value": 1.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "ordinal_cope_difficulty",
+    "responses": 1113,
+    "value": 2.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "ordinal_cope_difficulty",
+    "responses": 826,
+    "value": 3.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "ordinal_cope_difficulty",
+    "responses": 293,
+    "value": 4.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "ordinal_cope_difficulty",
+    "responses": 174,
+    "value": 5.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "ordinal_control_difficulty",
+    "responses": 1026,
+    "value": 1.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "ordinal_control_difficulty",
+    "responses": 1063,
+    "value": 2.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "ordinal_control_difficulty",
+    "responses": 1019,
+    "value": 3.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "ordinal_control_difficulty",
+    "responses": 352,
+    "value": 4.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "ordinal_control_difficulty",
+    "responses": 229,
+    "value": 5.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "item_cope",
+    "responses": 174,
+    "value": 1.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "item_cope",
+    "responses": 293,
+    "value": 2.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "item_cope",
+    "responses": 826,
+    "value": 3.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "item_cope",
+    "responses": 1113,
+    "value": 4.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "item_cope",
+    "responses": 1284,
+    "value": 5.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "item_control",
+    "responses": 229,
+    "value": 1.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "item_control",
+    "responses": 352,
+    "value": 2.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "item_control",
+    "responses": 1019,
+    "value": 3.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "item_control",
+    "responses": 1063,
+    "value": 4.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "item_control",
+    "responses": 1026,
+    "value": 5.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "pss_combo",
+    "responses": 225,
+    "value": 3.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "pss_combo",
+    "responses": 159,
+    "value": 4.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "pss_combo",
+    "responses": 222,
+    "value": 5.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "pss_combo",
+    "responses": 164,
+    "value": 6.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "pss_combo",
+    "responses": 187,
+    "value": 7.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "pss_combo",
+    "responses": 134,
+    "value": 8.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "pss_combo",
+    "responses": 101,
+    "value": 9.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "pss_combo",
+    "responses": 63,
+    "value": 10.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "pss_combo",
+    "responses": 59,
+    "value": 11.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "pss_combo",
+    "responses": 26,
+    "value": 12.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "pss_combo",
+    "responses": 6,
+    "value": 13.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "pss_combo",
+    "responses": 6,
+    "value": 14.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "pss_combo",
+    "responses": 3,
+    "value": 15.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "ordinal_nervous",
+    "responses": 673,
+    "value": 1.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "ordinal_nervous",
+    "responses": 347,
+    "value": 2.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "ordinal_nervous",
+    "responses": 211,
+    "value": 3.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "ordinal_nervous",
+    "responses": 98,
+    "value": 4.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "ordinal_nervous",
+    "responses": 26,
+    "value": 5.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "ordinal_cope_difficulty",
+    "responses": 492,
+    "value": 1.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "ordinal_cope_difficulty",
+    "responses": 437,
+    "value": 2.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "ordinal_cope_difficulty",
+    "responses": 287,
+    "value": 3.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "ordinal_cope_difficulty",
+    "responses": 87,
+    "value": 4.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "ordinal_cope_difficulty",
+    "responses": 52,
+    "value": 5.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "ordinal_control_difficulty",
+    "responses": 347,
+    "value": 1.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "ordinal_control_difficulty",
+    "responses": 459,
+    "value": 2.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "ordinal_control_difficulty",
+    "responses": 376,
+    "value": 3.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "ordinal_control_difficulty",
+    "responses": 122,
+    "value": 4.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "ordinal_control_difficulty",
+    "responses": 51,
+    "value": 5.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "item_cope",
+    "responses": 52,
+    "value": 1.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "item_cope",
+    "responses": 87,
+    "value": 2.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "item_cope",
+    "responses": 287,
+    "value": 3.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "item_cope",
+    "responses": 437,
+    "value": 4.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "item_cope",
+    "responses": 492,
+    "value": 5.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "item_control",
+    "responses": 51,
+    "value": 1.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "item_control",
+    "responses": 122,
+    "value": 2.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "item_control",
+    "responses": 376,
+    "value": 3.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "item_control",
+    "responses": 459,
+    "value": 4.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "item_control",
+    "responses": 347,
+    "value": 5.0
+  }
+]

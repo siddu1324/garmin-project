@@ -1,0 +1,10 @@
+[
+  {
+    "finding": "Binary A: full six-hour AUROC 0.508 (0.459\u20130.557), AP 0.726, balanced accuracy 0.498; versus 60 minutes: \u0394AUROC +0.002 (95% interval -0.065 to +0.070), no clear positive difference; versus context: \u0394AUROC +0.029 (95% interval -0.043 to +0.101), no clear positive difference.",
+    "task": "A"
+  },
+  {
+    "finding": "Binary B: full six-hour AUROC 0.510 (0.472\u20130.546), AP 0.151, balanced accuracy 0.501; versus 60 minutes: \u0394AUROC +0.014 (95% interval -0.052 to +0.079), no clear positive difference; versus context: \u0394AUROC -0.003 (95% interval -0.046 to +0.038), no clear positive difference.",
+    "task": "B"
+  }
+]

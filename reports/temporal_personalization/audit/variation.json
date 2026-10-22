@@ -1,0 +1,34 @@
+[
+  {
+    "between_fraction": 0.4647141537716245,
+    "measure": "composite",
+    "participants": 125,
+    "persons_with_variation": 125,
+    "responses": 3689,
+    "within_fraction": 0.5352858462283755
+  },
+  {
+    "between_fraction": 0.25253798581191134,
+    "measure": "item_nervous",
+    "participants": 125,
+    "persons_with_variation": 122,
+    "responses": 3692,
+    "within_fraction": 0.7474620141880887
+  },
+  {
+    "between_fraction": 0.5071266844151523,
+    "measure": "item_cope",
+    "participants": 125,
+    "persons_with_variation": 120,
+    "responses": 3690,
+    "within_fraction": 0.49287331558484776
+  },
+  {
+    "between_fraction": 0.5016334077538431,
+    "measure": "item_control",
+    "participants": 125,
+    "persons_with_variation": 121,
+    "responses": 3689,
+    "within_fraction": 0.4983665922461568
+  }
+]

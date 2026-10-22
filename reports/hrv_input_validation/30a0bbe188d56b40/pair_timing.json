@@ -1,0 +1,14 @@
+{
+  "compressed_pairs": 504202,
+  "end_pairs_within_10ms": 2627765,
+  "end_pairs_within_250ms": 31977881,
+  "end_pairs_within_251ms": 31992259,
+  "gaps_over_5s": 33766,
+  "gaps_over_60s": 5202,
+  "logical_intervals": 34427074,
+  "positive_plausible_pairs": 34423761,
+  "start_pairs_within_10ms": 2523013,
+  "start_pairs_within_250ms": 31807508,
+  "start_pairs_within_251ms": 31824462,
+  "zero_timestamp_pairs": 3190
+}

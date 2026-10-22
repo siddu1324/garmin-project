@@ -1,0 +1,56 @@
+[
+  {
+    "high_fraction": 0.13953488372093023,
+    "included": false,
+    "mean_score": 6.320214669051879,
+    "participants": 119,
+    "responses": 561,
+    "survey": "Endday",
+    "valid_scores": 559
+  },
+  {
+    "high_fraction": 0.14005876591576885,
+    "included": false,
+    "mean_score": 6.404505386875612,
+    "participants": 122,
+    "responses": 1033,
+    "survey": "Midday",
+    "valid_scores": 1021
+  },
+  {
+    "high_fraction": 0.17374005305039789,
+    "included": false,
+    "mean_score": 6.724137931034483,
+    "participants": 125,
+    "responses": 757,
+    "survey": "Morning",
+    "valid_scores": 754
+  },
+  {
+    "high_fraction": 0.10187667560321716,
+    "included": true,
+    "mean_score": 6.222520107238606,
+    "participants": 97,
+    "responses": 373,
+    "survey": "Endday",
+    "valid_scores": 373
+  },
+  {
+    "high_fraction": 0.12298136645962733,
+    "included": true,
+    "mean_score": 6.267080745341615,
+    "participants": 111,
+    "responses": 805,
+    "survey": "Midday",
+    "valid_scores": 805
+  },
+  {
+    "high_fraction": 0.14689265536723164,
+    "included": true,
+    "mean_score": 6.367231638418079,
+    "participants": 73,
+    "responses": 177,
+    "survey": "Morning",
+    "valid_scores": 177
+  }
+]

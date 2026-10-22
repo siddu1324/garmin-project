@@ -1,0 +1,15 @@
+{
+  "version": "20-v1",
+  "feature_bundle": "private/comprehensive_features/features/eecf1da995c39b27",
+  "normalized_bundle": "private/preprocessing/normalized/31e51c934bcdeffa",
+  "ledger_bundle": "private/hr_activity/features/76f5885b3955d5b0",
+  "classification_run": "private/comprehensive_features/models/818ddc22d6f28fdc",
+  "binary_run": "private/binary_6hour/runs/11442e75c7e434aa",
+  "regression_run": "private/comprehensive_regression/runs/4e769e522b239f43",
+  "classification_report": "reports/comprehensive_features/818ddc22d6f28fdc",
+  "binary_report": "reports/binary_6hour/11442e75c7e434aa",
+  "regression_report": "reports/comprehensive_regression/4e769e522b239f43",
+  "sample_responses_per_fold": 2,
+  "run_new_searches": false,
+  "include_provisional_in_primary": false
+}

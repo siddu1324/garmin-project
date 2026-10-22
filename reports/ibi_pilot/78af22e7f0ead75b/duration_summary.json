@@ -1,0 +1,98 @@
+[
+  {
+    "count": 10,
+    "maximum": 285.3941819667816,
+    "measure": "timestamp_span_seconds",
+    "median": 264.18202900886536,
+    "minimum": 253.2451150417328,
+    "scenario": "interval_end"
+  },
+  {
+    "count": 10,
+    "maximum": 272.59878158569336,
+    "measure": "supported_seconds",
+    "median": 255.16101229190826,
+    "minimum": 241.82028770446777,
+    "scenario": "interval_end"
+  },
+  {
+    "count": 10,
+    "maximum": 464.0,
+    "measure": "interval_count",
+    "median": 378.5,
+    "minimum": 321.0,
+    "scenario": "interval_end"
+  },
+  {
+    "count": 10,
+    "maximum": 463.0,
+    "measure": "allowed_pair_count",
+    "median": 377.5,
+    "minimum": 320.0,
+    "scenario": "interval_end"
+  },
+  {
+    "count": 10,
+    "maximum": 63005.06100010872,
+    "measure": "age_last_timestamp_seconds",
+    "median": 44280.436512470245,
+    "minimum": 312.743173122406,
+    "scenario": "interval_end"
+  },
+  {
+    "count": 10,
+    "maximum": 63005.06100010872,
+    "measure": "age_support_end_seconds",
+    "median": 44280.436512470245,
+    "minimum": 312.743173122406,
+    "scenario": "interval_end"
+  },
+  {
+    "count": 10,
+    "maximum": 272.5843930244446,
+    "measure": "timestamp_span_seconds",
+    "median": 259.0695196390152,
+    "minimum": 250.9333918094635,
+    "scenario": "interval_start"
+  },
+  {
+    "count": 10,
+    "maximum": 264.0865089893341,
+    "measure": "supported_seconds",
+    "median": 250.40173721313477,
+    "minimum": 241.15063643455505,
+    "scenario": "interval_start"
+  },
+  {
+    "count": 10,
+    "maximum": 445.0,
+    "measure": "interval_count",
+    "median": 361.5,
+    "minimum": 307.0,
+    "scenario": "interval_start"
+  },
+  {
+    "count": 10,
+    "maximum": 444.0,
+    "measure": "allowed_pair_count",
+    "median": 360.5,
+    "minimum": 306.0,
+    "scenario": "interval_start"
+  },
+  {
+    "count": 10,
+    "maximum": 75361.265625,
+    "measure": "age_last_timestamp_seconds",
+    "median": 40172.569526553154,
+    "minimum": 323.8743028640747,
+    "scenario": "interval_start"
+  },
+  {
+    "count": 10,
+    "maximum": 75360.62462496758,
+    "measure": "age_support_end_seconds",
+    "median": 40171.87502658367,
+    "minimum": 323.3023028373718,
+    "scenario": "interval_start"
+  }
+]

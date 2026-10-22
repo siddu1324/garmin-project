@@ -1,0 +1,87 @@
+[
+  {
+    "feature": "hr__mean__60m",
+    "status": "available_saved_observed_feature"
+  },
+  {
+    "feature": "hr__sd__60m",
+    "status": "available_saved_observed_feature"
+  },
+  {
+    "feature": "hr__latest__60m",
+    "status": "available_saved_observed_feature"
+  },
+  {
+    "feature": "hr__slope__60m",
+    "status": "available_saved_observed_feature"
+  },
+  {
+    "feature": "steps__supported_rate__60m",
+    "status": "available_saved_observed_feature"
+  },
+  {
+    "feature": "reference_mean_bpm",
+    "status": "available_saved_observed_feature"
+  },
+  {
+    "feature": "hr_mean_deviation_bpm",
+    "status": "available_saved_observed_feature"
+  },
+  {
+    "feature": "hr_latest_deviation_bpm",
+    "status": "available_saved_observed_feature"
+  },
+  {
+    "feature": "hr__observed_minute_sd__60m",
+    "status": "available_saved_observed_feature"
+  },
+  {
+    "feature": "hr__half_mean_change__60m",
+    "status": "available_saved_observed_feature"
+  },
+  {
+    "feature": "multiscale__adjacent_mean_difference__60m",
+    "status": "available_saved_observed_feature"
+  },
+  {
+    "feature": "interaction__hr_zero_step_mean__60m",
+    "status": "available_saved_observed_feature"
+  },
+  {
+    "feature": "clock_reference_mean",
+    "status": "new_cached_ledger_summary_provisional_clock"
+  },
+  {
+    "feature": "clock_mean_deviation",
+    "status": "new_cached_ledger_summary_provisional_clock"
+  },
+  {
+    "feature": "step_block_rate_change",
+    "status": "new_cached_ledger_summary_provisional_clock"
+  },
+  {
+    "feature": "EMA history/online personalization",
+    "reason": "No verified answer availability timestamp",
+    "status": "blocked"
+  },
+  {
+    "feature": "Sleep duration/fragmentation",
+    "reason": "No validated sleep stream; current Morning answers unavailable before cutoff",
+    "status": "blocked"
+  },
+  {
+    "feature": "IBI HRV",
+    "reason": "Unresolved interval acquisition/anchoring/quality",
+    "status": "blocked"
+  },
+  {
+    "feature": "Respiration/PulseOx",
+    "reason": "Unsupported stream / provisional measurement quality",
+    "status": "blocked"
+  },
+  {
+    "feature": "Prior-prompt recall windows",
+    "reason": "No full delivered-prompt log",
+    "status": "blocked"
+  }
+]

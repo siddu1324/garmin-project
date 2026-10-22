@@ -1,0 +1,182 @@
+[
+  {
+    "cohort": "all",
+    "group": "retained",
+    "mean_score": 6.281115879828326,
+    "median_score": 6.0,
+    "participants": 124,
+    "responses": 932,
+    "survey": "Endday",
+    "valid_outcomes": 932
+  },
+  {
+    "cohort": "all",
+    "group": "retained",
+    "mean_score": 6.343921139101862,
+    "median_score": 6.0,
+    "participants": 125,
+    "responses": 1826,
+    "survey": "Midday",
+    "valid_outcomes": 1826
+  },
+  {
+    "cohort": "all",
+    "group": "retained",
+    "mean_score": 6.656283566058002,
+    "median_score": 7.0,
+    "participants": 125,
+    "responses": 931,
+    "survey": "Morning",
+    "valid_outcomes": 931
+  },
+  {
+    "cohort": "all",
+    "group": "excluded",
+    "mean_score": null,
+    "median_score": null,
+    "participants": 2,
+    "responses": 2,
+    "survey": "Endday",
+    "valid_outcomes": 0
+  },
+  {
+    "cohort": "all",
+    "group": "excluded",
+    "mean_score": null,
+    "median_score": null,
+    "participants": 11,
+    "responses": 12,
+    "survey": "Midday",
+    "valid_outcomes": 0
+  },
+  {
+    "cohort": "all",
+    "group": "excluded",
+    "mean_score": null,
+    "median_score": null,
+    "participants": 3,
+    "responses": 3,
+    "survey": "Morning",
+    "valid_outcomes": 0
+  },
+  {
+    "cohort": "observed",
+    "group": "retained",
+    "mean_score": 6.209677419354839,
+    "median_score": 6.0,
+    "participants": 97,
+    "responses": 372,
+    "survey": "Endday",
+    "valid_outcomes": 372
+  },
+  {
+    "cohort": "observed",
+    "group": "retained",
+    "mean_score": 6.274683544303797,
+    "median_score": 6.0,
+    "participants": 110,
+    "responses": 790,
+    "survey": "Midday",
+    "valid_outcomes": 790
+  },
+  {
+    "cohort": "observed",
+    "group": "retained",
+    "mean_score": 6.273333333333333,
+    "median_score": 6.0,
+    "participants": 65,
+    "responses": 150,
+    "survey": "Morning",
+    "valid_outcomes": 150
+  },
+  {
+    "cohort": "observed",
+    "group": "excluded",
+    "mean_score": 6.328571428571428,
+    "median_score": 6.0,
+    "participants": 119,
+    "responses": 562,
+    "survey": "Endday",
+    "valid_outcomes": 560
+  },
+  {
+    "cohort": "observed",
+    "group": "excluded",
+    "mean_score": 6.396718146718147,
+    "median_score": 6.0,
+    "participants": 122,
+    "responses": 1048,
+    "survey": "Midday",
+    "valid_outcomes": 1036
+  },
+  {
+    "cohort": "observed",
+    "group": "excluded",
+    "mean_score": 6.729833546734955,
+    "median_score": 7.0,
+    "participants": 125,
+    "responses": 784,
+    "survey": "Morning",
+    "valid_outcomes": 781
+  },
+  {
+    "cohort": "supported",
+    "group": "retained",
+    "mean_score": 6.296529968454259,
+    "median_score": 6.0,
+    "participants": 84,
+    "responses": 317,
+    "survey": "Endday",
+    "valid_outcomes": 317
+  },
+  {
+    "cohort": "supported",
+    "group": "retained",
+    "mean_score": 6.379603399433428,
+    "median_score": 6.0,
+    "participants": 98,
+    "responses": 706,
+    "survey": "Midday",
+    "valid_outcomes": 706
+  },
+  {
+    "cohort": "supported",
+    "group": "retained",
+    "mean_score": 6.271739130434782,
+    "median_score": 6.0,
+    "participants": 43,
+    "responses": 92,
+    "survey": "Morning",
+    "valid_outcomes": 92
+  },
+  {
+    "cohort": "supported",
+    "group": "excluded",
+    "mean_score": 6.273170731707317,
+    "median_score": 6.0,
+    "participants": 120,
+    "responses": 617,
+    "survey": "Endday",
+    "valid_outcomes": 615
+  },
+  {
+    "cohort": "supported",
+    "group": "excluded",
+    "mean_score": 6.321428571428571,
+    "median_score": 6.0,
+    "participants": 123,
+    "responses": 1132,
+    "survey": "Midday",
+    "valid_outcomes": 1120
+  },
+  {
+    "cohort": "supported",
+    "group": "excluded",
+    "mean_score": 6.698450536352801,
+    "median_score": 7.0,
+    "participants": 125,
+    "responses": 842,
+    "survey": "Morning",
+    "valid_outcomes": 839
+  }
+]

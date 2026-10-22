@@ -1,0 +1,22 @@
+{
+  "estimator_replays": 490,
+  "failed_jobs": 0,
+  "feature_bundle": "verified unchanged",
+  "final_test_evaluated": false,
+  "frozen_assignments": "verified unchanged",
+  "independent_fresh_fits": 14,
+  "inner_membership_checks": 1470,
+  "intentional_existing_change": "Notebook 14 aggregate-output privacy authorization only",
+  "legacy_fixed_ridge_replays": 4,
+  "legacy_max_prediction_error": 2.4868995751603507e-14,
+  "max_prediction_replay_error": 0.0,
+  "nonconverged_candidates": 0,
+  "notebook13_seal": "unchanged",
+  "prior_files_preserved": 682,
+  "prior_private_manifests_preserved": 597,
+  "raw_contents_reread": false,
+  "raw_reference_metadata_checks": 7870,
+  "ruff": "passed",
+  "tests_passed": 190,
+  "tuning_candidates": 2930
+}

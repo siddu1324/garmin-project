@@ -1,0 +1,18 @@
+{
+  "ambiguous_starts": 0,
+  "candidate_availability_fields": [],
+  "clock_checks": 3706,
+  "decrease_at_least_two": 778,
+  "increase_at_least_two": 753,
+  "lag1_correlation": 0.5843885841538319,
+  "median_gap_hours": 4.110555555555555,
+  "participants": 125,
+  "potential_calibratable_people": 125,
+  "potential_later_responses": 3064,
+  "retrospective_pairs": 3564,
+  "retrospective_person_centered_lag1": 0.22134598708962944,
+  "source_schema_sha256": "d617c71a9a531feaefab20bd1dd9d27ed39bffdab78af1dab5a6c29fa24fd062",
+  "unavailable_reason": "No explicit completion/submission or answer-receipt timestamp",
+  "verified_history_responses": 0,
+  "verified_taskB_responses": 0
+}

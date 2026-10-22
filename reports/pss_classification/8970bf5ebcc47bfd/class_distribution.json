@@ -1,0 +1,282 @@
+[
+  {
+    "label": 0,
+    "participants": 91,
+    "responses": 1033,
+    "survey_category": "All",
+    "task": "three_class"
+  },
+  {
+    "label": 1,
+    "participants": 123,
+    "responses": 2141,
+    "survey_category": "All",
+    "task": "three_class"
+  },
+  {
+    "label": 2,
+    "participants": 94,
+    "responses": 515,
+    "survey_category": "All",
+    "task": "three_class"
+  },
+  {
+    "label": "missing",
+    "participants": 14,
+    "responses": 17,
+    "survey_category": "All",
+    "task": "three_class"
+  },
+  {
+    "label": 0,
+    "participants": 75,
+    "responses": 274,
+    "survey_category": "Endday",
+    "task": "three_class"
+  },
+  {
+    "label": 1,
+    "participants": 116,
+    "responses": 542,
+    "survey_category": "Endday",
+    "task": "three_class"
+  },
+  {
+    "label": 2,
+    "participants": 57,
+    "responses": 116,
+    "survey_category": "Endday",
+    "task": "three_class"
+  },
+  {
+    "label": "missing",
+    "participants": 2,
+    "responses": 2,
+    "survey_category": "Endday",
+    "task": "three_class"
+  },
+  {
+    "label": 0,
+    "participants": 88,
+    "responses": 532,
+    "survey_category": "Midday",
+    "task": "three_class"
+  },
+  {
+    "label": 1,
+    "participants": 121,
+    "responses": 1052,
+    "survey_category": "Midday",
+    "task": "three_class"
+  },
+  {
+    "label": 2,
+    "participants": 81,
+    "responses": 242,
+    "survey_category": "Midday",
+    "task": "three_class"
+  },
+  {
+    "label": "missing",
+    "participants": 11,
+    "responses": 12,
+    "survey_category": "Midday",
+    "task": "three_class"
+  },
+  {
+    "label": 0,
+    "participants": 68,
+    "responses": 227,
+    "survey_category": "Morning",
+    "task": "three_class"
+  },
+  {
+    "label": 1,
+    "participants": 118,
+    "responses": 547,
+    "survey_category": "Morning",
+    "task": "three_class"
+  },
+  {
+    "label": 2,
+    "participants": 70,
+    "responses": 157,
+    "survey_category": "Morning",
+    "task": "three_class"
+  },
+  {
+    "label": "missing",
+    "participants": 3,
+    "responses": 3,
+    "survey_category": "Morning",
+    "task": "three_class"
+  },
+  {
+    "label": 0,
+    "participants": 91,
+    "responses": 1033,
+    "survey_category": "All",
+    "task": "at_least_5"
+  },
+  {
+    "label": 1,
+    "participants": 123,
+    "responses": 2656,
+    "survey_category": "All",
+    "task": "at_least_5"
+  },
+  {
+    "label": "missing",
+    "participants": 14,
+    "responses": 17,
+    "survey_category": "All",
+    "task": "at_least_5"
+  },
+  {
+    "label": 0,
+    "participants": 75,
+    "responses": 274,
+    "survey_category": "Endday",
+    "task": "at_least_5"
+  },
+  {
+    "label": 1,
+    "participants": 118,
+    "responses": 658,
+    "survey_category": "Endday",
+    "task": "at_least_5"
+  },
+  {
+    "label": "missing",
+    "participants": 2,
+    "responses": 2,
+    "survey_category": "Endday",
+    "task": "at_least_5"
+  },
+  {
+    "label": 0,
+    "participants": 88,
+    "responses": 532,
+    "survey_category": "Midday",
+    "task": "at_least_5"
+  },
+  {
+    "label": 1,
+    "participants": 122,
+    "responses": 1294,
+    "survey_category": "Midday",
+    "task": "at_least_5"
+  },
+  {
+    "label": "missing",
+    "participants": 11,
+    "responses": 12,
+    "survey_category": "Midday",
+    "task": "at_least_5"
+  },
+  {
+    "label": 0,
+    "participants": 68,
+    "responses": 227,
+    "survey_category": "Morning",
+    "task": "at_least_5"
+  },
+  {
+    "label": 1,
+    "participants": 119,
+    "responses": 704,
+    "survey_category": "Morning",
+    "task": "at_least_5"
+  },
+  {
+    "label": "missing",
+    "participants": 3,
+    "responses": 3,
+    "survey_category": "Morning",
+    "task": "at_least_5"
+  },
+  {
+    "label": 0,
+    "participants": 125,
+    "responses": 3174,
+    "survey_category": "All",
+    "task": "at_least_10"
+  },
+  {
+    "label": 1,
+    "participants": 94,
+    "responses": 515,
+    "survey_category": "All",
+    "task": "at_least_10"
+  },
+  {
+    "label": "missing",
+    "participants": 14,
+    "responses": 17,
+    "survey_category": "All",
+    "task": "at_least_10"
+  },
+  {
+    "label": 0,
+    "participants": 123,
+    "responses": 816,
+    "survey_category": "Endday",
+    "task": "at_least_10"
+  },
+  {
+    "label": 1,
+    "participants": 57,
+    "responses": 116,
+    "survey_category": "Endday",
+    "task": "at_least_10"
+  },
+  {
+    "label": "missing",
+    "participants": 2,
+    "responses": 2,
+    "survey_category": "Endday",
+    "task": "at_least_10"
+  },
+  {
+    "label": 0,
+    "participants": 124,
+    "responses": 1584,
+    "survey_category": "Midday",
+    "task": "at_least_10"
+  },
+  {
+    "label": 1,
+    "participants": 81,
+    "responses": 242,
+    "survey_category": "Midday",
+    "task": "at_least_10"
+  },
+  {
+    "label": "missing",
+    "participants": 11,
+    "responses": 12,
+    "survey_category": "Midday",
+    "task": "at_least_10"
+  },
+  {
+    "label": 0,
+    "participants": 124,
+    "responses": 774,
+    "survey_category": "Morning",
+    "task": "at_least_10"
+  },
+  {
+    "label": 1,
+    "participants": 70,
+    "responses": 157,
+    "survey_category": "Morning",
+    "task": "at_least_10"
+  },
+  {
+    "label": "missing",
+    "participants": 3,
+    "responses": 3,
+    "survey_category": "Morning",
+    "task": "at_least_10"
+  }
+]

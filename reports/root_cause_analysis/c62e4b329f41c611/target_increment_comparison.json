@@ -1,0 +1,50 @@
+[
+  {
+    "comparison": "nervous HR increment minus target_composite5 HR increment",
+    "difference_ap_high": 0.07226739689349126,
+    "difference_ap_low": -0.01635949679894188,
+    "difference_ap_valid_draws": 2000,
+    "difference_auroc_high": 0.1069324692515565,
+    "difference_auroc_low": -0.013024857491684375,
+    "difference_auroc_valid_draws": 2000,
+    "difference_balanced_accuracy_high": 0.0,
+    "difference_balanced_accuracy_low": 0.0,
+    "difference_balanced_accuracy_valid_draws": 2000
+  },
+  {
+    "comparison": "nervous HR increment minus target_composite10 HR increment",
+    "difference_ap_high": 0.029860170283505873,
+    "difference_ap_low": -0.026689666964930275,
+    "difference_ap_valid_draws": 2000,
+    "difference_auroc_high": 0.06006193621726526,
+    "difference_auroc_low": -0.05558575194051909,
+    "difference_auroc_valid_draws": 2000,
+    "difference_balanced_accuracy_high": 0.0,
+    "difference_balanced_accuracy_low": 0.0,
+    "difference_balanced_accuracy_valid_draws": 2000
+  },
+  {
+    "comparison": "nervous HR increment minus target_cope_difficulty HR increment",
+    "difference_ap_high": 0.03085002489034883,
+    "difference_ap_low": -0.04441163104259948,
+    "difference_ap_valid_draws": 2000,
+    "difference_auroc_high": 0.06012358414574495,
+    "difference_auroc_low": -0.05005692179526097,
+    "difference_auroc_valid_draws": 2000,
+    "difference_balanced_accuracy_high": 0.0,
+    "difference_balanced_accuracy_low": 0.0,
+    "difference_balanced_accuracy_valid_draws": 2000
+  },
+  {
+    "comparison": "nervous HR increment minus target_control_difficulty HR increment",
+    "difference_ap_high": 0.040154443968263356,
+    "difference_ap_low": -0.03938394738443717,
+    "difference_ap_valid_draws": 2000,
+    "difference_auroc_high": 0.06433422656043167,
+    "difference_auroc_low": -0.04947984418963573,
+    "difference_auroc_valid_draws": 2000,
+    "difference_balanced_accuracy_high": 0.002451958846779805,
+    "difference_balanced_accuracy_low": -0.025384200884056213,
+    "difference_balanced_accuracy_valid_draws": 2000
+  }
+]

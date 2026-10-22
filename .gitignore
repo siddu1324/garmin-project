@@ -21,7 +21,6 @@
 # Local configuration, credentials, environments, and notebook execution state
 .env
 .env.*
-!.env.example
 /config.local.*
 /local_config.*
 .venv/
@@ -33,3 +32,43 @@ __pycache__/
 *.egg-info/
 /build/
 /dist/
+
+# Local caches and redundant source packaging (canonical code is in src/)
+.ruff_cache/
+/reports/complete_pipeline_review/garmin_complete_pipeline_source/
+/config/*.local.*
+/config/local.*
+/config/*credentials*
+
+# Individually reviewed aggregate tables; all other CSVs stay ignored
+!/reports/central_research_overview/actual_model_inputs_by_fold.csv
+!/reports/central_research_overview/complete_feature_inventory.csv
+!/reports/central_research_overview/missingness_lookback.csv
+!/reports/central_research_overview/missingness_modality.csv
+!/reports/central_research_overview/sensor_inventory.csv
+!/reports/complete_pipeline_review/classification_metrics.csv
+!/reports/complete_pipeline_review/dataset_shapes.csv
+!/reports/complete_pipeline_review/encoded.csv
+!/reports/complete_pipeline_review/feature_availability.csv
+!/reports/complete_pipeline_review/feature_counts.csv
+!/reports/complete_pipeline_review/feature_dictionary.csv
+!/reports/complete_pipeline_review/feature_trace_checks.csv
+!/reports/complete_pipeline_review/mapping.csv
+!/reports/complete_pipeline_review/per_class.csv
+!/reports/complete_pipeline_review/regression_metrics.csv
+!/reports/complete_pipeline_review/regression_score_bands.csv
+!/reports/complete_pipeline_review/settings.csv
+!/reports/complete_pipeline_review/support.csv
+!/reports/complete_pipeline_review/transforms.csv
+!/reports/measurement_alignment/3e1a43c69190c41a/coverage.csv
+!/reports/measurement_alignment/3e1a43c69190c41a/delay_histogram.csv
+!/reports/measurement_alignment/3e1a43c69190c41a/participant_coverage.csv
+!/reports/measurement_alignment/3e1a43c69190c41a/timing_sensitivity.csv
+!/reports/measurement_alignment/6d247a913873546d/coverage.csv
+!/reports/measurement_alignment/6d247a913873546d/delay_histogram.csv
+!/reports/measurement_alignment/6d247a913873546d/participant_coverage.csv
+!/reports/measurement_alignment/e5359ea4cc4b4efa/coverage.csv
+!/reports/measurement_alignment/e5359ea4cc4b4efa/delay_histogram.csv
+!/reports/measurement_alignment/e5359ea4cc4b4efa/participant_coverage.csv
+!/reports/measurement_alignment/e5359ea4cc4b4efa/sensor_field_availability.csv
+!/reports/measurement_alignment/e5359ea4cc4b4efa/timing_sensitivity.csv

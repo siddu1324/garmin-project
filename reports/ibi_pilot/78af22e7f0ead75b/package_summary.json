@@ -1,0 +1,38 @@
+[
+  {
+    "backend": "heartpy",
+    "blocked": 0,
+    "blocked_reasons": {},
+    "compared": 10,
+    "maximum_absolute_error": 2.1316282072803006e-14,
+    "scenario": "interval_end"
+  },
+  {
+    "backend": "neurokit2",
+    "blocked": 10,
+    "blocked_reasons": {
+      "native_10ms_pair_set_incompatible": 10
+    },
+    "compared": 0,
+    "maximum_absolute_error": null,
+    "scenario": "interval_end"
+  },
+  {
+    "backend": "heartpy",
+    "blocked": 0,
+    "blocked_reasons": {},
+    "compared": 10,
+    "maximum_absolute_error": 2.1316282072803006e-14,
+    "scenario": "interval_start"
+  },
+  {
+    "backend": "neurokit2",
+    "blocked": 10,
+    "blocked_reasons": {
+      "interval_start_not_native_end_semantics": 10
+    },
+    "compared": 0,
+    "maximum_absolute_error": null,
+    "scenario": "interval_start"
+  }
+]

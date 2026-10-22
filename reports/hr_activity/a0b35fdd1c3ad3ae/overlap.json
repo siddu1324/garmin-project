@@ -1,0 +1,322 @@
+[
+  {
+    "activity_only_ema": 18,
+    "ema_denominator": 3706,
+    "hr_and_activity_ema": 648,
+    "hr_only_ema": 838,
+    "lookback_minutes": 5,
+    "neither_ema": 2202,
+    "participants_with_both": 105,
+    "survey_category": "All"
+  },
+  {
+    "activity_only_ema": 7,
+    "ema_denominator": 934,
+    "hr_and_activity_ema": 82,
+    "hr_only_ema": 126,
+    "lookback_minutes": 5,
+    "neither_ema": 719,
+    "participants_with_both": 48,
+    "survey_category": "Morning"
+  },
+  {
+    "activity_only_ema": 6,
+    "ema_denominator": 1838,
+    "hr_and_activity_ema": 423,
+    "hr_only_ema": 481,
+    "lookback_minutes": 5,
+    "neither_ema": 928,
+    "participants_with_both": 101,
+    "survey_category": "Midday"
+  },
+  {
+    "activity_only_ema": 5,
+    "ema_denominator": 934,
+    "hr_and_activity_ema": 143,
+    "hr_only_ema": 231,
+    "lookback_minutes": 5,
+    "neither_ema": 555,
+    "participants_with_both": 69,
+    "survey_category": "Endday"
+  },
+  {
+    "activity_only_ema": 20,
+    "ema_denominator": 3706,
+    "hr_and_activity_ema": 945,
+    "hr_only_ema": 597,
+    "lookback_minutes": 15,
+    "neither_ema": 2144,
+    "participants_with_both": 112,
+    "survey_category": "All"
+  },
+  {
+    "activity_only_ema": 4,
+    "ema_denominator": 934,
+    "hr_and_activity_ema": 131,
+    "hr_only_ema": 92,
+    "lookback_minutes": 15,
+    "neither_ema": 707,
+    "participants_with_both": 63,
+    "survey_category": "Morning"
+  },
+  {
+    "activity_only_ema": 10,
+    "ema_denominator": 1838,
+    "hr_and_activity_ema": 584,
+    "hr_only_ema": 346,
+    "lookback_minutes": 15,
+    "neither_ema": 898,
+    "participants_with_both": 107,
+    "survey_category": "Midday"
+  },
+  {
+    "activity_only_ema": 6,
+    "ema_denominator": 934,
+    "hr_and_activity_ema": 230,
+    "hr_only_ema": 159,
+    "lookback_minutes": 15,
+    "neither_ema": 539,
+    "participants_with_both": 78,
+    "survey_category": "Endday"
+  },
+  {
+    "activity_only_ema": 25,
+    "ema_denominator": 3706,
+    "hr_and_activity_ema": 1172,
+    "hr_only_ema": 426,
+    "lookback_minutes": 30,
+    "neither_ema": 2083,
+    "participants_with_both": 113,
+    "survey_category": "All"
+  },
+  {
+    "activity_only_ema": 7,
+    "ema_denominator": 934,
+    "hr_and_activity_ema": 163,
+    "hr_only_ema": 68,
+    "lookback_minutes": 30,
+    "neither_ema": 696,
+    "participants_with_both": 71,
+    "survey_category": "Morning"
+  },
+  {
+    "activity_only_ema": 8,
+    "ema_denominator": 1838,
+    "hr_and_activity_ema": 705,
+    "hr_only_ema": 251,
+    "lookback_minutes": 30,
+    "neither_ema": 874,
+    "participants_with_both": 110,
+    "survey_category": "Midday"
+  },
+  {
+    "activity_only_ema": 10,
+    "ema_denominator": 934,
+    "hr_and_activity_ema": 304,
+    "hr_only_ema": 107,
+    "lookback_minutes": 30,
+    "neither_ema": 513,
+    "participants_with_both": 89,
+    "survey_category": "Endday"
+  },
+  {
+    "activity_only_ema": 30,
+    "ema_denominator": 3706,
+    "hr_and_activity_ema": 1381,
+    "hr_only_ema": 333,
+    "lookback_minutes": 60,
+    "neither_ema": 1962,
+    "participants_with_both": 113,
+    "survey_category": "All"
+  },
+  {
+    "activity_only_ema": 13,
+    "ema_denominator": 934,
+    "hr_and_activity_ema": 183,
+    "hr_only_ema": 64,
+    "lookback_minutes": 60,
+    "neither_ema": 674,
+    "participants_with_both": 75,
+    "survey_category": "Morning"
+  },
+  {
+    "activity_only_ema": 9,
+    "ema_denominator": 1838,
+    "hr_and_activity_ema": 822,
+    "hr_only_ema": 194,
+    "lookback_minutes": 60,
+    "neither_ema": 813,
+    "participants_with_both": 111,
+    "survey_category": "Midday"
+  },
+  {
+    "activity_only_ema": 8,
+    "ema_denominator": 934,
+    "hr_and_activity_ema": 376,
+    "hr_only_ema": 75,
+    "lookback_minutes": 60,
+    "neither_ema": 475,
+    "participants_with_both": 97,
+    "survey_category": "Endday"
+  },
+  {
+    "activity_only_ema": 37,
+    "ema_denominator": 3706,
+    "hr_and_activity_ema": 1611,
+    "hr_only_ema": 273,
+    "lookback_minutes": 120,
+    "neither_ema": 1785,
+    "participants_with_both": 118,
+    "survey_category": "All"
+  },
+  {
+    "activity_only_ema": 15,
+    "ema_denominator": 934,
+    "hr_and_activity_ema": 196,
+    "hr_only_ema": 59,
+    "lookback_minutes": 120,
+    "neither_ema": 664,
+    "participants_with_both": 76,
+    "survey_category": "Morning"
+  },
+  {
+    "activity_only_ema": 12,
+    "ema_denominator": 1838,
+    "hr_and_activity_ema": 970,
+    "hr_only_ema": 152,
+    "lookback_minutes": 120,
+    "neither_ema": 704,
+    "participants_with_both": 116,
+    "survey_category": "Midday"
+  },
+  {
+    "activity_only_ema": 10,
+    "ema_denominator": 934,
+    "hr_and_activity_ema": 445,
+    "hr_only_ema": 62,
+    "lookback_minutes": 120,
+    "neither_ema": 417,
+    "participants_with_both": 103,
+    "survey_category": "Endday"
+  },
+  {
+    "activity_only_ema": 47,
+    "ema_denominator": 3706,
+    "hr_and_activity_ema": 2294,
+    "hr_only_ema": 396,
+    "lookback_minutes": 360,
+    "neither_ema": 969,
+    "participants_with_both": 123,
+    "survey_category": "All"
+  },
+  {
+    "activity_only_ema": 19,
+    "ema_denominator": 934,
+    "hr_and_activity_ema": 210,
+    "hr_only_ema": 54,
+    "lookback_minutes": 360,
+    "neither_ema": 651,
+    "participants_with_both": 79,
+    "survey_category": "Morning"
+  },
+  {
+    "activity_only_ema": 19,
+    "ema_denominator": 1838,
+    "hr_and_activity_ema": 1372,
+    "hr_only_ema": 224,
+    "lookback_minutes": 360,
+    "neither_ema": 223,
+    "participants_with_both": 123,
+    "survey_category": "Midday"
+  },
+  {
+    "activity_only_ema": 9,
+    "ema_denominator": 934,
+    "hr_and_activity_ema": 712,
+    "hr_only_ema": 118,
+    "lookback_minutes": 360,
+    "neither_ema": 95,
+    "participants_with_both": 120,
+    "survey_category": "Endday"
+  },
+  {
+    "activity_only_ema": 51,
+    "ema_denominator": 3706,
+    "hr_and_activity_ema": 2711,
+    "hr_only_ema": 384,
+    "lookback_minutes": 720,
+    "neither_ema": 560,
+    "participants_with_both": 123,
+    "survey_category": "All"
+  },
+  {
+    "activity_only_ema": 25,
+    "ema_denominator": 934,
+    "hr_and_activity_ema": 489,
+    "hr_only_ema": 123,
+    "lookback_minutes": 720,
+    "neither_ema": 297,
+    "participants_with_both": 114,
+    "survey_category": "Morning"
+  },
+  {
+    "activity_only_ema": 18,
+    "ema_denominator": 1838,
+    "hr_and_activity_ema": 1429,
+    "hr_only_ema": 187,
+    "lookback_minutes": 720,
+    "neither_ema": 204,
+    "participants_with_both": 123,
+    "survey_category": "Midday"
+  },
+  {
+    "activity_only_ema": 8,
+    "ema_denominator": 934,
+    "hr_and_activity_ema": 793,
+    "hr_only_ema": 74,
+    "lookback_minutes": 720,
+    "neither_ema": 59,
+    "participants_with_both": 122,
+    "survey_category": "Endday"
+  },
+  {
+    "activity_only_ema": 65,
+    "ema_denominator": 3706,
+    "hr_and_activity_ema": 3230,
+    "hr_only_ema": 229,
+    "lookback_minutes": 1440,
+    "neither_ema": 182,
+    "participants_with_both": 123,
+    "survey_category": "All"
+  },
+  {
+    "activity_only_ema": 46,
+    "ema_denominator": 934,
+    "hr_and_activity_ema": 781,
+    "hr_only_ema": 51,
+    "lookback_minutes": 1440,
+    "neither_ema": 56,
+    "participants_with_both": 123,
+    "survey_category": "Morning"
+  },
+  {
+    "activity_only_ema": 10,
+    "ema_denominator": 1838,
+    "hr_and_activity_ema": 1626,
+    "hr_only_ema": 119,
+    "lookback_minutes": 1440,
+    "neither_ema": 83,
+    "participants_with_both": 123,
+    "survey_category": "Midday"
+  },
+  {
+    "activity_only_ema": 9,
+    "ema_denominator": 934,
+    "hr_and_activity_ema": 823,
+    "hr_only_ema": 59,
+    "lookback_minutes": 1440,
+    "neither_ema": 43,
+    "participants_with_both": 122,
+    "survey_category": "Endday"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "normalized_bundle": "private/preprocessing/normalized/31e51c934bcdeffa",
+  "feature_bundle": "private/hr_activity/features/76f5885b3955d5b0",
+  "lookbacks_minutes": [5, 15, 30, 60, 120, 360, 720, 1440],
+  "hr_features": ["hr_mean_bpm", "hr_sd_bpm", "hr_latest_bpm", "hr_slope_bpm_per_minute"],
+  "step_feature": "steps_added_supported",
+  "ridge_alpha": 1.0,
+  "ridge_solver": "svd",
+  "bootstrap_draws": 2000,
+  "bootstrap_seed": 20261002,
+  "minimum_training_participants": 2,
+  "minimum_training_responses": 2,
+  "common_descriptive_minimum_responses": 100,
+  "common_descriptive_minimum_participants": 30,
+  "common_descriptive_minimum_participants_per_fold": 5
+}

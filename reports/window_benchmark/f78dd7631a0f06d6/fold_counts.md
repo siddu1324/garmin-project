@@ -1,0 +1,12 @@
+| block | fold | status | training_participants | training_responses | validation_participants | validation_responses |
+| --- | --- | --- | --- | --- | --- | --- |
+| hr | 0 | fitted | 93 | 1262 | 25 | 372 |
+| hr | 1 | fitted | 95 | 1273 | 23 | 361 |
+| hr | 2 | fitted | 95 | 1320 | 23 | 314 |
+| hr | 3 | fitted | 95 | 1330 | 23 | 304 |
+| hr | 4 | fitted | 94 | 1351 | 24 | 283 |
+| hr_steps | 0 | fitted | 89 | 1048 | 24 | 307 |
+| hr_steps | 1 | fitted | 91 | 1075 | 22 | 280 |
+| hr_steps | 2 | fitted | 90 | 1066 | 23 | 289 |
+| hr_steps | 3 | fitted | 91 | 1090 | 22 | 265 |
+| hr_steps | 4 | fitted | 91 | 1141 | 22 | 214 |

@@ -1,0 +1,15 @@
+n_survey_category,delay_band,responses
+Endday,"(-inf, 0.0]",275
+Endday,"(0.0, 5.0]",203
+Endday,"(15.0, 60.0]",184
+Endday,"(5.0, 15.0]",145
+Endday,"(60.0, 360.0]",127
+Midday,"(0.0, 5.0]",751
+Midday,"(15.0, 60.0]",429
+Midday,"(5.0, 15.0]",449
+Midday,"(60.0, 360.0]",209
+Morning,"(-inf, 0.0]",200
+Morning,"(0.0, 5.0]",186
+Morning,"(15.0, 60.0]",246
+Morning,"(5.0, 15.0]",162
+Morning,"(60.0, 360.0]",140

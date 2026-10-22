@@ -1,0 +1,21 @@
+{
+  "all_ema_clock_checks": 3706,
+  "all_ema_score_checks": 3706,
+  "eight_window_feature_values": 320,
+  "final_test_values_parsed": 0,
+  "independent_window_boundaries": 5436,
+  "limits": "Bounded original sensor/answer trace plus all-development score and clock checks; not proof of acquisition semantics or exhaustive raw-row verification",
+  "new_confirmed_defects": [],
+  "normalized_ema_sha256": "d617c71a9a531feaefab20bd1dd9d27ed39bffdab78af1dab5a6c29fa24fd062",
+  "original_answer_rows": 6,
+  "original_sensor_trace": {
+    "development_sources_verified": 10,
+    "failures": 0,
+    "feature_values_verified": 320,
+    "final_test_sources_parsed": 0,
+    "sample_participants": 10,
+    "sample_responses": 10,
+    "unique_original_hr_rows_verified": 18153,
+    "window_views": 80
+  }
+}

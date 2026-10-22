@@ -1,0 +1,3842 @@
+[
+  {
+    "bin": 0,
+    "mean_probability": null,
+    "model": "activity",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 1,
+    "mean_probability": null,
+    "model": "activity",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 2,
+    "mean_probability": null,
+    "model": "activity",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "activity",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "activity",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 5,
+    "mean_probability": 0.5790984499024191,
+    "model": "activity",
+    "prevalence": 1.0,
+    "responses": 1,
+    "task": "A"
+  },
+  {
+    "bin": 6,
+    "mean_probability": 0.6893192347562193,
+    "model": "activity",
+    "prevalence": 0.7653374233128835,
+    "responses": 652,
+    "task": "A"
+  },
+  {
+    "bin": 7,
+    "mean_probability": 0.726762260225474,
+    "model": "activity",
+    "prevalence": 0.7110817941952506,
+    "responses": 3032,
+    "task": "A"
+  },
+  {
+    "bin": 8,
+    "mean_probability": 0.8065480267699432,
+    "model": "activity",
+    "prevalence": 0.0,
+    "responses": 1,
+    "task": "A"
+  },
+  {
+    "bin": 9,
+    "mean_probability": 0.9893268881639483,
+    "model": "activity",
+    "prevalence": 0.0,
+    "responses": 3,
+    "task": "A"
+  },
+  {
+    "bin": 0,
+    "mean_probability": null,
+    "model": "all_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 1,
+    "mean_probability": null,
+    "model": "all_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 2,
+    "mean_probability": null,
+    "model": "all_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "all_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "all_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 5,
+    "mean_probability": null,
+    "model": "all_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 6,
+    "mean_probability": 0.6964346349745333,
+    "model": "all_constant",
+    "prevalence": 0.8131720430107527,
+    "responses": 744,
+    "task": "A"
+  },
+  {
+    "bin": 7,
+    "mean_probability": 0.725700611100424,
+    "model": "all_constant",
+    "prevalence": 0.6964346349745331,
+    "responses": 2945,
+    "task": "A"
+  },
+  {
+    "bin": 8,
+    "mean_probability": null,
+    "model": "all_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "all_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 0,
+    "mean_probability": null,
+    "model": "context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 1,
+    "mean_probability": null,
+    "model": "context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 2,
+    "mean_probability": null,
+    "model": "context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 5,
+    "mean_probability": null,
+    "model": "context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 6,
+    "mean_probability": 0.6912969574710134,
+    "model": "context",
+    "prevalence": 0.7830188679245284,
+    "responses": 742,
+    "task": "A"
+  },
+  {
+    "bin": 7,
+    "mean_probability": 0.7267948254215025,
+    "model": "context",
+    "prevalence": 0.7042444821731749,
+    "responses": 2945,
+    "task": "A"
+  },
+  {
+    "bin": 8,
+    "mean_probability": 0.8057078206556343,
+    "model": "context",
+    "prevalence": 0.5,
+    "responses": 2,
+    "task": "A"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 0,
+    "mean_probability": null,
+    "model": "extended",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 1,
+    "mean_probability": null,
+    "model": "extended",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 2,
+    "mean_probability": null,
+    "model": "extended",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 3,
+    "mean_probability": 0.3291803211669839,
+    "model": "extended",
+    "prevalence": 1.0,
+    "responses": 1,
+    "task": "A"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "extended",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 5,
+    "mean_probability": 0.572465591807054,
+    "model": "extended",
+    "prevalence": 0.9090909090909091,
+    "responses": 11,
+    "task": "A"
+  },
+  {
+    "bin": 6,
+    "mean_probability": 0.6791185201266879,
+    "model": "extended",
+    "prevalence": 0.7418677859391396,
+    "responses": 953,
+    "task": "A"
+  },
+  {
+    "bin": 7,
+    "mean_probability": 0.7335627700597369,
+    "model": "extended",
+    "prevalence": 0.711574246371418,
+    "responses": 2687,
+    "task": "A"
+  },
+  {
+    "bin": 8,
+    "mean_probability": 0.8184332928375789,
+    "model": "extended",
+    "prevalence": 0.7647058823529411,
+    "responses": 34,
+    "task": "A"
+  },
+  {
+    "bin": 9,
+    "mean_probability": 0.9893804767265281,
+    "model": "extended",
+    "prevalence": 0.0,
+    "responses": 3,
+    "task": "A"
+  },
+  {
+    "bin": 0,
+    "mean_probability": null,
+    "model": "hgb_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 1,
+    "mean_probability": null,
+    "model": "hgb_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 2,
+    "mean_probability": null,
+    "model": "hgb_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "hgb_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "hgb_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 5,
+    "mean_probability": null,
+    "model": "hgb_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 6,
+    "mean_probability": 0.6903834675992402,
+    "model": "hgb_context",
+    "prevalence": 0.7942073170731707,
+    "responses": 656,
+    "task": "A"
+  },
+  {
+    "bin": 7,
+    "mean_probability": 0.726160847325214,
+    "model": "hgb_context",
+    "prevalence": 0.7039235080778108,
+    "responses": 3033,
+    "task": "A"
+  },
+  {
+    "bin": 8,
+    "mean_probability": null,
+    "model": "hgb_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "hgb_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 0,
+    "mean_probability": null,
+    "model": "hgb_personal",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 1,
+    "mean_probability": null,
+    "model": "hgb_personal",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 2,
+    "mean_probability": null,
+    "model": "hgb_personal",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "hgb_personal",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 4,
+    "mean_probability": 0.4501385254607482,
+    "model": "hgb_personal",
+    "prevalence": 1.0,
+    "responses": 1,
+    "task": "A"
+  },
+  {
+    "bin": 5,
+    "mean_probability": 0.5627476684695704,
+    "model": "hgb_personal",
+    "prevalence": 0.7777777777777778,
+    "responses": 18,
+    "task": "A"
+  },
+  {
+    "bin": 6,
+    "mean_probability": 0.6814223773086399,
+    "model": "hgb_personal",
+    "prevalence": 0.7986425339366516,
+    "responses": 884,
+    "task": "A"
+  },
+  {
+    "bin": 7,
+    "mean_probability": 0.7319142069467431,
+    "model": "hgb_personal",
+    "prevalence": 0.6921397379912664,
+    "responses": 2748,
+    "task": "A"
+  },
+  {
+    "bin": 8,
+    "mean_probability": 0.8143226568554699,
+    "model": "hgb_personal",
+    "prevalence": 0.8648648648648649,
+    "responses": 37,
+    "task": "A"
+  },
+  {
+    "bin": 9,
+    "mean_probability": 0.9039216820785504,
+    "model": "hgb_personal",
+    "prevalence": 1.0,
+    "responses": 1,
+    "task": "A"
+  },
+  {
+    "bin": 0,
+    "mean_probability": null,
+    "model": "hgb_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 1,
+    "mean_probability": null,
+    "model": "hgb_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 2,
+    "mean_probability": null,
+    "model": "hgb_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "hgb_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "hgb_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 5,
+    "mean_probability": 0.5883623668883136,
+    "model": "hgb_raw",
+    "prevalence": 0.8,
+    "responses": 5,
+    "task": "A"
+  },
+  {
+    "bin": 6,
+    "mean_probability": 0.6840951592678667,
+    "model": "hgb_raw",
+    "prevalence": 0.8028169014084507,
+    "responses": 710,
+    "task": "A"
+  },
+  {
+    "bin": 7,
+    "mean_probability": 0.7275201693496117,
+    "model": "hgb_raw",
+    "prevalence": 0.6998644986449865,
+    "responses": 2952,
+    "task": "A"
+  },
+  {
+    "bin": 8,
+    "mean_probability": 0.8140723523796676,
+    "model": "hgb_raw",
+    "prevalence": 0.7272727272727273,
+    "responses": 22,
+    "task": "A"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "hgb_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 0,
+    "mean_probability": null,
+    "model": "missingness",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 1,
+    "mean_probability": null,
+    "model": "missingness",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 2,
+    "mean_probability": null,
+    "model": "missingness",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "missingness",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 4,
+    "mean_probability": 0.48411354084190245,
+    "model": "missingness",
+    "prevalence": 0.75,
+    "responses": 4,
+    "task": "A"
+  },
+  {
+    "bin": 5,
+    "mean_probability": 0.5655479779018926,
+    "model": "missingness",
+    "prevalence": 0.5813953488372093,
+    "responses": 43,
+    "task": "A"
+  },
+  {
+    "bin": 6,
+    "mean_probability": 0.6758117687645175,
+    "model": "missingness",
+    "prevalence": 0.7656546489563567,
+    "responses": 1054,
+    "task": "A"
+  },
+  {
+    "bin": 7,
+    "mean_probability": 0.7343218950589985,
+    "model": "missingness",
+    "prevalence": 0.7050805452292441,
+    "responses": 2421,
+    "task": "A"
+  },
+  {
+    "bin": 8,
+    "mean_probability": 0.8214728764617018,
+    "model": "missingness",
+    "prevalence": 0.6809815950920245,
+    "responses": 163,
+    "task": "A"
+  },
+  {
+    "bin": 9,
+    "mean_probability": 0.9225228971222897,
+    "model": "missingness",
+    "prevalence": 0.75,
+    "responses": 4,
+    "task": "A"
+  },
+  {
+    "bin": 0,
+    "mean_probability": null,
+    "model": "observed_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 1,
+    "mean_probability": null,
+    "model": "observed_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 2,
+    "mean_probability": null,
+    "model": "observed_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "observed_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "observed_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 5,
+    "mean_probability": null,
+    "model": "observed_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 6,
+    "mean_probability": null,
+    "model": "observed_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 7,
+    "mean_probability": 0.7157746144887293,
+    "model": "observed_constant",
+    "prevalence": 0.7164634146341463,
+    "responses": 1312,
+    "task": "A"
+  },
+  {
+    "bin": 8,
+    "mean_probability": null,
+    "model": "observed_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "observed_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 0,
+    "mean_probability": null,
+    "model": "observed_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 1,
+    "mean_probability": null,
+    "model": "observed_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 2,
+    "mean_probability": null,
+    "model": "observed_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "observed_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "observed_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 5,
+    "mean_probability": 0.5848561597444412,
+    "model": "observed_context",
+    "prevalence": 1.0,
+    "responses": 1,
+    "task": "A"
+  },
+  {
+    "bin": 6,
+    "mean_probability": 0.6794819277348285,
+    "model": "observed_context",
+    "prevalence": 0.7122302158273381,
+    "responses": 278,
+    "task": "A"
+  },
+  {
+    "bin": 7,
+    "mean_probability": 0.7255153190098363,
+    "model": "observed_context",
+    "prevalence": 0.7173281703775412,
+    "responses": 1033,
+    "task": "A"
+  },
+  {
+    "bin": 8,
+    "mean_probability": null,
+    "model": "observed_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "observed_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 0,
+    "mean_probability": null,
+    "model": "observed_personal",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 1,
+    "mean_probability": null,
+    "model": "observed_personal",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 2,
+    "mean_probability": null,
+    "model": "observed_personal",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "observed_personal",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 4,
+    "mean_probability": 0.4863650063048961,
+    "model": "observed_personal",
+    "prevalence": 1.0,
+    "responses": 2,
+    "task": "A"
+  },
+  {
+    "bin": 5,
+    "mean_probability": 0.577295013349186,
+    "model": "observed_personal",
+    "prevalence": 0.8214285714285714,
+    "responses": 28,
+    "task": "A"
+  },
+  {
+    "bin": 6,
+    "mean_probability": 0.6703433465547193,
+    "model": "observed_personal",
+    "prevalence": 0.7919799498746867,
+    "responses": 399,
+    "task": "A"
+  },
+  {
+    "bin": 7,
+    "mean_probability": 0.7363717315407402,
+    "model": "observed_personal",
+    "prevalence": 0.6819277108433734,
+    "responses": 830,
+    "task": "A"
+  },
+  {
+    "bin": 8,
+    "mean_probability": 0.8205922795356233,
+    "model": "observed_personal",
+    "prevalence": 0.64,
+    "responses": 50,
+    "task": "A"
+  },
+  {
+    "bin": 9,
+    "mean_probability": 0.9646876028347503,
+    "model": "observed_personal",
+    "prevalence": 0.3333333333333333,
+    "responses": 3,
+    "task": "A"
+  },
+  {
+    "bin": 0,
+    "mean_probability": null,
+    "model": "observed_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 1,
+    "mean_probability": null,
+    "model": "observed_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 2,
+    "mean_probability": null,
+    "model": "observed_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "observed_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 4,
+    "mean_probability": 0.4871378216941158,
+    "model": "observed_raw",
+    "prevalence": 1.0,
+    "responses": 1,
+    "task": "A"
+  },
+  {
+    "bin": 5,
+    "mean_probability": 0.5771496516128555,
+    "model": "observed_raw",
+    "prevalence": 0.8461538461538461,
+    "responses": 13,
+    "task": "A"
+  },
+  {
+    "bin": 6,
+    "mean_probability": 0.6719177349803493,
+    "model": "observed_raw",
+    "prevalence": 0.7393617021276596,
+    "responses": 376,
+    "task": "A"
+  },
+  {
+    "bin": 7,
+    "mean_probability": 0.734088843450886,
+    "model": "observed_raw",
+    "prevalence": 0.703125,
+    "responses": 896,
+    "task": "A"
+  },
+  {
+    "bin": 8,
+    "mean_probability": 0.8198111195877595,
+    "model": "observed_raw",
+    "prevalence": 0.8260869565217391,
+    "responses": 23,
+    "task": "A"
+  },
+  {
+    "bin": 9,
+    "mean_probability": 0.9643623740785396,
+    "model": "observed_raw",
+    "prevalence": 0.3333333333333333,
+    "responses": 3,
+    "task": "A"
+  },
+  {
+    "bin": 0,
+    "mean_probability": null,
+    "model": "observed_reference",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 1,
+    "mean_probability": null,
+    "model": "observed_reference",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 2,
+    "mean_probability": null,
+    "model": "observed_reference",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "observed_reference",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "observed_reference",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 5,
+    "mean_probability": 0.5766653338393408,
+    "model": "observed_reference",
+    "prevalence": 0.9090909090909091,
+    "responses": 11,
+    "task": "A"
+  },
+  {
+    "bin": 6,
+    "mean_probability": 0.673277855544618,
+    "model": "observed_reference",
+    "prevalence": 0.7774390243902439,
+    "responses": 328,
+    "task": "A"
+  },
+  {
+    "bin": 7,
+    "mean_probability": 0.7302669382888667,
+    "model": "observed_reference",
+    "prevalence": 0.6939834024896265,
+    "responses": 964,
+    "task": "A"
+  },
+  {
+    "bin": 8,
+    "mean_probability": 0.8247390038527429,
+    "model": "observed_reference",
+    "prevalence": 0.6666666666666666,
+    "responses": 9,
+    "task": "A"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "observed_reference",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 0,
+    "mean_probability": null,
+    "model": "permuted_19",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 1,
+    "mean_probability": null,
+    "model": "permuted_19",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 2,
+    "mean_probability": 0.25945071691683463,
+    "model": "permuted_19",
+    "prevalence": 1.0,
+    "responses": 1,
+    "task": "A"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "permuted_19",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 4,
+    "mean_probability": 0.40900529687116377,
+    "model": "permuted_19",
+    "prevalence": 0.0,
+    "responses": 1,
+    "task": "A"
+  },
+  {
+    "bin": 5,
+    "mean_probability": 0.5753828169659705,
+    "model": "permuted_19",
+    "prevalence": 1.0,
+    "responses": 4,
+    "task": "A"
+  },
+  {
+    "bin": 6,
+    "mean_probability": 0.6812649210097826,
+    "model": "permuted_19",
+    "prevalence": 0.7919293820933165,
+    "responses": 793,
+    "task": "A"
+  },
+  {
+    "bin": 7,
+    "mean_probability": 0.7297239876439903,
+    "model": "permuted_19",
+    "prevalence": 0.7006280530355897,
+    "responses": 2866,
+    "task": "A"
+  },
+  {
+    "bin": 8,
+    "mean_probability": 0.8174638490405554,
+    "model": "permuted_19",
+    "prevalence": 0.7142857142857143,
+    "responses": 21,
+    "task": "A"
+  },
+  {
+    "bin": 9,
+    "mean_probability": 0.9703183694589259,
+    "model": "permuted_19",
+    "prevalence": 0.0,
+    "responses": 3,
+    "task": "A"
+  },
+  {
+    "bin": 0,
+    "mean_probability": null,
+    "model": "permuted_7",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 1,
+    "mean_probability": 0.1699250825049564,
+    "model": "permuted_7",
+    "prevalence": 0.0,
+    "responses": 1,
+    "task": "A"
+  },
+  {
+    "bin": 2,
+    "mean_probability": 0.2144174175686048,
+    "model": "permuted_7",
+    "prevalence": 0.0,
+    "responses": 1,
+    "task": "A"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "permuted_7",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 4,
+    "mean_probability": 0.4396421659848055,
+    "model": "permuted_7",
+    "prevalence": 0.0,
+    "responses": 1,
+    "task": "A"
+  },
+  {
+    "bin": 5,
+    "mean_probability": 0.5720858094747923,
+    "model": "permuted_7",
+    "prevalence": 0.8,
+    "responses": 5,
+    "task": "A"
+  },
+  {
+    "bin": 6,
+    "mean_probability": 0.6843952218657416,
+    "model": "permuted_7",
+    "prevalence": 0.7889908256880734,
+    "responses": 872,
+    "task": "A"
+  },
+  {
+    "bin": 7,
+    "mean_probability": 0.7307848797615405,
+    "model": "permuted_7",
+    "prevalence": 0.6982758620689655,
+    "responses": 2784,
+    "task": "A"
+  },
+  {
+    "bin": 8,
+    "mean_probability": 0.8174714590217391,
+    "model": "permuted_7",
+    "prevalence": 0.7916666666666666,
+    "responses": 24,
+    "task": "A"
+  },
+  {
+    "bin": 9,
+    "mean_probability": 0.9312982262172161,
+    "model": "permuted_7",
+    "prevalence": 1.0,
+    "responses": 1,
+    "task": "A"
+  },
+  {
+    "bin": 0,
+    "mean_probability": null,
+    "model": "personal",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 1,
+    "mean_probability": 0.15188569287184853,
+    "model": "personal",
+    "prevalence": 1.0,
+    "responses": 1,
+    "task": "A"
+  },
+  {
+    "bin": 2,
+    "mean_probability": null,
+    "model": "personal",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "personal",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "personal",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 5,
+    "mean_probability": 0.5736653540074963,
+    "model": "personal",
+    "prevalence": 0.9,
+    "responses": 10,
+    "task": "A"
+  },
+  {
+    "bin": 6,
+    "mean_probability": 0.6795024364262916,
+    "model": "personal",
+    "prevalence": 0.755863539445629,
+    "responses": 938,
+    "task": "A"
+  },
+  {
+    "bin": 7,
+    "mean_probability": 0.7325825707006702,
+    "model": "personal",
+    "prevalence": 0.7082868821999256,
+    "responses": 2691,
+    "task": "A"
+  },
+  {
+    "bin": 8,
+    "mean_probability": 0.8217604937339286,
+    "model": "personal",
+    "prevalence": 0.6666666666666666,
+    "responses": 45,
+    "task": "A"
+  },
+  {
+    "bin": 9,
+    "mean_probability": 0.9687465647416835,
+    "model": "personal",
+    "prevalence": 0.25,
+    "responses": 4,
+    "task": "A"
+  },
+  {
+    "bin": 0,
+    "mean_probability": null,
+    "model": "personal_quality",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 1,
+    "mean_probability": 0.15979204175996228,
+    "model": "personal_quality",
+    "prevalence": 1.0,
+    "responses": 1,
+    "task": "A"
+  },
+  {
+    "bin": 2,
+    "mean_probability": null,
+    "model": "personal_quality",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 3,
+    "mean_probability": 0.39732643062790285,
+    "model": "personal_quality",
+    "prevalence": 1.0,
+    "responses": 2,
+    "task": "A"
+  },
+  {
+    "bin": 4,
+    "mean_probability": 0.45449754652396396,
+    "model": "personal_quality",
+    "prevalence": 1.0,
+    "responses": 5,
+    "task": "A"
+  },
+  {
+    "bin": 5,
+    "mean_probability": 0.568602562445697,
+    "model": "personal_quality",
+    "prevalence": 0.7916666666666666,
+    "responses": 48,
+    "task": "A"
+  },
+  {
+    "bin": 6,
+    "mean_probability": 0.6724873516623708,
+    "model": "personal_quality",
+    "prevalence": 0.7337328767123288,
+    "responses": 1168,
+    "task": "A"
+  },
+  {
+    "bin": 7,
+    "mean_probability": 0.7385002918768138,
+    "model": "personal_quality",
+    "prevalence": 0.7093425605536332,
+    "responses": 2312,
+    "task": "A"
+  },
+  {
+    "bin": 8,
+    "mean_probability": 0.8261980537668754,
+    "model": "personal_quality",
+    "prevalence": 0.7516778523489933,
+    "responses": 149,
+    "task": "A"
+  },
+  {
+    "bin": 9,
+    "mean_probability": 0.9653410356930527,
+    "model": "personal_quality",
+    "prevalence": 0.25,
+    "responses": 4,
+    "task": "A"
+  },
+  {
+    "bin": 0,
+    "mean_probability": null,
+    "model": "physiology",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 1,
+    "mean_probability": null,
+    "model": "physiology",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 2,
+    "mean_probability": null,
+    "model": "physiology",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 3,
+    "mean_probability": 0.3708541596490234,
+    "model": "physiology",
+    "prevalence": 1.0,
+    "responses": 1,
+    "task": "A"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "physiology",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 5,
+    "mean_probability": 0.5711412122221329,
+    "model": "physiology",
+    "prevalence": 1.0,
+    "responses": 2,
+    "task": "A"
+  },
+  {
+    "bin": 6,
+    "mean_probability": 0.6906957133052589,
+    "model": "physiology",
+    "prevalence": 0.8158602150537635,
+    "responses": 744,
+    "task": "A"
+  },
+  {
+    "bin": 7,
+    "mean_probability": 0.727574789433536,
+    "model": "physiology",
+    "prevalence": 0.6965564268666894,
+    "responses": 2933,
+    "task": "A"
+  },
+  {
+    "bin": 8,
+    "mean_probability": 0.8156742857837801,
+    "model": "physiology",
+    "prevalence": 0.5,
+    "responses": 6,
+    "task": "A"
+  },
+  {
+    "bin": 9,
+    "mean_probability": 0.9946255145770779,
+    "model": "physiology",
+    "prevalence": 0.0,
+    "responses": 3,
+    "task": "A"
+  },
+  {
+    "bin": 0,
+    "mean_probability": null,
+    "model": "quality",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 1,
+    "mean_probability": null,
+    "model": "quality",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 2,
+    "mean_probability": null,
+    "model": "quality",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "quality",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 4,
+    "mean_probability": 0.40700771802263047,
+    "model": "quality",
+    "prevalence": 1.0,
+    "responses": 1,
+    "task": "A"
+  },
+  {
+    "bin": 5,
+    "mean_probability": 0.5645253617125261,
+    "model": "quality",
+    "prevalence": 0.8461538461538461,
+    "responses": 13,
+    "task": "A"
+  },
+  {
+    "bin": 6,
+    "mean_probability": 0.6785155020837189,
+    "model": "quality",
+    "prevalence": 0.7545551982851019,
+    "responses": 933,
+    "task": "A"
+  },
+  {
+    "bin": 7,
+    "mean_probability": 0.7319448534667746,
+    "model": "quality",
+    "prevalence": 0.7068775285031261,
+    "responses": 2719,
+    "task": "A"
+  },
+  {
+    "bin": 8,
+    "mean_probability": 0.815459379647038,
+    "model": "quality",
+    "prevalence": 0.782608695652174,
+    "responses": 23,
+    "task": "A"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "quality",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 0,
+    "mean_probability": null,
+    "model": "raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 1,
+    "mean_probability": null,
+    "model": "raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 2,
+    "mean_probability": null,
+    "model": "raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 3,
+    "mean_probability": 0.36651204432874734,
+    "model": "raw",
+    "prevalence": 1.0,
+    "responses": 1,
+    "task": "A"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 5,
+    "mean_probability": 0.5863103725342704,
+    "model": "raw",
+    "prevalence": 1.0,
+    "responses": 2,
+    "task": "A"
+  },
+  {
+    "bin": 6,
+    "mean_probability": 0.6860285973691091,
+    "model": "raw",
+    "prevalence": 0.7763496143958869,
+    "responses": 778,
+    "task": "A"
+  },
+  {
+    "bin": 7,
+    "mean_probability": 0.7293295590428727,
+    "model": "raw",
+    "prevalence": 0.7058620689655173,
+    "responses": 2900,
+    "task": "A"
+  },
+  {
+    "bin": 8,
+    "mean_probability": 0.8150731493499306,
+    "model": "raw",
+    "prevalence": 0.4,
+    "responses": 5,
+    "task": "A"
+  },
+  {
+    "bin": 9,
+    "mean_probability": 0.9908679885405967,
+    "model": "raw",
+    "prevalence": 0.0,
+    "responses": 3,
+    "task": "A"
+  },
+  {
+    "bin": 0,
+    "mean_probability": null,
+    "model": "reference",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 1,
+    "mean_probability": null,
+    "model": "reference",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 2,
+    "mean_probability": null,
+    "model": "reference",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "reference",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "reference",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 5,
+    "mean_probability": null,
+    "model": "reference",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 6,
+    "mean_probability": 0.6890078599772195,
+    "model": "reference",
+    "prevalence": 0.7573333333333333,
+    "responses": 750,
+    "task": "A"
+  },
+  {
+    "bin": 7,
+    "mean_probability": 0.7273622196635144,
+    "model": "reference",
+    "prevalence": 0.7104457298400817,
+    "responses": 2939,
+    "task": "A"
+  },
+  {
+    "bin": 8,
+    "mean_probability": null,
+    "model": "reference",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "reference",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 0,
+    "mean_probability": null,
+    "model": "supported_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 1,
+    "mean_probability": null,
+    "model": "supported_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 2,
+    "mean_probability": null,
+    "model": "supported_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "supported_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "supported_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 5,
+    "mean_probability": null,
+    "model": "supported_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 6,
+    "mean_probability": null,
+    "model": "supported_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 7,
+    "mean_probability": 0.7350212362011836,
+    "model": "supported_constant",
+    "prevalence": 0.736322869955157,
+    "responses": 1115,
+    "task": "A"
+  },
+  {
+    "bin": 8,
+    "mean_probability": null,
+    "model": "supported_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "supported_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 0,
+    "mean_probability": null,
+    "model": "supported_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 1,
+    "mean_probability": null,
+    "model": "supported_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 2,
+    "mean_probability": null,
+    "model": "supported_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "supported_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "supported_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 5,
+    "mean_probability": null,
+    "model": "supported_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 6,
+    "mean_probability": 0.6820345718460392,
+    "model": "supported_context",
+    "prevalence": 0.6491228070175439,
+    "responses": 57,
+    "task": "A"
+  },
+  {
+    "bin": 7,
+    "mean_probability": 0.7380583240637177,
+    "model": "supported_context",
+    "prevalence": 0.7409867172675522,
+    "responses": 1054,
+    "task": "A"
+  },
+  {
+    "bin": 8,
+    "mean_probability": 0.824283532497536,
+    "model": "supported_context",
+    "prevalence": 0.75,
+    "responses": 4,
+    "task": "A"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "supported_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 0,
+    "mean_probability": null,
+    "model": "supported_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 1,
+    "mean_probability": null,
+    "model": "supported_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 2,
+    "mean_probability": null,
+    "model": "supported_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "supported_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "supported_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 5,
+    "mean_probability": null,
+    "model": "supported_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 6,
+    "mean_probability": 0.6838150658899285,
+    "model": "supported_raw",
+    "prevalence": 0.8295454545454546,
+    "responses": 88,
+    "task": "A"
+  },
+  {
+    "bin": 7,
+    "mean_probability": 0.7389444558111931,
+    "model": "supported_raw",
+    "prevalence": 0.7289812067260139,
+    "responses": 1011,
+    "task": "A"
+  },
+  {
+    "bin": 8,
+    "mean_probability": 0.8090747079879697,
+    "model": "supported_raw",
+    "prevalence": 0.6875,
+    "responses": 16,
+    "task": "A"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "supported_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "A"
+  },
+  {
+    "bin": 0,
+    "mean_probability": 0.08297200909381973,
+    "model": "activity",
+    "prevalence": 0.10909090909090909,
+    "responses": 55,
+    "task": "B"
+  },
+  {
+    "bin": 1,
+    "mean_probability": 0.14051435604992227,
+    "model": "activity",
+    "prevalence": 0.1401431718061674,
+    "responses": 3632,
+    "task": "B"
+  },
+  {
+    "bin": 2,
+    "mean_probability": 0.21816029277326285,
+    "model": "activity",
+    "prevalence": 0.0,
+    "responses": 2,
+    "task": "B"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "activity",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "activity",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 5,
+    "mean_probability": null,
+    "model": "activity",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 6,
+    "mean_probability": null,
+    "model": "activity",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 7,
+    "mean_probability": null,
+    "model": "activity",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 8,
+    "mean_probability": null,
+    "model": "activity",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "activity",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 0,
+    "mean_probability": null,
+    "model": "all_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 1,
+    "mean_probability": 0.13952577146171355,
+    "model": "all_constant",
+    "prevalence": 0.1396042287882895,
+    "responses": 3689,
+    "task": "B"
+  },
+  {
+    "bin": 2,
+    "mean_probability": null,
+    "model": "all_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "all_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "all_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 5,
+    "mean_probability": null,
+    "model": "all_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 6,
+    "mean_probability": null,
+    "model": "all_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 7,
+    "mean_probability": null,
+    "model": "all_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 8,
+    "mean_probability": null,
+    "model": "all_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "all_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 0,
+    "mean_probability": 0.09917586583546295,
+    "model": "context",
+    "prevalence": 0.0,
+    "responses": 1,
+    "task": "B"
+  },
+  {
+    "bin": 1,
+    "mean_probability": 0.13951623475484462,
+    "model": "context",
+    "prevalence": 0.13971785132935433,
+    "responses": 3686,
+    "task": "B"
+  },
+  {
+    "bin": 2,
+    "mean_probability": 0.2183031160785353,
+    "model": "context",
+    "prevalence": 0.0,
+    "responses": 2,
+    "task": "B"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 5,
+    "mean_probability": null,
+    "model": "context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 6,
+    "mean_probability": null,
+    "model": "context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 7,
+    "mean_probability": null,
+    "model": "context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 8,
+    "mean_probability": null,
+    "model": "context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 0,
+    "mean_probability": 0.08362928318689415,
+    "model": "extended",
+    "prevalence": 0.11785714285714285,
+    "responses": 280,
+    "task": "B"
+  },
+  {
+    "bin": 1,
+    "mean_probability": 0.14149422703128822,
+    "model": "extended",
+    "prevalence": 0.14116575591985428,
+    "responses": 3294,
+    "task": "B"
+  },
+  {
+    "bin": 2,
+    "mean_probability": 0.2249271512441743,
+    "model": "extended",
+    "prevalence": 0.15178571428571427,
+    "responses": 112,
+    "task": "B"
+  },
+  {
+    "bin": 3,
+    "mean_probability": 0.3148633239913055,
+    "model": "extended",
+    "prevalence": 0.0,
+    "responses": 3,
+    "task": "B"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "extended",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 5,
+    "mean_probability": null,
+    "model": "extended",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 6,
+    "mean_probability": null,
+    "model": "extended",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 7,
+    "mean_probability": null,
+    "model": "extended",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 8,
+    "mean_probability": null,
+    "model": "extended",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "extended",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 0,
+    "mean_probability": 0.08155371087179362,
+    "model": "hgb_context",
+    "prevalence": 0.09444444444444444,
+    "responses": 180,
+    "task": "B"
+  },
+  {
+    "bin": 1,
+    "mean_probability": 0.14065661817180386,
+    "model": "hgb_context",
+    "prevalence": 0.14177362893815637,
+    "responses": 3428,
+    "task": "B"
+  },
+  {
+    "bin": 2,
+    "mean_probability": 0.22123811837316526,
+    "model": "hgb_context",
+    "prevalence": 0.14814814814814814,
+    "responses": 81,
+    "task": "B"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "hgb_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "hgb_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 5,
+    "mean_probability": null,
+    "model": "hgb_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 6,
+    "mean_probability": null,
+    "model": "hgb_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 7,
+    "mean_probability": null,
+    "model": "hgb_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 8,
+    "mean_probability": null,
+    "model": "hgb_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "hgb_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 0,
+    "mean_probability": 0.08054484186585628,
+    "model": "hgb_personal",
+    "prevalence": 0.10101010101010101,
+    "responses": 297,
+    "task": "B"
+  },
+  {
+    "bin": 1,
+    "mean_probability": 0.1437639349433827,
+    "model": "hgb_personal",
+    "prevalence": 0.14362980769230768,
+    "responses": 3328,
+    "task": "B"
+  },
+  {
+    "bin": 2,
+    "mean_probability": 0.22279408178267976,
+    "model": "hgb_personal",
+    "prevalence": 0.0967741935483871,
+    "responses": 62,
+    "task": "B"
+  },
+  {
+    "bin": 3,
+    "mean_probability": 0.32451412992887446,
+    "model": "hgb_personal",
+    "prevalence": 0.0,
+    "responses": 1,
+    "task": "B"
+  },
+  {
+    "bin": 4,
+    "mean_probability": 0.4524852154416386,
+    "model": "hgb_personal",
+    "prevalence": 1.0,
+    "responses": 1,
+    "task": "B"
+  },
+  {
+    "bin": 5,
+    "mean_probability": null,
+    "model": "hgb_personal",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 6,
+    "mean_probability": null,
+    "model": "hgb_personal",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 7,
+    "mean_probability": null,
+    "model": "hgb_personal",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 8,
+    "mean_probability": null,
+    "model": "hgb_personal",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "hgb_personal",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 0,
+    "mean_probability": 0.08923305150269562,
+    "model": "hgb_raw",
+    "prevalence": 0.13815789473684212,
+    "responses": 152,
+    "task": "B"
+  },
+  {
+    "bin": 1,
+    "mean_probability": 0.14202633511106394,
+    "model": "hgb_raw",
+    "prevalence": 0.13968705547652915,
+    "responses": 3515,
+    "task": "B"
+  },
+  {
+    "bin": 2,
+    "mean_probability": 0.20761492234031634,
+    "model": "hgb_raw",
+    "prevalence": 0.13636363636363635,
+    "responses": 22,
+    "task": "B"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "hgb_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "hgb_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 5,
+    "mean_probability": null,
+    "model": "hgb_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 6,
+    "mean_probability": null,
+    "model": "hgb_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 7,
+    "mean_probability": null,
+    "model": "hgb_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 8,
+    "mean_probability": null,
+    "model": "hgb_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "hgb_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 0,
+    "mean_probability": 0.09390451898195548,
+    "model": "missingness",
+    "prevalence": 0.15,
+    "responses": 40,
+    "task": "B"
+  },
+  {
+    "bin": 1,
+    "mean_probability": 0.14045278213293869,
+    "model": "missingness",
+    "prevalence": 0.13959879087661445,
+    "responses": 3639,
+    "task": "B"
+  },
+  {
+    "bin": 2,
+    "mean_probability": 0.2211639943375198,
+    "model": "missingness",
+    "prevalence": 0.1,
+    "responses": 10,
+    "task": "B"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "missingness",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "missingness",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 5,
+    "mean_probability": null,
+    "model": "missingness",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 6,
+    "mean_probability": null,
+    "model": "missingness",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 7,
+    "mean_probability": null,
+    "model": "missingness",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 8,
+    "mean_probability": null,
+    "model": "missingness",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "missingness",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 0,
+    "mean_probability": null,
+    "model": "observed_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 1,
+    "mean_probability": 0.11831488266677889,
+    "model": "observed_constant",
+    "prevalence": 0.11814024390243902,
+    "responses": 1312,
+    "task": "B"
+  },
+  {
+    "bin": 2,
+    "mean_probability": null,
+    "model": "observed_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "observed_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "observed_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 5,
+    "mean_probability": null,
+    "model": "observed_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 6,
+    "mean_probability": null,
+    "model": "observed_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 7,
+    "mean_probability": null,
+    "model": "observed_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 8,
+    "mean_probability": null,
+    "model": "observed_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "observed_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 0,
+    "mean_probability": 0.09390448705781261,
+    "model": "observed_context",
+    "prevalence": 0.12083333333333333,
+    "responses": 240,
+    "task": "B"
+  },
+  {
+    "bin": 1,
+    "mean_probability": 0.12363966680715692,
+    "model": "observed_context",
+    "prevalence": 0.11753731343283583,
+    "responses": 1072,
+    "task": "B"
+  },
+  {
+    "bin": 2,
+    "mean_probability": null,
+    "model": "observed_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "observed_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "observed_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 5,
+    "mean_probability": null,
+    "model": "observed_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 6,
+    "mean_probability": null,
+    "model": "observed_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 7,
+    "mean_probability": null,
+    "model": "observed_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 8,
+    "mean_probability": null,
+    "model": "observed_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "observed_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 0,
+    "mean_probability": 0.08188317085018397,
+    "model": "observed_personal",
+    "prevalence": 0.14953271028037382,
+    "responses": 321,
+    "task": "B"
+  },
+  {
+    "bin": 1,
+    "mean_probability": 0.12887358524161105,
+    "model": "observed_personal",
+    "prevalence": 0.10732714138286893,
+    "responses": 969,
+    "task": "B"
+  },
+  {
+    "bin": 2,
+    "mean_probability": 0.2165443569743911,
+    "model": "observed_personal",
+    "prevalence": 0.16666666666666666,
+    "responses": 18,
+    "task": "B"
+  },
+  {
+    "bin": 3,
+    "mean_probability": 0.32198967336152345,
+    "model": "observed_personal",
+    "prevalence": 0.0,
+    "responses": 3,
+    "task": "B"
+  },
+  {
+    "bin": 4,
+    "mean_probability": 0.43871531936336206,
+    "model": "observed_personal",
+    "prevalence": 0.0,
+    "responses": 1,
+    "task": "B"
+  },
+  {
+    "bin": 5,
+    "mean_probability": null,
+    "model": "observed_personal",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 6,
+    "mean_probability": null,
+    "model": "observed_personal",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 7,
+    "mean_probability": null,
+    "model": "observed_personal",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 8,
+    "mean_probability": null,
+    "model": "observed_personal",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "observed_personal",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 0,
+    "mean_probability": 0.08523419984234844,
+    "model": "observed_raw",
+    "prevalence": 0.109717868338558,
+    "responses": 319,
+    "task": "B"
+  },
+  {
+    "bin": 1,
+    "mean_probability": 0.127566290101151,
+    "model": "observed_raw",
+    "prevalence": 0.1205311542390194,
+    "responses": 979,
+    "task": "B"
+  },
+  {
+    "bin": 2,
+    "mean_probability": 0.22188136002122785,
+    "model": "observed_raw",
+    "prevalence": 0.15384615384615385,
+    "responses": 13,
+    "task": "B"
+  },
+  {
+    "bin": 3,
+    "mean_probability": 0.3424436502441269,
+    "model": "observed_raw",
+    "prevalence": 0.0,
+    "responses": 1,
+    "task": "B"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "observed_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 5,
+    "mean_probability": null,
+    "model": "observed_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 6,
+    "mean_probability": null,
+    "model": "observed_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 7,
+    "mean_probability": null,
+    "model": "observed_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 8,
+    "mean_probability": null,
+    "model": "observed_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "observed_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 0,
+    "mean_probability": 0.08592527276214255,
+    "model": "observed_reference",
+    "prevalence": 0.1553030303030303,
+    "responses": 264,
+    "task": "B"
+  },
+  {
+    "bin": 1,
+    "mean_probability": 0.12651533105221283,
+    "model": "observed_reference",
+    "prevalence": 0.10909090909090909,
+    "responses": 1045,
+    "task": "B"
+  },
+  {
+    "bin": 2,
+    "mean_probability": 0.21408194013189427,
+    "model": "observed_reference",
+    "prevalence": 0.0,
+    "responses": 3,
+    "task": "B"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "observed_reference",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "observed_reference",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 5,
+    "mean_probability": null,
+    "model": "observed_reference",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 6,
+    "mean_probability": null,
+    "model": "observed_reference",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 7,
+    "mean_probability": null,
+    "model": "observed_reference",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 8,
+    "mean_probability": null,
+    "model": "observed_reference",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "observed_reference",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 0,
+    "mean_probability": 0.08548542640766349,
+    "model": "permuted_19",
+    "prevalence": 0.14285714285714285,
+    "responses": 98,
+    "task": "B"
+  },
+  {
+    "bin": 1,
+    "mean_probability": 0.13904050863113515,
+    "model": "permuted_19",
+    "prevalence": 0.13969144460028052,
+    "responses": 3565,
+    "task": "B"
+  },
+  {
+    "bin": 2,
+    "mean_probability": 0.22134160005504872,
+    "model": "permuted_19",
+    "prevalence": 0.13043478260869565,
+    "responses": 23,
+    "task": "B"
+  },
+  {
+    "bin": 3,
+    "mean_probability": 0.302381192103913,
+    "model": "permuted_19",
+    "prevalence": 0.0,
+    "responses": 1,
+    "task": "B"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "permuted_19",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 5,
+    "mean_probability": null,
+    "model": "permuted_19",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 6,
+    "mean_probability": 0.6343029473149977,
+    "model": "permuted_19",
+    "prevalence": 0.0,
+    "responses": 1,
+    "task": "B"
+  },
+  {
+    "bin": 7,
+    "mean_probability": 0.786156053701172,
+    "model": "permuted_19",
+    "prevalence": 0.0,
+    "responses": 1,
+    "task": "B"
+  },
+  {
+    "bin": 8,
+    "mean_probability": null,
+    "model": "permuted_19",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "permuted_19",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 0,
+    "mean_probability": 0.08575599604470571,
+    "model": "permuted_7",
+    "prevalence": 0.12745098039215685,
+    "responses": 102,
+    "task": "B"
+  },
+  {
+    "bin": 1,
+    "mean_probability": 0.1401038793512615,
+    "model": "permuted_7",
+    "prevalence": 0.14024218529991553,
+    "responses": 3551,
+    "task": "B"
+  },
+  {
+    "bin": 2,
+    "mean_probability": 0.21712683821806272,
+    "model": "permuted_7",
+    "prevalence": 0.11764705882352941,
+    "responses": 34,
+    "task": "B"
+  },
+  {
+    "bin": 3,
+    "mean_probability": 0.35617088980279343,
+    "model": "permuted_7",
+    "prevalence": 0.0,
+    "responses": 1,
+    "task": "B"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "permuted_7",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 5,
+    "mean_probability": null,
+    "model": "permuted_7",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 6,
+    "mean_probability": 0.6744965033448426,
+    "model": "permuted_7",
+    "prevalence": 0.0,
+    "responses": 1,
+    "task": "B"
+  },
+  {
+    "bin": 7,
+    "mean_probability": null,
+    "model": "permuted_7",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 8,
+    "mean_probability": null,
+    "model": "permuted_7",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "permuted_7",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 0,
+    "mean_probability": 0.08413241656265368,
+    "model": "personal",
+    "prevalence": 0.12449799196787148,
+    "responses": 249,
+    "task": "B"
+  },
+  {
+    "bin": 1,
+    "mean_probability": 0.14113525361357976,
+    "model": "personal",
+    "prevalence": 0.14016172506738545,
+    "responses": 3339,
+    "task": "B"
+  },
+  {
+    "bin": 2,
+    "mean_probability": 0.22405627752490576,
+    "model": "personal",
+    "prevalence": 0.16326530612244897,
+    "responses": 98,
+    "task": "B"
+  },
+  {
+    "bin": 3,
+    "mean_probability": 0.3274764900202052,
+    "model": "personal",
+    "prevalence": 0.0,
+    "responses": 3,
+    "task": "B"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "personal",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 5,
+    "mean_probability": null,
+    "model": "personal",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 6,
+    "mean_probability": null,
+    "model": "personal",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 7,
+    "mean_probability": null,
+    "model": "personal",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 8,
+    "mean_probability": null,
+    "model": "personal",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "personal",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 0,
+    "mean_probability": 0.08041566431252162,
+    "model": "personal_quality",
+    "prevalence": 0.12280701754385964,
+    "responses": 342,
+    "task": "B"
+  },
+  {
+    "bin": 1,
+    "mean_probability": 0.14450823729661133,
+    "model": "personal_quality",
+    "prevalence": 0.14229128580134065,
+    "responses": 3282,
+    "task": "B"
+  },
+  {
+    "bin": 2,
+    "mean_probability": 0.22599343110931563,
+    "model": "personal_quality",
+    "prevalence": 0.08196721311475409,
+    "responses": 61,
+    "task": "B"
+  },
+  {
+    "bin": 3,
+    "mean_probability": 0.31617561165145325,
+    "model": "personal_quality",
+    "prevalence": 0.25,
+    "responses": 4,
+    "task": "B"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "personal_quality",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 5,
+    "mean_probability": null,
+    "model": "personal_quality",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 6,
+    "mean_probability": null,
+    "model": "personal_quality",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 7,
+    "mean_probability": null,
+    "model": "personal_quality",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 8,
+    "mean_probability": null,
+    "model": "personal_quality",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "personal_quality",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 0,
+    "mean_probability": 0.08236541021763855,
+    "model": "physiology",
+    "prevalence": 0.11428571428571428,
+    "responses": 70,
+    "task": "B"
+  },
+  {
+    "bin": 1,
+    "mean_probability": 0.14059069608560107,
+    "model": "physiology",
+    "prevalence": 0.14024896265560166,
+    "responses": 3615,
+    "task": "B"
+  },
+  {
+    "bin": 2,
+    "mean_probability": 0.20467415036299463,
+    "model": "physiology",
+    "prevalence": 0.0,
+    "responses": 4,
+    "task": "B"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "physiology",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "physiology",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 5,
+    "mean_probability": null,
+    "model": "physiology",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 6,
+    "mean_probability": null,
+    "model": "physiology",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 7,
+    "mean_probability": null,
+    "model": "physiology",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 8,
+    "mean_probability": null,
+    "model": "physiology",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "physiology",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 0,
+    "mean_probability": 0.08226755730922992,
+    "model": "quality",
+    "prevalence": 0.06666666666666667,
+    "responses": 120,
+    "task": "B"
+  },
+  {
+    "bin": 1,
+    "mean_probability": 0.1419314902182509,
+    "model": "quality",
+    "prevalence": 0.14209641255605382,
+    "responses": 3568,
+    "task": "B"
+  },
+  {
+    "bin": 2,
+    "mean_probability": 0.21312960642224396,
+    "model": "quality",
+    "prevalence": 0.0,
+    "responses": 1,
+    "task": "B"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "quality",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "quality",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 5,
+    "mean_probability": null,
+    "model": "quality",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 6,
+    "mean_probability": null,
+    "model": "quality",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 7,
+    "mean_probability": null,
+    "model": "quality",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 8,
+    "mean_probability": null,
+    "model": "quality",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "quality",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 0,
+    "mean_probability": 0.08556960476912345,
+    "model": "raw",
+    "prevalence": 0.11864406779661017,
+    "responses": 118,
+    "task": "B"
+  },
+  {
+    "bin": 1,
+    "mean_probability": 0.14106000059248713,
+    "model": "raw",
+    "prevalence": 0.14012380416432188,
+    "responses": 3554,
+    "task": "B"
+  },
+  {
+    "bin": 2,
+    "mean_probability": 0.20602922994422013,
+    "model": "raw",
+    "prevalence": 0.17647058823529413,
+    "responses": 17,
+    "task": "B"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 5,
+    "mean_probability": null,
+    "model": "raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 6,
+    "mean_probability": null,
+    "model": "raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 7,
+    "mean_probability": null,
+    "model": "raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 8,
+    "mean_probability": null,
+    "model": "raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 0,
+    "mean_probability": 0.09464733140913023,
+    "model": "reference",
+    "prevalence": 0.14285714285714285,
+    "responses": 35,
+    "task": "B"
+  },
+  {
+    "bin": 1,
+    "mean_probability": 0.13954251555539834,
+    "model": "reference",
+    "prevalence": 0.14014839241549876,
+    "responses": 3639,
+    "task": "B"
+  },
+  {
+    "bin": 2,
+    "mean_probability": 0.2126445445360798,
+    "model": "reference",
+    "prevalence": 0.0,
+    "responses": 15,
+    "task": "B"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "reference",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "reference",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 5,
+    "mean_probability": null,
+    "model": "reference",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 6,
+    "mean_probability": null,
+    "model": "reference",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 7,
+    "mean_probability": null,
+    "model": "reference",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 8,
+    "mean_probability": null,
+    "model": "reference",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "reference",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 0,
+    "mean_probability": null,
+    "model": "supported_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 1,
+    "mean_probability": 0.12517657440198804,
+    "model": "supported_constant",
+    "prevalence": 0.12466367713004484,
+    "responses": 1115,
+    "task": "B"
+  },
+  {
+    "bin": 2,
+    "mean_probability": null,
+    "model": "supported_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "supported_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "supported_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 5,
+    "mean_probability": null,
+    "model": "supported_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 6,
+    "mean_probability": null,
+    "model": "supported_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 7,
+    "mean_probability": null,
+    "model": "supported_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 8,
+    "mean_probability": null,
+    "model": "supported_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "supported_constant",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 0,
+    "mean_probability": null,
+    "model": "supported_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 1,
+    "mean_probability": 0.12577212024278392,
+    "model": "supported_context",
+    "prevalence": 0.12466367713004484,
+    "responses": 1115,
+    "task": "B"
+  },
+  {
+    "bin": 2,
+    "mean_probability": null,
+    "model": "supported_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "supported_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "supported_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 5,
+    "mean_probability": null,
+    "model": "supported_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 6,
+    "mean_probability": null,
+    "model": "supported_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 7,
+    "mean_probability": null,
+    "model": "supported_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 8,
+    "mean_probability": null,
+    "model": "supported_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "supported_context",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 0,
+    "mean_probability": 0.08588900662785179,
+    "model": "supported_raw",
+    "prevalence": 0.1297709923664122,
+    "responses": 131,
+    "task": "B"
+  },
+  {
+    "bin": 1,
+    "mean_probability": 0.1302441788546763,
+    "model": "supported_raw",
+    "prevalence": 0.12448979591836734,
+    "responses": 980,
+    "task": "B"
+  },
+  {
+    "bin": 2,
+    "mean_probability": 0.20693610220430794,
+    "model": "supported_raw",
+    "prevalence": 0.0,
+    "responses": 4,
+    "task": "B"
+  },
+  {
+    "bin": 3,
+    "mean_probability": null,
+    "model": "supported_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 4,
+    "mean_probability": null,
+    "model": "supported_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 5,
+    "mean_probability": null,
+    "model": "supported_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 6,
+    "mean_probability": null,
+    "model": "supported_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 7,
+    "mean_probability": null,
+    "model": "supported_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 8,
+    "mean_probability": null,
+    "model": "supported_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  },
+  {
+    "bin": 9,
+    "mean_probability": null,
+    "model": "supported_raw",
+    "prevalence": null,
+    "responses": 0,
+    "task": "B"
+  }
+]

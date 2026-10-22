@@ -1,0 +1,786 @@
+[
+  {
+    "block": "context",
+    "cohort": "all_valid",
+    "family": "ridge",
+    "flags": true,
+    "name": "all_valid__context__ridge",
+    "view": "context"
+  },
+  {
+    "block": "context",
+    "cohort": "all_valid",
+    "family": "lasso",
+    "flags": true,
+    "name": "all_valid__context__lasso",
+    "view": "context"
+  },
+  {
+    "block": "context",
+    "cohort": "all_valid",
+    "family": "elastic",
+    "flags": true,
+    "name": "all_valid__context__elastic",
+    "view": "context"
+  },
+  {
+    "block": "context",
+    "cohort": "all_valid",
+    "family": "huber",
+    "flags": true,
+    "name": "all_valid__context__huber",
+    "view": "context"
+  },
+  {
+    "block": "context",
+    "cohort": "all_valid",
+    "family": "hgb",
+    "flags": true,
+    "name": "all_valid__context__hgb",
+    "view": "context"
+  },
+  {
+    "block": "context",
+    "cohort": "all_valid",
+    "family": "xgb",
+    "flags": true,
+    "name": "all_valid__context__xgb",
+    "view": "context"
+  },
+  {
+    "block": "context",
+    "cohort": "all_valid",
+    "family": "lgbm",
+    "flags": true,
+    "name": "all_valid__context__lgbm",
+    "view": "context"
+  },
+  {
+    "block": "original60",
+    "cohort": "all_valid",
+    "family": "ridge",
+    "flags": true,
+    "name": "all_valid__original60__ridge",
+    "view": "original60"
+  },
+  {
+    "block": "original60",
+    "cohort": "all_valid",
+    "family": "lasso",
+    "flags": true,
+    "name": "all_valid__original60__lasso",
+    "view": "original60"
+  },
+  {
+    "block": "original60",
+    "cohort": "all_valid",
+    "family": "elastic",
+    "flags": true,
+    "name": "all_valid__original60__elastic",
+    "view": "original60"
+  },
+  {
+    "block": "original60",
+    "cohort": "all_valid",
+    "family": "huber",
+    "flags": true,
+    "name": "all_valid__original60__huber",
+    "view": "original60"
+  },
+  {
+    "block": "original60",
+    "cohort": "all_valid",
+    "family": "hgb",
+    "flags": true,
+    "name": "all_valid__original60__hgb",
+    "view": "original60"
+  },
+  {
+    "block": "original60",
+    "cohort": "all_valid",
+    "family": "xgb",
+    "flags": true,
+    "name": "all_valid__original60__xgb",
+    "view": "original60"
+  },
+  {
+    "block": "original60",
+    "cohort": "all_valid",
+    "family": "lgbm",
+    "flags": true,
+    "name": "all_valid__original60__lgbm",
+    "view": "original60"
+  },
+  {
+    "block": "hr60",
+    "cohort": "all_valid",
+    "family": "ridge",
+    "flags": true,
+    "name": "all_valid__hr60__ridge",
+    "view": "hr60"
+  },
+  {
+    "block": "hr60",
+    "cohort": "all_valid",
+    "family": "lasso",
+    "flags": true,
+    "name": "all_valid__hr60__lasso",
+    "view": "hr60"
+  },
+  {
+    "block": "hr60",
+    "cohort": "all_valid",
+    "family": "elastic",
+    "flags": true,
+    "name": "all_valid__hr60__elastic",
+    "view": "hr60"
+  },
+  {
+    "block": "hr60",
+    "cohort": "all_valid",
+    "family": "huber",
+    "flags": true,
+    "name": "all_valid__hr60__huber",
+    "view": "hr60"
+  },
+  {
+    "block": "hr60",
+    "cohort": "all_valid",
+    "family": "hgb",
+    "flags": true,
+    "name": "all_valid__hr60__hgb",
+    "view": "hr60"
+  },
+  {
+    "block": "hr60",
+    "cohort": "all_valid",
+    "family": "xgb",
+    "flags": true,
+    "name": "all_valid__hr60__xgb",
+    "view": "hr60"
+  },
+  {
+    "block": "hr60",
+    "cohort": "all_valid",
+    "family": "lgbm",
+    "flags": true,
+    "name": "all_valid__hr60__lgbm",
+    "view": "hr60"
+  },
+  {
+    "block": "hr_all",
+    "cohort": "all_valid",
+    "family": "ridge",
+    "flags": true,
+    "name": "all_valid__hr_all__ridge",
+    "view": "hr_all"
+  },
+  {
+    "block": "hr_all",
+    "cohort": "all_valid",
+    "family": "lasso",
+    "flags": true,
+    "name": "all_valid__hr_all__lasso",
+    "view": "hr_all"
+  },
+  {
+    "block": "hr_all",
+    "cohort": "all_valid",
+    "family": "elastic",
+    "flags": true,
+    "name": "all_valid__hr_all__elastic",
+    "view": "hr_all"
+  },
+  {
+    "block": "hr_all",
+    "cohort": "all_valid",
+    "family": "huber",
+    "flags": true,
+    "name": "all_valid__hr_all__huber",
+    "view": "hr_all"
+  },
+  {
+    "block": "hr_all",
+    "cohort": "all_valid",
+    "family": "hgb",
+    "flags": true,
+    "name": "all_valid__hr_all__hgb",
+    "view": "hr_all"
+  },
+  {
+    "block": "hr_all",
+    "cohort": "all_valid",
+    "family": "xgb",
+    "flags": true,
+    "name": "all_valid__hr_all__xgb",
+    "view": "hr_all"
+  },
+  {
+    "block": "hr_all",
+    "cohort": "all_valid",
+    "family": "lgbm",
+    "flags": true,
+    "name": "all_valid__hr_all__lgbm",
+    "view": "hr_all"
+  },
+  {
+    "block": "hr_activity60",
+    "cohort": "all_valid",
+    "family": "ridge",
+    "flags": true,
+    "name": "all_valid__hr_activity60__ridge",
+    "view": "hr_activity60"
+  },
+  {
+    "block": "hr_activity60",
+    "cohort": "all_valid",
+    "family": "lasso",
+    "flags": true,
+    "name": "all_valid__hr_activity60__lasso",
+    "view": "hr_activity60"
+  },
+  {
+    "block": "hr_activity60",
+    "cohort": "all_valid",
+    "family": "elastic",
+    "flags": true,
+    "name": "all_valid__hr_activity60__elastic",
+    "view": "hr_activity60"
+  },
+  {
+    "block": "hr_activity60",
+    "cohort": "all_valid",
+    "family": "huber",
+    "flags": true,
+    "name": "all_valid__hr_activity60__huber",
+    "view": "hr_activity60"
+  },
+  {
+    "block": "hr_activity60",
+    "cohort": "all_valid",
+    "family": "hgb",
+    "flags": true,
+    "name": "all_valid__hr_activity60__hgb",
+    "view": "hr_activity60"
+  },
+  {
+    "block": "hr_activity60",
+    "cohort": "all_valid",
+    "family": "xgb",
+    "flags": true,
+    "name": "all_valid__hr_activity60__xgb",
+    "view": "hr_activity60"
+  },
+  {
+    "block": "hr_activity60",
+    "cohort": "all_valid",
+    "family": "lgbm",
+    "flags": true,
+    "name": "all_valid__hr_activity60__lgbm",
+    "view": "hr_activity60"
+  },
+  {
+    "block": "hr_activity_all",
+    "cohort": "all_valid",
+    "family": "ridge",
+    "flags": true,
+    "name": "all_valid__hr_activity_all__ridge",
+    "view": "hr_activity_all"
+  },
+  {
+    "block": "hr_activity_all",
+    "cohort": "all_valid",
+    "family": "lasso",
+    "flags": true,
+    "name": "all_valid__hr_activity_all__lasso",
+    "view": "hr_activity_all"
+  },
+  {
+    "block": "hr_activity_all",
+    "cohort": "all_valid",
+    "family": "elastic",
+    "flags": true,
+    "name": "all_valid__hr_activity_all__elastic",
+    "view": "hr_activity_all"
+  },
+  {
+    "block": "hr_activity_all",
+    "cohort": "all_valid",
+    "family": "huber",
+    "flags": true,
+    "name": "all_valid__hr_activity_all__huber",
+    "view": "hr_activity_all"
+  },
+  {
+    "block": "hr_activity_all",
+    "cohort": "all_valid",
+    "family": "hgb",
+    "flags": true,
+    "name": "all_valid__hr_activity_all__hgb",
+    "view": "hr_activity_all"
+  },
+  {
+    "block": "hr_activity_all",
+    "cohort": "all_valid",
+    "family": "xgb",
+    "flags": true,
+    "name": "all_valid__hr_activity_all__xgb",
+    "view": "hr_activity_all"
+  },
+  {
+    "block": "hr_activity_all",
+    "cohort": "all_valid",
+    "family": "lgbm",
+    "flags": true,
+    "name": "all_valid__hr_activity_all__lgbm",
+    "view": "hr_activity_all"
+  },
+  {
+    "block": "full",
+    "cohort": "all_valid",
+    "family": "ridge",
+    "flags": true,
+    "name": "all_valid__full__ridge",
+    "view": "full"
+  },
+  {
+    "block": "full",
+    "cohort": "all_valid",
+    "family": "lasso",
+    "flags": true,
+    "name": "all_valid__full__lasso",
+    "view": "full"
+  },
+  {
+    "block": "full",
+    "cohort": "all_valid",
+    "family": "elastic",
+    "flags": true,
+    "name": "all_valid__full__elastic",
+    "view": "full"
+  },
+  {
+    "block": "full",
+    "cohort": "all_valid",
+    "family": "huber",
+    "flags": true,
+    "name": "all_valid__full__huber",
+    "view": "full"
+  },
+  {
+    "block": "full",
+    "cohort": "all_valid",
+    "family": "hgb",
+    "flags": true,
+    "name": "all_valid__full__hgb",
+    "view": "full"
+  },
+  {
+    "block": "full",
+    "cohort": "all_valid",
+    "family": "xgb",
+    "flags": true,
+    "name": "all_valid__full__xgb",
+    "view": "full"
+  },
+  {
+    "block": "full",
+    "cohort": "all_valid",
+    "family": "lgbm",
+    "flags": true,
+    "name": "all_valid__full__lgbm",
+    "view": "full"
+  },
+  {
+    "block": "full",
+    "cohort": "all_valid",
+    "family": "ridge",
+    "flags": true,
+    "name": "all_valid__full_corr__ridge",
+    "view": "full_corr"
+  },
+  {
+    "block": "full",
+    "cohort": "all_valid",
+    "family": "lasso",
+    "flags": true,
+    "name": "all_valid__full_corr__lasso",
+    "view": "full_corr"
+  },
+  {
+    "block": "full",
+    "cohort": "all_valid",
+    "family": "elastic",
+    "flags": true,
+    "name": "all_valid__full_corr__elastic",
+    "view": "full_corr"
+  },
+  {
+    "block": "full",
+    "cohort": "all_valid",
+    "family": "huber",
+    "flags": true,
+    "name": "all_valid__full_corr__huber",
+    "view": "full_corr"
+  },
+  {
+    "block": "full",
+    "cohort": "all_valid",
+    "family": "hgb",
+    "flags": true,
+    "name": "all_valid__full_corr__hgb",
+    "view": "full_corr"
+  },
+  {
+    "block": "full",
+    "cohort": "all_valid",
+    "family": "xgb",
+    "flags": true,
+    "name": "all_valid__full_corr__xgb",
+    "view": "full_corr"
+  },
+  {
+    "block": "full",
+    "cohort": "all_valid",
+    "family": "lgbm",
+    "flags": true,
+    "name": "all_valid__full_corr__lgbm",
+    "view": "full_corr"
+  },
+  {
+    "block": "full",
+    "cohort": "all_valid",
+    "family": "ridge",
+    "flags": true,
+    "name": "all_valid__full_l1select__ridge",
+    "view": "full_l1select"
+  },
+  {
+    "block": "full",
+    "cohort": "all_valid",
+    "family": "hgb",
+    "flags": true,
+    "name": "all_valid__full_l1select__hgb",
+    "view": "full_l1select"
+  },
+  {
+    "block": "full",
+    "cohort": "all_valid",
+    "family": "xgb",
+    "flags": true,
+    "name": "all_valid__full_l1select__xgb",
+    "view": "full_l1select"
+  },
+  {
+    "block": "full",
+    "cohort": "all_valid",
+    "family": "lgbm",
+    "flags": true,
+    "name": "all_valid__full_l1select__lgbm",
+    "view": "full_l1select"
+  },
+  {
+    "block": "full",
+    "cohort": "all_valid",
+    "family": "ridge",
+    "flags": true,
+    "name": "all_valid__full_enetselect__ridge",
+    "view": "full_enetselect"
+  },
+  {
+    "block": "full",
+    "cohort": "all_valid",
+    "family": "hgb",
+    "flags": true,
+    "name": "all_valid__full_enetselect__hgb",
+    "view": "full_enetselect"
+  },
+  {
+    "block": "full",
+    "cohort": "all_valid",
+    "family": "xgb",
+    "flags": true,
+    "name": "all_valid__full_enetselect__xgb",
+    "view": "full_enetselect"
+  },
+  {
+    "block": "full",
+    "cohort": "all_valid",
+    "family": "lgbm",
+    "flags": true,
+    "name": "all_valid__full_enetselect__lgbm",
+    "view": "full_enetselect"
+  },
+  {
+    "block": "pulseox_full",
+    "cohort": "all_valid",
+    "family": "ridge",
+    "flags": true,
+    "name": "all_valid__pulseox_full__ridge",
+    "view": "pulseox_full"
+  },
+  {
+    "block": "pulseox_full",
+    "cohort": "all_valid",
+    "family": "hgb",
+    "flags": true,
+    "name": "all_valid__pulseox_full__hgb",
+    "view": "pulseox_full"
+  },
+  {
+    "block": "pulseox_full",
+    "cohort": "all_valid",
+    "family": "xgb",
+    "flags": true,
+    "name": "all_valid__pulseox_full__xgb",
+    "view": "pulseox_full"
+  },
+  {
+    "block": "pulseox_full",
+    "cohort": "all_valid",
+    "family": "lgbm",
+    "flags": true,
+    "name": "all_valid__pulseox_full__lgbm",
+    "view": "pulseox_full"
+  },
+  {
+    "block": "full",
+    "cohort": "all_valid",
+    "family": "ridge",
+    "flags": false,
+    "name": "all_valid__full_no_flags__ridge",
+    "view": "full_no_flags"
+  },
+  {
+    "block": "full",
+    "cohort": "all_valid",
+    "family": "hgb",
+    "flags": false,
+    "name": "all_valid__full_no_flags__hgb",
+    "view": "full_no_flags"
+  },
+  {
+    "block": "full",
+    "cohort": "all_valid",
+    "family": "xgb",
+    "flags": false,
+    "name": "all_valid__full_no_flags__xgb",
+    "view": "full_no_flags"
+  },
+  {
+    "block": "full",
+    "cohort": "all_valid",
+    "family": "lgbm",
+    "flags": false,
+    "name": "all_valid__full_no_flags__lgbm",
+    "view": "full_no_flags"
+  },
+  {
+    "block": "full",
+    "cohort": "all_valid",
+    "family": "ridge",
+    "flags": true,
+    "name": "all_valid__missingness__ridge",
+    "view": "missingness"
+  },
+  {
+    "block": "full",
+    "cohort": "all_valid",
+    "family": "hgb",
+    "flags": true,
+    "name": "all_valid__missingness__hgb",
+    "view": "missingness"
+  },
+  {
+    "block": "quality",
+    "cohort": "all_valid",
+    "family": "ridge",
+    "flags": true,
+    "name": "all_valid__quality__ridge",
+    "view": "quality"
+  },
+  {
+    "block": "quality",
+    "cohort": "all_valid",
+    "family": "hgb",
+    "flags": true,
+    "name": "all_valid__quality__hgb",
+    "view": "quality"
+  },
+  {
+    "block": "hr_5m",
+    "cohort": "all_valid",
+    "family": "ridge",
+    "flags": true,
+    "name": "all_valid__hr_5m__ridge",
+    "view": "hr_5m"
+  },
+  {
+    "block": "hr_5m",
+    "cohort": "all_valid",
+    "family": "hgb",
+    "flags": true,
+    "name": "all_valid__hr_5m__hgb",
+    "view": "hr_5m"
+  },
+  {
+    "block": "hr_15m",
+    "cohort": "all_valid",
+    "family": "ridge",
+    "flags": true,
+    "name": "all_valid__hr_15m__ridge",
+    "view": "hr_15m"
+  },
+  {
+    "block": "hr_15m",
+    "cohort": "all_valid",
+    "family": "hgb",
+    "flags": true,
+    "name": "all_valid__hr_15m__hgb",
+    "view": "hr_15m"
+  },
+  {
+    "block": "hr_30m",
+    "cohort": "all_valid",
+    "family": "ridge",
+    "flags": true,
+    "name": "all_valid__hr_30m__ridge",
+    "view": "hr_30m"
+  },
+  {
+    "block": "hr_30m",
+    "cohort": "all_valid",
+    "family": "hgb",
+    "flags": true,
+    "name": "all_valid__hr_30m__hgb",
+    "view": "hr_30m"
+  },
+  {
+    "block": "hr_120m",
+    "cohort": "all_valid",
+    "family": "ridge",
+    "flags": true,
+    "name": "all_valid__hr_120m__ridge",
+    "view": "hr_120m"
+  },
+  {
+    "block": "hr_120m",
+    "cohort": "all_valid",
+    "family": "hgb",
+    "flags": true,
+    "name": "all_valid__hr_120m__hgb",
+    "view": "hr_120m"
+  },
+  {
+    "block": "hr_360m",
+    "cohort": "all_valid",
+    "family": "ridge",
+    "flags": true,
+    "name": "all_valid__hr_360m__ridge",
+    "view": "hr_360m"
+  },
+  {
+    "block": "hr_360m",
+    "cohort": "all_valid",
+    "family": "hgb",
+    "flags": true,
+    "name": "all_valid__hr_360m__hgb",
+    "view": "hr_360m"
+  },
+  {
+    "block": "hr_720m",
+    "cohort": "all_valid",
+    "family": "ridge",
+    "flags": true,
+    "name": "all_valid__hr_720m__ridge",
+    "view": "hr_720m"
+  },
+  {
+    "block": "hr_720m",
+    "cohort": "all_valid",
+    "family": "hgb",
+    "flags": true,
+    "name": "all_valid__hr_720m__hgb",
+    "view": "hr_720m"
+  },
+  {
+    "block": "hr_1440m",
+    "cohort": "all_valid",
+    "family": "ridge",
+    "flags": true,
+    "name": "all_valid__hr_1440m__ridge",
+    "view": "hr_1440m"
+  },
+  {
+    "block": "hr_1440m",
+    "cohort": "all_valid",
+    "family": "hgb",
+    "flags": true,
+    "name": "all_valid__hr_1440m__hgb",
+    "view": "hr_1440m"
+  },
+  {
+    "block": "context",
+    "cohort": "complete60",
+    "family": "ridge",
+    "flags": true,
+    "name": "complete60__context__ridge",
+    "view": "context"
+  },
+  {
+    "block": "context",
+    "cohort": "complete60",
+    "family": "hgb",
+    "flags": true,
+    "name": "complete60__context__hgb",
+    "view": "context"
+  },
+  {
+    "block": "original60",
+    "cohort": "complete60",
+    "family": "ridge",
+    "flags": true,
+    "name": "complete60__original60__ridge",
+    "view": "original60"
+  },
+  {
+    "block": "original60",
+    "cohort": "complete60",
+    "family": "hgb",
+    "flags": true,
+    "name": "complete60__original60__hgb",
+    "view": "original60"
+  },
+  {
+    "block": "full",
+    "cohort": "complete60",
+    "family": "ridge",
+    "flags": true,
+    "name": "complete60__full__ridge",
+    "view": "full"
+  },
+  {
+    "block": "full",
+    "cohort": "complete60",
+    "family": "hgb",
+    "flags": true,
+    "name": "complete60__full__hgb",
+    "view": "full"
+  },
+  {
+    "block": "context",
+    "cohort": "complete60",
+    "family": "fixed_ridge",
+    "flags": true,
+    "name": "complete60__context__fixed_ridge",
+    "view": "context"
+  },
+  {
+    "block": "original60",
+    "cohort": "complete60",
+    "family": "fixed_ridge",
+    "flags": true,
+    "name": "complete60__original60__fixed_ridge",
+    "view": "original60"
+  }
+]

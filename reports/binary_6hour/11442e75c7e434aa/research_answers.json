@@ -1,0 +1,30 @@
+[
+  {
+    "answer": "Binary A: full six-hour AUROC 0.508 (0.459\u20130.557), AP 0.726, balanced accuracy 0.498; versus 60 minutes: \u0394AUROC +0.002 (95% interval -0.065 to +0.070), no clear positive difference; versus context: \u0394AUROC +0.029 (95% interval -0.043 to +0.101), no clear positive difference. Binary B: full six-hour AUROC 0.510 (0.472\u20130.546), AP 0.151, balanced accuracy 0.501; versus 60 minutes: \u0394AUROC +0.014 (95% interval -0.052 to +0.079), no clear positive difference; versus context: \u0394AUROC -0.003 (95% interval -0.046 to +0.038), no clear positive difference.",
+    "question": "Does six hours outperform 60 minutes?"
+  },
+  {
+    "answer": "At the prespecified unweighted full six-hour model, Binary A AUROC is 0.508 and Binary B is 0.510. These are different outcomes, not a clinical cutoff selection. Interpret uncertainty, class support and prevalence alongside the point difference; raw AP is not comparable across prevalence.",
+    "question": "Which cutoff discriminates better?"
+  },
+  {
+    "answer": "Binary A: \u0394AUROC +0.029 (95% interval -0.043 to +0.101). Binary B: \u0394AUROC -0.003 (95% interval -0.046 to +0.038). The full model includes recording-missingness flags. A context increment alone does not isolate physiological-value signal; interpret it with no-flags and missingness-only controls, not just F1 or accuracy.",
+    "question": "Do expanded features add beyond context?"
+  },
+  {
+    "answer": "Binary A: sparse versus full: \u0394AUROC +0.000 (95% interval +0.000 to +0.000); correlation filter versus full: \u0394AUROC +0.003 (95% interval -0.013 to +0.019); availability filter versus full: \u0394AUROC +0.000 (95% interval -0.014 to +0.015). Binary B: sparse versus full: \u0394AUROC -0.019 (95% interval -0.068 to +0.037); correlation filter versus full: \u0394AUROC -0.014 (95% interval -0.063 to +0.041); availability filter versus full: \u0394AUROC -0.010 (95% interval -0.061 to +0.047). These are multiple exploratory comparisons; do not select a winning feature set from the outer folds.",
+    "question": "Does feature selection help?"
+  },
+  {
+    "answer": "Binary A: balanced sensitivity 0.504 versus 0.993 unweighted; specificity 0.520 versus 0.003; precision 0.730 versus 0.719. \u0394AUROC +0.001 (95% interval -0.041 to +0.041). Binary B: balanced sensitivity 0.402 versus 0.004 unweighted; specificity 0.635 versus 0.999; precision 0.152 versus 0.333. \u0394AUROC +0.002 (95% interval -0.012 to +0.017). Sensitivity here is for class 1. Binary A's minority is class 0, whose recall is specificity; Binary B's minority is class 1. A changed operating point does not necessarily improve AUROC.",
+    "question": "Does weighting improve minority detection?"
+  },
+  {
+    "answer": "Binary A: missingness-only AUROC 0.447; quality-only 0.467; context 0.479. Removing flags versus full: \u0394AUROC +0.007 (95% interval -0.001 to +0.017). Binary B: missingness-only AUROC 0.508; quality-only 0.530; context 0.513. Removing flags versus full: \u0394AUROC -0.030 (95% interval -0.082 to +0.030). These controls assess associations with the recording process and handling choices; they cannot establish that gaps caused weak prediction. See per-class missingness and complete-case composition.",
+    "question": "Are recording gaps and missingness affecting performance?"
+  },
+  {
+    "answer": "Retain strict time-support allowlists, explicit recording indicators and matched-cohort evaluation. Resolve timestamp/batching, sensor quality and prompt/recall evidence. Prespecify confirmation of any promising effect; do not expand the search or open the final test automatically.",
+    "question": "What should change next?"
+  }
+]

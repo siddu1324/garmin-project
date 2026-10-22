@@ -1,0 +1,24 @@
+[
+  {
+    "accessed": "2026-10-07",
+    "applicability": "Possible interface/mode only; does not establish the source of our export",
+    "locator": "PDF pages 3\u20135, printed pages 1\u20133",
+    "published": "November 2023",
+    "title": "Garmin Enhanced BBI \u2014 An Example Night",
+    "url": "https://www8.garmin.com/garminhealth/news/Garmin-Enhanced-BBI_Final.pdf"
+  },
+  {
+    "accessed": "2026-10-07",
+    "applicability": "Current product-level JSON/sync description, not collection-time callback contract",
+    "locator": "Health API Features; How It Works",
+    "title": "Garmin Health API overview",
+    "url": "https://developer.garmin.com/gc-developer-program/health-api/"
+  },
+  {
+    "accessed": "2026-10-07",
+    "applicability": "No release-specific semantics inferred from this page",
+    "locator": "Landing page; body unavailable to text retrieval",
+    "title": "Garmin Health SDK landing page",
+    "url": "https://developer.garmin.com/health-sdk/"
+  }
+]

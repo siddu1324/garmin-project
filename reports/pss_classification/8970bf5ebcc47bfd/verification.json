@@ -1,0 +1,17 @@
+{
+  "all_prediction_replays_agree": true,
+  "completed_fold_jobs": 115,
+  "corrected_input_bundles_verified": true,
+  "development_participants": 125,
+  "development_rows": 3706,
+  "final_test_participants_evaluated": 0,
+  "missing_targets": 17,
+  "original_assignment_checksum_verified": true,
+  "participant_separation_verified": true,
+  "preserved_prior_manifests": 22,
+  "preserved_prior_public_source_files": 574,
+  "raw_reference_integrity_verified": true,
+  "replayed_estimators": 2130,
+  "skipped_fold_jobs": 0,
+  "training_only_outer_transform_statistics_verified": true
+}

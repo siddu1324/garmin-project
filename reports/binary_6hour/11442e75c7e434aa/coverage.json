@@ -1,0 +1,242 @@
+[
+  {
+    "all_valid_responses": 3689,
+    "any_observed_responses": 1716,
+    "block": "original",
+    "complete_participants": 118,
+    "complete_responses": 1634,
+    "features": 4,
+    "task": "A",
+    "window": 60
+  },
+  {
+    "all_valid_responses": 3689,
+    "any_observed_responses": 1716,
+    "block": "hr",
+    "complete_participants": 117,
+    "complete_responses": 1308,
+    "features": 30,
+    "task": "A",
+    "window": 60
+  },
+  {
+    "all_valid_responses": 3689,
+    "any_observed_responses": 1746,
+    "block": "activity",
+    "complete_participants": 65,
+    "complete_responses": 157,
+    "features": 44,
+    "task": "A",
+    "window": 60
+  },
+  {
+    "all_valid_responses": 3689,
+    "any_observed_responses": 1746,
+    "block": "full",
+    "complete_participants": 49,
+    "complete_responses": 107,
+    "features": 47,
+    "task": "A",
+    "window": 60
+  },
+  {
+    "all_valid_responses": 3689,
+    "any_observed_responses": 1888,
+    "block": "original",
+    "complete_participants": 119,
+    "complete_responses": 1808,
+    "features": 4,
+    "task": "A",
+    "window": 120
+  },
+  {
+    "all_valid_responses": 3689,
+    "any_observed_responses": 1888,
+    "block": "hr",
+    "complete_participants": 116,
+    "complete_responses": 1362,
+    "features": 30,
+    "task": "A",
+    "window": 120
+  },
+  {
+    "all_valid_responses": 3689,
+    "any_observed_responses": 1924,
+    "block": "activity",
+    "complete_participants": 83,
+    "complete_responses": 309,
+    "features": 44,
+    "task": "A",
+    "window": 120
+  },
+  {
+    "all_valid_responses": 3689,
+    "any_observed_responses": 1924,
+    "block": "full",
+    "complete_participants": 72,
+    "complete_responses": 231,
+    "features": 47,
+    "task": "A",
+    "window": 120
+  },
+  {
+    "all_valid_responses": 3689,
+    "any_observed_responses": 2682,
+    "block": "original",
+    "complete_participants": 123,
+    "complete_responses": 2608,
+    "features": 4,
+    "task": "A",
+    "window": 360
+  },
+  {
+    "all_valid_responses": 3689,
+    "any_observed_responses": 2682,
+    "block": "hr",
+    "complete_participants": 121,
+    "complete_responses": 1641,
+    "features": 30,
+    "task": "A",
+    "window": 360
+  },
+  {
+    "all_valid_responses": 3689,
+    "any_observed_responses": 2727,
+    "block": "activity",
+    "complete_participants": 105,
+    "complete_responses": 701,
+    "features": 44,
+    "task": "A",
+    "window": 360
+  },
+  {
+    "all_valid_responses": 3689,
+    "any_observed_responses": 2727,
+    "block": "full",
+    "complete_participants": 95,
+    "complete_responses": 551,
+    "features": 47,
+    "task": "A",
+    "window": 360
+  },
+  {
+    "all_valid_responses": 3689,
+    "any_observed_responses": 1716,
+    "block": "original",
+    "complete_participants": 118,
+    "complete_responses": 1634,
+    "features": 4,
+    "task": "B",
+    "window": 60
+  },
+  {
+    "all_valid_responses": 3689,
+    "any_observed_responses": 1716,
+    "block": "hr",
+    "complete_participants": 117,
+    "complete_responses": 1308,
+    "features": 30,
+    "task": "B",
+    "window": 60
+  },
+  {
+    "all_valid_responses": 3689,
+    "any_observed_responses": 1746,
+    "block": "activity",
+    "complete_participants": 65,
+    "complete_responses": 157,
+    "features": 44,
+    "task": "B",
+    "window": 60
+  },
+  {
+    "all_valid_responses": 3689,
+    "any_observed_responses": 1746,
+    "block": "full",
+    "complete_participants": 49,
+    "complete_responses": 107,
+    "features": 47,
+    "task": "B",
+    "window": 60
+  },
+  {
+    "all_valid_responses": 3689,
+    "any_observed_responses": 1888,
+    "block": "original",
+    "complete_participants": 119,
+    "complete_responses": 1808,
+    "features": 4,
+    "task": "B",
+    "window": 120
+  },
+  {
+    "all_valid_responses": 3689,
+    "any_observed_responses": 1888,
+    "block": "hr",
+    "complete_participants": 116,
+    "complete_responses": 1362,
+    "features": 30,
+    "task": "B",
+    "window": 120
+  },
+  {
+    "all_valid_responses": 3689,
+    "any_observed_responses": 1924,
+    "block": "activity",
+    "complete_participants": 83,
+    "complete_responses": 309,
+    "features": 44,
+    "task": "B",
+    "window": 120
+  },
+  {
+    "all_valid_responses": 3689,
+    "any_observed_responses": 1924,
+    "block": "full",
+    "complete_participants": 72,
+    "complete_responses": 231,
+    "features": 47,
+    "task": "B",
+    "window": 120
+  },
+  {
+    "all_valid_responses": 3689,
+    "any_observed_responses": 2682,
+    "block": "original",
+    "complete_participants": 123,
+    "complete_responses": 2608,
+    "features": 4,
+    "task": "B",
+    "window": 360
+  },
+  {
+    "all_valid_responses": 3689,
+    "any_observed_responses": 2682,
+    "block": "hr",
+    "complete_participants": 121,
+    "complete_responses": 1641,
+    "features": 30,
+    "task": "B",
+    "window": 360
+  },
+  {
+    "all_valid_responses": 3689,
+    "any_observed_responses": 2727,
+    "block": "activity",
+    "complete_participants": 105,
+    "complete_responses": 701,
+    "features": 44,
+    "task": "B",
+    "window": 360
+  },
+  {
+    "all_valid_responses": 3689,
+    "any_observed_responses": 2727,
+    "block": "full",
+    "complete_participants": 95,
+    "complete_responses": 551,
+    "features": 47,
+    "task": "B",
+    "window": 360
+  }
+]

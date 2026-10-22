@@ -1,0 +1,66 @@
+{
+  "boundary_solution": false,
+  "coefficients": [
+    {
+      "estimate": 4.046394228859,
+      "model_se": 2.0869348536083927,
+      "term": "intercept"
+    },
+    {
+      "estimate": -0.014526389004776654,
+      "model_se": 0.06116429556644274,
+      "term": "hr_within_per10bpm"
+    },
+    {
+      "estimate": 0.2518366842404933,
+      "model_se": 0.22115102794991928,
+      "term": "hr_between_per10bpm"
+    },
+    {
+      "estimate": -0.12666310167773928,
+      "model_se": 0.12608053017912482,
+      "term": "local_time_sin"
+    },
+    {
+      "estimate": -0.09148239391436887,
+      "model_se": 0.16019561220506032,
+      "term": "local_time_cos"
+    },
+    {
+      "estimate": -0.0782389188730718,
+      "model_se": 0.05931172571077359,
+      "term": "steps__supported_rate__60m"
+    },
+    {
+      "estimate": -0.20862967886182263,
+      "model_se": 0.3197950266631935,
+      "term": "quality__hr__occupied_fraction__60m"
+    },
+    {
+      "estimate": -0.05242792180685488,
+      "model_se": 0.06660439265297319,
+      "term": "quality__hr__latest_age_seconds__60m"
+    },
+    {
+      "estimate": -0.21735610664424815,
+      "model_se": 0.3057823388865279,
+      "term": "quality__hr__maximum_gap_seconds__60m"
+    },
+    {
+      "estimate": -0.2255512806343293,
+      "model_se": 0.3190083132839807,
+      "term": "survey_Midday"
+    },
+    {
+      "estimate": 0.3567790874966931,
+      "model_se": 0.3222587715468543,
+      "term": "survey_Morning"
+    }
+  ],
+  "converged": true,
+  "icc": 0.4666001435674206,
+  "interpretation": "Retrospective Gaussian random-intercept REML on observed cohort; model-based SE, no causal or unseen-person predictive interpretation",
+  "objective": 2045.321352035041,
+  "participant_variance": 3.1656262398954773,
+  "residual_variance": 3.618825680098554
+}

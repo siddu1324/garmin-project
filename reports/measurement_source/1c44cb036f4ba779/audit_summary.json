@@ -1,0 +1,143 @@
+{
+  "application_build_candidates": 0,
+  "application_source_candidates": 0,
+  "audit_scope": "documentation, source and saved aggregate diagnostics only",
+  "code_search_roots": 2,
+  "collection_sdk_and_version": "unidentified",
+  "development_participants": 125,
+  "evidence": [
+    {
+      "conclusion": "Reads ZIP/CSV exports; not collection-app or device parser code.",
+      "key": "csv_container",
+      "line": 62,
+      "path": "src/garmin_inventory/sources.py",
+      "sha256": "c9df7df8d7ca120c332364a0063a866e851aea9c6275db406794f6a4657ebf90",
+      "status": "verified_local_implementation_or_export"
+    },
+    {
+      "conclusion": "Three raw schemas; union has six fields and no explicit SDK/version/beat-quality field.",
+      "key": "raw_schema",
+      "line": 61,
+      "path": "reports/inventory.json",
+      "sha256": "4719b22f7bd605f1211775f5369ca0481342a9d89ddb04811e368bc93cbb7f01",
+      "status": "verified_local_implementation_or_export"
+    },
+    {
+      "conclusion": "Parses Unix seconds without timezone shift; does not verify event-clock meaning.",
+      "key": "clock_parse",
+      "line": 158,
+      "path": "src/garmin_preprocessing/normalize.py",
+      "sha256": "2c1a26bcc6f210125003fa4636ca6edd7f1d80a6202e999d6326ff58a72ac542",
+      "status": "verified_local_implementation_or_export"
+    },
+    {
+      "conclusion": "q_ flags are analysis-derived; normal-beat status explicitly unverified.",
+      "key": "derived_quality",
+      "line": 168,
+      "path": "src/garmin_preprocessing/normalize.py",
+      "sha256": "2c1a26bcc6f210125003fa4636ca6edd7f1d80a6202e999d6326ff58a72ac542",
+      "status": "verified_local_implementation_or_export"
+    },
+    {
+      "conclusion": "Exact raw/schema duplicates collapse only in logical view; physical copies survive.",
+      "key": "raw_duplicates",
+      "line": 51,
+      "path": "src/garmin_preprocessing/normalize.py",
+      "sha256": "2c1a26bcc6f210125003fa4636ca6edd7f1d80a6202e999d6326ff58a72ac542",
+      "status": "verified_local_implementation_or_export"
+    },
+    {
+      "conclusion": "Logical ordering uses exported clocks/source row, not a recovered beat sequence.",
+      "key": "logical_order",
+      "line": 261,
+      "path": "src/garmin_preprocessing/normalize.py",
+      "sha256": "2c1a26bcc6f210125003fa4636ca6edd7f1d80a6202e999d6326ff58a72ac542",
+      "status": "verified_local_implementation_or_export"
+    },
+    {
+      "conclusion": "Whole-interval containment assumes either start or end anchoring.",
+      "key": "interval_geometry",
+      "line": 40,
+      "path": "src/garmin_preprocessing/eligibility.py",
+      "sha256": "930677068086b9160f91251f6a80e434eb2f2bb1efee0f7b0000518f2fcc6c28",
+      "status": "verified_local_implementation_or_export"
+    },
+    {
+      "conclusion": "Current corrected generator; historical long-window results remain revoked.",
+      "key": "corrected_windows",
+      "line": 31,
+      "path": "src/garmin_preprocessing/eligibility.py",
+      "sha256": "930677068086b9160f91251f6a80e434eb2f2bb1efee0f7b0000518f2fcc6c28",
+      "status": "verified_local_implementation_or_export"
+    },
+    {
+      "conclusion": "Rejects known-invalid versions and manifest copies.",
+      "key": "stale_versions",
+      "line": 21,
+      "path": "src/garmin_preprocessing/provenance.py",
+      "sha256": "86aa059bd9ee62c60ae90a72d90275e56d54210223b9633b4383f053ca71ecb3",
+      "status": "verified_local_implementation_or_export"
+    },
+    {
+      "conclusion": "Reused stream-level precision evidence; no obsolete 12/24-hour counts reused.",
+      "key": "precision",
+      "line": 117,
+      "path": "reports/hrv_input_validation/30a0bbe188d56b40/report.md",
+      "sha256": "69dadaffe77dbd992856d53a5e898e56ea58140d656ff680d7283b90e828d6e2",
+      "status": "verified_local_implementation_or_export"
+    },
+    {
+      "conclusion": "Numerical agreement in limited pilot does not validate physiology.",
+      "key": "package_limits",
+      "line": 161,
+      "path": "reports/ibi_pilot/78af22e7f0ead75b/report.md",
+      "sha256": "8183e923127293288bae4c4a6c658dd6060f0f5ca0bffc139a4cefbf19d6a402",
+      "status": "verified_local_implementation_or_export"
+    },
+    {
+      "conclusion": "Existing independent raw trace and synthetic positive control; no new participant sample.",
+      "key": "raw_hr_trace",
+      "line": 81,
+      "path": "reports/window_benchmark/e3e34a2ea014f38f/report.md",
+      "sha256": "15550f5d33a98b1c7b69dca20187d99c529fbbae7322b9249de2a5755d18212b",
+      "status": "verified_local_implementation_or_export"
+    }
+  ],
+  "model_fits": 0,
+  "new_implementation_bug_identified": false,
+  "new_participant_records_read": 0,
+  "raw_schema": {
+    "acquisition_clock_verified": false,
+    "dedicated_source_quality_fields": [],
+    "derived_flags_are_device_annotations": false,
+    "original_payload_batch_shape": "not recoverable from CSV field names",
+    "raw_fields": [
+      "data_type",
+      "dte_tme",
+      "mbl_cod",
+      "rsp_id",
+      "ts",
+      "val"
+    ],
+    "schema_variants": 3,
+    "sdk_or_version_identified": false
+  },
+  "real_hrv_calculations": 0,
+  "sampled_raw_trace_reused": {
+    "feature_checks": 320,
+    "hr_readings": 18153,
+    "mismatches": 0,
+    "source": "Notebook 09",
+    "sources": 10
+  },
+  "sealed_final_test_participants": 32,
+  "study_document": {
+    "basename": "R61-R33_ResearchStrategy.pdf",
+    "pages": [
+      5,
+      7
+    ],
+    "proposed_device_is_not_export_provenance": true,
+    "sha256": "cad3443ed2dc340830b20563d36deeb685ec126a4249881e5b34ebbbf66462ff"
+  }
+}

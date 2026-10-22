@@ -1,0 +1,28 @@
+{
+  "artifact_sha256": {
+    "availability_associations.json": "3f7f4cc1e485b0ae587a31d0473f86e601151179a2831064cbbd689bd79f4fb7",
+    "availability_by_label.json": "94324213695148aed60cfe2a901a9251865c57a75f932b115f052151f0cb5ed4",
+    "cadence.json": "75a55baab5c3bad1de9cc5c57b038b6d4c6b221f1f4a04ccf5c31a414e9150c1",
+    "counters.json": "7bf54b2476a9af8c4e3704d2449813741ccf91e87101fef458022a9e5ba03b8d",
+    "coverage.csv": "9311ebbbf1b8c34ef04b26416903d75b2b1e0e11e85e2ed3c36047fbba974a02",
+    "delay_histogram.csv": "88ab3a1020628e0fa1740d44a30ea14b2e21c333ea3ed6b5fb8348847fe7b82d",
+    "field_audit.json": "124254ff1b4e604def5697263251ccbf2986ecefe1bbb1495e52de06391b6c9f",
+    "figures/availability.png": "c978018b2a17e77a53a6dbc0776dc420ee40ba5661a90761842cb62270142365",
+    "figures/cadence.png": "524900e063e4c622e2ffeb5747c0f58a6a8173dd24ec89c00fbf033ffe4b5688",
+    "figures/coverage.png": "c90162ab7ffa4e3083c2fe564576d71c7eaec480bf3403760e69783b08e22805",
+    "figures/sensitivity.png": "d63ba91cdd27cff2c80d742004e45f68f092e50a4821376395ae4b638bf11f97",
+    "figures/start_delays.png": "a801775140b980e594fc4582394854499c4947733e538c55c544742471362a59",
+    "figures/survey_coverage.png": "ce0caabdc39534e97e529b8897bc20f00665e2f79ebaac79a00605131fab9895",
+    "figures/synthetic_timeline.png": "36d5abfb2c10add6faa85d9ab535efb0b7248d76c004ec3add593b6e8e009a3d",
+    "participant_coverage.csv": "af2b4d4e7ba16b917d1f7b53f34e568925cac51d83761aa5bd0f8e808924c8b7",
+    "previous_hr_evidence.json": "ffab208dc184fab4796d5808d164dbff8ddfb07f1cd7077b777792c1a647c5bc",
+    "sensor_field_availability.csv": "fad6a2a8501ed823826a19a07a364a581d727142ac4bd059b0cb2a56c1d3dbf0",
+    "status.json": "d680558354b1297f43a2db3ca09f077270594beae3a028c21bb13d05251bbb44",
+    "timing.json": "f81fdac51f9f63ef2f4e3c3f61918a518626818be55dabfad051d8a5c772f2e7",
+    "timing_sensitivity.csv": "da9ab9d4f5c536fb7a992276dd7bc7ad3fe53e3770feed22fb3b6880ee52d2fc",
+    "verification.json": "1cde9bd83bfd8f4848e353da5bf4d8082ccacd40785ff46d7df0a219c92ad35a"
+  },
+  "complete": true,
+  "private_manifest_sha256": "4d0f4f9b281a1c116b62bd5bbd1e98379e19b017a225b873bf677eee18300839",
+  "version": "e5359ea4cc4b4efa"
+}

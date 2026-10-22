@@ -1,0 +1,619 @@
+{
+  "questionnaire_items": [
+    {
+      "codebook_sha256": "ff0558a4fa8e4756427da3298e01c07aa6690a4de04a87baaa97aeb6fab17269",
+      "display_labels": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "exact_wording": "Since the last prompt, how much have you: felt STRESSED or nervous?",
+      "export_field": "PSS_NERVOUS",
+      "page": 2,
+      "question_number": 5,
+      "questionnaire_field": "PSS_NERVOUS_4",
+      "recall_boundary": "last prompt",
+      "rendered_form_page": 2,
+      "rendered_form_sha256": "2197a34a1695053c074af540e8cfd8519003bb0f24d67f6a5cd9582ea26d3667",
+      "stored_codes": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "survey_category": "Endday",
+      "transcription_method": "visual verification of supplied outlined-text blank forms; codebook field/code cross-check"
+    },
+    {
+      "codebook_sha256": "ff0558a4fa8e4756427da3298e01c07aa6690a4de04a87baaa97aeb6fab17269",
+      "display_labels": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "exact_wording": "Since the last prompt, how much have you: felt that you were ABLE to handle or cope with things well?",
+      "export_field": "PSS_COPE",
+      "page": 2,
+      "question_number": 6,
+      "questionnaire_field": "PSS_COPE_4",
+      "recall_boundary": "last prompt",
+      "rendered_form_page": 2,
+      "rendered_form_sha256": "2197a34a1695053c074af540e8cfd8519003bb0f24d67f6a5cd9582ea26d3667",
+      "stored_codes": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "survey_category": "Endday",
+      "transcription_method": "visual verification of supplied outlined-text blank forms; codebook field/code cross-check"
+    },
+    {
+      "codebook_sha256": "ff0558a4fa8e4756427da3298e01c07aa6690a4de04a87baaa97aeb6fab17269",
+      "display_labels": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "exact_wording": "Since the last prompt, how much have you: felt that you were ON TOP OF THINGS?",
+      "export_field": "PSS_CONTROL",
+      "page": 2,
+      "question_number": 7,
+      "questionnaire_field": "PSS_CONTROL_4",
+      "recall_boundary": "last prompt",
+      "rendered_form_page": 2,
+      "rendered_form_sha256": "2197a34a1695053c074af540e8cfd8519003bb0f24d67f6a5cd9582ea26d3667",
+      "stored_codes": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "survey_category": "Endday",
+      "transcription_method": "visual verification of supplied outlined-text blank forms; codebook field/code cross-check"
+    },
+    {
+      "codebook_sha256": "35b0446e783a49968c229496acc55e64df96f35b5765b22b7ee2376066896990",
+      "display_labels": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "exact_wording": "Since the last prompt, how much have you: felt STRESSED or nervous?",
+      "export_field": "PSS_NERVOUS",
+      "page": 2,
+      "question_number": 5,
+      "questionnaire_field": "PSS_NERVOUS",
+      "recall_boundary": "last prompt",
+      "rendered_form_page": 2,
+      "rendered_form_sha256": "bddc0455b203de2abf25409a2acabc5b243cf40d63c2d399254526fe48964f79",
+      "stored_codes": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "survey_category": "Midday",
+      "transcription_method": "visual verification of supplied outlined-text blank forms; codebook field/code cross-check"
+    },
+    {
+      "codebook_sha256": "35b0446e783a49968c229496acc55e64df96f35b5765b22b7ee2376066896990",
+      "display_labels": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "exact_wording": "Since the last prompt, how much have you: felt that you were ABLE to handle or cope with things well?",
+      "export_field": "PSS_COPE",
+      "page": 2,
+      "question_number": 6,
+      "questionnaire_field": "PSS_COPE",
+      "recall_boundary": "last prompt",
+      "rendered_form_page": 2,
+      "rendered_form_sha256": "bddc0455b203de2abf25409a2acabc5b243cf40d63c2d399254526fe48964f79",
+      "stored_codes": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "survey_category": "Midday",
+      "transcription_method": "visual verification of supplied outlined-text blank forms; codebook field/code cross-check"
+    },
+    {
+      "codebook_sha256": "35b0446e783a49968c229496acc55e64df96f35b5765b22b7ee2376066896990",
+      "display_labels": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "exact_wording": "Since the last prompt, how much have you: felt that you were ON TOP OF THINGS?",
+      "export_field": "PSS_CONTROL",
+      "page": 2,
+      "question_number": 7,
+      "questionnaire_field": "PSS_CONTROL",
+      "recall_boundary": "last prompt",
+      "rendered_form_page": 2,
+      "rendered_form_sha256": "bddc0455b203de2abf25409a2acabc5b243cf40d63c2d399254526fe48964f79",
+      "stored_codes": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "survey_category": "Midday",
+      "transcription_method": "visual verification of supplied outlined-text blank forms; codebook field/code cross-check"
+    },
+    {
+      "codebook_sha256": "c3974911f66baf1d59e265696b3c544590ad7d8239393b0c7238751a4bea80ed",
+      "display_labels": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "exact_wording": "Since waking up, how much have you: felt STRESSED or nervous?",
+      "export_field": "PSS_NERVOUS",
+      "page": 2,
+      "question_number": 9,
+      "questionnaire_field": "PSS_NERVOUS_1",
+      "recall_boundary": "final waking today",
+      "rendered_form_page": 2,
+      "rendered_form_sha256": "3aab0cb8e25586e2aaf233a8c9132d0f416f8b4de608c79143ae3539f218018b",
+      "stored_codes": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "survey_category": "Morning",
+      "transcription_method": "visual verification of supplied outlined-text blank forms; codebook field/code cross-check"
+    },
+    {
+      "codebook_sha256": "c3974911f66baf1d59e265696b3c544590ad7d8239393b0c7238751a4bea80ed",
+      "display_labels": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "exact_wording": "Since waking up, how much have you: felt that you were ABLE to handle or cope with things well?",
+      "export_field": "PSS_COPE",
+      "page": 2,
+      "question_number": 10,
+      "questionnaire_field": "PSS_COPE_1",
+      "recall_boundary": "final waking today",
+      "rendered_form_page": 2,
+      "rendered_form_sha256": "3aab0cb8e25586e2aaf233a8c9132d0f416f8b4de608c79143ae3539f218018b",
+      "stored_codes": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "survey_category": "Morning",
+      "transcription_method": "visual verification of supplied outlined-text blank forms; codebook field/code cross-check"
+    },
+    {
+      "codebook_sha256": "c3974911f66baf1d59e265696b3c544590ad7d8239393b0c7238751a4bea80ed",
+      "display_labels": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "exact_wording": "Since waking up, how much have you: felt that you were ON TOP OF THINGS?",
+      "export_field": "PSS_CONTROL",
+      "page": 2,
+      "question_number": 11,
+      "questionnaire_field": "PSS_CONTROL_1",
+      "recall_boundary": "final waking today",
+      "rendered_form_page": 3,
+      "rendered_form_sha256": "3aab0cb8e25586e2aaf233a8c9132d0f416f8b4de608c79143ae3539f218018b",
+      "stored_codes": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "survey_category": "Morning",
+      "transcription_method": "visual verification of supplied outlined-text blank forms; codebook field/code cross-check"
+    }
+  ],
+  "questionnaire_source_hashes": [
+    "2197a34a1695053c074af540e8cfd8519003bb0f24d67f6a5cd9582ea26d3667",
+    "35b0446e783a49968c229496acc55e64df96f35b5765b22b7ee2376066896990",
+    "3aab0cb8e25586e2aaf233a8c9132d0f416f8b4de608c79143ae3539f218018b",
+    "bddc0455b203de2abf25409a2acabc5b243cf40d63c2d399254526fe48964f79",
+    "c3974911f66baf1d59e265696b3c544590ad7d8239393b0c7238751a4bea80ed",
+    "ff0558a4fa8e4756427da3298e01c07aa6690a4de04a87baaa97aeb6fab17269"
+  ],
+  "structural_inventory": {
+    "archives": [
+      {
+        "archive": "archive_01",
+        "bytes": 1514627,
+        "extensions": {
+          ".csv": 3
+        },
+        "members": 3,
+        "uncompressed_bytes": 1513663
+      },
+      {
+        "archive": "archive_02",
+        "bytes": 5410595,
+        "extensions": {
+          ".pdf": 6
+        },
+        "members": 6,
+        "uncompressed_bytes": 8442468
+      },
+      {
+        "archive": "archive_03",
+        "bytes": 774750236,
+        "extensions": {
+          ".zip": 154
+        },
+        "members": 154,
+        "uncompressed_bytes": 774726072
+      }
+    ],
+    "blank_pdfs": 6,
+    "dedicated_prompt_or_submission_log_supplied": false,
+    "ema_sources": 3,
+    "nested_archive_count": 154,
+    "nested_member_extensions": {
+      ".csv": 154
+    },
+    "schemas": [
+      {
+        "files_with_schema": 1,
+        "source_type": "ema",
+        "timing_fields": [
+          "instance_id",
+          "scheduled_start_local",
+          "timezone_offset",
+          "actual_start_local",
+          "ENDDAY_REMINDER",
+          "Location Timestamp"
+        ]
+      },
+      {
+        "files_with_schema": 1,
+        "source_type": "ema",
+        "timing_fields": [
+          "instance_id",
+          "scheduled_start_local",
+          "timezone_offset",
+          "actual_start_local",
+          "SLEEP_SLEEPTIME",
+          "SLEEP_LATENCY",
+          "SLEEP_WAKETIME",
+          "SLEEP_QUALITY",
+          "MORNING_SURVEY_COMPLETED",
+          "Location Timestamp"
+        ]
+      },
+      {
+        "files_with_schema": 1,
+        "source_type": "ema",
+        "timing_fields": [
+          "instance_id",
+          "scheduled_start_local",
+          "timezone_offset",
+          "actual_start_local",
+          "Location Timestamp"
+        ]
+      },
+      {
+        "files_with_schema": 18,
+        "source_type": "garmin",
+        "timing_fields": [
+          "ts",
+          "dte_tme"
+        ]
+      },
+      {
+        "files_with_schema": 133,
+        "source_type": "garmin",
+        "timing_fields": [
+          "ts",
+          "dte_tme"
+        ]
+      },
+      {
+        "files_with_schema": 3,
+        "source_type": "garmin",
+        "timing_fields": [
+          "ts",
+          "dte_tme"
+        ]
+      }
+    ],
+    "sensor_sources": 154
+  },
+  "timing_fields": [
+    {
+      "field": "actual_start_local",
+      "in_original_schema": true,
+      "nonmissing": 934,
+      "responses": 934,
+      "survey_category": "Endday"
+    },
+    {
+      "field": "scheduled_start_local",
+      "in_original_schema": true,
+      "nonmissing": 934,
+      "responses": 934,
+      "survey_category": "Endday"
+    },
+    {
+      "field": "timezone_offset",
+      "in_original_schema": true,
+      "nonmissing": 934,
+      "responses": 934,
+      "survey_category": "Endday"
+    },
+    {
+      "field": "instance_id",
+      "in_original_schema": true,
+      "nonmissing": 934,
+      "responses": 934,
+      "survey_category": "Endday"
+    },
+    {
+      "field": "SLEEP_WAKETIME",
+      "in_original_schema": false,
+      "nonmissing": 0,
+      "responses": 934,
+      "survey_category": "Endday"
+    },
+    {
+      "field": "SLEEP_SLEEPTIME",
+      "in_original_schema": false,
+      "nonmissing": 0,
+      "responses": 934,
+      "survey_category": "Endday"
+    },
+    {
+      "field": "Location Timestamp",
+      "in_original_schema": true,
+      "nonmissing": 534,
+      "responses": 934,
+      "survey_category": "Endday"
+    },
+    {
+      "field": "MORNING_SURVEY_COMPLETED",
+      "in_original_schema": false,
+      "nonmissing": 0,
+      "responses": 934,
+      "survey_category": "Endday"
+    },
+    {
+      "field": "ENDDAY_REMINDER",
+      "in_original_schema": true,
+      "nonmissing": 925,
+      "responses": 934,
+      "survey_category": "Endday"
+    },
+    {
+      "field": "n_invalid_clock",
+      "flagged": 0,
+      "in_original_schema": false,
+      "responses": 934,
+      "survey_category": "Endday"
+    },
+    {
+      "field": "n_scheduled_clock_discrepancy",
+      "flagged": 0,
+      "in_original_schema": false,
+      "responses": 934,
+      "survey_category": "Endday"
+    },
+    {
+      "field": "n_actual_before_scheduled",
+      "flagged": 0,
+      "in_original_schema": false,
+      "responses": 934,
+      "survey_category": "Endday"
+    },
+    {
+      "field": "actual_start_local",
+      "in_original_schema": true,
+      "nonmissing": 1838,
+      "responses": 1838,
+      "survey_category": "Midday"
+    },
+    {
+      "field": "scheduled_start_local",
+      "in_original_schema": true,
+      "nonmissing": 1838,
+      "responses": 1838,
+      "survey_category": "Midday"
+    },
+    {
+      "field": "timezone_offset",
+      "in_original_schema": true,
+      "nonmissing": 1838,
+      "responses": 1838,
+      "survey_category": "Midday"
+    },
+    {
+      "field": "instance_id",
+      "in_original_schema": true,
+      "nonmissing": 1838,
+      "responses": 1838,
+      "survey_category": "Midday"
+    },
+    {
+      "field": "SLEEP_WAKETIME",
+      "in_original_schema": false,
+      "nonmissing": 0,
+      "responses": 1838,
+      "survey_category": "Midday"
+    },
+    {
+      "field": "SLEEP_SLEEPTIME",
+      "in_original_schema": false,
+      "nonmissing": 0,
+      "responses": 1838,
+      "survey_category": "Midday"
+    },
+    {
+      "field": "Location Timestamp",
+      "in_original_schema": true,
+      "nonmissing": 1088,
+      "responses": 1838,
+      "survey_category": "Midday"
+    },
+    {
+      "field": "MORNING_SURVEY_COMPLETED",
+      "in_original_schema": false,
+      "nonmissing": 0,
+      "responses": 1838,
+      "survey_category": "Midday"
+    },
+    {
+      "field": "ENDDAY_REMINDER",
+      "in_original_schema": false,
+      "nonmissing": 0,
+      "responses": 1838,
+      "survey_category": "Midday"
+    },
+    {
+      "field": "n_invalid_clock",
+      "flagged": 0,
+      "in_original_schema": false,
+      "responses": 1838,
+      "survey_category": "Midday"
+    },
+    {
+      "field": "n_scheduled_clock_discrepancy",
+      "flagged": 0,
+      "in_original_schema": false,
+      "responses": 1838,
+      "survey_category": "Midday"
+    },
+    {
+      "field": "n_actual_before_scheduled",
+      "flagged": 0,
+      "in_original_schema": false,
+      "responses": 1838,
+      "survey_category": "Midday"
+    },
+    {
+      "field": "actual_start_local",
+      "in_original_schema": true,
+      "nonmissing": 934,
+      "responses": 934,
+      "survey_category": "Morning"
+    },
+    {
+      "field": "scheduled_start_local",
+      "in_original_schema": true,
+      "nonmissing": 934,
+      "responses": 934,
+      "survey_category": "Morning"
+    },
+    {
+      "field": "timezone_offset",
+      "in_original_schema": true,
+      "nonmissing": 934,
+      "responses": 934,
+      "survey_category": "Morning"
+    },
+    {
+      "field": "instance_id",
+      "in_original_schema": true,
+      "nonmissing": 934,
+      "responses": 934,
+      "survey_category": "Morning"
+    },
+    {
+      "field": "SLEEP_WAKETIME",
+      "in_original_schema": true,
+      "nonmissing": 931,
+      "responses": 934,
+      "survey_category": "Morning"
+    },
+    {
+      "field": "SLEEP_SLEEPTIME",
+      "in_original_schema": true,
+      "nonmissing": 931,
+      "responses": 934,
+      "survey_category": "Morning"
+    },
+    {
+      "field": "Location Timestamp",
+      "in_original_schema": true,
+      "nonmissing": 558,
+      "responses": 934,
+      "survey_category": "Morning"
+    },
+    {
+      "field": "MORNING_SURVEY_COMPLETED",
+      "in_original_schema": true,
+      "nonmissing": 927,
+      "responses": 934,
+      "survey_category": "Morning"
+    },
+    {
+      "field": "ENDDAY_REMINDER",
+      "in_original_schema": false,
+      "nonmissing": 0,
+      "responses": 934,
+      "survey_category": "Morning"
+    },
+    {
+      "field": "n_invalid_clock",
+      "flagged": 0,
+      "in_original_schema": false,
+      "responses": 934,
+      "survey_category": "Morning"
+    },
+    {
+      "field": "n_scheduled_clock_discrepancy",
+      "flagged": 0,
+      "in_original_schema": false,
+      "responses": 934,
+      "survey_category": "Morning"
+    },
+    {
+      "field": "n_actual_before_scheduled",
+      "flagged": 0,
+      "in_original_schema": false,
+      "responses": 934,
+      "survey_category": "Morning"
+    }
+  ],
+  "wake_question": {
+    "page": 2,
+    "question": 7,
+    "rendered_form_sha256": "3aab0cb8e25586e2aaf233a8c9132d0f416f8b4de608c79143ae3539f218018b",
+    "wording": "What time did you wake up today? (If multiple awakenings, select the final time you woke up)"
+  }
+}

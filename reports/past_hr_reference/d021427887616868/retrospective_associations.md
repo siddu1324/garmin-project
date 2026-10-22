@@ -1,0 +1,10 @@
+| correlation | correlation_high | correlation_low | defined_bootstrap_draws | feature | mode | participants | responses | slope | slope_high | slope_low |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.0960 | 0.2451 | -0.0654 | 2000 | hr_mean_bpm__60m | between_person_means | 118 | 1634 | 0.0227 | 0.0597 | -0.0145 |
+| -0.0320 | 0.0360 | -0.0937 | 2000 | hr_mean_bpm__60m | within_person_centered | 117 | 1633 | -0.0065 | 0.0075 | -0.0189 |
+| -0.0661 | 0.1472 | -0.2632 | 2000 | hr_sd_bpm__60m | between_person_means | 118 | 1634 | -0.0883 | 0.2008 | -0.3540 |
+| -0.0033 | 0.0587 | -0.0641 | 2000 | hr_sd_bpm__60m | within_person_centered | 117 | 1633 | -0.0022 | 0.0389 | -0.0414 |
+| 0.1072 | 0.2683 | -0.0575 | 2000 | hr_latest_bpm__60m | between_person_means | 118 | 1634 | 0.0229 | 0.0576 | -0.0121 |
+| -0.0037 | 0.0582 | -0.0608 | 2000 | hr_latest_bpm__60m | within_person_centered | 117 | 1633 | -0.0006 | 0.0088 | -0.0090 |
+| -0.0402 | 0.1452 | -0.2504 | 2000 | hr_slope_bpm_per_minute__60m | between_person_means | 118 | 1634 | -0.1123 | 0.4132 | -0.8223 |
+| 0.0123 | 0.0749 | -0.0301 | 2000 | hr_slope_bpm_per_minute__60m | within_person_centered | 117 | 1633 | 0.0119 | 0.0842 | -0.0299 |

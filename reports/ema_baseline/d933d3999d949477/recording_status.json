@@ -1,0 +1,842 @@
+[
+  {
+    "lookback_minutes": 5,
+    "n_survey_category": "Endday",
+    "recording_status": "all_readings_rejected",
+    "responses": 5,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 5,
+    "n_survey_category": "Endday",
+    "recording_status": "no_recording",
+    "responses": 555,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 5,
+    "n_survey_category": "Endday",
+    "recording_status": "observed_valid",
+    "responses": 374,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 5,
+    "n_survey_category": "Midday",
+    "recording_status": "all_readings_rejected",
+    "responses": 7,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 5,
+    "n_survey_category": "Midday",
+    "recording_status": "no_recording",
+    "responses": 915,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 5,
+    "n_survey_category": "Midday",
+    "recording_status": "observed_valid",
+    "responses": 916,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 5,
+    "n_survey_category": "Morning",
+    "recording_status": "all_readings_rejected",
+    "responses": 10,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 5,
+    "n_survey_category": "Morning",
+    "recording_status": "no_recording",
+    "responses": 716,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 5,
+    "n_survey_category": "Morning",
+    "recording_status": "observed_valid",
+    "responses": 208,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 15,
+    "n_survey_category": "Endday",
+    "recording_status": "all_readings_rejected",
+    "responses": 12,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 15,
+    "n_survey_category": "Endday",
+    "recording_status": "no_recording",
+    "responses": 533,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 15,
+    "n_survey_category": "Endday",
+    "recording_status": "observed_valid",
+    "responses": 389,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 15,
+    "n_survey_category": "Midday",
+    "recording_status": "all_readings_rejected",
+    "responses": 14,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 15,
+    "n_survey_category": "Midday",
+    "recording_status": "no_recording",
+    "responses": 882,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 15,
+    "n_survey_category": "Midday",
+    "recording_status": "observed_valid",
+    "responses": 942,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 15,
+    "n_survey_category": "Morning",
+    "recording_status": "all_readings_rejected",
+    "responses": 18,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 15,
+    "n_survey_category": "Morning",
+    "recording_status": "no_recording",
+    "responses": 693,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 15,
+    "n_survey_category": "Morning",
+    "recording_status": "observed_valid",
+    "responses": 223,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 30,
+    "n_survey_category": "Endday",
+    "recording_status": "all_readings_rejected",
+    "responses": 14,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 30,
+    "n_survey_category": "Endday",
+    "recording_status": "no_recording",
+    "responses": 509,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 30,
+    "n_survey_category": "Endday",
+    "recording_status": "observed_valid",
+    "responses": 411,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 30,
+    "n_survey_category": "Midday",
+    "recording_status": "all_readings_rejected",
+    "responses": 13,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 30,
+    "n_survey_category": "Midday",
+    "recording_status": "no_recording",
+    "responses": 857,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 30,
+    "n_survey_category": "Midday",
+    "recording_status": "observed_valid",
+    "responses": 968,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 30,
+    "n_survey_category": "Morning",
+    "recording_status": "all_readings_rejected",
+    "responses": 26,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 30,
+    "n_survey_category": "Morning",
+    "recording_status": "no_recording",
+    "responses": 677,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 30,
+    "n_survey_category": "Morning",
+    "recording_status": "observed_valid",
+    "responses": 231,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 60,
+    "n_survey_category": "Endday",
+    "recording_status": "all_readings_rejected",
+    "responses": 16,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 60,
+    "n_survey_category": "Endday",
+    "recording_status": "no_recording",
+    "responses": 467,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 60,
+    "n_survey_category": "Endday",
+    "recording_status": "observed_valid",
+    "responses": 451,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 60,
+    "n_survey_category": "Midday",
+    "recording_status": "all_readings_rejected",
+    "responses": 20,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 60,
+    "n_survey_category": "Midday",
+    "recording_status": "no_recording",
+    "responses": 791,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 60,
+    "n_survey_category": "Midday",
+    "recording_status": "observed_valid",
+    "responses": 1027,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 60,
+    "n_survey_category": "Morning",
+    "recording_status": "all_readings_rejected",
+    "responses": 36,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 60,
+    "n_survey_category": "Morning",
+    "recording_status": "no_recording",
+    "responses": 651,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 60,
+    "n_survey_category": "Morning",
+    "recording_status": "observed_valid",
+    "responses": 247,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 120,
+    "n_survey_category": "Endday",
+    "recording_status": "all_readings_rejected",
+    "responses": 15,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 120,
+    "n_survey_category": "Endday",
+    "recording_status": "no_recording",
+    "responses": 412,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 120,
+    "n_survey_category": "Endday",
+    "recording_status": "observed_valid",
+    "responses": 507,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 120,
+    "n_survey_category": "Midday",
+    "recording_status": "all_readings_rejected",
+    "responses": 22,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 120,
+    "n_survey_category": "Midday",
+    "recording_status": "no_recording",
+    "responses": 683,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 120,
+    "n_survey_category": "Midday",
+    "recording_status": "observed_valid",
+    "responses": 1133,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 120,
+    "n_survey_category": "Morning",
+    "recording_status": "all_readings_rejected",
+    "responses": 45,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 120,
+    "n_survey_category": "Morning",
+    "recording_status": "no_recording",
+    "responses": 632,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 120,
+    "n_survey_category": "Morning",
+    "recording_status": "observed_valid",
+    "responses": 257,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 360,
+    "n_survey_category": "Endday",
+    "recording_status": "all_readings_rejected",
+    "responses": 14,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 360,
+    "n_survey_category": "Endday",
+    "recording_status": "no_recording",
+    "responses": 89,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 360,
+    "n_survey_category": "Endday",
+    "recording_status": "observed_valid",
+    "responses": 831,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 360,
+    "n_survey_category": "Midday",
+    "recording_status": "all_readings_rejected",
+    "responses": 32,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 360,
+    "n_survey_category": "Midday",
+    "recording_status": "no_recording",
+    "responses": 210,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 360,
+    "n_survey_category": "Midday",
+    "recording_status": "observed_valid",
+    "responses": 1596,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 360,
+    "n_survey_category": "Morning",
+    "recording_status": "all_readings_rejected",
+    "responses": 51,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 360,
+    "n_survey_category": "Morning",
+    "recording_status": "no_recording",
+    "responses": 617,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 360,
+    "n_survey_category": "Morning",
+    "recording_status": "observed_valid",
+    "responses": 266,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 720,
+    "n_survey_category": "Endday",
+    "recording_status": "all_readings_rejected",
+    "responses": 13,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 720,
+    "n_survey_category": "Endday",
+    "recording_status": "no_recording",
+    "responses": 53,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 720,
+    "n_survey_category": "Endday",
+    "recording_status": "observed_valid",
+    "responses": 868,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 720,
+    "n_survey_category": "Midday",
+    "recording_status": "all_readings_rejected",
+    "responses": 41,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 720,
+    "n_survey_category": "Midday",
+    "recording_status": "no_recording",
+    "responses": 181,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 720,
+    "n_survey_category": "Midday",
+    "recording_status": "observed_valid",
+    "responses": 1616,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 720,
+    "n_survey_category": "Morning",
+    "recording_status": "all_readings_rejected",
+    "responses": 67,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 720,
+    "n_survey_category": "Morning",
+    "recording_status": "no_recording",
+    "responses": 253,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 720,
+    "n_survey_category": "Morning",
+    "recording_status": "observed_valid",
+    "responses": 614,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 1440,
+    "n_survey_category": "Endday",
+    "recording_status": "all_readings_rejected",
+    "responses": 15,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 1440,
+    "n_survey_category": "Endday",
+    "recording_status": "no_recording",
+    "responses": 37,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 1440,
+    "n_survey_category": "Endday",
+    "recording_status": "observed_valid",
+    "responses": 882,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 1440,
+    "n_survey_category": "Midday",
+    "recording_status": "all_readings_rejected",
+    "responses": 16,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 1440,
+    "n_survey_category": "Midday",
+    "recording_status": "no_recording",
+    "responses": 77,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 1440,
+    "n_survey_category": "Midday",
+    "recording_status": "observed_valid",
+    "responses": 1745,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 1440,
+    "n_survey_category": "Morning",
+    "recording_status": "all_readings_rejected",
+    "responses": 44,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 1440,
+    "n_survey_category": "Morning",
+    "recording_status": "no_recording",
+    "responses": 53,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 1440,
+    "n_survey_category": "Morning",
+    "recording_status": "observed_valid",
+    "responses": 837,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 5,
+    "n_survey_category": "Endday",
+    "recording_status": "no_recording",
+    "responses": 757,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 5,
+    "n_survey_category": "Endday",
+    "recording_status": "observed_valid",
+    "responses": 177,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 5,
+    "n_survey_category": "Midday",
+    "recording_status": "no_recording",
+    "responses": 1296,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 5,
+    "n_survey_category": "Midday",
+    "recording_status": "observed_valid",
+    "responses": 542,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 5,
+    "n_survey_category": "Morning",
+    "recording_status": "no_recording",
+    "responses": 826,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 5,
+    "n_survey_category": "Morning",
+    "recording_status": "observed_valid",
+    "responses": 108,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 15,
+    "n_survey_category": "Endday",
+    "recording_status": "no_recording",
+    "responses": 654,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 15,
+    "n_survey_category": "Endday",
+    "recording_status": "observed_valid",
+    "responses": 280,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 15,
+    "n_survey_category": "Midday",
+    "recording_status": "no_recording",
+    "responses": 1105,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 15,
+    "n_survey_category": "Midday",
+    "recording_status": "observed_valid",
+    "responses": 733,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 15,
+    "n_survey_category": "Morning",
+    "recording_status": "no_recording",
+    "responses": 763,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 15,
+    "n_survey_category": "Morning",
+    "recording_status": "observed_valid",
+    "responses": 171,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 30,
+    "n_survey_category": "Endday",
+    "recording_status": "no_recording",
+    "responses": 578,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 30,
+    "n_survey_category": "Endday",
+    "recording_status": "observed_valid",
+    "responses": 356,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 30,
+    "n_survey_category": "Midday",
+    "recording_status": "no_recording",
+    "responses": 987,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 30,
+    "n_survey_category": "Midday",
+    "recording_status": "observed_valid",
+    "responses": 851,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 30,
+    "n_survey_category": "Morning",
+    "recording_status": "no_recording",
+    "responses": 719,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 30,
+    "n_survey_category": "Morning",
+    "recording_status": "observed_valid",
+    "responses": 215,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 60,
+    "n_survey_category": "Endday",
+    "recording_status": "no_recording",
+    "responses": 502,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 60,
+    "n_survey_category": "Endday",
+    "recording_status": "observed_valid",
+    "responses": 432,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 60,
+    "n_survey_category": "Midday",
+    "recording_status": "no_recording",
+    "responses": 874,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 60,
+    "n_survey_category": "Midday",
+    "recording_status": "observed_valid",
+    "responses": 964,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 60,
+    "n_survey_category": "Morning",
+    "recording_status": "no_recording",
+    "responses": 680,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 60,
+    "n_survey_category": "Morning",
+    "recording_status": "observed_valid",
+    "responses": 254,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 120,
+    "n_survey_category": "Endday",
+    "recording_status": "no_recording",
+    "responses": 433,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 120,
+    "n_survey_category": "Endday",
+    "recording_status": "observed_valid",
+    "responses": 501,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 120,
+    "n_survey_category": "Midday",
+    "recording_status": "no_recording",
+    "responses": 732,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 120,
+    "n_survey_category": "Midday",
+    "recording_status": "observed_valid",
+    "responses": 1106,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 120,
+    "n_survey_category": "Morning",
+    "recording_status": "no_recording",
+    "responses": 654,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 120,
+    "n_survey_category": "Morning",
+    "recording_status": "observed_valid",
+    "responses": 280,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 360,
+    "n_survey_category": "Endday",
+    "recording_status": "no_recording",
+    "responses": 98,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 360,
+    "n_survey_category": "Endday",
+    "recording_status": "observed_valid",
+    "responses": 836,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 360,
+    "n_survey_category": "Midday",
+    "recording_status": "no_recording",
+    "responses": 222,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 360,
+    "n_survey_category": "Midday",
+    "recording_status": "observed_valid",
+    "responses": 1616,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 360,
+    "n_survey_category": "Morning",
+    "recording_status": "no_recording",
+    "responses": 633,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 360,
+    "n_survey_category": "Morning",
+    "recording_status": "observed_valid",
+    "responses": 301,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 720,
+    "n_survey_category": "Endday",
+    "recording_status": "no_recording",
+    "responses": 54,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 720,
+    "n_survey_category": "Endday",
+    "recording_status": "observed_valid",
+    "responses": 880,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 720,
+    "n_survey_category": "Midday",
+    "recording_status": "no_recording",
+    "responses": 189,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 720,
+    "n_survey_category": "Midday",
+    "recording_status": "observed_valid",
+    "responses": 1649,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 720,
+    "n_survey_category": "Morning",
+    "recording_status": "no_recording",
+    "responses": 272,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 720,
+    "n_survey_category": "Morning",
+    "recording_status": "observed_valid",
+    "responses": 662,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 1440,
+    "n_survey_category": "Endday",
+    "recording_status": "no_recording",
+    "responses": 37,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 1440,
+    "n_survey_category": "Endday",
+    "recording_status": "observed_valid",
+    "responses": 897,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 1440,
+    "n_survey_category": "Midday",
+    "recording_status": "no_recording",
+    "responses": 79,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 1440,
+    "n_survey_category": "Midday",
+    "recording_status": "observed_valid",
+    "responses": 1759,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 1440,
+    "n_survey_category": "Morning",
+    "recording_status": "no_recording",
+    "responses": 50,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 1440,
+    "n_survey_category": "Morning",
+    "recording_status": "observed_valid",
+    "responses": 884,
+    "sensor": "steps"
+  }
+]

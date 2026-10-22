@@ -1,0 +1,90 @@
+[
+  {
+    "cohort": "common",
+    "eligible_without_oof": 0,
+    "excluded_responses": 743,
+    "limited_interpretation": false,
+    "oof_participants": 74,
+    "oof_responses": 191,
+    "participants": 74,
+    "responses": 191,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "eligible_without_oof": 0,
+    "excluded_responses": 701,
+    "limited_interpretation": false,
+    "oof_participants": 87,
+    "oof_responses": 233,
+    "participants": 87,
+    "responses": 233,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "eligible_without_oof": 0,
+    "excluded_responses": 743,
+    "limited_interpretation": false,
+    "oof_participants": 74,
+    "oof_responses": 191,
+    "participants": 74,
+    "responses": 191,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "eligible_without_oof": 0,
+    "excluded_responses": 707,
+    "limited_interpretation": false,
+    "oof_participants": 86,
+    "oof_responses": 227,
+    "participants": 86,
+    "responses": 227,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "common",
+    "eligible_without_oof": 0,
+    "excluded_responses": 743,
+    "limited_interpretation": false,
+    "oof_participants": 74,
+    "oof_responses": 191,
+    "participants": 74,
+    "responses": 191,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "eligible_without_oof": 0,
+    "excluded_responses": 701,
+    "limited_interpretation": false,
+    "oof_participants": 87,
+    "oof_responses": 233,
+    "participants": 87,
+    "responses": 233,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "eligible_without_oof": 0,
+    "excluded_responses": 743,
+    "limited_interpretation": false,
+    "oof_participants": 74,
+    "oof_responses": 191,
+    "participants": 74,
+    "responses": 191,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "eligible_without_oof": 0,
+    "excluded_responses": 707,
+    "limited_interpretation": false,
+    "oof_participants": 86,
+    "oof_responses": 227,
+    "participants": 86,
+    "responses": 227,
+    "scenario": "reported_minute_start"
+  }
+]

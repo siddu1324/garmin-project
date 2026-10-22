@@ -1,0 +1,56 @@
+[
+  {
+    "all_hr_observed": false,
+    "mean_score": 6.340122199592668,
+    "median_score": 6.0,
+    "participants": 114,
+    "responses": 492,
+    "survey": "Endday",
+    "valid_scores": 491
+  },
+  {
+    "all_hr_observed": false,
+    "mean_score": 6.387543252595155,
+    "median_score": 6.0,
+    "participants": 120,
+    "responses": 871,
+    "survey": "Midday",
+    "valid_scores": 867
+  },
+  {
+    "all_hr_observed": false,
+    "mean_score": 6.717360114777619,
+    "median_score": 7.0,
+    "participants": 125,
+    "responses": 700,
+    "survey": "Morning",
+    "valid_scores": 697
+  },
+  {
+    "all_hr_observed": true,
+    "mean_score": 6.215419501133787,
+    "median_score": 6.0,
+    "participants": 104,
+    "responses": 442,
+    "survey": "Endday",
+    "valid_scores": 441
+  },
+  {
+    "all_hr_observed": true,
+    "mean_score": 6.304483837330553,
+    "median_score": 6.0,
+    "participants": 117,
+    "responses": 967,
+    "survey": "Midday",
+    "valid_scores": 959
+  },
+  {
+    "all_hr_observed": true,
+    "mean_score": 6.4743589743589745,
+    "median_score": 6.0,
+    "participants": 88,
+    "responses": 234,
+    "survey": "Morning",
+    "valid_scores": 234
+  }
+]

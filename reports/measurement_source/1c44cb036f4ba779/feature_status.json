@@ -1,0 +1,56 @@
+[
+  {
+    "feature": "Observed HR mean/median/SD/extrema/quantiles/latest/slope",
+    "interpretation_limit": "Accepted exported observations only, not continuous or necessarily live physiology",
+    "required_evidence": "Confirm clocks, units and caching/smoothing",
+    "status": "Implemented; computationally supported, timing provisional"
+  },
+  {
+    "feature": "Supported step additions; sparse floors",
+    "interpretation_limit": "Only accepted original endpoint pairs; not complete-window activity",
+    "required_evidence": "Confirm cumulative counter, resets and event interval",
+    "status": "Implemented provisionally; floors not in current models"
+  },
+  {
+    "feature": "Earlier-recording HR mean and deviations",
+    "interpretation_limit": "Unlabeled prior observed UTC-minute means; not resting HR/daily baseline",
+    "required_evidence": "Confirm event times and observation availability",
+    "status": "Implemented exploratory; no established added predictive value"
+  },
+  {
+    "feature": "Mean/median IBI, sample SDNN, original-pair RMSSD/pNN50",
+    "interpretation_limit": "IBI variability\u2014normal-beat status unverified; \u2265240-second runs, not full five-minute HRV",
+    "required_evidence": "Resolve units, interval order/anchor, missing beats and source quality",
+    "status": "Limited 20-row pilot only; arithmetic checked"
+  },
+  {
+    "feature": "Expanded physiological HRV, spectral/nonlinear features",
+    "interpretation_limit": "No proven uninterrupted NN input or appropriate timing support",
+    "required_evidence": "Original timestamped payload and validated quality/input contract",
+    "status": "Blocked/deferred, not computed here"
+  },
+  {
+    "feature": "Recall-aligned Morning windows",
+    "interpretation_limit": "Current-survey wake response cannot establish a pre-response boundary",
+    "required_evidence": "Clarify wake/start clock precision; prospectively available boundary if real-time aim",
+    "status": "Implemented retrospective experiment only"
+  },
+  {
+    "feature": "Midday/Endday recall-aligned windows",
+    "interpretation_limit": "Since last prompt does not mean since last completed survey or whole day",
+    "required_evidence": "Full prompt delivery/suppression logs and intended recall semantics",
+    "status": "Blocked by missing prompt-event history"
+  },
+  {
+    "feature": "Calorie/intensity increments and additional sensors",
+    "interpretation_limit": "Counter units/reset/update semantics or independent scientific specification absent",
+    "required_evidence": "Confirm exporter definitions before separately specified work",
+    "status": "Untested/blocked candidates; no new predictors"
+  },
+  {
+    "feature": "Garmin stress and quality columns",
+    "interpretation_limit": "Quality remains diagnostic; no automatic expansion",
+    "required_evidence": "No change authorized by this evidence review",
+    "status": "Excluded from predictors"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "baseline_bundle": "private/ema_baseline/runs/640600af77404ff6",
+  "feature_bundle": "private/hr_activity/features/76f5885b3955d5b0",
+  "lookbacks_minutes": [5, 15, 30, 60, 120, 360, 720, 1440],
+  "occupancy_numerator": 4,
+  "occupancy_denominator": 5,
+  "freshness_seconds": 60,
+  "quantile": 0.5,
+  "quantile_alpha": 0.01,
+  "quantile_solver": "highs",
+  "bootstrap_draws": 2000,
+  "bootstrap_seed": 20261005,
+  "minimum_training_responses": 2,
+  "minimum_training_participants": 2,
+  "small_cohort_responses": 100,
+  "small_cohort_participants": 30,
+  "small_validation_participants_per_fold": 5
+}

@@ -1,0 +1,28 @@
+{
+  "aggregate_only": true,
+  "artifact_sha256": {
+    "cohorts.json": "063d81e23ae15ad9c9e9eb05961cce8d9071bb1e914e0d7c92dab78451f20f62",
+    "composition.json": "61db55264c25b6942f881b231672aeb5a6dbc4f4d13951a1bd73b2317239204c",
+    "fold_counts.json": "8dc71ad41143c196bb4ee6c3be172c21a1c14425dcbd6d47c1642c709405f0fc",
+    "loss_comparison.png": "366ffd5088b3c110c041518af7a5c41afaea40255f3206faebae18183d856d8e",
+    "metrics.json": "886cd554073493de405458242ba300139a6a22ff4057434cf69728922e68c1ed",
+    "occupancy_verification.json": "3533d8e57ea5eb06ae622fb329caede0df6bfd81f35f6af1dd7c571258ad4c4a",
+    "paired_intervals.json": "3a6355d110a01940787835a0a4d1a3cd9e74868303e29161b530dcca23122729",
+    "pooled_metrics.md": "04af54840bfd395748c222b37cba55d4289eb6c3fbaa7c43fc3ab01888d5b466",
+    "prediction_variability.json": "1eaac089f2f710da6cf852cf7898d0e24272c1ee3c22208d1852b367c0d76ed1",
+    "quality_diagnostics.json": "a61de2ea3acf01f94cb6a51a2d2744a43f9ff39b6c44517541b0b3533b88e071",
+    "quantile_fit_diagnostics.json": "518665e740fb994eae1b46e4e3b9e027ab0cf1ac76f1890ff42f2bf40ee67a15",
+    "recording_diagnostics.png": "a9afe7cd08da5a15794973e482327cb085e58190c9127c348522d3feea434582",
+    "report.md": "a8ae2414af0de059e1142f2a012d1b389515f855dd35d6942b145f8826da67b1",
+    "retained_excluded.md": "7631e3787ea4f16fc76f252ec9700e16a6d976372cc484cb4912b9743f7d8e2b",
+    "retention.png": "ebaf72d54215175006a082f7da6bfda7a229ad6bb650a9b82aa18721a6aae03b",
+    "retraining_intervals.json": "c08d16bb9c19702979602ee906dacac58f897ce7f9adddb32a5dee54872cecca",
+    "support_comparisons.png": "450e30e5f92135024b85fbec644899d3c409b22cac8d46f7c72b4d74f61d516d"
+  },
+  "complete": true,
+  "inputs": {
+    "report_source": "f6796c21f64c1f9fb21880615b78b2a4f7c5308d54a7935adc99e7f7deca3820",
+    "run_manifest": "f0c93ccc0d81237e385a98169876983fad7c4896740fc5a7496141fcb4a67aa5"
+  },
+  "version": "838b9efbf4bfd731"
+}

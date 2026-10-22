@@ -1,0 +1,74 @@
+[
+  {
+    "leave_one_participant_out_max": 0.5021166251833682,
+    "leave_one_participant_out_min": 0.4786369035730429,
+    "model": "compact_none",
+    "task": "A"
+  },
+  {
+    "leave_one_participant_out_max": 0.4639945682779624,
+    "leave_one_participant_out_min": 0.4441521011353886,
+    "model": "compact_smote",
+    "task": "A"
+  },
+  {
+    "leave_one_participant_out_max": 0.48356341643175493,
+    "leave_one_participant_out_min": 0.47298876421268315,
+    "model": "context",
+    "task": "A"
+  },
+  {
+    "leave_one_participant_out_max": 0.5131841649609628,
+    "leave_one_participant_out_min": 0.4957397111865909,
+    "model": "full1440",
+    "task": "A"
+  },
+  {
+    "leave_one_participant_out_max": 0.5143608196574299,
+    "leave_one_participant_out_min": 0.49955811882511425,
+    "model": "full360",
+    "task": "A"
+  },
+  {
+    "leave_one_participant_out_max": 0.48557992167657704,
+    "leave_one_participant_out_min": 0.475007092954482,
+    "model": "full720",
+    "task": "A"
+  },
+  {
+    "leave_one_participant_out_max": 0.5122249278499279,
+    "leave_one_participant_out_min": 0.4827238335435056,
+    "model": "compact_none",
+    "task": "B"
+  },
+  {
+    "leave_one_participant_out_max": 0.5015029117707689,
+    "leave_one_participant_out_min": 0.4803174685716515,
+    "model": "compact_smote",
+    "task": "B"
+  },
+  {
+    "leave_one_participant_out_max": 0.5214671546131746,
+    "leave_one_participant_out_min": 0.5091975680649178,
+    "model": "context",
+    "task": "B"
+  },
+  {
+    "leave_one_participant_out_max": 0.49427139532767383,
+    "leave_one_participant_out_min": 0.467486812315837,
+    "model": "full1440",
+    "task": "B"
+  },
+  {
+    "leave_one_participant_out_max": 0.5191023757988045,
+    "leave_one_participant_out_min": 0.5063284057181008,
+    "model": "full360",
+    "task": "B"
+  },
+  {
+    "leave_one_participant_out_max": 0.5206461824469261,
+    "leave_one_participant_out_min": 0.4959317168594805,
+    "model": "full720",
+    "task": "B"
+  }
+]

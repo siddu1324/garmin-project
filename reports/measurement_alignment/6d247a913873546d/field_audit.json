@@ -1,0 +1,202 @@
+[
+  {
+    "denominator": 3706,
+    "development_missing": 0,
+    "field": "actual_start_local",
+    "meaning": "actual survey start, not delivery/submission",
+    "precision": "minute/second",
+    "source": "private/preprocessing/normalized/31e51c934bcdeffa/ema/development_ema.parquet",
+    "status": "verified",
+    "synthetic_example": "2030-01-01 09:22"
+  },
+  {
+    "denominator": 3706,
+    "development_missing": 0,
+    "field": "scheduled_start_local",
+    "meaning": "exported schedule, not verified notification",
+    "precision": "minute/second",
+    "source": "private/preprocessing/normalized/31e51c934bcdeffa/ema/development_ema.parquet",
+    "status": "verified",
+    "synthetic_example": "2030-01-01 09:20"
+  },
+  {
+    "denominator": 3706,
+    "development_missing": 0,
+    "field": "timezone_offset",
+    "meaning": "local minus UTC in minutes",
+    "precision": "numeric minutes",
+    "source": "private/preprocessing/normalized/31e51c934bcdeffa/ema/development_ema.parquet",
+    "status": "verified",
+    "synthetic_example": "-240"
+  },
+  {
+    "denominator": 3706,
+    "development_missing": 0,
+    "field": "instance_id",
+    "meaning": "export instance key; not a delivered-prompt event log",
+    "precision": "identifier",
+    "source": "private/preprocessing/normalized/31e51c934bcdeffa/ema/development_ema.parquet",
+    "status": "provisional",
+    "synthetic_example": "SYNTHETIC_INSTANCE"
+  },
+  {
+    "denominator": 3706,
+    "development_missing": 0,
+    "field": "rsp_id",
+    "meaning": "response identifier; mapping preserved",
+    "precision": "identifier",
+    "source": "private/preprocessing/normalized/31e51c934bcdeffa/ema/development_ema.parquet",
+    "status": "provisional",
+    "synthetic_example": "SYNTHETIC_RESPONSE"
+  },
+  {
+    "denominator": 3706,
+    "development_missing": 0,
+    "field": "mbl_cod",
+    "meaning": "participant identity via frozen verified crosswalk",
+    "precision": "identifier",
+    "source": "private/preprocessing/normalized/31e51c934bcdeffa/ema/development_ema.parquet",
+    "status": "verified",
+    "synthetic_example": "SYNTHETIC_PERSON"
+  },
+  {
+    "denominator": 3706,
+    "development_missing": 2779,
+    "field": "MORNING_SURVEY_COMPLETED",
+    "meaning": "status field, not completion timestamp",
+    "precision": "categorical",
+    "source": "private/preprocessing/normalized/31e51c934bcdeffa/ema/development_ema.parquet",
+    "status": "provisional",
+    "synthetic_example": "synthetic status"
+  },
+  {
+    "denominator": 3706,
+    "development_missing": 2775,
+    "field": "SLEEP_WAKETIME",
+    "meaning": "current-response waking answer, retrospective only",
+    "precision": "clock text",
+    "source": "private/preprocessing/normalized/31e51c934bcdeffa/ema/development_ema.parquet",
+    "status": "provisional",
+    "synthetic_example": "07:30"
+  },
+  {
+    "denominator": 3706,
+    "development_missing": 1526,
+    "field": "Location Timestamp",
+    "meaning": "location clock, not survey delivery/completion",
+    "precision": "unverified",
+    "source": "private/preprocessing/normalized/31e51c934bcdeffa/ema/development_ema.parquet",
+    "status": "unsupported",
+    "synthetic_example": "synthetic location time"
+  },
+  {
+    "denominator": 3706,
+    "development_missing": 0,
+    "field": "n_actual_utc",
+    "meaning": "actual_start_local minus row offset",
+    "precision": "derived",
+    "source": "private/preprocessing/normalized/31e51c934bcdeffa/ema/development_ema.parquet",
+    "status": "verified",
+    "synthetic_example": "2030-01-01T13:22Z"
+  },
+  {
+    "denominator": 3706,
+    "development_missing": 0,
+    "field": "n_cutoff_epoch",
+    "meaning": "actual UTC minus 60 seconds if minute resolution",
+    "precision": "derived Unix seconds",
+    "source": "private/preprocessing/normalized/31e51c934bcdeffa/ema/development_ema.parquet",
+    "status": "verified",
+    "synthetic_example": "synthetic epoch"
+  },
+  {
+    "denominator": 3706,
+    "development_missing": 0,
+    "field": "n_source_row",
+    "meaning": "original CSV data row, header excluded",
+    "precision": "integer",
+    "source": "private/preprocessing/normalized/31e51c934bcdeffa/ema/development_ema.parquet",
+    "status": "verified",
+    "synthetic_example": "1"
+  },
+  {
+    "denominator": 3706,
+    "development_missing": 0,
+    "field": "n_source_sha256",
+    "meaning": "original uncompressed CSV hash",
+    "precision": "SHA256",
+    "source": "private/preprocessing/normalized/31e51c934bcdeffa/ema/development_ema.parquet",
+    "status": "verified",
+    "synthetic_example": "synthetic hash"
+  },
+  {
+    "denominator": 3706,
+    "development_missing": 3706,
+    "field": "delivered_prompt",
+    "meaning": "No verified event-time/quality contract in local exports",
+    "status": "missing"
+  },
+  {
+    "denominator": 3706,
+    "development_missing": 3706,
+    "field": "answer_submitted",
+    "meaning": "No verified event-time/quality contract in local exports",
+    "status": "missing"
+  },
+  {
+    "denominator": 3706,
+    "development_missing": 3706,
+    "field": "answer_received",
+    "meaning": "No verified event-time/quality contract in local exports",
+    "status": "missing"
+  },
+  {
+    "denominator": 3706,
+    "development_missing": 3706,
+    "field": "answer_version",
+    "meaning": "No verified event-time/quality contract in local exports",
+    "status": "missing"
+  },
+  {
+    "denominator": 3706,
+    "development_missing": 3706,
+    "field": "independent_wake",
+    "meaning": "No verified event-time/quality contract in local exports",
+    "status": "missing"
+  },
+  {
+    "denominator": 3706,
+    "development_missing": 3706,
+    "field": "sensor_acquisition",
+    "meaning": "No verified event-time/quality contract in local exports",
+    "status": "missing"
+  },
+  {
+    "denominator": 3706,
+    "development_missing": 3706,
+    "field": "sensor_callback",
+    "meaning": "No verified event-time/quality contract in local exports",
+    "status": "missing"
+  },
+  {
+    "denominator": 3706,
+    "development_missing": 3706,
+    "field": "sensor_upload",
+    "meaning": "No verified event-time/quality contract in local exports",
+    "status": "missing"
+  },
+  {
+    "denominator": 3706,
+    "development_missing": 3706,
+    "field": "device_quality",
+    "meaning": "No verified event-time/quality contract in local exports",
+    "status": "missing"
+  },
+  {
+    "denominator": 3706,
+    "development_missing": 3706,
+    "field": "wear_status",
+    "meaning": "No verified event-time/quality contract in local exports",
+    "status": "missing"
+  }
+]

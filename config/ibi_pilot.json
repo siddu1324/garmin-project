@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "normalized_bundle": "private/preprocessing/normalized/31e51c934bcdeffa",
+  "eligibility_bundle": "private/preprocessing/eligibility/6747223eb50269ba",
+  "input_diagnostics_bundle": "private/hrv_input_validation/diagnostics/bc13763b35972be4",
+  "policy_name": "screen",
+  "scenarios": ["interval_end", "interval_start"],
+  "lookbacks_minutes": [5, 15, 30, 60, 120, 360, 720, 1440],
+  "minimum_run_span_seconds": 240,
+  "minimum_run_supported_seconds": 240,
+  "maximum_runs_per_hypothesis": 10,
+  "maximum_runs_per_participant_per_hypothesis": 1,
+  "selection_rule": "overlap_components_then_earliest_run_per_participant_then_global_chronology",
+  "tie_breakers": ["first_timestamp", "last_timestamp", "ema_cutoff", "window_end", "ema_id", "directory", "first_logical_row", "last_logical_row"],
+  "label": "IBI variability—normal-beat status unverified",
+  "features": ["mean_ibi_ms", "median_ibi_ms", "sdnn_sample_ms", "rmssd_ms", "pnn50_pairs_percent"],
+  "package_comparison_rtol": 1e-10,
+  "package_comparison_atol": 1e-8
+}

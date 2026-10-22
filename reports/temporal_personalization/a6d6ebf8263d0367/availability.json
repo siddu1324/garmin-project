@@ -1,0 +1,362 @@
+[
+  {
+    "available": 1705,
+    "available_participants": 120,
+    "cohort": "all",
+    "feature": "hr__mean__60m",
+    "missing": 1984,
+    "responses": 3689
+  },
+  {
+    "available": 1705,
+    "available_participants": 120,
+    "cohort": "all",
+    "feature": "hr__sd__60m",
+    "missing": 1984,
+    "responses": 3689
+  },
+  {
+    "available": 1716,
+    "available_participants": 120,
+    "cohort": "all",
+    "feature": "hr__latest__60m",
+    "missing": 1973,
+    "responses": 3689
+  },
+  {
+    "available": 1634,
+    "available_participants": 118,
+    "cohort": "all",
+    "feature": "hr__slope__60m",
+    "missing": 2055,
+    "responses": 3689
+  },
+  {
+    "available": 1402,
+    "available_participants": 113,
+    "cohort": "all",
+    "feature": "steps__supported_rate__60m",
+    "missing": 2287,
+    "responses": 3689
+  },
+  {
+    "available": 3046,
+    "available_participants": 121,
+    "cohort": "all",
+    "feature": "reference_mean_bpm",
+    "missing": 643,
+    "responses": 3689
+  },
+  {
+    "available": 1631,
+    "available_participants": 117,
+    "cohort": "all",
+    "feature": "hr_mean_deviation_bpm",
+    "missing": 2058,
+    "responses": 3689
+  },
+  {
+    "available": 1640,
+    "available_participants": 118,
+    "cohort": "all",
+    "feature": "hr_latest_deviation_bpm",
+    "missing": 2049,
+    "responses": 3689
+  },
+  {
+    "available": 1652,
+    "available_participants": 119,
+    "cohort": "all",
+    "feature": "hr__observed_minute_sd__60m",
+    "missing": 2037,
+    "responses": 3689
+  },
+  {
+    "available": 1313,
+    "available_participants": 117,
+    "cohort": "all",
+    "feature": "hr__half_mean_change__60m",
+    "missing": 2376,
+    "responses": 3689
+  },
+  {
+    "available": 1367,
+    "available_participants": 116,
+    "cohort": "all",
+    "feature": "multiscale__adjacent_mean_difference__60m",
+    "missing": 2322,
+    "responses": 3689
+  },
+  {
+    "available": 279,
+    "available_participants": 79,
+    "cohort": "all",
+    "feature": "interaction__hr_zero_step_mean__60m",
+    "missing": 3410,
+    "responses": 3689
+  },
+  {
+    "available": 1848,
+    "available_participants": 119,
+    "cohort": "all",
+    "feature": "clock_reference_mean",
+    "missing": 1841,
+    "responses": 3689
+  },
+  {
+    "available": 931,
+    "available_participants": 109,
+    "cohort": "all",
+    "feature": "clock_mean_deviation",
+    "missing": 2758,
+    "responses": 3689
+  },
+  {
+    "available": 1404,
+    "available_participants": 93,
+    "cohort": "all",
+    "feature": "step_block_rate_change",
+    "missing": 2285,
+    "responses": 3689
+  },
+  {
+    "available": 1312,
+    "available_participants": 112,
+    "cohort": "observed",
+    "feature": "hr__mean__60m",
+    "missing": 0,
+    "responses": 1312
+  },
+  {
+    "available": 1312,
+    "available_participants": 112,
+    "cohort": "observed",
+    "feature": "hr__sd__60m",
+    "missing": 0,
+    "responses": 1312
+  },
+  {
+    "available": 1312,
+    "available_participants": 112,
+    "cohort": "observed",
+    "feature": "hr__latest__60m",
+    "missing": 0,
+    "responses": 1312
+  },
+  {
+    "available": 1312,
+    "available_participants": 112,
+    "cohort": "observed",
+    "feature": "hr__slope__60m",
+    "missing": 0,
+    "responses": 1312
+  },
+  {
+    "available": 1312,
+    "available_participants": 112,
+    "cohort": "observed",
+    "feature": "steps__supported_rate__60m",
+    "missing": 0,
+    "responses": 1312
+  },
+  {
+    "available": 1312,
+    "available_participants": 112,
+    "cohort": "observed",
+    "feature": "reference_mean_bpm",
+    "missing": 0,
+    "responses": 1312
+  },
+  {
+    "available": 1312,
+    "available_participants": 112,
+    "cohort": "observed",
+    "feature": "hr_mean_deviation_bpm",
+    "missing": 0,
+    "responses": 1312
+  },
+  {
+    "available": 1312,
+    "available_participants": 112,
+    "cohort": "observed",
+    "feature": "hr_latest_deviation_bpm",
+    "missing": 0,
+    "responses": 1312
+  },
+  {
+    "available": 1312,
+    "available_participants": 112,
+    "cohort": "observed",
+    "feature": "hr__observed_minute_sd__60m",
+    "missing": 0,
+    "responses": 1312
+  },
+  {
+    "available": 1136,
+    "available_participants": 110,
+    "cohort": "observed",
+    "feature": "hr__half_mean_change__60m",
+    "missing": 176,
+    "responses": 1312
+  },
+  {
+    "available": 1161,
+    "available_participants": 111,
+    "cohort": "observed",
+    "feature": "multiscale__adjacent_mean_difference__60m",
+    "missing": 151,
+    "responses": 1312
+  },
+  {
+    "available": 271,
+    "available_participants": 77,
+    "cohort": "observed",
+    "feature": "interaction__hr_zero_step_mean__60m",
+    "missing": 1041,
+    "responses": 1312
+  },
+  {
+    "available": 741,
+    "available_participants": 103,
+    "cohort": "observed",
+    "feature": "clock_reference_mean",
+    "missing": 571,
+    "responses": 1312
+  },
+  {
+    "available": 741,
+    "available_participants": 103,
+    "cohort": "observed",
+    "feature": "clock_mean_deviation",
+    "missing": 571,
+    "responses": 1312
+  },
+  {
+    "available": 810,
+    "available_participants": 86,
+    "cohort": "observed",
+    "feature": "step_block_rate_change",
+    "missing": 502,
+    "responses": 1312
+  },
+  {
+    "available": 1115,
+    "available_participants": 104,
+    "cohort": "supported",
+    "feature": "hr__mean__60m",
+    "missing": 0,
+    "responses": 1115
+  },
+  {
+    "available": 1115,
+    "available_participants": 104,
+    "cohort": "supported",
+    "feature": "hr__sd__60m",
+    "missing": 0,
+    "responses": 1115
+  },
+  {
+    "available": 1115,
+    "available_participants": 104,
+    "cohort": "supported",
+    "feature": "hr__latest__60m",
+    "missing": 0,
+    "responses": 1115
+  },
+  {
+    "available": 1115,
+    "available_participants": 104,
+    "cohort": "supported",
+    "feature": "hr__slope__60m",
+    "missing": 0,
+    "responses": 1115
+  },
+  {
+    "available": 995,
+    "available_participants": 102,
+    "cohort": "supported",
+    "feature": "steps__supported_rate__60m",
+    "missing": 120,
+    "responses": 1115
+  },
+  {
+    "available": 1101,
+    "available_participants": 103,
+    "cohort": "supported",
+    "feature": "reference_mean_bpm",
+    "missing": 14,
+    "responses": 1115
+  },
+  {
+    "available": 1101,
+    "available_participants": 103,
+    "cohort": "supported",
+    "feature": "hr_mean_deviation_bpm",
+    "missing": 14,
+    "responses": 1115
+  },
+  {
+    "available": 1101,
+    "available_participants": 103,
+    "cohort": "supported",
+    "feature": "hr_latest_deviation_bpm",
+    "missing": 14,
+    "responses": 1115
+  },
+  {
+    "available": 1115,
+    "available_participants": 104,
+    "cohort": "supported",
+    "feature": "hr__observed_minute_sd__60m",
+    "missing": 0,
+    "responses": 1115
+  },
+  {
+    "available": 1115,
+    "available_participants": 104,
+    "cohort": "supported",
+    "feature": "hr__half_mean_change__60m",
+    "missing": 0,
+    "responses": 1115
+  },
+  {
+    "available": 1088,
+    "available_participants": 102,
+    "cohort": "supported",
+    "feature": "multiscale__adjacent_mean_difference__60m",
+    "missing": 27,
+    "responses": 1115
+  },
+  {
+    "available": 224,
+    "available_participants": 64,
+    "cohort": "supported",
+    "feature": "interaction__hr_zero_step_mean__60m",
+    "missing": 891,
+    "responses": 1115
+  },
+  {
+    "available": 632,
+    "available_participants": 91,
+    "cohort": "supported",
+    "feature": "clock_reference_mean",
+    "missing": 483,
+    "responses": 1115
+  },
+  {
+    "available": 632,
+    "available_participants": 91,
+    "cohort": "supported",
+    "feature": "clock_mean_deviation",
+    "missing": 483,
+    "responses": 1115
+  },
+  {
+    "available": 690,
+    "available_participants": 80,
+    "cohort": "supported",
+    "feature": "step_block_rate_change",
+    "missing": 425,
+    "responses": 1115
+  }
+]

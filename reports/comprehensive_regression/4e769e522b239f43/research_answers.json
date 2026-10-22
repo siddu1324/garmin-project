@@ -1,0 +1,26 @@
+[
+  {
+    "answer": "No full-feature model has a lower point MAE than the median dummy (2.209). Even the lowest learned main comparison, Original HR4 + steps \u00b7 60m / Histogram boosting, has MAE 2.211.",
+    "question": "Do expanded features improve continuous prediction?"
+  },
+  {
+    "answer": "0 of seven full-versus-context paired intervals supports lower MAE. The matched full models often worsen error; the quality/missingness controls do not establish a physiological signal.",
+    "question": "Do physiological values add beyond context?"
+  },
+  {
+    "answer": "The lowest selected-feature point MAE is 2.244, still above the median baseline. Single-window and multiwindow results do not justify an optimal scale. PulseOx stays provisional and does not rescue the full benchmark.",
+    "question": "Do selection or longer windows solve this?"
+  },
+  {
+    "answer": "Full XGBoost minus full Ridge MAE is -0.032 (95% interval -0.063 to -0.001). That modest conditional advantage does not beat the matching median/context baseline. The compared losses also differ; this is not isolated evidence for nonlinearity.",
+    "question": "Do nonlinear models outperform Ridge?"
+  },
+  {
+    "answer": "For the 515 responses scoring 10\u201315, actual mean PSS is 11.16. Full-model mean predictions are about 6.1\u20136.5, with MAE about 4.7\u20135.1. Higher-score underprediction remains severe.",
+    "question": "Can the models identify higher continuous scores?"
+  },
+  {
+    "answer": "Synthetic controls, exact legacy replays and estimator replays passed. This rules out the tested computational errors, not all possible errors. Sparse/stale readings, recall mismatch and source semantics remain plausible limitations; this benchmark cannot identify their causal contribution.",
+    "question": "Is the problem implementation, sparsity or weak physiology?"
+  }
+]

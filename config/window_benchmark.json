@@ -1,0 +1,58 @@
+{
+  "audit_cohorts": [
+    "pair_fixed_60",
+    "common"
+  ],
+  "audit_scenarios": [
+    "reported_minute_start",
+    "reported_minute_end_sensitivity"
+  ],
+  "baseline_bundle": "private/ema_baseline/runs/640600af77404ff6",
+  "bootstrap_draws": 2000,
+  "bootstrap_seed": 20261002,
+  "feature_bundle": "private/hr_activity/features/76f5885b3955d5b0",
+  "hgb_fixed": {
+    "categorical_features": null,
+    "early_stopping": false,
+    "l2_regularization": 1,
+    "learning_rate": 0.05,
+    "loss": "absolute_error",
+    "min_samples_leaf": 20,
+    "random_state": 20261006
+  },
+  "hgb_grid": [
+    {
+      "max_depth": 1,
+      "max_iter": 50
+    },
+    {
+      "max_depth": 1,
+      "max_iter": 150
+    },
+    {
+      "max_depth": 2,
+      "max_iter": 50
+    },
+    {
+      "max_depth": 2,
+      "max_iter": 150
+    }
+  ],
+  "inner_splits": 3,
+  "lookback_minutes": 60,
+  "morning_bundle": "private/morning_recall/runs/4c844f737b74ee62",
+  "near_feature_tolerances": [
+    1,
+    1,
+    1,
+    0.1
+  ],
+  "ridge_alphas": [
+    0.1,
+    1,
+    10,
+    100
+  ],
+  "trace_participants_per_fold": 2,
+  "version": "09-v1"
+}

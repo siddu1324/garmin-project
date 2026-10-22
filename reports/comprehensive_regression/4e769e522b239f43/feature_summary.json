@@ -1,0 +1,35 @@
+{
+  "complete_all_supported": 1,
+  "count_by_lookback": {
+    "120": 85,
+    "1440": 83,
+    "15": 85,
+    "30": 85,
+    "360": 85,
+    "5": 85,
+    "60": 85,
+    "720": 85
+  },
+  "count_by_modality": {
+    "floors": 56,
+    "history": 48,
+    "hr": 240,
+    "interaction": 24,
+    "multiscale": 14,
+    "pulseox": 240,
+    "steps": 56
+  },
+  "entirely_missing": [],
+  "feature_count": 678,
+  "history_legacy_agreement_checks": 11118,
+  "input_group_counts": {
+    "floors": 15175,
+    "hr": 15618260,
+    "pulseox": 1471461,
+    "steps": 1063291
+  },
+  "original_summary_agreement_checks": 326128,
+  "participants": 125,
+  "responses": 3706,
+  "valid_scores": 3689
+}

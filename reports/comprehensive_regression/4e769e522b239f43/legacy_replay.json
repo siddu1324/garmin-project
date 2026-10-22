@@ -1,0 +1,26 @@
+[
+  {
+    "max_error": 2.6645352591003757e-15,
+    "notebook": "05",
+    "responses": 1355,
+    "view": "context"
+  },
+  {
+    "max_error": 2.4868995751603507e-14,
+    "notebook": "05",
+    "responses": 1355,
+    "view": "original60"
+  },
+  {
+    "max_error": 2.6645352591003757e-15,
+    "notebook": "09",
+    "responses": 1355,
+    "view": "context"
+  },
+  {
+    "max_error": 2.4868995751603507e-14,
+    "notebook": "09",
+    "responses": 1355,
+    "view": "original60"
+  }
+]

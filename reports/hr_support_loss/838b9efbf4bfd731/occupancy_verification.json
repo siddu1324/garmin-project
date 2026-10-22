@@ -1,0 +1,7 @@
+{
+  "bin_origin": "lookback left boundary",
+  "feature_values_altered": false,
+  "occupancy_counts_accepted_readings": true,
+  "verification": "Independent searches in original accepted-reading ledger; integer offsets.",
+  "verified_windows": 29648
+}

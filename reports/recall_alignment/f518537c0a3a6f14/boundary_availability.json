@@ -1,0 +1,79 @@
+[
+  {
+    "participants": 124,
+    "reason": "previous_prompt_log_unavailable",
+    "responses": 934,
+    "scenario": "reported_minute_end_sensitivity",
+    "survey_category": "Endday"
+  },
+  {
+    "participants": 125,
+    "reason": "previous_prompt_log_unavailable",
+    "responses": 1838,
+    "scenario": "reported_minute_end_sensitivity",
+    "survey_category": "Midday"
+  },
+  {
+    "participants": 125,
+    "reason": "candidate",
+    "responses": 826,
+    "scenario": "reported_minute_end_sensitivity",
+    "survey_category": "Morning"
+  },
+  {
+    "participants": 9,
+    "reason": "minute_uncertainty_reaches_cutoff",
+    "responses": 10,
+    "scenario": "reported_minute_end_sensitivity",
+    "survey_category": "Morning"
+  },
+  {
+    "participants": 3,
+    "reason": "missing_wake_response",
+    "responses": 3,
+    "scenario": "reported_minute_end_sensitivity",
+    "survey_category": "Morning"
+  },
+  {
+    "participants": 55,
+    "reason": "wake_not_before_cutoff",
+    "responses": 95,
+    "scenario": "reported_minute_end_sensitivity",
+    "survey_category": "Morning"
+  },
+  {
+    "participants": 124,
+    "reason": "previous_prompt_log_unavailable",
+    "responses": 934,
+    "scenario": "reported_minute_start",
+    "survey_category": "Endday"
+  },
+  {
+    "participants": 125,
+    "reason": "previous_prompt_log_unavailable",
+    "responses": 1838,
+    "scenario": "reported_minute_start",
+    "survey_category": "Midday"
+  },
+  {
+    "participants": 125,
+    "reason": "candidate",
+    "responses": 836,
+    "scenario": "reported_minute_start",
+    "survey_category": "Morning"
+  },
+  {
+    "participants": 3,
+    "reason": "missing_wake_response",
+    "responses": 3,
+    "scenario": "reported_minute_start",
+    "survey_category": "Morning"
+  },
+  {
+    "participants": 55,
+    "reason": "wake_not_before_cutoff",
+    "responses": 95,
+    "scenario": "reported_minute_start",
+    "survey_category": "Morning"
+  }
+]

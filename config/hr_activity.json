@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "normalized_bundle": "private/preprocessing/normalized/31e51c934bcdeffa",
+  "lookbacks_minutes": [5,15,30,60,120,360,720,1440],
+  "hr_min_bpm": 30,
+  "hr_max_bpm": 240,
+  "hr_summary_minimum_observations": 2,
+  "hr_summary_minimum_span_seconds": 1,
+  "hr_slope_minimum_observations": 3,
+  "hr_slope_minimum_span_seconds": 60,
+  "hr_latest_minimum_observations": 1,
+  "sd_ddof": 1,
+  "quantile_method": "linear",
+  "counter_maximum_pair_gap_seconds": 300,
+  "supported_counters": ["steps","floorsClimbed"],
+  "unresolved_counters": {"calories":"units_and_counter_semantics_unverified","intensityMinutes":"weighting_and_counter_semantics_unverified"},
+  "quality_gap_diagnostics_seconds": [60,300,3600],
+  "label": "Provisional summaries of observed HR and supported counter increments; acquisition timing unconfirmed"
+}

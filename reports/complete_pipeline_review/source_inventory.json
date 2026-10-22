@@ -1,0 +1,242 @@
+[
+  {
+    "lines": 96,
+    "module": "garmin_inventory.sources",
+    "path": "src/garmin_inventory/sources.py",
+    "sha256": "c9df7df8d7ca120c332364a0063a866e851aea9c6275db406794f6a4657ebf90"
+  },
+  {
+    "lines": 568,
+    "module": "garmin_inventory.audit",
+    "path": "src/garmin_inventory/audit.py",
+    "sha256": "121c6fee65d6e3a6b7c83b403cc56e4c71a4b3d31ff4582c46904e08bb1fd12e"
+  },
+  {
+    "lines": 69,
+    "module": "garmin_preprocessing.common",
+    "path": "src/garmin_preprocessing/common.py",
+    "sha256": "ff29465b3adce246a169d6f511c65a183804bff81a6a2c529d44806a9d7a42d1"
+  },
+  {
+    "lines": 28,
+    "module": "garmin_preprocessing.provenance",
+    "path": "src/garmin_preprocessing/provenance.py",
+    "sha256": "86aa059bd9ee62c60ae90a72d90275e56d54210223b9633b4383f053ca71ecb3"
+  },
+  {
+    "lines": 289,
+    "module": "garmin_preprocessing.normalize",
+    "path": "src/garmin_preprocessing/normalize.py",
+    "sha256": "2c1a26bcc6f210125003fa4636ca6edd7f1d80a6202e999d6326ff58a72ac542"
+  },
+  {
+    "lines": 43,
+    "module": "garmin_hr_activity.boundaries",
+    "path": "src/garmin_hr_activity/boundaries.py",
+    "sha256": "3be60d14f29fd7de700375049762f7a8d73dbc83898a75fe12fece30441d8159"
+  },
+  {
+    "lines": 230,
+    "module": "garmin_hr_activity.features",
+    "path": "src/garmin_hr_activity/features.py",
+    "sha256": "8964fef1924b8cfe02d81f21d05bcf879e49b641a21abeabad487f9220d8b41e"
+  },
+  {
+    "lines": 380,
+    "module": "garmin_hr_activity.pipeline",
+    "path": "src/garmin_hr_activity/pipeline.py",
+    "sha256": "da71c95715333f3a6123b7b76cd60ad694868849e7f616aa7a73032e8a478b90"
+  },
+  {
+    "lines": 102,
+    "module": "garmin_ema_baseline.linkage",
+    "path": "src/garmin_ema_baseline/linkage.py",
+    "sha256": "169488c2181436341f078cbd49813bf5db71f717204ec51b864a0a078383d7cc"
+  },
+  {
+    "lines": 103,
+    "module": "garmin_pss_classification.data",
+    "path": "src/garmin_pss_classification/data.py",
+    "sha256": "16d2e75c45f4c4e18031ceb7e3763378b02878a7cff3eacf160d57bf62f15c83"
+  },
+  {
+    "lines": 134,
+    "module": "garmin_comprehensive.features",
+    "path": "src/garmin_comprehensive/features.py",
+    "sha256": "8d318e5b646e6a2991acc955cda0d7f20e49000fcc667d3400ad886ebeafde32"
+  },
+  {
+    "lines": 86,
+    "module": "garmin_comprehensive.dictionary",
+    "path": "src/garmin_comprehensive/dictionary.py",
+    "sha256": "ea4dae29af9d3923823d8d6f4a479725c43bca1da081f68c513c56494cdbbdae"
+  },
+  {
+    "lines": 157,
+    "module": "garmin_comprehensive.extract",
+    "path": "src/garmin_comprehensive/extract.py",
+    "sha256": "6b49a9a15c00edbfde0b987d3e3ad76486a3acb4b103e4c5fd76a688a150e7f2"
+  },
+  {
+    "lines": 225,
+    "module": "garmin_comprehensive.augment",
+    "path": "src/garmin_comprehensive/augment.py",
+    "sha256": "d002e41c96ff6342e51100b5336eb87e3c97b5ccdcb0448ed9902df297575874"
+  },
+  {
+    "lines": 251,
+    "module": "garmin_comprehensive.models",
+    "path": "src/garmin_comprehensive/models.py",
+    "sha256": "35cc96de61b8134d284fb9f3933410c862781a68732d3d87aa2fe8d8bd466a8d"
+  },
+  {
+    "lines": 215,
+    "module": "garmin_comprehensive.run",
+    "path": "src/garmin_comprehensive/run.py",
+    "sha256": "a1c568b1a8a6366b68a58f07a8d26231faf8f899b3927f09f89d24128ef3b938"
+  },
+  {
+    "lines": 61,
+    "module": "garmin_pss_classification.metrics",
+    "path": "src/garmin_pss_classification/metrics.py",
+    "sha256": "b76bd183ebb11f0ff9863f882d0898efe4ef83a5e104a5bb8f475755ee19cd65"
+  },
+  {
+    "lines": 366,
+    "module": "garmin_comprehensive.evaluate",
+    "path": "src/garmin_comprehensive/evaluate.py",
+    "sha256": "760eac08d11c3f311e62d657257cec5650dee6121f747652135a1adf259a34f6"
+  },
+  {
+    "lines": 172,
+    "module": "garmin_binary_6hour.models",
+    "path": "src/garmin_binary_6hour/models.py",
+    "sha256": "d05b2413a5f3e338ad8a441fa4a66e44ace22e8fecdfe08416df652cfc8b9dc3"
+  },
+  {
+    "lines": 195,
+    "module": "garmin_binary_6hour.run",
+    "path": "src/garmin_binary_6hour/run.py",
+    "sha256": "2ba62865bb9ad0c5d0986fec186c0a429b464bccc8702415634a6e09852349d2"
+  },
+  {
+    "lines": 86,
+    "module": "garmin_binary_6hour.metrics",
+    "path": "src/garmin_binary_6hour/metrics.py",
+    "sha256": "f97732ca91f51a1945794126505ef0a36d49136ff19d7eb1615ccb1f93c39cbc"
+  },
+  {
+    "lines": 297,
+    "module": "garmin_binary_6hour.evaluate",
+    "path": "src/garmin_binary_6hour/evaluate.py",
+    "sha256": "9a4899b4b7f09dabffd05ec3db7825b4aa2e537bc66ee89cd67938aef8c83e94"
+  },
+  {
+    "lines": 201,
+    "module": "garmin_comprehensive_regression.models",
+    "path": "src/garmin_comprehensive_regression/models.py",
+    "sha256": "c34e8778bc052f94d5e90a6f491fd1f0a080f1d6ac74b35bf18cc7d570cf6904"
+  },
+  {
+    "lines": 216,
+    "module": "garmin_comprehensive_regression.run",
+    "path": "src/garmin_comprehensive_regression/run.py",
+    "sha256": "6767a78483e3a44585d82de6e3a85e05b013d54c4faf4f8507d633aed1c8ecbe"
+  },
+  {
+    "lines": 391,
+    "module": "garmin_comprehensive_regression.evaluate",
+    "path": "src/garmin_comprehensive_regression/evaluate.py",
+    "sha256": "36c660b037c85958bb9584df4f8d9d125c4132d806c00611dcccf1a8ffef8f0f"
+  },
+  {
+    "lines": 128,
+    "module": "garmin_binary_improvement.design",
+    "path": "src/garmin_binary_improvement/design.py",
+    "sha256": "2386bd210ae8a5831e465a5fe5c210ddd28546ea550797e103a5665415fd5ac2"
+  },
+  {
+    "lines": 95,
+    "module": "garmin_binary_improvement.sampling",
+    "path": "src/garmin_binary_improvement/sampling.py",
+    "sha256": "d2bf1b8f12029e1be20c5c364ff03dc8ebe94e55761173f8b5a006e14ddc12c3"
+  },
+  {
+    "lines": 173,
+    "module": "garmin_binary_improvement.models",
+    "path": "src/garmin_binary_improvement/models.py",
+    "sha256": "dc0550f4cda02126d215d458756fba5d518ea822e949ac1f51892ad39cbd0680"
+  },
+  {
+    "lines": 200,
+    "module": "garmin_binary_improvement.run",
+    "path": "src/garmin_binary_improvement/run.py",
+    "sha256": "38ae243db15012d0a00749b7046e817e225c4bea206b179366f8080efca02803"
+  },
+  {
+    "lines": 200,
+    "module": "garmin_temporal_personalization.data",
+    "path": "src/garmin_temporal_personalization/data.py",
+    "sha256": "14afaa072bfb1fcacb63e4ebdc5408ed14032f5bab0a5bdf663aea4509362ab0"
+  },
+  {
+    "lines": 137,
+    "module": "garmin_temporal_personalization.history",
+    "path": "src/garmin_temporal_personalization/history.py",
+    "sha256": "d9446d075af4a56464dd58c755249fe8a84b2ba563e9d5d2984a5063c0c3dfc5"
+  },
+  {
+    "lines": 172,
+    "module": "garmin_temporal_personalization.models",
+    "path": "src/garmin_temporal_personalization/models.py",
+    "sha256": "8fd42aad42bbb728d6dbc62a63591a5dfed1cc9e6ed4edf9f47c798421c1877d"
+  },
+  {
+    "lines": 115,
+    "module": "garmin_temporal_personalization.run",
+    "path": "src/garmin_temporal_personalization/run.py",
+    "sha256": "85c0c83e4b81913e68df9990b47cfc933b164253609ed6a7c51661ab2bd33cca"
+  },
+  {
+    "lines": 167,
+    "module": "garmin_root_cause.data",
+    "path": "src/garmin_root_cause/data.py",
+    "sha256": "9f6e8ab23ec9e8454b5722447c7ad0d1df03f96f2fdb09e4ba201c55c023a40a"
+  },
+  {
+    "lines": 145,
+    "module": "garmin_root_cause.models",
+    "path": "src/garmin_root_cause/models.py",
+    "sha256": "d2a1193fb47f19c9b813b6ebeefc1031a4617f37e25e957a9b8e20d3854df9cb"
+  },
+  {
+    "lines": 115,
+    "module": "garmin_root_cause.run",
+    "path": "src/garmin_root_cause/run.py",
+    "sha256": "c387d7bda7f57eafa136b5dbabfcc0f8c194f7984b04beb18fda6c4ea211faed"
+  },
+  {
+    "lines": 375,
+    "module": "garmin_measurement_alignment.metadata",
+    "path": "src/garmin_measurement_alignment/metadata.py",
+    "sha256": "ee26a930cdaf2abf95dde79d8d62f2c9bc5d1e59716db70a401bc6ca562aa1f6"
+  },
+  {
+    "lines": 234,
+    "module": "garmin_measurement_alignment.alignment",
+    "path": "src/garmin_measurement_alignment/alignment.py",
+    "sha256": "47a77578fedb46c8c8ea3cd4daa4a60a76611b0ebaac4f51e081d480cf2d2fdc"
+  },
+  {
+    "lines": 102,
+    "module": "garmin_measurement_alignment.provider",
+    "path": "src/garmin_measurement_alignment/provider.py",
+    "sha256": "e4ee4b2be8d79ac5ac9413329acdb802be371449704d9ba7df87730e62eb91af"
+  },
+  {
+    "lines": 177,
+    "module": "garmin_measurement_alignment.experiment",
+    "path": "src/garmin_measurement_alignment/experiment.py",
+    "sha256": "164457c175e9589ad388352994539f5a1f806dbbbd2f7ea0ec7b1ab44d2b253c"
+  }
+]

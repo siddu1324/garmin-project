@@ -1,0 +1,338 @@
+[
+  {
+    "eligible": 4,
+    "eligible_participants": 4,
+    "ema_windows": 3706,
+    "recorded_rejected": 1506,
+    "scenario": "interval_end",
+    "variation": "baseline"
+  },
+  {
+    "eligible": 5,
+    "eligible_participants": 5,
+    "ema_windows": 3706,
+    "recorded_rejected": 1505,
+    "scenario": "interval_start",
+    "variation": "baseline"
+  },
+  {
+    "eligible": 4,
+    "eligible_participants": 4,
+    "ema_windows": 3706,
+    "recorded_rejected": 1506,
+    "scenario": "interval_end",
+    "variation": "duration_ratio_0_7_to_1_3"
+  },
+  {
+    "eligible": 5,
+    "eligible_participants": 5,
+    "ema_windows": 3706,
+    "recorded_rejected": 1505,
+    "scenario": "interval_start",
+    "variation": "duration_ratio_0_7_to_1_3"
+  },
+  {
+    "eligible": 4,
+    "eligible_participants": 4,
+    "ema_windows": 3706,
+    "recorded_rejected": 1506,
+    "scenario": "interval_end",
+    "variation": "duration_ratio_0_9_to_1_1"
+  },
+  {
+    "eligible": 5,
+    "eligible_participants": 5,
+    "ema_windows": 3706,
+    "recorded_rejected": 1505,
+    "scenario": "interval_start",
+    "variation": "duration_ratio_0_9_to_1_1"
+  },
+  {
+    "eligible": 4,
+    "eligible_participants": 4,
+    "ema_windows": 3706,
+    "recorded_rejected": 1506,
+    "scenario": "interval_end",
+    "variation": "edge_gap_10s"
+  },
+  {
+    "eligible": 5,
+    "eligible_participants": 5,
+    "ema_windows": 3706,
+    "recorded_rejected": 1505,
+    "scenario": "interval_start",
+    "variation": "edge_gap_10s"
+  },
+  {
+    "eligible": 4,
+    "eligible_participants": 4,
+    "ema_windows": 3706,
+    "recorded_rejected": 1506,
+    "scenario": "interval_end",
+    "variation": "edge_gap_2_5s"
+  },
+  {
+    "eligible": 5,
+    "eligible_participants": 5,
+    "ema_windows": 3706,
+    "recorded_rejected": 1505,
+    "scenario": "interval_start",
+    "variation": "edge_gap_2_5s"
+  },
+  {
+    "eligible": 4,
+    "eligible_participants": 4,
+    "ema_windows": 3706,
+    "recorded_rejected": 1506,
+    "scenario": "interval_end",
+    "variation": "flag_fraction_10pct"
+  },
+  {
+    "eligible": 5,
+    "eligible_participants": 5,
+    "ema_windows": 3706,
+    "recorded_rejected": 1505,
+    "scenario": "interval_start",
+    "variation": "flag_fraction_10pct"
+  },
+  {
+    "eligible": 4,
+    "eligible_participants": 4,
+    "ema_windows": 3706,
+    "recorded_rejected": 1506,
+    "scenario": "interval_end",
+    "variation": "flag_fraction_1pct"
+  },
+  {
+    "eligible": 5,
+    "eligible_participants": 5,
+    "ema_windows": 3706,
+    "recorded_rejected": 1505,
+    "scenario": "interval_start",
+    "variation": "flag_fraction_1pct"
+  },
+  {
+    "eligible": 4,
+    "eligible_participants": 4,
+    "ema_windows": 3706,
+    "recorded_rejected": 1506,
+    "scenario": "interval_end",
+    "variation": "jump_flags_disabled_diagnostic"
+  },
+  {
+    "eligible": 5,
+    "eligible_participants": 5,
+    "ema_windows": 3706,
+    "recorded_rejected": 1505,
+    "scenario": "interval_start",
+    "variation": "jump_flags_disabled_diagnostic"
+  },
+  {
+    "eligible": 2,
+    "eligible_participants": 2,
+    "ema_windows": 3706,
+    "recorded_rejected": 1508,
+    "scenario": "interval_end",
+    "variation": "jump_threshold_10pct"
+  },
+  {
+    "eligible": 1,
+    "eligible_participants": 1,
+    "ema_windows": 3706,
+    "recorded_rejected": 1509,
+    "scenario": "interval_start",
+    "variation": "jump_threshold_10pct"
+  },
+  {
+    "eligible": 4,
+    "eligible_participants": 4,
+    "ema_windows": 3706,
+    "recorded_rejected": 1506,
+    "scenario": "interval_end",
+    "variation": "jump_threshold_30pct"
+  },
+  {
+    "eligible": 5,
+    "eligible_participants": 5,
+    "ema_windows": 3706,
+    "recorded_rejected": 1505,
+    "scenario": "interval_start",
+    "variation": "jump_threshold_30pct"
+  },
+  {
+    "eligible": 2,
+    "eligible_participants": 2,
+    "ema_windows": 3706,
+    "recorded_rejected": 1508,
+    "scenario": "interval_end",
+    "variation": "maximum_gap_ratio_1_5"
+  },
+  {
+    "eligible": 2,
+    "eligible_participants": 2,
+    "ema_windows": 3706,
+    "recorded_rejected": 1508,
+    "scenario": "interval_start",
+    "variation": "maximum_gap_ratio_1_5"
+  },
+  {
+    "eligible": 26,
+    "eligible_participants": 19,
+    "ema_windows": 3706,
+    "recorded_rejected": 1484,
+    "scenario": "interval_end",
+    "variation": "maximum_gap_ratio_3"
+  },
+  {
+    "eligible": 20,
+    "eligible_participants": 17,
+    "ema_windows": 3706,
+    "recorded_rejected": 1490,
+    "scenario": "interval_start",
+    "variation": "maximum_gap_ratio_3"
+  },
+  {
+    "eligible": 4,
+    "eligible_participants": 4,
+    "ema_windows": 3706,
+    "recorded_rejected": 1506,
+    "scenario": "interval_end",
+    "variation": "pair_agreement_50pct"
+  },
+  {
+    "eligible": 5,
+    "eligible_participants": 5,
+    "ema_windows": 3706,
+    "recorded_rejected": 1505,
+    "scenario": "interval_start",
+    "variation": "pair_agreement_50pct"
+  },
+  {
+    "eligible": 4,
+    "eligible_participants": 4,
+    "ema_windows": 3706,
+    "recorded_rejected": 1506,
+    "scenario": "interval_end",
+    "variation": "pair_agreement_95pct"
+  },
+  {
+    "eligible": 5,
+    "eligible_participants": 5,
+    "ema_windows": 3706,
+    "recorded_rejected": 1505,
+    "scenario": "interval_start",
+    "variation": "pair_agreement_95pct"
+  },
+  {
+    "eligible": 0,
+    "eligible_participants": 0,
+    "ema_windows": 3706,
+    "recorded_rejected": 1510,
+    "scenario": "interval_end",
+    "variation": "pair_tolerance_100ms_10pct"
+  },
+  {
+    "eligible": 0,
+    "eligible_participants": 0,
+    "ema_windows": 3706,
+    "recorded_rejected": 1510,
+    "scenario": "interval_start",
+    "variation": "pair_tolerance_100ms_10pct"
+  },
+  {
+    "eligible": 20,
+    "eligible_participants": 16,
+    "ema_windows": 3706,
+    "recorded_rejected": 1490,
+    "scenario": "interval_end",
+    "variation": "pair_tolerance_500ms_50pct"
+  },
+  {
+    "eligible": 22,
+    "eligible_participants": 17,
+    "ema_windows": 3706,
+    "recorded_rejected": 1488,
+    "scenario": "interval_start",
+    "variation": "pair_tolerance_500ms_50pct"
+  },
+  {
+    "eligible": 4,
+    "eligible_participants": 4,
+    "ema_windows": 3706,
+    "recorded_rejected": 1506,
+    "scenario": "interval_end",
+    "variation": "plausibility_300_to_2000ms"
+  },
+  {
+    "eligible": 5,
+    "eligible_participants": 5,
+    "ema_windows": 3706,
+    "recorded_rejected": 1505,
+    "scenario": "interval_start",
+    "variation": "plausibility_300_to_2000ms"
+  },
+  {
+    "eligible": 4,
+    "eligible_participants": 4,
+    "ema_windows": 3706,
+    "recorded_rejected": 1506,
+    "scenario": "interval_end",
+    "variation": "supported_duration_240s"
+  },
+  {
+    "eligible": 5,
+    "eligible_participants": 5,
+    "ema_windows": 3706,
+    "recorded_rejected": 1505,
+    "scenario": "interval_start",
+    "variation": "supported_duration_240s"
+  },
+  {
+    "eligible": 1,
+    "eligible_participants": 1,
+    "ema_windows": 3706,
+    "recorded_rejected": 1509,
+    "scenario": "interval_end",
+    "variation": "supported_duration_285s"
+  },
+  {
+    "eligible": 1,
+    "eligible_participants": 1,
+    "ema_windows": 3706,
+    "recorded_rejected": 1509,
+    "scenario": "interval_start",
+    "variation": "supported_duration_285s"
+  },
+  {
+    "eligible": 2,
+    "eligible_participants": 2,
+    "ema_windows": 3706,
+    "recorded_rejected": 1508,
+    "scenario": "interval_end",
+    "variation": "unbroken_span_240s"
+  },
+  {
+    "eligible": 1,
+    "eligible_participants": 1,
+    "ema_windows": 3706,
+    "recorded_rejected": 1509,
+    "scenario": "interval_start",
+    "variation": "unbroken_span_240s"
+  },
+  {
+    "eligible": 16,
+    "eligible_participants": 14,
+    "ema_windows": 3706,
+    "recorded_rejected": 1494,
+    "scenario": "interval_end",
+    "variation": "unbroken_span_60s"
+  },
+  {
+    "eligible": 19,
+    "eligible_participants": 17,
+    "ema_windows": 3706,
+    "recorded_rejected": 1491,
+    "scenario": "interval_start",
+    "variation": "unbroken_span_60s"
+  }
+]

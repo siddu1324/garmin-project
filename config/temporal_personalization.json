@@ -1,0 +1,22 @@
+{
+  "version": "17-v1",
+  "seed": 20261020,
+  "feature_bundle": "private/comprehensive_features/features/eecf1da995c39b27",
+  "normalized_bundle": "private/preprocessing/normalized/31e51c934bcdeffa",
+  "ledger_bundle": "private/hr_activity/features/76f5885b3955d5b0",
+  "prior_run": "private/binary_improvement/runs/911ce0ce6a7b6943",
+  "inner_splits": 3,
+  "C_grid": [0.01, 0.1, 1.0],
+  "hgb_depth": [1, 2],
+  "hgb_iterations": [50, 150],
+  "bootstrap_draws": 2000,
+  "history_calibration_responses": 5,
+  "change_threshold_points": 2,
+  "clock_reference_days": 7,
+  "clock_reference_radius_minutes": 60,
+  "clock_reference_min_minutes": 30,
+  "clock_reference_min_dates": 3,
+  "step_block_min_supported_seconds": 3600,
+  "support_occupied_fraction": 0.8,
+  "support_latest_age_seconds": 60
+}

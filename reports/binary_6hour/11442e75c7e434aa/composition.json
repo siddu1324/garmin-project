@@ -1,0 +1,178 @@
+[
+  {
+    "class0": 448,
+    "class1": 1186,
+    "group": "common_complete_retained",
+    "participants": 118,
+    "pss_mean": 6.304773561811506,
+    "pss_median": 6.0,
+    "responses": 1634,
+    "survey": "All",
+    "task": "A"
+  },
+  {
+    "class0": 60,
+    "class1": 174,
+    "group": "common_complete_retained",
+    "participants": 88,
+    "pss_mean": 6.4743589743589745,
+    "pss_median": 6.0,
+    "responses": 234,
+    "survey": "Morning",
+    "task": "A"
+  },
+  {
+    "class0": 268,
+    "class1": 691,
+    "group": "common_complete_retained",
+    "participants": 117,
+    "pss_mean": 6.304483837330553,
+    "pss_median": 6.0,
+    "responses": 959,
+    "survey": "Midday",
+    "task": "A"
+  },
+  {
+    "class0": 120,
+    "class1": 321,
+    "group": "common_complete_retained",
+    "participants": 104,
+    "pss_mean": 6.215419501133787,
+    "pss_median": 6.0,
+    "responses": 441,
+    "survey": "Endday",
+    "task": "A"
+  },
+  {
+    "class0": 585,
+    "class1": 1470,
+    "group": "common_complete_excluded",
+    "participants": 125,
+    "pss_mean": 6.488077858880779,
+    "pss_median": 6.0,
+    "responses": 2055,
+    "survey": "All",
+    "task": "A"
+  },
+  {
+    "class0": 167,
+    "class1": 530,
+    "group": "common_complete_excluded",
+    "participants": 125,
+    "pss_mean": 6.717360114777619,
+    "pss_median": 7.0,
+    "responses": 697,
+    "survey": "Morning",
+    "task": "A"
+  },
+  {
+    "class0": 264,
+    "class1": 603,
+    "group": "common_complete_excluded",
+    "participants": 120,
+    "pss_mean": 6.387543252595155,
+    "pss_median": 6.0,
+    "responses": 867,
+    "survey": "Midday",
+    "task": "A"
+  },
+  {
+    "class0": 154,
+    "class1": 337,
+    "group": "common_complete_excluded",
+    "participants": 114,
+    "pss_mean": 6.340122199592668,
+    "pss_median": 6.0,
+    "responses": 491,
+    "survey": "Endday",
+    "task": "A"
+  },
+  {
+    "class0": 1432,
+    "class1": 202,
+    "group": "common_complete_retained",
+    "participants": 118,
+    "pss_mean": 6.304773561811506,
+    "pss_median": 6.0,
+    "responses": 1634,
+    "survey": "All",
+    "task": "B"
+  },
+  {
+    "class0": 197,
+    "class1": 37,
+    "group": "common_complete_retained",
+    "participants": 88,
+    "pss_mean": 6.4743589743589745,
+    "pss_median": 6.0,
+    "responses": 234,
+    "survey": "Morning",
+    "task": "B"
+  },
+  {
+    "class0": 838,
+    "class1": 121,
+    "group": "common_complete_retained",
+    "participants": 117,
+    "pss_mean": 6.304483837330553,
+    "pss_median": 6.0,
+    "responses": 959,
+    "survey": "Midday",
+    "task": "B"
+  },
+  {
+    "class0": 397,
+    "class1": 44,
+    "group": "common_complete_retained",
+    "participants": 104,
+    "pss_mean": 6.215419501133787,
+    "pss_median": 6.0,
+    "responses": 441,
+    "survey": "Endday",
+    "task": "B"
+  },
+  {
+    "class0": 1742,
+    "class1": 313,
+    "group": "common_complete_excluded",
+    "participants": 125,
+    "pss_mean": 6.488077858880779,
+    "pss_median": 6.0,
+    "responses": 2055,
+    "survey": "All",
+    "task": "B"
+  },
+  {
+    "class0": 577,
+    "class1": 120,
+    "group": "common_complete_excluded",
+    "participants": 125,
+    "pss_mean": 6.717360114777619,
+    "pss_median": 7.0,
+    "responses": 697,
+    "survey": "Morning",
+    "task": "B"
+  },
+  {
+    "class0": 746,
+    "class1": 121,
+    "group": "common_complete_excluded",
+    "participants": 120,
+    "pss_mean": 6.387543252595155,
+    "pss_median": 6.0,
+    "responses": 867,
+    "survey": "Midday",
+    "task": "B"
+  },
+  {
+    "class0": 419,
+    "class1": 72,
+    "group": "common_complete_excluded",
+    "participants": 114,
+    "pss_mean": 6.340122199592668,
+    "pss_median": 6.0,
+    "responses": 491,
+    "survey": "Endday",
+    "task": "B"
+  }
+]

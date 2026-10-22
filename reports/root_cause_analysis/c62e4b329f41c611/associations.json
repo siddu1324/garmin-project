@@ -1,0 +1,182 @@
+[
+  {
+    "association": "pooled_rank",
+    "correlation": 0.04095484926922358,
+    "lower": -0.055686052818563155,
+    "outcome": "pss_combo",
+    "participants": 113,
+    "responses": 1355,
+    "upper": 0.1305918045935768
+  },
+  {
+    "association": "within_person_rank",
+    "correlation": -0.00851731827984288,
+    "lower": -0.08354668668285109,
+    "outcome": "pss_combo",
+    "participants": 113,
+    "responses": 1355,
+    "upper": 0.06204459299734495
+  },
+  {
+    "association": "between_person_mean_rank",
+    "correlation": 0.08187520401336908,
+    "lower": -0.11478309488822869,
+    "outcome": "pss_combo",
+    "participants": 113,
+    "responses": 1355,
+    "upper": 0.2510466359526441
+  },
+  {
+    "association": "context_activity_support_adjusted_rank",
+    "correlation": 0.04395095383737526,
+    "lower": -0.05409080396264234,
+    "outcome": "pss_combo",
+    "participants": 113,
+    "responses": 1355,
+    "upper": 0.1303082585531765
+  },
+  {
+    "association": "within_person_adjusted_rank",
+    "correlation": -0.0062683007134456264,
+    "lower": -0.08594347555402329,
+    "outcome": "pss_combo",
+    "participants": 113,
+    "responses": 1355,
+    "upper": 0.06406223138051513
+  },
+  {
+    "association": "pooled_rank",
+    "correlation": 0.12201700724881323,
+    "lower": 0.05063734167855101,
+    "outcome": "ordinal_nervous",
+    "participants": 113,
+    "responses": 1355,
+    "upper": 0.2011063788506536
+  },
+  {
+    "association": "within_person_rank",
+    "correlation": 0.07772409000804184,
+    "lower": 0.011128018090096321,
+    "outcome": "ordinal_nervous",
+    "participants": 113,
+    "responses": 1355,
+    "upper": 0.14521953180353647
+  },
+  {
+    "association": "between_person_mean_rank",
+    "correlation": 0.1492075171268763,
+    "lower": -0.06557418907541232,
+    "outcome": "ordinal_nervous",
+    "participants": 113,
+    "responses": 1355,
+    "upper": 0.3492461661807093
+  },
+  {
+    "association": "context_activity_support_adjusted_rank",
+    "correlation": 0.11682344999943645,
+    "lower": 0.043114870917069455,
+    "outcome": "ordinal_nervous",
+    "participants": 113,
+    "responses": 1355,
+    "upper": 0.19625704780786846
+  },
+  {
+    "association": "within_person_adjusted_rank",
+    "correlation": 0.07074418724591461,
+    "lower": 0.0028731337868023016,
+    "outcome": "ordinal_nervous",
+    "participants": 113,
+    "responses": 1355,
+    "upper": 0.13533045708919722
+  },
+  {
+    "association": "pooled_rank",
+    "correlation": 0.06101197134868657,
+    "lower": -0.05813340383651989,
+    "outcome": "ordinal_cope_difficulty",
+    "participants": 113,
+    "responses": 1355,
+    "upper": 0.15961901319720798
+  },
+  {
+    "association": "within_person_rank",
+    "correlation": -0.008428144773011936,
+    "lower": -0.06966539111438903,
+    "outcome": "ordinal_cope_difficulty",
+    "participants": 113,
+    "responses": 1355,
+    "upper": 0.05177499028025508
+  },
+  {
+    "association": "between_person_mean_rank",
+    "correlation": 0.09529974971897767,
+    "lower": -0.12075198965985838,
+    "outcome": "ordinal_cope_difficulty",
+    "participants": 113,
+    "responses": 1355,
+    "upper": 0.2661209159546575
+  },
+  {
+    "association": "context_activity_support_adjusted_rank",
+    "correlation": 0.06259981502790092,
+    "lower": -0.054308935527329974,
+    "outcome": "ordinal_cope_difficulty",
+    "participants": 113,
+    "responses": 1355,
+    "upper": 0.15892886764034297
+  },
+  {
+    "association": "within_person_adjusted_rank",
+    "correlation": -0.003557788130596562,
+    "lower": -0.06643348444077887,
+    "outcome": "ordinal_cope_difficulty",
+    "participants": 113,
+    "responses": 1355,
+    "upper": 0.057261593361416195
+  },
+  {
+    "association": "pooled_rank",
+    "correlation": -0.06499233192383831,
+    "lower": -0.14987672076799197,
+    "outcome": "ordinal_control_difficulty",
+    "participants": 113,
+    "responses": 1355,
+    "upper": 0.029373269157151948
+  },
+  {
+    "association": "within_person_rank",
+    "correlation": -0.08928344035681522,
+    "lower": -0.15541572932562078,
+    "outcome": "ordinal_control_difficulty",
+    "participants": 113,
+    "responses": 1355,
+    "upper": -0.011569233372881583
+  },
+  {
+    "association": "between_person_mean_rank",
+    "correlation": -0.0023210358167852258,
+    "lower": -0.2021225933868235,
+    "outcome": "ordinal_control_difficulty",
+    "participants": 113,
+    "responses": 1355,
+    "upper": 0.17267506958326703
+  },
+  {
+    "association": "context_activity_support_adjusted_rank",
+    "correlation": -0.05347320027390094,
+    "lower": -0.13649581079728998,
+    "outcome": "ordinal_control_difficulty",
+    "participants": 113,
+    "responses": 1355,
+    "upper": 0.04043090367223963
+  },
+  {
+    "association": "within_person_adjusted_rank",
+    "correlation": -0.07972365295608724,
+    "lower": -0.1465595857527225,
+    "outcome": "ordinal_control_difficulty",
+    "participants": 113,
+    "responses": 1355,
+    "upper": 0.004106717113529812
+  }
+]

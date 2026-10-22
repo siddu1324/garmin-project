@@ -1,0 +1,45 @@
+{
+  "checks": {
+    "credential_and_local_path_scan": true,
+    "exact_bootstrap_metrics_transform_audit_replay": true,
+    "exact_model_prediction_replay": true,
+    "executed_notebook_text_privacy_scan": true,
+    "existing_files_changed_this_checkpoint": [
+      "src/garmin_inventory/privacy.py",
+      "README.md",
+      "pyproject.toml",
+      "uv.lock"
+    ],
+    "figures_visually_reviewed": 4,
+    "full_tests_passed": 104,
+    "git_index_empty": true,
+    "ignored_output_files_checked": 32,
+    "lock": "offline check passed",
+    "new_synthetic_tests": 15,
+    "notebook_code_cells_executed": 6,
+    "prior_immutable_bundles_verified": 9,
+    "prior_public_files_unchanged": 158,
+    "public_files_scanned": 165,
+    "public_files_scanned_including_verification": 167,
+    "raw_reference_integrity": "pipeline before/after and deterministic guarded rerun passed",
+    "ruff": "src tests and Notebook 05 passed",
+    "run_version": "640600af77404ff6",
+    "source_notebook_output_free": true
+  },
+  "independent_verification": {
+    "all_folds_preserved": true,
+    "all_original_features_preserved": true,
+    "development_participants": 125,
+    "independent_model_fits": 880,
+    "linked_rows": 3706,
+    "manifest_sha256": "06365fb12fc178928e49e43cf44e3498df0d71e6476e338d8a2476c701ca2639",
+    "matched_comparisons": 32,
+    "maximum_prediction_absolute_discrepancy": 8.704148513061227e-14,
+    "prediction_rows": 46843,
+    "scalar_scores_verified": 3706,
+    "sealed_final_test_participants": 32,
+    "valid_outcomes": 3689,
+    "verified_bundle_complete": true,
+    "version": "640600af77404ff6"
+  }
+}

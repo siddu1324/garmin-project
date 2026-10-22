@@ -1,0 +1,1402 @@
+[
+  {
+    "cohort": "common",
+    "group": "included",
+    "responses": 31,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 3.0
+  },
+  {
+    "cohort": "common",
+    "group": "included",
+    "responses": 21,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 4.0
+  },
+  {
+    "cohort": "common",
+    "group": "included",
+    "responses": 31,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 5.0
+  },
+  {
+    "cohort": "common",
+    "group": "included",
+    "responses": 16,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 6.0
+  },
+  {
+    "cohort": "common",
+    "group": "included",
+    "responses": 31,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 7.0
+  },
+  {
+    "cohort": "common",
+    "group": "included",
+    "responses": 19,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 8.0
+  },
+  {
+    "cohort": "common",
+    "group": "included",
+    "responses": 14,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 9.0
+  },
+  {
+    "cohort": "common",
+    "group": "included",
+    "responses": 14,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 10.0
+  },
+  {
+    "cohort": "common",
+    "group": "included",
+    "responses": 9,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 11.0
+  },
+  {
+    "cohort": "common",
+    "group": "included",
+    "responses": 4,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 12.0
+  },
+  {
+    "cohort": "common",
+    "group": "included",
+    "responses": 1,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 13.0
+  },
+  {
+    "cohort": "common",
+    "group": "excluded",
+    "responses": 124,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 3.0
+  },
+  {
+    "cohort": "common",
+    "group": "excluded",
+    "responses": 51,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 4.0
+  },
+  {
+    "cohort": "common",
+    "group": "excluded",
+    "responses": 110,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 5.0
+  },
+  {
+    "cohort": "common",
+    "group": "excluded",
+    "responses": 80,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 6.0
+  },
+  {
+    "cohort": "common",
+    "group": "excluded",
+    "responses": 96,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 7.0
+  },
+  {
+    "cohort": "common",
+    "group": "excluded",
+    "responses": 82,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 8.0
+  },
+  {
+    "cohort": "common",
+    "group": "excluded",
+    "responses": 68,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 9.0
+  },
+  {
+    "cohort": "common",
+    "group": "excluded",
+    "responses": 48,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 10.0
+  },
+  {
+    "cohort": "common",
+    "group": "excluded",
+    "responses": 50,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 11.0
+  },
+  {
+    "cohort": "common",
+    "group": "excluded",
+    "responses": 18,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 12.0
+  },
+  {
+    "cohort": "common",
+    "group": "excluded",
+    "responses": 5,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 13.0
+  },
+  {
+    "cohort": "common",
+    "group": "excluded",
+    "responses": 3,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 14.0
+  },
+  {
+    "cohort": "common",
+    "group": "excluded",
+    "responses": 5,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 15.0
+  },
+  {
+    "cohort": "common",
+    "group": "excluded",
+    "responses": 3,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": null
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "included",
+    "responses": 35,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 3.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "included",
+    "responses": 25,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 4.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "included",
+    "responses": 40,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 5.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "included",
+    "responses": 21,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 6.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "included",
+    "responses": 35,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 7.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "included",
+    "responses": 24,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 8.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "included",
+    "responses": 16,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 9.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "included",
+    "responses": 19,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 10.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "included",
+    "responses": 12,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 11.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "included",
+    "responses": 5,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 12.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "included",
+    "responses": 1,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 13.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "excluded",
+    "responses": 120,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 3.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "excluded",
+    "responses": 47,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 4.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "excluded",
+    "responses": 101,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 5.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "excluded",
+    "responses": 75,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 6.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "excluded",
+    "responses": 92,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 7.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "excluded",
+    "responses": 77,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 8.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "excluded",
+    "responses": 66,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 9.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "excluded",
+    "responses": 43,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 10.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "excluded",
+    "responses": 47,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 11.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "excluded",
+    "responses": 17,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 12.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "excluded",
+    "responses": 5,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 13.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "excluded",
+    "responses": 3,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 14.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "excluded",
+    "responses": 5,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 15.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "excluded",
+    "responses": 3,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": null
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "included",
+    "responses": 31,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 3.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "included",
+    "responses": 21,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 4.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "included",
+    "responses": 31,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 5.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "included",
+    "responses": 16,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 6.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "included",
+    "responses": 31,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 7.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "included",
+    "responses": 19,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 8.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "included",
+    "responses": 14,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 9.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "included",
+    "responses": 14,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 10.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "included",
+    "responses": 9,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 11.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "included",
+    "responses": 4,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 12.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "included",
+    "responses": 1,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 13.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "excluded",
+    "responses": 124,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 3.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "excluded",
+    "responses": 51,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 4.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "excluded",
+    "responses": 110,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 5.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "excluded",
+    "responses": 80,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 6.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "excluded",
+    "responses": 96,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 7.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "excluded",
+    "responses": 82,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 8.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "excluded",
+    "responses": 68,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 9.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "excluded",
+    "responses": 48,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 10.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "excluded",
+    "responses": 50,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 11.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "excluded",
+    "responses": 18,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 12.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "excluded",
+    "responses": 5,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 13.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "excluded",
+    "responses": 3,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 14.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "excluded",
+    "responses": 5,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 15.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "excluded",
+    "responses": 3,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": null
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "included",
+    "responses": 35,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 3.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "included",
+    "responses": 24,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 4.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "included",
+    "responses": 39,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 5.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "included",
+    "responses": 21,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 6.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "included",
+    "responses": 34,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 7.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "included",
+    "responses": 23,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 8.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "included",
+    "responses": 15,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 9.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "included",
+    "responses": 18,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 10.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "included",
+    "responses": 12,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 11.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "included",
+    "responses": 5,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 12.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "included",
+    "responses": 1,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 13.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "excluded",
+    "responses": 120,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 3.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "excluded",
+    "responses": 48,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 4.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "excluded",
+    "responses": 102,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 5.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "excluded",
+    "responses": 75,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 6.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "excluded",
+    "responses": 93,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 7.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "excluded",
+    "responses": 78,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 8.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "excluded",
+    "responses": 67,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 9.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "excluded",
+    "responses": 44,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 10.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "excluded",
+    "responses": 47,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 11.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "excluded",
+    "responses": 17,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 12.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "excluded",
+    "responses": 5,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 13.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "excluded",
+    "responses": 3,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 14.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "excluded",
+    "responses": 5,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": 15.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "excluded",
+    "responses": 3,
+    "scenario": "reported_minute_end_sensitivity",
+    "score": null
+  },
+  {
+    "cohort": "common",
+    "group": "included",
+    "responses": 31,
+    "scenario": "reported_minute_start",
+    "score": 3.0
+  },
+  {
+    "cohort": "common",
+    "group": "included",
+    "responses": 21,
+    "scenario": "reported_minute_start",
+    "score": 4.0
+  },
+  {
+    "cohort": "common",
+    "group": "included",
+    "responses": 31,
+    "scenario": "reported_minute_start",
+    "score": 5.0
+  },
+  {
+    "cohort": "common",
+    "group": "included",
+    "responses": 16,
+    "scenario": "reported_minute_start",
+    "score": 6.0
+  },
+  {
+    "cohort": "common",
+    "group": "included",
+    "responses": 31,
+    "scenario": "reported_minute_start",
+    "score": 7.0
+  },
+  {
+    "cohort": "common",
+    "group": "included",
+    "responses": 19,
+    "scenario": "reported_minute_start",
+    "score": 8.0
+  },
+  {
+    "cohort": "common",
+    "group": "included",
+    "responses": 14,
+    "scenario": "reported_minute_start",
+    "score": 9.0
+  },
+  {
+    "cohort": "common",
+    "group": "included",
+    "responses": 14,
+    "scenario": "reported_minute_start",
+    "score": 10.0
+  },
+  {
+    "cohort": "common",
+    "group": "included",
+    "responses": 9,
+    "scenario": "reported_minute_start",
+    "score": 11.0
+  },
+  {
+    "cohort": "common",
+    "group": "included",
+    "responses": 4,
+    "scenario": "reported_minute_start",
+    "score": 12.0
+  },
+  {
+    "cohort": "common",
+    "group": "included",
+    "responses": 1,
+    "scenario": "reported_minute_start",
+    "score": 13.0
+  },
+  {
+    "cohort": "common",
+    "group": "excluded",
+    "responses": 124,
+    "scenario": "reported_minute_start",
+    "score": 3.0
+  },
+  {
+    "cohort": "common",
+    "group": "excluded",
+    "responses": 51,
+    "scenario": "reported_minute_start",
+    "score": 4.0
+  },
+  {
+    "cohort": "common",
+    "group": "excluded",
+    "responses": 110,
+    "scenario": "reported_minute_start",
+    "score": 5.0
+  },
+  {
+    "cohort": "common",
+    "group": "excluded",
+    "responses": 80,
+    "scenario": "reported_minute_start",
+    "score": 6.0
+  },
+  {
+    "cohort": "common",
+    "group": "excluded",
+    "responses": 96,
+    "scenario": "reported_minute_start",
+    "score": 7.0
+  },
+  {
+    "cohort": "common",
+    "group": "excluded",
+    "responses": 82,
+    "scenario": "reported_minute_start",
+    "score": 8.0
+  },
+  {
+    "cohort": "common",
+    "group": "excluded",
+    "responses": 68,
+    "scenario": "reported_minute_start",
+    "score": 9.0
+  },
+  {
+    "cohort": "common",
+    "group": "excluded",
+    "responses": 48,
+    "scenario": "reported_minute_start",
+    "score": 10.0
+  },
+  {
+    "cohort": "common",
+    "group": "excluded",
+    "responses": 50,
+    "scenario": "reported_minute_start",
+    "score": 11.0
+  },
+  {
+    "cohort": "common",
+    "group": "excluded",
+    "responses": 18,
+    "scenario": "reported_minute_start",
+    "score": 12.0
+  },
+  {
+    "cohort": "common",
+    "group": "excluded",
+    "responses": 5,
+    "scenario": "reported_minute_start",
+    "score": 13.0
+  },
+  {
+    "cohort": "common",
+    "group": "excluded",
+    "responses": 3,
+    "scenario": "reported_minute_start",
+    "score": 14.0
+  },
+  {
+    "cohort": "common",
+    "group": "excluded",
+    "responses": 5,
+    "scenario": "reported_minute_start",
+    "score": 15.0
+  },
+  {
+    "cohort": "common",
+    "group": "excluded",
+    "responses": 3,
+    "scenario": "reported_minute_start",
+    "score": null
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "included",
+    "responses": 35,
+    "scenario": "reported_minute_start",
+    "score": 3.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "included",
+    "responses": 25,
+    "scenario": "reported_minute_start",
+    "score": 4.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "included",
+    "responses": 40,
+    "scenario": "reported_minute_start",
+    "score": 5.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "included",
+    "responses": 21,
+    "scenario": "reported_minute_start",
+    "score": 6.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "included",
+    "responses": 35,
+    "scenario": "reported_minute_start",
+    "score": 7.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "included",
+    "responses": 24,
+    "scenario": "reported_minute_start",
+    "score": 8.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "included",
+    "responses": 16,
+    "scenario": "reported_minute_start",
+    "score": 9.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "included",
+    "responses": 19,
+    "scenario": "reported_minute_start",
+    "score": 10.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "included",
+    "responses": 12,
+    "scenario": "reported_minute_start",
+    "score": 11.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "included",
+    "responses": 5,
+    "scenario": "reported_minute_start",
+    "score": 12.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "included",
+    "responses": 1,
+    "scenario": "reported_minute_start",
+    "score": 13.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "excluded",
+    "responses": 120,
+    "scenario": "reported_minute_start",
+    "score": 3.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "excluded",
+    "responses": 47,
+    "scenario": "reported_minute_start",
+    "score": 4.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "excluded",
+    "responses": 101,
+    "scenario": "reported_minute_start",
+    "score": 5.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "excluded",
+    "responses": 75,
+    "scenario": "reported_minute_start",
+    "score": 6.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "excluded",
+    "responses": 92,
+    "scenario": "reported_minute_start",
+    "score": 7.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "excluded",
+    "responses": 77,
+    "scenario": "reported_minute_start",
+    "score": 8.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "excluded",
+    "responses": 66,
+    "scenario": "reported_minute_start",
+    "score": 9.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "excluded",
+    "responses": 43,
+    "scenario": "reported_minute_start",
+    "score": 10.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "excluded",
+    "responses": 47,
+    "scenario": "reported_minute_start",
+    "score": 11.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "excluded",
+    "responses": 17,
+    "scenario": "reported_minute_start",
+    "score": 12.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "excluded",
+    "responses": 5,
+    "scenario": "reported_minute_start",
+    "score": 13.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "excluded",
+    "responses": 3,
+    "scenario": "reported_minute_start",
+    "score": 14.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "excluded",
+    "responses": 5,
+    "scenario": "reported_minute_start",
+    "score": 15.0
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "group": "excluded",
+    "responses": 3,
+    "scenario": "reported_minute_start",
+    "score": null
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "included",
+    "responses": 31,
+    "scenario": "reported_minute_start",
+    "score": 3.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "included",
+    "responses": 21,
+    "scenario": "reported_minute_start",
+    "score": 4.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "included",
+    "responses": 31,
+    "scenario": "reported_minute_start",
+    "score": 5.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "included",
+    "responses": 16,
+    "scenario": "reported_minute_start",
+    "score": 6.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "included",
+    "responses": 31,
+    "scenario": "reported_minute_start",
+    "score": 7.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "included",
+    "responses": 19,
+    "scenario": "reported_minute_start",
+    "score": 8.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "included",
+    "responses": 14,
+    "scenario": "reported_minute_start",
+    "score": 9.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "included",
+    "responses": 14,
+    "scenario": "reported_minute_start",
+    "score": 10.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "included",
+    "responses": 9,
+    "scenario": "reported_minute_start",
+    "score": 11.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "included",
+    "responses": 4,
+    "scenario": "reported_minute_start",
+    "score": 12.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "included",
+    "responses": 1,
+    "scenario": "reported_minute_start",
+    "score": 13.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "excluded",
+    "responses": 124,
+    "scenario": "reported_minute_start",
+    "score": 3.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "excluded",
+    "responses": 51,
+    "scenario": "reported_minute_start",
+    "score": 4.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "excluded",
+    "responses": 110,
+    "scenario": "reported_minute_start",
+    "score": 5.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "excluded",
+    "responses": 80,
+    "scenario": "reported_minute_start",
+    "score": 6.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "excluded",
+    "responses": 96,
+    "scenario": "reported_minute_start",
+    "score": 7.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "excluded",
+    "responses": 82,
+    "scenario": "reported_minute_start",
+    "score": 8.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "excluded",
+    "responses": 68,
+    "scenario": "reported_minute_start",
+    "score": 9.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "excluded",
+    "responses": 48,
+    "scenario": "reported_minute_start",
+    "score": 10.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "excluded",
+    "responses": 50,
+    "scenario": "reported_minute_start",
+    "score": 11.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "excluded",
+    "responses": 18,
+    "scenario": "reported_minute_start",
+    "score": 12.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "excluded",
+    "responses": 5,
+    "scenario": "reported_minute_start",
+    "score": 13.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "excluded",
+    "responses": 3,
+    "scenario": "reported_minute_start",
+    "score": 14.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "excluded",
+    "responses": 5,
+    "scenario": "reported_minute_start",
+    "score": 15.0
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "group": "excluded",
+    "responses": 3,
+    "scenario": "reported_minute_start",
+    "score": null
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "included",
+    "responses": 35,
+    "scenario": "reported_minute_start",
+    "score": 3.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "included",
+    "responses": 24,
+    "scenario": "reported_minute_start",
+    "score": 4.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "included",
+    "responses": 39,
+    "scenario": "reported_minute_start",
+    "score": 5.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "included",
+    "responses": 21,
+    "scenario": "reported_minute_start",
+    "score": 6.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "included",
+    "responses": 34,
+    "scenario": "reported_minute_start",
+    "score": 7.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "included",
+    "responses": 23,
+    "scenario": "reported_minute_start",
+    "score": 8.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "included",
+    "responses": 15,
+    "scenario": "reported_minute_start",
+    "score": 9.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "included",
+    "responses": 18,
+    "scenario": "reported_minute_start",
+    "score": 10.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "included",
+    "responses": 12,
+    "scenario": "reported_minute_start",
+    "score": 11.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "included",
+    "responses": 5,
+    "scenario": "reported_minute_start",
+    "score": 12.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "included",
+    "responses": 1,
+    "scenario": "reported_minute_start",
+    "score": 13.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "excluded",
+    "responses": 120,
+    "scenario": "reported_minute_start",
+    "score": 3.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "excluded",
+    "responses": 48,
+    "scenario": "reported_minute_start",
+    "score": 4.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "excluded",
+    "responses": 102,
+    "scenario": "reported_minute_start",
+    "score": 5.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "excluded",
+    "responses": 75,
+    "scenario": "reported_minute_start",
+    "score": 6.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "excluded",
+    "responses": 93,
+    "scenario": "reported_minute_start",
+    "score": 7.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "excluded",
+    "responses": 78,
+    "scenario": "reported_minute_start",
+    "score": 8.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "excluded",
+    "responses": 67,
+    "scenario": "reported_minute_start",
+    "score": 9.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "excluded",
+    "responses": 44,
+    "scenario": "reported_minute_start",
+    "score": 10.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "excluded",
+    "responses": 47,
+    "scenario": "reported_minute_start",
+    "score": 11.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "excluded",
+    "responses": 17,
+    "scenario": "reported_minute_start",
+    "score": 12.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "excluded",
+    "responses": 5,
+    "scenario": "reported_minute_start",
+    "score": 13.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "excluded",
+    "responses": 3,
+    "scenario": "reported_minute_start",
+    "score": 14.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "excluded",
+    "responses": 5,
+    "scenario": "reported_minute_start",
+    "score": 15.0
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "group": "excluded",
+    "responses": 3,
+    "scenario": "reported_minute_start",
+    "score": null
+  }
+]

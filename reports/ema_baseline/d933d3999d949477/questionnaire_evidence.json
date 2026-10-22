@@ -1,0 +1,194 @@
+[
+  {
+    "category": "Endday",
+    "document_sha256": "ff0558a4fa8e4756427da3298e01c07aa6690a4de04a87baaa97aeb6fab17269",
+    "items": [
+      {
+        "display_labels": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "export_field": "PSS_NERVOUS",
+        "page": 2,
+        "questionnaire_field": "PSS_NERVOUS_4",
+        "stored_codes": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "display_labels": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "export_field": "PSS_COPE",
+        "page": 2,
+        "questionnaire_field": "PSS_COPE_4",
+        "stored_codes": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "display_labels": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "export_field": "PSS_CONTROL",
+        "page": 2,
+        "questionnaire_field": "PSS_CONTROL_4",
+        "stored_codes": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    ],
+    "missing_sentinels_documented": false
+  },
+  {
+    "category": "Midday",
+    "document_sha256": "35b0446e783a49968c229496acc55e64df96f35b5765b22b7ee2376066896990",
+    "items": [
+      {
+        "display_labels": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "export_field": "PSS_NERVOUS",
+        "page": 2,
+        "questionnaire_field": "PSS_NERVOUS",
+        "stored_codes": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "display_labels": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "export_field": "PSS_COPE",
+        "page": 2,
+        "questionnaire_field": "PSS_COPE",
+        "stored_codes": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "display_labels": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "export_field": "PSS_CONTROL",
+        "page": 2,
+        "questionnaire_field": "PSS_CONTROL",
+        "stored_codes": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    ],
+    "missing_sentinels_documented": false
+  },
+  {
+    "category": "Morning",
+    "document_sha256": "c3974911f66baf1d59e265696b3c544590ad7d8239393b0c7238751a4bea80ed",
+    "items": [
+      {
+        "display_labels": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "export_field": "PSS_NERVOUS",
+        "page": 2,
+        "questionnaire_field": "PSS_NERVOUS_1",
+        "stored_codes": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "display_labels": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "export_field": "PSS_COPE",
+        "page": 2,
+        "questionnaire_field": "PSS_COPE_1",
+        "stored_codes": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "display_labels": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "export_field": "PSS_CONTROL",
+        "page": 2,
+        "questionnaire_field": "PSS_CONTROL_1",
+        "stored_codes": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    ],
+    "missing_sentinels_documented": false
+  }
+]

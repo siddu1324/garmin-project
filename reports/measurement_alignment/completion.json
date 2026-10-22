@@ -1,0 +1,69 @@
+{
+  "blocked": [
+    "Prospective recall-aligned prediction: approved acquisition/receipt contract and independent boundary logs absent",
+    "Previous-answer prediction: exact submitted versions and availability clocks absent"
+  ],
+  "complete": true,
+  "complete_evidence_supported_scope": true,
+  "execution_path": "A_missing_provider_metadata",
+  "presentation_sha256": {
+    "notebooks/19_measurement_alignment.ipynb": "848396eaa39e9e6c3d1e2bb1c828ba8d53317b20f99fb7f36d996fecab2e9626",
+    "reports/measurement_alignment/README.md": "b6dd2f4b0d93eaacd382fe0ef132fd0076bdc392cc4586dd04d0bd08911220cc",
+    "reports/measurement_alignment/index.html": "d6a9c3b893e0aac7b09fb6d15b16313af6af082470e8011269feee698beb52c0",
+    "reports/measurement_alignment/provider_data_request.md": "5292d215ed018b3b5d2c3957f8c89b4ea933944ed43e2bd82813715bf4b167d3",
+    "reports/measurement_alignment/source_contract.md": "d7731465bd63b38fd7ebf6fa142f2e942928ffbd1bb06b11b76205c6fe51a1f9",
+    "reports/measurement_alignment/specification.md": "a06bacd2cfe95a0190bc550bc7288434430eaf6b05ad0b41f68c7eb974cd3acc",
+    "reports/measurement_alignment/summary_for_will.md": "8180e5f2e6fa8ba69dcfb00f8226e3d4830d58d58f1826e4a3a7b4ffaedd99d1",
+    "reports/measurement_alignment/supersession.json": "8912fbb55ab24b051df7cefe8c7e9b1682d83093754170f70c0ee5a680b249f3",
+    "reports/measurement_alignment/verification.md": "2525e218a4c49aca142a3b99c02618817c9b1ff85c91b3e2a2adff0ebb0e79ba"
+  },
+  "prior_snapshot_sha256": "69fd25fca76c32d56b241ecaa80deec238387065e6f845cf4166e743c4fceb3b",
+  "public": "reports/measurement_alignment/e5359ea4cc4b4efa",
+  "rows": {
+    "private/measurement_alignment/runs/e5359ea4cc4b4efa/cadence.parquet": 246,
+    "private/measurement_alignment/runs/e5359ea4cc4b4efa/counter_diagnostics.parquet": 123,
+    "private/measurement_alignment/runs/e5359ea4cc4b4efa/participant_coverage.parquet": 4000,
+    "private/measurement_alignment/runs/e5359ea4cc4b4efa/recall_gate.parquet": 3706,
+    "private/measurement_alignment/runs/e5359ea4cc4b4efa/timing.parquet": 3706,
+    "private/measurement_alignment/runs/e5359ea4cc4b4efa/timing_sensitivity.parquet": 88944
+  },
+  "run": "private/measurement_alignment/runs/e5359ea4cc4b4efa",
+  "source_sha256": {
+    "config/measurement_alignment.json": "c919665ccb88a34ffd5badaea0e327afc7629c0dca9be4869a10852e5f07cddb",
+    "reports/measurement_alignment/specification.md": "a06bacd2cfe95a0190bc550bc7288434430eaf6b05ad0b41f68c7eb974cd3acc",
+    "src/garmin_measurement_alignment/__init__.py": "1af98014fb7f2ce8553b836620ec879671327c0dfaf19a4728c78a45d5f54da8",
+    "src/garmin_measurement_alignment/alignment.py": "47a77578fedb46c8c8ea3cd4daa4a60a76611b0ebaac4f51e081d480cf2d2fdc",
+    "src/garmin_measurement_alignment/diagnostics.py": "12e68464177d6c2267231f718a8aa66111d3ac2038d86399d52323ad87564659",
+    "src/garmin_measurement_alignment/experiment.py": "164457c175e9589ad388352994539f5a1f806dbbbd2f7ea0ec7b1ab44d2b253c",
+    "src/garmin_measurement_alignment/metadata.py": "ee26a930cdaf2abf95dde79d8d62f2c9bc5d1e59716db70a401bc6ca562aa1f6",
+    "src/garmin_measurement_alignment/privacy.py": "eb4c5b1719b8e3d8aeada142a185de64e347f86cf6ac8a511150e6adf7686f5f",
+    "src/garmin_measurement_alignment/provider.py": "e4ee4b2be8d79ac5ac9413329acdb802be371449704d9ba7df87730e62eb91af",
+    "src/garmin_measurement_alignment/report.py": "f5aeae999b3126a9d6e1b43e4145fe04bbf1544477bad7ead0608b3661234919",
+    "src/garmin_measurement_alignment/run.py": "945a79ae475d5c54f5a61c9296918c13a56031fff939e866a7142fc2e23955b4",
+    "src/garmin_measurement_alignment/seal.py": "781f231ba98a57544881c283216b8d4ccb7a20b52dbacbd998f1794a8066feec",
+    "src/garmin_measurement_alignment/synthetic.py": "79432e3762e87dcb25e1261670dfab6ea8305ad59443649f6ed1cc3eb84041f4",
+    "src/garmin_measurement_alignment/verify.py": "d441caad2c22c927e680c0379129aafcdda7c5d135463483e77ee818dd2a36a4",
+    "tests/test_measurement_alignment.py": "2c255bb141d140558fb14a0425cb1551957b54c45eabca94a640d9de4707f3d5"
+  },
+  "verification": {
+    "all_ema_clock_delay_checks": 3706,
+    "browser_screenshots": 14,
+    "corrected_scalar_boundary_checks": 5436,
+    "development_participants": 125,
+    "development_rows": 3706,
+    "executed_notebook_cells": 8,
+    "final_test_evaluated": false,
+    "independent_shift_support_checks": 240,
+    "new_real_predictive_fits": 0,
+    "previous_checkpoint_seal_verified": true,
+    "prior_files_preserved": 969,
+    "prior_manifests_preserved": 3245,
+    "privacy": "passed",
+    "public_files_scanned": 904,
+    "raw_reference_metadata_checks": 7870,
+    "ruff": "passed",
+    "tests_passed": 247,
+    "zero_shift_quality_checks": 29648
+  },
+  "version": "e5359ea4cc4b4efa"
+}

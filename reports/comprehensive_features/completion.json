@@ -1,0 +1,120 @@
+{
+  "browser": {
+    "desktop": {
+      "bodyOverflow": false,
+      "externalAssets": [],
+      "images": [
+        {
+          "loaded": true
+        },
+        {
+          "loaded": true
+        },
+        {
+          "loaded": true
+        },
+        {
+          "loaded": true
+        },
+        {
+          "loaded": true
+        },
+        {
+          "loaded": true
+        },
+        {
+          "loaded": true
+        },
+        {
+          "loaded": true
+        }
+      ],
+      "linksValid": true,
+      "sections": 9,
+      "tableCount": 11
+    },
+    "errors": [],
+    "expanded": true,
+    "externalRequests": [],
+    "mobile": {
+      "bodyOverflow": false,
+      "sections": [
+        {
+          "id": "s1",
+          "width": 350
+        },
+        {
+          "id": "s2",
+          "width": 350
+        },
+        {
+          "id": "s3",
+          "width": 350
+        },
+        {
+          "id": "s4",
+          "width": 350
+        },
+        {
+          "id": "s5",
+          "width": 350
+        },
+        {
+          "id": "s6",
+          "width": 350
+        },
+        {
+          "id": "s7",
+          "width": 350
+        },
+        {
+          "id": "s8",
+          "width": 350
+        },
+        {
+          "id": "s9",
+          "width": 350
+        }
+      ],
+      "tablesScrollWithinContainer": true,
+      "width": 390
+    },
+    "screenshots": 15
+  },
+  "complete": true,
+  "config_sha256": "d4883e3308e7f5a925491d8639d33a338ed1fdc1af952b93bf2b231bd156c40c",
+  "executed_notebook_code_cells": 11,
+  "feature_version": "eecf1da995c39b27",
+  "final_test_evaluated": false,
+  "model_version": "818ddc22d6f28fdc",
+  "presentation_sha256": {
+    "notebooks/13_comprehensive_physio_features.ipynb": "c96cc144502eba719c31c91ece370a121b8ffc3a81380267bba478c0db6246f9",
+    "reports/comprehensive_features/README.md": "61c755271792c9fab7ee752d749b2dc142ca912ded376c4a985fb53e1de2eece",
+    "reports/comprehensive_features/feature_dictionary.md": "9a63a63867058f705c3a38b7745213a2b0ac55b332c5c9f4d65f9c75991f232b",
+    "reports/comprehensive_features/index.html": "3d3b9c9e489b7991b0d475e82cf6eecba15ba309e1f6cf1bd652d2ace504f784",
+    "reports/comprehensive_features/original_feature_inventory.md": "63e7136a466875fc691e4d9c8a57b5778ffa0b06b4dc234a3747abad25c56508",
+    "reports/comprehensive_features/quality_and_context_dictionary.md": "6c9147ac403831169f6c48ba8e838be95f6ed73a724562c55031d32822a130fc",
+    "reports/comprehensive_features/specification.md": "1a78efeaee13b6c53993d1bff476038deeacce1fa1d4e2bb82b5f5f0607a3877",
+    "reports/comprehensive_features/summary_for_will.md": "542c489e770c1dc69ca4ba3f76cbe23e72e47ae0bb297987a89d12d6d1e3c917",
+    "reports/comprehensive_features/supersession.json": "5ac97b51b262d8d45068dc6afa8dea838685be71c59b8fc8a6c446d3e4af1200",
+    "reports/comprehensive_features/verification.md": "35726cb7d17309cf15138caccca4c88b16766f738dd9f990260ce0742a35ad1f"
+  },
+  "private_outputs_ignored": true,
+  "public_files_privacy_scanned": 596,
+  "ruff": "passed",
+  "source_sha256": {
+    "src/garmin_comprehensive/__init__.py": "2108bae944306dc371eaf5c34aa601514d559d4be887a32d4db97e845233441e",
+    "src/garmin_comprehensive/augment.py": "d002e41c96ff6342e51100b5336eb87e3c97b5ccdcb0448ed9902df297575874",
+    "src/garmin_comprehensive/diagnostics.py": "08eb3f3706b1c1bba931b8cb38e27daca262a68f6fdad62f894b664c01706ac9",
+    "src/garmin_comprehensive/dictionary.py": "ea4dae29af9d3923823d8d6f4a479725c43bca1da081f68c513c56494cdbbdae",
+    "src/garmin_comprehensive/evaluate.py": "760eac08d11c3f311e62d657257cec5650dee6121f747652135a1adf259a34f6",
+    "src/garmin_comprehensive/extract.py": "6b49a9a15c00edbfde0b987d3e3ad76486a3acb4b103e4c5fd76a688a150e7f2",
+    "src/garmin_comprehensive/features.py": "8d318e5b646e6a2991acc955cda0d7f20e49000fcc667d3400ad886ebeafde32",
+    "src/garmin_comprehensive/inventory.py": "b7418a1e34fe284c260d8a0a1070fcd3b5d32501514d6b3ec963d7ea4b3c2521",
+    "src/garmin_comprehensive/models.py": "35cc96de61b8134d284fb9f3933410c862781a68732d3d87aa2fe8d8bd466a8d",
+    "src/garmin_comprehensive/report.py": "97837a4306ad4adb7b5047aaa80fcd267ccf00929d119a461f9d5b2695f1a530",
+    "src/garmin_comprehensive/run.py": "a1c568b1a8a6366b68a58f07a8d26231faf8f899b3927f09f89d24128ef3b938",
+    "src/garmin_comprehensive/verify.py": "b04e95301e8f4b6628125cae449c7de92d406c17bd1e25390f265022c8fecccf"
+  },
+  "tests_passed": 175
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "class_id": 0,
+    "fraction": 0.28002168609379235,
+    "participants": 91,
+    "responses": 1033,
+    "task": "A"
+  },
+  {
+    "class_id": 1,
+    "fraction": 0.7199783139062076,
+    "participants": 123,
+    "responses": 2656,
+    "task": "A"
+  },
+  {
+    "class_id": 0,
+    "fraction": 0.8603957712117105,
+    "participants": 125,
+    "responses": 3174,
+    "task": "B"
+  },
+  {
+    "class_id": 1,
+    "fraction": 0.1396042287882895,
+    "participants": 94,
+    "responses": 515,
+    "task": "B"
+  }
+]

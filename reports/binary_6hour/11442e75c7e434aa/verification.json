@@ -1,0 +1,17 @@
+{
+  "estimator_replays": 500,
+  "feature_bundle": "unchanged",
+  "final_test_evaluated": false,
+  "frozen_assignments": "unchanged",
+  "independent_fresh_fits": 12,
+  "inner_membership_checks": 1500,
+  "max_prediction_error": 0.0,
+  "nonconverged_candidates": 11,
+  "notebook13_and_14_seals": "unchanged",
+  "old_files_preserved": 730,
+  "old_private_manifests_preserved": 1518,
+  "raw_contents_reread": false,
+  "raw_metadata_checks": 7870,
+  "training_prediction_replays": 500,
+  "tuning_candidates": 5760
+}

@@ -1,0 +1,21 @@
+{
+  "version": "16-v1",
+  "feature_bundle": "private/comprehensive_features/features/eecf1da995c39b27",
+  "previous_run": "private/binary_6hour/runs/11442e75c7e434aa",
+  "morning_bundle": "private/morning_recall/runs/4c844f737b74ee62",
+  "seed": 20261019,
+  "windows": [60, 120, 360, 720, 1440],
+  "inner_splits": 3,
+  "C_grid": [0.001, 0.01, 0.1, 1.0],
+  "ratios": [0.0, 0.5, 1.0],
+  "max_iter": 10000,
+  "tol": 0.0001,
+  "compact_max_features": 6,
+  "compact_min_availability": 0.5,
+  "compact_max_correlation": 0.95,
+  "smote_neighbors": 5,
+  "support_occupied_fraction": 0.8,
+  "support_latest_age_seconds": 60,
+  "bootstrap_draws": 2000,
+  "workers": 4
+}

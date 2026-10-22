@@ -1,0 +1,14 @@
+| block | included | participants | responses | score_mean | score_median | survey_category | valid_scores |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| hr | False | 114 | 493 | 6.3401 | 6 | Endday | 491 |
+| hr | False | 120 | 879 | 6.3875 | 6 | Midday | 867 |
+| hr | False | 125 | 700 | 6.7174 | 7 | Morning | 697 |
+| hr | True | 104 | 441 | 6.2154 | 6 | Endday | 441 |
+| hr | True | 117 | 959 | 6.3045 | 6 | Midday | 959 |
+| hr | True | 88 | 234 | 6.4744 | 6 | Morning | 234 |
+| hr_steps | False | 119 | 561 | 6.3202 | 6 | Endday | 559 |
+| hr_steps | False | 122 | 1033 | 6.4045 | 6 | Midday | 1021 |
+| hr_steps | False | 125 | 757 | 6.7241 | 7 | Morning | 754 |
+| hr_steps | True | 97 | 373 | 6.2225 | 6 | Endday | 373 |
+| hr_steps | True | 111 | 805 | 6.2671 | 6 | Midday | 805 |
+| hr_steps | True | 73 | 177 | 6.3672 | 6 | Morning | 177 |

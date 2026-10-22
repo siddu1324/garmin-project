@@ -1,0 +1,166 @@
+[
+  {
+    "checkpoint": 13,
+    "matrix": [
+      [
+        3174,
+        0
+      ],
+      [
+        515,
+        0
+      ]
+    ],
+    "task": "at_least_10",
+    "view": "context"
+  },
+  {
+    "checkpoint": 13,
+    "matrix": [
+      [
+        2934,
+        240
+      ],
+      [
+        471,
+        44
+      ]
+    ],
+    "task": "at_least_10",
+    "view": "full"
+  },
+  {
+    "checkpoint": 13,
+    "matrix": [
+      [
+        0,
+        1033
+      ],
+      [
+        0,
+        2656
+      ]
+    ],
+    "task": "at_least_5",
+    "view": "context"
+  },
+  {
+    "checkpoint": 13,
+    "matrix": [
+      [
+        186,
+        847
+      ],
+      [
+        428,
+        2228
+      ]
+    ],
+    "task": "at_least_5",
+    "view": "full"
+  },
+  {
+    "checkpoint": 13,
+    "matrix": [
+      [
+        0,
+        1033,
+        0
+      ],
+      [
+        0,
+        2141,
+        0
+      ],
+      [
+        0,
+        515,
+        0
+      ]
+    ],
+    "task": "three_class",
+    "view": "context"
+  },
+  {
+    "checkpoint": 13,
+    "matrix": [
+      [
+        242,
+        677,
+        114
+      ],
+      [
+        445,
+        1434,
+        262
+      ],
+      [
+        106,
+        353,
+        56
+      ]
+    ],
+    "task": "three_class",
+    "view": "full"
+  },
+  {
+    "checkpoint": 15,
+    "matrix": [
+      [
+        0,
+        1033
+      ],
+      [
+        0,
+        2656
+      ]
+    ],
+    "task": "A",
+    "view": "context_u"
+  },
+  {
+    "checkpoint": 15,
+    "matrix": [
+      [
+        71,
+        962
+      ],
+      [
+        219,
+        2437
+      ]
+    ],
+    "task": "A",
+    "view": "multiscale_u"
+  },
+  {
+    "checkpoint": 15,
+    "matrix": [
+      [
+        3174,
+        0
+      ],
+      [
+        515,
+        0
+      ]
+    ],
+    "task": "B",
+    "view": "context_u"
+  },
+  {
+    "checkpoint": 15,
+    "matrix": [
+      [
+        3089,
+        85
+      ],
+      [
+        492,
+        23
+      ]
+    ],
+    "task": "B",
+    "view": "multiscale_u"
+  }
+]

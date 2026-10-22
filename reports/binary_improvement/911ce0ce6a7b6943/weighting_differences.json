@@ -1,0 +1,62 @@
+[
+  {
+    "absolute_difference_median": 0.41938015929864747,
+    "absolute_difference_observed": 1652,
+    "absolute_difference_p25": 0.1790760181431601,
+    "absolute_difference_p75": 0.7591400890187217,
+    "absolute_difference_p90": 1.2791758668885693,
+    "correlation": 0.9964435215521233,
+    "identical_fraction": 0.0012106537530266344,
+    "paired_participants": 119,
+    "paired_responses": 1652,
+    "window": 60
+  },
+  {
+    "absolute_difference_median": 0.4976477702542894,
+    "absolute_difference_observed": 1828,
+    "absolute_difference_p25": 0.24014192042774596,
+    "absolute_difference_p75": 0.8472473483378273,
+    "absolute_difference_p90": 1.3978161007213672,
+    "correlation": 0.9960279678242115,
+    "identical_fraction": 0.0005470459518599562,
+    "paired_participants": 120,
+    "paired_responses": 1828,
+    "window": 120
+  },
+  {
+    "absolute_difference_median": 0.5821909729374681,
+    "absolute_difference_observed": 2643,
+    "absolute_difference_p25": 0.29987909199454066,
+    "absolute_difference_p75": 0.9898876408453887,
+    "absolute_difference_p90": 1.5989307175543819,
+    "correlation": 0.994907404492656,
+    "identical_fraction": 0.001513431706394249,
+    "paired_participants": 123,
+    "paired_responses": 2643,
+    "window": 360
+  },
+  {
+    "absolute_difference_median": 0.6236204997512544,
+    "absolute_difference_observed": 3065,
+    "absolute_difference_p25": 0.34018504346695977,
+    "absolute_difference_p75": 1.024875997487399,
+    "absolute_difference_p90": 1.6270949519027196,
+    "correlation": 0.9942200125395936,
+    "identical_fraction": 0.0016313213703099511,
+    "paired_participants": 123,
+    "paired_responses": 3065,
+    "window": 720
+  },
+  {
+    "absolute_difference_median": 0.6881898866296865,
+    "absolute_difference_observed": 3431,
+    "absolute_difference_p25": 0.4259431640724216,
+    "absolute_difference_p75": 1.0643809081720548,
+    "absolute_difference_p90": 1.5294013677481928,
+    "correlation": 0.9947019647110091,
+    "identical_fraction": 0.0005829204313611193,
+    "paired_participants": 123,
+    "paired_responses": 3431,
+    "window": 1440
+  }
+]

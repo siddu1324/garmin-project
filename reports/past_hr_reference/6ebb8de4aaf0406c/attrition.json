@@ -1,0 +1,240 @@
+[
+  {
+    "kind": "exclusive_combination",
+    "participants": 14,
+    "reason": "all_recorded_readings_rejected;fewer_than_30_occupied_minutes;fewer_than_3_utc_hours",
+    "responses": 15,
+    "scope": "all_development"
+  },
+  {
+    "kind": "exclusive_combination",
+    "participants": 116,
+    "reason": "eligible",
+    "responses": 1575,
+    "scope": "all_development"
+  },
+  {
+    "kind": "exclusive_combination",
+    "participants": 5,
+    "reason": "fewer_than_30_occupied_minutes",
+    "responses": 7,
+    "scope": "all_development"
+  },
+  {
+    "kind": "exclusive_combination",
+    "participants": 23,
+    "reason": "fewer_than_30_occupied_minutes;fewer_than_3_utc_hours",
+    "responses": 23,
+    "scope": "all_development"
+  },
+  {
+    "kind": "exclusive_combination",
+    "participants": 8,
+    "reason": "fewer_than_3_utc_hours",
+    "responses": 8,
+    "scope": "all_development"
+  },
+  {
+    "kind": "exclusive_combination",
+    "participants": 121,
+    "reason": "incomplete_current_hr",
+    "responses": 1471,
+    "scope": "all_development"
+  },
+  {
+    "kind": "exclusive_combination",
+    "participants": 41,
+    "reason": "incomplete_current_hr;all_recorded_readings_rejected;fewer_than_30_occupied_minutes;fewer_than_3_utc_hours",
+    "responses": 72,
+    "scope": "all_development"
+  },
+  {
+    "kind": "exclusive_combination",
+    "participants": 31,
+    "reason": "incomplete_current_hr;fewer_than_30_occupied_minutes",
+    "responses": 205,
+    "scope": "all_development"
+  },
+  {
+    "kind": "exclusive_combination",
+    "participants": 45,
+    "reason": "incomplete_current_hr;fewer_than_30_occupied_minutes;fewer_than_3_utc_hours",
+    "responses": 108,
+    "scope": "all_development"
+  },
+  {
+    "kind": "exclusive_combination",
+    "participants": 30,
+    "reason": "incomplete_current_hr;fewer_than_3_utc_hours",
+    "responses": 39,
+    "scope": "all_development"
+  },
+  {
+    "kind": "exclusive_combination",
+    "participants": 36,
+    "reason": "incomplete_current_hr;no_recording;fewer_than_30_occupied_minutes;fewer_than_3_utc_hours",
+    "responses": 160,
+    "scope": "all_development"
+  },
+  {
+    "kind": "exclusive_combination",
+    "participants": 8,
+    "reason": "missing_outcome",
+    "responses": 9,
+    "scope": "all_development"
+  },
+  {
+    "kind": "exclusive_combination",
+    "participants": 3,
+    "reason": "missing_outcome;incomplete_current_hr",
+    "responses": 4,
+    "scope": "all_development"
+  },
+  {
+    "kind": "exclusive_combination",
+    "participants": 1,
+    "reason": "missing_outcome;incomplete_current_hr;all_recorded_readings_rejected;fewer_than_30_occupied_minutes;fewer_than_3_utc_hours",
+    "responses": 1,
+    "scope": "all_development"
+  },
+  {
+    "kind": "exclusive_combination",
+    "participants": 2,
+    "reason": "missing_outcome;incomplete_current_hr;no_recording;fewer_than_30_occupied_minutes;fewer_than_3_utc_hours",
+    "responses": 3,
+    "scope": "all_development"
+  },
+  {
+    "kind": "exclusive_combination",
+    "participants": 6,
+    "reason": "no_recording;fewer_than_30_occupied_minutes;fewer_than_3_utc_hours",
+    "responses": 6,
+    "scope": "all_development"
+  },
+  {
+    "kind": "overlapping_reason",
+    "participants": 52,
+    "reason": "all_recorded_readings_rejected",
+    "responses": 88,
+    "scope": "all_development"
+  },
+  {
+    "kind": "overlapping_reason",
+    "participants": 116,
+    "reason": "eligible",
+    "responses": 1575,
+    "scope": "all_development"
+  },
+  {
+    "kind": "overlapping_reason",
+    "participants": 110,
+    "reason": "fewer_than_30_occupied_minutes",
+    "responses": 600,
+    "scope": "all_development"
+  },
+  {
+    "kind": "overlapping_reason",
+    "participants": 113,
+    "reason": "fewer_than_3_utc_hours",
+    "responses": 435,
+    "scope": "all_development"
+  },
+  {
+    "kind": "overlapping_reason",
+    "participants": 125,
+    "reason": "incomplete_current_hr",
+    "responses": 2063,
+    "scope": "all_development"
+  },
+  {
+    "kind": "overlapping_reason",
+    "participants": 14,
+    "reason": "missing_outcome",
+    "responses": 17,
+    "scope": "all_development"
+  },
+  {
+    "kind": "overlapping_reason",
+    "participants": 41,
+    "reason": "no_recording",
+    "responses": 169,
+    "scope": "all_development"
+  },
+  {
+    "kind": "exclusive_combination",
+    "participants": 14,
+    "reason": "all_recorded_readings_rejected;fewer_than_30_occupied_minutes;fewer_than_3_utc_hours",
+    "responses": 15,
+    "scope": "native_60m_hr"
+  },
+  {
+    "kind": "exclusive_combination",
+    "participants": 116,
+    "reason": "eligible",
+    "responses": 1575,
+    "scope": "native_60m_hr"
+  },
+  {
+    "kind": "exclusive_combination",
+    "participants": 5,
+    "reason": "fewer_than_30_occupied_minutes",
+    "responses": 7,
+    "scope": "native_60m_hr"
+  },
+  {
+    "kind": "exclusive_combination",
+    "participants": 23,
+    "reason": "fewer_than_30_occupied_minutes;fewer_than_3_utc_hours",
+    "responses": 23,
+    "scope": "native_60m_hr"
+  },
+  {
+    "kind": "exclusive_combination",
+    "participants": 8,
+    "reason": "fewer_than_3_utc_hours",
+    "responses": 8,
+    "scope": "native_60m_hr"
+  },
+  {
+    "kind": "exclusive_combination",
+    "participants": 6,
+    "reason": "no_recording;fewer_than_30_occupied_minutes;fewer_than_3_utc_hours",
+    "responses": 6,
+    "scope": "native_60m_hr"
+  },
+  {
+    "kind": "overlapping_reason",
+    "participants": 14,
+    "reason": "all_recorded_readings_rejected",
+    "responses": 15,
+    "scope": "native_60m_hr"
+  },
+  {
+    "kind": "overlapping_reason",
+    "participants": 116,
+    "reason": "eligible",
+    "responses": 1575,
+    "scope": "native_60m_hr"
+  },
+  {
+    "kind": "overlapping_reason",
+    "participants": 45,
+    "reason": "fewer_than_30_occupied_minutes",
+    "responses": 51,
+    "scope": "native_60m_hr"
+  },
+  {
+    "kind": "overlapping_reason",
+    "participants": 49,
+    "reason": "fewer_than_3_utc_hours",
+    "responses": 52,
+    "scope": "native_60m_hr"
+  },
+  {
+    "kind": "overlapping_reason",
+    "participants": 6,
+    "reason": "no_recording",
+    "responses": 6,
+    "scope": "native_60m_hr"
+  }
+]

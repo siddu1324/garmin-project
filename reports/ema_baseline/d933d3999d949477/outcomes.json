@@ -1,0 +1,443 @@
+{
+  "distribution": [
+    {
+      "n_survey_category": "Endday",
+      "pss_combo": 3.0,
+      "responses": 192
+    },
+    {
+      "n_survey_category": "Endday",
+      "pss_combo": 4.0,
+      "responses": 82
+    },
+    {
+      "n_survey_category": "Endday",
+      "pss_combo": 5.0,
+      "responses": 142
+    },
+    {
+      "n_survey_category": "Endday",
+      "pss_combo": 6.0,
+      "responses": 110
+    },
+    {
+      "n_survey_category": "Endday",
+      "pss_combo": 7.0,
+      "responses": 126
+    },
+    {
+      "n_survey_category": "Endday",
+      "pss_combo": 8.0,
+      "responses": 75
+    },
+    {
+      "n_survey_category": "Endday",
+      "pss_combo": 9.0,
+      "responses": 89
+    },
+    {
+      "n_survey_category": "Endday",
+      "pss_combo": 10.0,
+      "responses": 39
+    },
+    {
+      "n_survey_category": "Endday",
+      "pss_combo": 11.0,
+      "responses": 45
+    },
+    {
+      "n_survey_category": "Endday",
+      "pss_combo": 12.0,
+      "responses": 17
+    },
+    {
+      "n_survey_category": "Endday",
+      "pss_combo": 13.0,
+      "responses": 7
+    },
+    {
+      "n_survey_category": "Endday",
+      "pss_combo": 14.0,
+      "responses": 3
+    },
+    {
+      "n_survey_category": "Endday",
+      "pss_combo": 15.0,
+      "responses": 5
+    },
+    {
+      "n_survey_category": "Midday",
+      "pss_combo": 3.0,
+      "responses": 358
+    },
+    {
+      "n_survey_category": "Midday",
+      "pss_combo": 4.0,
+      "responses": 174
+    },
+    {
+      "n_survey_category": "Midday",
+      "pss_combo": 5.0,
+      "responses": 270
+    },
+    {
+      "n_survey_category": "Midday",
+      "pss_combo": 6.0,
+      "responses": 196
+    },
+    {
+      "n_survey_category": "Midday",
+      "pss_combo": 7.0,
+      "responses": 247
+    },
+    {
+      "n_survey_category": "Midday",
+      "pss_combo": 8.0,
+      "responses": 212
+    },
+    {
+      "n_survey_category": "Midday",
+      "pss_combo": 9.0,
+      "responses": 127
+    },
+    {
+      "n_survey_category": "Midday",
+      "pss_combo": 10.0,
+      "responses": 77
+    },
+    {
+      "n_survey_category": "Midday",
+      "pss_combo": 11.0,
+      "responses": 90
+    },
+    {
+      "n_survey_category": "Midday",
+      "pss_combo": 12.0,
+      "responses": 36
+    },
+    {
+      "n_survey_category": "Midday",
+      "pss_combo": 13.0,
+      "responses": 22
+    },
+    {
+      "n_survey_category": "Midday",
+      "pss_combo": 14.0,
+      "responses": 13
+    },
+    {
+      "n_survey_category": "Midday",
+      "pss_combo": 15.0,
+      "responses": 4
+    },
+    {
+      "n_survey_category": "Morning",
+      "pss_combo": 3.0,
+      "responses": 155
+    },
+    {
+      "n_survey_category": "Morning",
+      "pss_combo": 4.0,
+      "responses": 72
+    },
+    {
+      "n_survey_category": "Morning",
+      "pss_combo": 5.0,
+      "responses": 141
+    },
+    {
+      "n_survey_category": "Morning",
+      "pss_combo": 6.0,
+      "responses": 96
+    },
+    {
+      "n_survey_category": "Morning",
+      "pss_combo": 7.0,
+      "responses": 127
+    },
+    {
+      "n_survey_category": "Morning",
+      "pss_combo": 8.0,
+      "responses": 101
+    },
+    {
+      "n_survey_category": "Morning",
+      "pss_combo": 9.0,
+      "responses": 82
+    },
+    {
+      "n_survey_category": "Morning",
+      "pss_combo": 10.0,
+      "responses": 62
+    },
+    {
+      "n_survey_category": "Morning",
+      "pss_combo": 11.0,
+      "responses": 59
+    },
+    {
+      "n_survey_category": "Morning",
+      "pss_combo": 12.0,
+      "responses": 22
+    },
+    {
+      "n_survey_category": "Morning",
+      "pss_combo": 13.0,
+      "responses": 6
+    },
+    {
+      "n_survey_category": "Morning",
+      "pss_combo": 14.0,
+      "responses": 3
+    },
+    {
+      "n_survey_category": "Morning",
+      "pss_combo": 15.0,
+      "responses": 5
+    }
+  ],
+  "item_audit": [
+    {
+      "cells": 934,
+      "item": "PSS_NERVOUS",
+      "status": "valid",
+      "survey_category": "Endday"
+    },
+    {
+      "cells": 933,
+      "item": "PSS_COPE",
+      "status": "valid",
+      "survey_category": "Endday"
+    },
+    {
+      "cells": 1,
+      "item": "PSS_COPE",
+      "status": "missing",
+      "survey_category": "Endday"
+    },
+    {
+      "cells": 1,
+      "item": "PSS_COPE",
+      "missing_token": "<empty>",
+      "survey_category": "Endday"
+    },
+    {
+      "cells": 932,
+      "item": "PSS_CONTROL",
+      "status": "valid",
+      "survey_category": "Endday"
+    },
+    {
+      "cells": 2,
+      "item": "PSS_CONTROL",
+      "status": "missing",
+      "survey_category": "Endday"
+    },
+    {
+      "cells": 2,
+      "item": "PSS_CONTROL",
+      "missing_token": "<empty>",
+      "survey_category": "Endday"
+    },
+    {
+      "cells": 1827,
+      "item": "PSS_NERVOUS",
+      "status": "valid",
+      "survey_category": "Midday"
+    },
+    {
+      "cells": 11,
+      "item": "PSS_NERVOUS",
+      "status": "missing",
+      "survey_category": "Midday"
+    },
+    {
+      "cells": 11,
+      "item": "PSS_NERVOUS",
+      "missing_token": "<empty>",
+      "survey_category": "Midday"
+    },
+    {
+      "cells": 1826,
+      "item": "PSS_COPE",
+      "status": "valid",
+      "survey_category": "Midday"
+    },
+    {
+      "cells": 12,
+      "item": "PSS_COPE",
+      "status": "missing",
+      "survey_category": "Midday"
+    },
+    {
+      "cells": 12,
+      "item": "PSS_COPE",
+      "missing_token": "<empty>",
+      "survey_category": "Midday"
+    },
+    {
+      "cells": 1826,
+      "item": "PSS_CONTROL",
+      "status": "valid",
+      "survey_category": "Midday"
+    },
+    {
+      "cells": 12,
+      "item": "PSS_CONTROL",
+      "status": "missing",
+      "survey_category": "Midday"
+    },
+    {
+      "cells": 12,
+      "item": "PSS_CONTROL",
+      "missing_token": "<empty>",
+      "survey_category": "Midday"
+    },
+    {
+      "cells": 931,
+      "item": "PSS_NERVOUS",
+      "status": "valid",
+      "survey_category": "Morning"
+    },
+    {
+      "cells": 3,
+      "item": "PSS_NERVOUS",
+      "status": "missing",
+      "survey_category": "Morning"
+    },
+    {
+      "cells": 3,
+      "item": "PSS_NERVOUS",
+      "missing_token": "<empty>",
+      "survey_category": "Morning"
+    },
+    {
+      "cells": 931,
+      "item": "PSS_COPE",
+      "status": "valid",
+      "survey_category": "Morning"
+    },
+    {
+      "cells": 3,
+      "item": "PSS_COPE",
+      "status": "missing",
+      "survey_category": "Morning"
+    },
+    {
+      "cells": 3,
+      "item": "PSS_COPE",
+      "missing_token": "<empty>",
+      "survey_category": "Morning"
+    },
+    {
+      "cells": 931,
+      "item": "PSS_CONTROL",
+      "status": "valid",
+      "survey_category": "Morning"
+    },
+    {
+      "cells": 3,
+      "item": "PSS_CONTROL",
+      "status": "missing",
+      "survey_category": "Morning"
+    },
+    {
+      "cells": 3,
+      "item": "PSS_CONTROL",
+      "missing_token": "<empty>",
+      "survey_category": "Morning"
+    }
+  ],
+  "reasons": [
+    {
+      "n_survey_category": "Endday",
+      "outcome_reason": "PSS_CONTROL:missing",
+      "responses": 1
+    },
+    {
+      "n_survey_category": "Endday",
+      "outcome_reason": "PSS_COPE:missing;PSS_CONTROL:missing",
+      "responses": 1
+    },
+    {
+      "n_survey_category": "Endday",
+      "outcome_reason": "available",
+      "responses": 932
+    },
+    {
+      "n_survey_category": "Midday",
+      "outcome_reason": "PSS_COPE:missing;PSS_CONTROL:missing",
+      "responses": 1
+    },
+    {
+      "n_survey_category": "Midday",
+      "outcome_reason": "PSS_NERVOUS:missing;PSS_COPE:missing;PSS_CONTROL:missing",
+      "responses": 11
+    },
+    {
+      "n_survey_category": "Midday",
+      "outcome_reason": "available",
+      "responses": 1826
+    },
+    {
+      "n_survey_category": "Morning",
+      "outcome_reason": "PSS_NERVOUS:missing;PSS_COPE:missing;PSS_CONTROL:missing",
+      "responses": 3
+    },
+    {
+      "n_survey_category": "Morning",
+      "outcome_reason": "available",
+      "responses": 931
+    }
+  ],
+  "summary": [
+    {
+      "available": 3689,
+      "maximum": 15.0,
+      "mean": 6.406885334779,
+      "median": 6.0,
+      "minimum": 3.0,
+      "missing": 17,
+      "participants": 125,
+      "responses": 3706,
+      "sd": 2.695514527191,
+      "survey_category": "all"
+    },
+    {
+      "available": 932,
+      "maximum": 15.0,
+      "mean": 6.281115879828,
+      "median": 6.0,
+      "minimum": 3.0,
+      "missing": 2,
+      "participants": 124,
+      "responses": 934,
+      "sd": 2.673084131665,
+      "survey_category": "Endday"
+    },
+    {
+      "available": 1826,
+      "maximum": 15.0,
+      "mean": 6.343921139102,
+      "median": 6.0,
+      "minimum": 3.0,
+      "missing": 12,
+      "participants": 125,
+      "responses": 1838,
+      "sd": 2.691642827233,
+      "survey_category": "Midday"
+    },
+    {
+      "available": 931,
+      "maximum": 15.0,
+      "mean": 6.656283566058,
+      "median": 7.0,
+      "minimum": 3.0,
+      "missing": 3,
+      "participants": 125,
+      "responses": 934,
+      "sd": 2.712379176465,
+      "survey_category": "Morning"
+    }
+  ]
+}

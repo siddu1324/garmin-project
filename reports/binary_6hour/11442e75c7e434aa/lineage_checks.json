@@ -1,0 +1,12 @@
+[
+  {
+    "accepted_count_monotonic": true,
+    "verified_nested_slices": 3689,
+    "window": 120
+  },
+  {
+    "accepted_count_monotonic": true,
+    "verified_nested_slices": 3689,
+    "window": 360
+  }
+]

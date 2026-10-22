@@ -1,0 +1,82 @@
+[
+  {
+    "count": 10,
+    "feature": "mean_ibi_ms",
+    "maximum": 821.3575581395348,
+    "median": 741.4949914837773,
+    "minimum": 612.5862068965517,
+    "scenario": "interval_end"
+  },
+  {
+    "count": 10,
+    "feature": "median_ibi_ms",
+    "maximum": 818.0,
+    "median": 740.0,
+    "minimum": 610.0,
+    "scenario": "interval_end"
+  },
+  {
+    "count": 10,
+    "feature": "sdnn_sample_ms",
+    "maximum": 43.71692890092822,
+    "median": 26.627544174145637,
+    "minimum": 14.175726835779326,
+    "scenario": "interval_end"
+  },
+  {
+    "count": 10,
+    "feature": "rmssd_ms",
+    "maximum": 32.87172036873032,
+    "median": 21.03430017267686,
+    "minimum": 4.191623973886677,
+    "scenario": "interval_end"
+  },
+  {
+    "count": 10,
+    "feature": "pnn50_pairs_percent",
+    "maximum": 12.631578947368421,
+    "median": 0.9877179974855743,
+    "minimum": 0.0,
+    "scenario": "interval_end"
+  },
+  {
+    "count": 10,
+    "feature": "mean_ibi_ms",
+    "maximum": 832.7179487179487,
+    "median": 727.5392326504245,
+    "minimum": 613.8808988764044,
+    "scenario": "interval_start"
+  },
+  {
+    "count": 10,
+    "feature": "median_ibi_ms",
+    "maximum": 826.5,
+    "median": 726.5,
+    "minimum": 612.0,
+    "scenario": "interval_start"
+  },
+  {
+    "count": 10,
+    "feature": "sdnn_sample_ms",
+    "maximum": 38.08820274129078,
+    "median": 21.86052009401513,
+    "minimum": 12.400573098262553,
+    "scenario": "interval_start"
+  },
+  {
+    "count": 10,
+    "feature": "rmssd_ms",
+    "maximum": 32.78873156179105,
+    "median": 18.01590813743939,
+    "minimum": 4.195522570378357,
+    "scenario": "interval_start"
+  },
+  {
+    "count": 10,
+    "feature": "pnn50_pairs_percent",
+    "maximum": 14.067278287461773,
+    "median": 0.9273775009842873,
+    "minimum": 0.0,
+    "scenario": "interval_start"
+  }
+]

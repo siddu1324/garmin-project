@@ -1,0 +1,436 @@
+[
+  {
+    "cohort": "common",
+    "participants": 29,
+    "reason_combination": "fixed_5_features_unavailable",
+    "responses": 36,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "common",
+    "participants": 6,
+    "reason_combination": "fixed_60_features_unavailable;fixed_5_features_unavailable",
+    "responses": 6,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "common",
+    "participants": 4,
+    "reason_combination": "fixed_60_features_unavailable;fixed_5_features_unavailable;fixed_120_features_unavailable",
+    "responses": 4,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "common",
+    "participants": 74,
+    "reason_combination": "included",
+    "responses": 191,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "common",
+    "participants": 3,
+    "reason_combination": "missing_outcome;wake_boundary_unavailable;wake_features_unavailable;fixed_60_features_unavailable;fixed_5_features_unavailable;fixed_120_features_unavailable",
+    "responses": 3,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "common",
+    "participants": 5,
+    "reason_combination": "wake_boundary_unavailable;wake_features_unavailable",
+    "responses": 5,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "common",
+    "participants": 1,
+    "reason_combination": "wake_boundary_unavailable;wake_features_unavailable;fixed_5_features_unavailable",
+    "responses": 1,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "common",
+    "participants": 57,
+    "reason_combination": "wake_boundary_unavailable;wake_features_unavailable;fixed_60_features_unavailable;fixed_5_features_unavailable;fixed_120_features_unavailable",
+    "responses": 99,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "common",
+    "participants": 1,
+    "reason_combination": "wake_features_unavailable;fixed_5_features_unavailable",
+    "responses": 1,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "common",
+    "participants": 125,
+    "reason_combination": "wake_features_unavailable;fixed_60_features_unavailable;fixed_5_features_unavailable;fixed_120_features_unavailable",
+    "responses": 588,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "participants": 4,
+    "reason_combination": "fixed_120_features_unavailable",
+    "responses": 4,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "participants": 87,
+    "reason_combination": "included",
+    "responses": 233,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "participants": 3,
+    "reason_combination": "missing_outcome;wake_boundary_unavailable;wake_features_unavailable;fixed_120_features_unavailable",
+    "responses": 3,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "participants": 6,
+    "reason_combination": "wake_boundary_unavailable;wake_features_unavailable",
+    "responses": 6,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "participants": 57,
+    "reason_combination": "wake_boundary_unavailable;wake_features_unavailable;fixed_120_features_unavailable",
+    "responses": 99,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "participants": 1,
+    "reason_combination": "wake_features_unavailable",
+    "responses": 1,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "participants": 125,
+    "reason_combination": "wake_features_unavailable;fixed_120_features_unavailable",
+    "responses": 588,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "participants": 35,
+    "reason_combination": "fixed_5_features_unavailable",
+    "responses": 46,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "participants": 74,
+    "reason_combination": "included",
+    "responses": 191,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "participants": 3,
+    "reason_combination": "missing_outcome;wake_boundary_unavailable;wake_features_unavailable;fixed_5_features_unavailable",
+    "responses": 3,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "participants": 5,
+    "reason_combination": "wake_boundary_unavailable;wake_features_unavailable",
+    "responses": 5,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "participants": 57,
+    "reason_combination": "wake_boundary_unavailable;wake_features_unavailable;fixed_5_features_unavailable",
+    "responses": 100,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "participants": 125,
+    "reason_combination": "wake_features_unavailable;fixed_5_features_unavailable",
+    "responses": 589,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "participants": 10,
+    "reason_combination": "fixed_60_features_unavailable",
+    "responses": 10,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "participants": 86,
+    "reason_combination": "included",
+    "responses": 227,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "participants": 3,
+    "reason_combination": "missing_outcome;wake_boundary_unavailable;wake_features_unavailable;fixed_60_features_unavailable",
+    "responses": 3,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "participants": 6,
+    "reason_combination": "wake_boundary_unavailable;wake_features_unavailable",
+    "responses": 6,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "participants": 57,
+    "reason_combination": "wake_boundary_unavailable;wake_features_unavailable;fixed_60_features_unavailable",
+    "responses": 99,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "participants": 1,
+    "reason_combination": "wake_features_unavailable",
+    "responses": 1,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "participants": 125,
+    "reason_combination": "wake_features_unavailable;fixed_60_features_unavailable",
+    "responses": 588,
+    "scenario": "reported_minute_end_sensitivity"
+  },
+  {
+    "cohort": "common",
+    "participants": 29,
+    "reason_combination": "fixed_5_features_unavailable",
+    "responses": 36,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "common",
+    "participants": 6,
+    "reason_combination": "fixed_60_features_unavailable;fixed_5_features_unavailable",
+    "responses": 6,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "common",
+    "participants": 4,
+    "reason_combination": "fixed_60_features_unavailable;fixed_5_features_unavailable;fixed_120_features_unavailable",
+    "responses": 4,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "common",
+    "participants": 74,
+    "reason_combination": "included",
+    "responses": 191,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "common",
+    "participants": 3,
+    "reason_combination": "missing_outcome;wake_boundary_unavailable;wake_features_unavailable;fixed_60_features_unavailable;fixed_5_features_unavailable;fixed_120_features_unavailable",
+    "responses": 3,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "common",
+    "participants": 4,
+    "reason_combination": "wake_boundary_unavailable;wake_features_unavailable",
+    "responses": 4,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "common",
+    "participants": 1,
+    "reason_combination": "wake_boundary_unavailable;wake_features_unavailable;fixed_5_features_unavailable",
+    "responses": 1,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "common",
+    "participants": 53,
+    "reason_combination": "wake_boundary_unavailable;wake_features_unavailable;fixed_60_features_unavailable;fixed_5_features_unavailable;fixed_120_features_unavailable",
+    "responses": 90,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "common",
+    "participants": 1,
+    "reason_combination": "wake_features_unavailable",
+    "responses": 1,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "common",
+    "participants": 1,
+    "reason_combination": "wake_features_unavailable;fixed_5_features_unavailable",
+    "responses": 1,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "common",
+    "participants": 125,
+    "reason_combination": "wake_features_unavailable;fixed_60_features_unavailable;fixed_5_features_unavailable;fixed_120_features_unavailable",
+    "responses": 597,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "participants": 4,
+    "reason_combination": "fixed_120_features_unavailable",
+    "responses": 4,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "participants": 87,
+    "reason_combination": "included",
+    "responses": 233,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "participants": 3,
+    "reason_combination": "missing_outcome;wake_boundary_unavailable;wake_features_unavailable;fixed_120_features_unavailable",
+    "responses": 3,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "participants": 5,
+    "reason_combination": "wake_boundary_unavailable;wake_features_unavailable",
+    "responses": 5,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "participants": 53,
+    "reason_combination": "wake_boundary_unavailable;wake_features_unavailable;fixed_120_features_unavailable",
+    "responses": 90,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "participants": 2,
+    "reason_combination": "wake_features_unavailable",
+    "responses": 2,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "pair_fixed_120",
+    "participants": 125,
+    "reason_combination": "wake_features_unavailable;fixed_120_features_unavailable",
+    "responses": 597,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "participants": 35,
+    "reason_combination": "fixed_5_features_unavailable",
+    "responses": 46,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "participants": 74,
+    "reason_combination": "included",
+    "responses": 191,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "participants": 3,
+    "reason_combination": "missing_outcome;wake_boundary_unavailable;wake_features_unavailable;fixed_5_features_unavailable",
+    "responses": 3,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "participants": 4,
+    "reason_combination": "wake_boundary_unavailable;wake_features_unavailable",
+    "responses": 4,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "participants": 53,
+    "reason_combination": "wake_boundary_unavailable;wake_features_unavailable;fixed_5_features_unavailable",
+    "responses": 91,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "participants": 1,
+    "reason_combination": "wake_features_unavailable",
+    "responses": 1,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "pair_fixed_5",
+    "participants": 125,
+    "reason_combination": "wake_features_unavailable;fixed_5_features_unavailable",
+    "responses": 598,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "participants": 10,
+    "reason_combination": "fixed_60_features_unavailable",
+    "responses": 10,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "participants": 86,
+    "reason_combination": "included",
+    "responses": 227,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "participants": 3,
+    "reason_combination": "missing_outcome;wake_boundary_unavailable;wake_features_unavailable;fixed_60_features_unavailable",
+    "responses": 3,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "participants": 5,
+    "reason_combination": "wake_boundary_unavailable;wake_features_unavailable",
+    "responses": 5,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "participants": 53,
+    "reason_combination": "wake_boundary_unavailable;wake_features_unavailable;fixed_60_features_unavailable",
+    "responses": 90,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "participants": 2,
+    "reason_combination": "wake_features_unavailable",
+    "responses": 2,
+    "scenario": "reported_minute_start"
+  },
+  {
+    "cohort": "pair_fixed_60",
+    "participants": 125,
+    "reason_combination": "wake_features_unavailable;fixed_60_features_unavailable",
+    "responses": 597,
+    "scenario": "reported_minute_start"
+  }
+]

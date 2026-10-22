@@ -1,0 +1,92 @@
+[
+  {
+    "alpha": 0.0,
+    "fits": 5,
+    "largest_training_mae_reduction": 0.0,
+    "max_training_prediction_sd": 0.0,
+    "maximum_nonzero_coefficients": 0,
+    "mean_training_mae_change": 0.0,
+    "model": "context",
+    "nonconstant_training_fits": 0
+  },
+  {
+    "alpha": 0.001,
+    "fits": 5,
+    "largest_training_mae_reduction": 0.0,
+    "max_training_prediction_sd": 0.0,
+    "maximum_nonzero_coefficients": 0,
+    "mean_training_mae_change": 0.0,
+    "model": "context",
+    "nonconstant_training_fits": 0
+  },
+  {
+    "alpha": 0.01,
+    "fits": 5,
+    "largest_training_mae_reduction": 0.0,
+    "max_training_prediction_sd": 0.0,
+    "maximum_nonzero_coefficients": 0,
+    "mean_training_mae_change": 0.0,
+    "model": "context",
+    "nonconstant_training_fits": 0
+  },
+  {
+    "alpha": 0.0,
+    "fits": 5,
+    "largest_training_mae_reduction": -0.004399576414,
+    "max_training_prediction_sd": 0.304003194247,
+    "maximum_nonzero_coefficients": 8,
+    "mean_training_mae_change": -0.001471738184,
+    "model": "context_hr",
+    "nonconstant_training_fits": 3
+  },
+  {
+    "alpha": 0.001,
+    "fits": 5,
+    "largest_training_mae_reduction": -0.004285768188,
+    "max_training_prediction_sd": 0.294370225495,
+    "maximum_nonzero_coefficients": 8,
+    "mean_training_mae_change": -0.000857153638,
+    "model": "context_hr",
+    "nonconstant_training_fits": 1
+  },
+  {
+    "alpha": 0.01,
+    "fits": 5,
+    "largest_training_mae_reduction": 0.0,
+    "max_training_prediction_sd": 8.881784197e-16,
+    "maximum_nonzero_coefficients": 0,
+    "mean_training_mae_change": 0.0,
+    "model": "context_hr",
+    "nonconstant_training_fits": 0
+  },
+  {
+    "alpha": 0.0,
+    "fits": 5,
+    "largest_training_mae_reduction": 0.0,
+    "max_training_prediction_sd": 8.881784197e-16,
+    "maximum_nonzero_coefficients": 0,
+    "mean_training_mae_change": 0.0,
+    "model": "hr",
+    "nonconstant_training_fits": 0
+  },
+  {
+    "alpha": 0.001,
+    "fits": 5,
+    "largest_training_mae_reduction": 0.0,
+    "max_training_prediction_sd": 0.0,
+    "maximum_nonzero_coefficients": 0,
+    "mean_training_mae_change": 1.7763568394e-16,
+    "model": "hr",
+    "nonconstant_training_fits": 0
+  },
+  {
+    "alpha": 0.01,
+    "fits": 5,
+    "largest_training_mae_reduction": 0.0,
+    "max_training_prediction_sd": 0.0,
+    "maximum_nonzero_coefficients": 0,
+    "mean_training_mae_change": 0.0,
+    "model": "hr",
+    "nonconstant_training_fits": 0
+  }
+]

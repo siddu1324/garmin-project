@@ -1,0 +1,32 @@
+[
+  {
+    "current_response_wake_only": 0,
+    "missing_complete_prompt_log": 934,
+    "missing_verified_acquisition_clock": 934,
+    "missing_verified_answer_availability": 934,
+    "participants": 124,
+    "responses": 934,
+    "survey": "Endday",
+    "verified_pre_response_recall_boundaries": 0
+  },
+  {
+    "current_response_wake_only": 0,
+    "missing_complete_prompt_log": 1838,
+    "missing_verified_acquisition_clock": 1838,
+    "missing_verified_answer_availability": 1838,
+    "participants": 125,
+    "responses": 1838,
+    "survey": "Midday",
+    "verified_pre_response_recall_boundaries": 0
+  },
+  {
+    "current_response_wake_only": 934,
+    "missing_complete_prompt_log": 0,
+    "missing_verified_acquisition_clock": 934,
+    "missing_verified_answer_availability": 934,
+    "participants": 125,
+    "responses": 934,
+    "survey": "Morning",
+    "verified_pre_response_recall_boundaries": 0
+  }
+]

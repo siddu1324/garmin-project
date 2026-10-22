@@ -1,0 +1,34 @@
+[
+  {
+    "current_positive": 346,
+    "pairs": 998,
+    "participants": 91,
+    "positive_fraction": 0.3466933867735471,
+    "previous_class": 0,
+    "task": "A"
+  },
+  {
+    "current_positive": 2209,
+    "pairs": 2566,
+    "participants": 123,
+    "positive_fraction": 0.8608729540140296,
+    "previous_class": 1,
+    "task": "A"
+  },
+  {
+    "current_positive": 271,
+    "pairs": 3067,
+    "participants": 125,
+    "positive_fraction": 0.08835996087381806,
+    "previous_class": 0,
+    "task": "B"
+  },
+  {
+    "current_positive": 224,
+    "pairs": 497,
+    "participants": 94,
+    "positive_fraction": 0.4507042253521127,
+    "previous_class": 1,
+    "task": "B"
+  }
+]

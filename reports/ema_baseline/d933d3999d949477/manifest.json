@@ -1,0 +1,26 @@
+{
+  "aggregate_only": true,
+  "artifact_sha256": {
+    "availability.json": "2ea03cefb14eb3320ff8a37862a8e8e0b5defa32e34b0b337f0a562eed08fa8d",
+    "coefficients.json": "b16f56547fa8f6c9868244c2e25a58aa2f74442d161f38d33da43571aedf8a2f",
+    "cohorts.json": "92eb45e3d6a6e31b32d445397141abf4669f35d01ecc29b313ee9978db502b2e",
+    "coverage_and_scores.png": "b815e9e10503c2f80c95a099b00bc545bd7874203e5872640e0804157f885309",
+    "fold_counts.json": "43da0533180fdb7f7722d1cb902557d1e84f0765307ea856b77e4e6d26cad132",
+    "matched_performance.png": "03bd39a3d190cc11a619f0d5411b54780d2071f554bf812886afbc9aaecef73a",
+    "metrics.json": "0bd14ca0d2f5e5a73376e6c9dee23701e42782693eff8622412d5241631ef4c8",
+    "outcomes.json": "d053a7e2f34d6ae393c7b4fdfef6caecfbf7fc78b7ce428bf6c678e0782ff2dd",
+    "paired_differences.png": "1ac80e92dbe44c3b033fe5e50dbd0a5ab72d299ca52ea35f98bba384e0190b36",
+    "paired_intervals.json": "eeb4836aa8029fd1d100ac29bf2dbb3a28e4380516c1d8bac14913ba9ae0846f",
+    "quality_diagnostics.json": "47cb79f54b8c48dc8f8272401f4d29d04203cb87fbdaf93b679423fa6209b8a9",
+    "questionnaire_evidence.json": "4eef94f865c280aaa38d50ea966aa13926ca724a251966af1c33eb223b2e0dbc",
+    "recording_status.json": "b5849a323aa783969dfd44596544148b7f900f1d8e929ec3b7e614cff78d4808",
+    "recording_support.png": "71f4e75619b0ca463a0326e8ecd7f1c71b5e1ca8011f30db4e4a9b89ad51673c",
+    "report.md": "e1db5dce02e57ed7121e9f27f64dd878a56c40e5c4bb01299cb97cd8c5b47464"
+  },
+  "complete": true,
+  "inputs": {
+    "report_code_sha256": "173ebcfae8e5743d6d17918a38c79293e80d05a6dc0232ce3fd3bb6b213f7b4b",
+    "run_manifest_sha256": "06365fb12fc178928e49e43cf44e3498df0d71e6476e338d8a2476c701ca2639"
+  },
+  "version": "d933d3999d949477"
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "both_classes": 116,
+    "cohort": "all_development",
+    "participants": 125,
+    "positive": 932,
+    "positive_fraction_median": 0.2,
+    "positive_fraction_q25": 0.1111111111111111,
+    "positive_fraction_q75": 0.36666666666666664,
+    "responses": 3692,
+    "responses_per_person_median": 31.0,
+    "task": "nervous"
+  },
+  {
+    "both_classes": 104,
+    "cohort": "all_development",
+    "participants": 125,
+    "positive": 1293,
+    "positive_fraction_median": 0.2903225806451613,
+    "positive_fraction_q25": 0.07692307692307693,
+    "positive_fraction_q75": 0.5625,
+    "responses": 3690,
+    "responses_per_person_median": 31.0,
+    "task": "cope_difficulty"
+  },
+  {
+    "both_classes": 107,
+    "cohort": "all_development",
+    "participants": 125,
+    "positive": 1600,
+    "positive_fraction_median": 0.3793103448275862,
+    "positive_fraction_q25": 0.15625,
+    "positive_fraction_q75": 0.65625,
+    "responses": 3689,
+    "responses_per_person_median": 31.0,
+    "task": "control_difficulty"
+  },
+  {
+    "both_classes": 89,
+    "cohort": "all_development",
+    "participants": 125,
+    "positive": 2656,
+    "positive_fraction_median": 0.84,
+    "positive_fraction_q25": 0.5,
+    "positive_fraction_q75": 1.0,
+    "responses": 3689,
+    "responses_per_person_median": 31.0,
+    "task": "composite5"
+  },
+  {
+    "both_classes": 94,
+    "cohort": "all_development",
+    "participants": 125,
+    "positive": 515,
+    "positive_fraction_median": 0.09375,
+    "positive_fraction_q25": 0.03125,
+    "positive_fraction_q75": 0.1935483870967742,
+    "responses": 3689,
+    "responses_per_person_median": 31.0,
+    "task": "composite10"
+  },
+  {
+    "both_classes": 83,
+    "cohort": "matched_observed",
+    "participants": 113,
+    "positive": 335,
+    "positive_fraction_median": 0.2,
+    "positive_fraction_q25": 0.041666666666666664,
+    "positive_fraction_q75": 0.375,
+    "responses": 1355,
+    "responses_per_person_median": 10.0,
+    "task": "nervous"
+  },
+  {
+    "both_classes": 73,
+    "cohort": "matched_observed",
+    "participants": 113,
+    "positive": 426,
+    "positive_fraction_median": 0.23076923076923078,
+    "positive_fraction_q25": 0.0,
+    "positive_fraction_q75": 0.5,
+    "responses": 1355,
+    "responses_per_person_median": 10.0,
+    "task": "cope_difficulty"
+  },
+  {
+    "both_classes": 81,
+    "cohort": "matched_observed",
+    "participants": 113,
+    "positive": 549,
+    "positive_fraction_median": 0.3333333333333333,
+    "positive_fraction_q25": 0.14285714285714285,
+    "positive_fraction_q75": 0.6666666666666666,
+    "responses": 1355,
+    "responses_per_person_median": 10.0,
+    "task": "control_difficulty"
+  },
+  {
+    "both_classes": 65,
+    "cohort": "matched_observed",
+    "participants": 113,
+    "positive": 971,
+    "positive_fraction_median": 0.76,
+    "positive_fraction_q25": 0.5217391304347826,
+    "positive_fraction_q75": 1.0,
+    "responses": 1355,
+    "responses_per_person_median": 10.0,
+    "task": "composite5"
+  },
+  {
+    "both_classes": 54,
+    "cohort": "matched_observed",
+    "participants": 113,
+    "positive": 163,
+    "positive_fraction_median": 0.038461538461538464,
+    "positive_fraction_q25": 0.0,
+    "positive_fraction_q75": 0.15,
+    "responses": 1355,
+    "responses_per_person_median": 10.0,
+    "task": "composite10"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "credential_local_path_scan_passed": true,
+  "environment_and_assignments_preserved": true,
+  "exact_fit_prediction_bootstrap_replay": true,
+  "figures_visually_reviewed": 4,
+  "final_public_files_scanned": 208,
+  "git_index_empty": true,
+  "ignored_files_checked": 34,
+  "independent": {
+    "all_original_folds_preserved": true,
+    "final_test_participants_sealed": 32,
+    "loss_support_experiments_separate": true,
+    "maximum_ridge_prediction_discrepancy": 8.704148513061227e-14,
+    "membership_rows_verified": 177888,
+    "prediction_rows_verified": 112221,
+    "quantile_fits_verified": 240,
+    "support_refit_models_independently_verified": 1200,
+    "targets_unchanged": true
+  },
+  "new_synthetic_tests": 8,
+  "notebook_code_cells_executed": 7,
+  "offline_lock_check": "passed",
+  "prior_files_changed": [
+    "src/garmin_inventory/privacy.py",
+    "README.md"
+  ],
+  "prior_files_unchanged": 188,
+  "prior_immutable_bundles_verified": 10,
+  "public_files_scanned": 206,
+  "raw_reference_integrity": "guarded pipeline before/after and rerun passed",
+  "rendered_notebook_privacy_passed": true,
+  "ruff": "src tests and Notebook 06 passed",
+  "source_notebook_output_free": true,
+  "tests_passed": 112
+}

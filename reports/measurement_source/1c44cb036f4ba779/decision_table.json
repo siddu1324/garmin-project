@@ -1,0 +1,62 @@
+[
+  {
+    "next_action": "Check tiny event trace, latency and missing-beat encoding; revise contract/version before use",
+    "provider_answer": "ts is acquisition/end timestamp, one ordered interval per event",
+    "what_changes": "End hypothesis becomes documented; start becomes a historical sensitivity"
+  },
+  {
+    "next_action": "Check trace; current NeuroKit start adapter remains blocked unless separately validated",
+    "provider_answer": "ts is acquisition/start timestamp",
+    "what_changes": "Start hypothesis becomes documented; end remains historical sensitivity"
+  },
+  {
+    "next_action": "Request re-export with event and availability clocks; version and re-audit, never shift to fit",
+    "provider_answer": "ts is callback/receipt/upload but original event clocks exist",
+    "what_changes": "Current membership/support describes exported clocks, not acquisition"
+  },
+  {
+    "next_action": "Validate release-specific decoder and missing-beat handling before authorizing new normalized version",
+    "provider_answer": "Batch carries ordered intervals plus documented anchor/offsets",
+    "what_changes": "Original payload may support a proper decoder; CSV alone may have lost identity"
+  },
+  {
+    "next_action": "Stop timestamp reconstruction and expanded HRV; retain explicitly provisional export-clock summaries",
+    "provider_answer": "Only receipt clock and scalar values survive; order/offsets unknown",
+    "what_changes": "Exact physiological timing and NN adjacency cannot be established"
+  },
+  {
+    "next_action": "Validate event-ID mapping against exact-row rule; preserve raw copies",
+    "provider_answer": "Identical rows share one immutable event ID (retry)",
+    "what_changes": "Evidence supports transport deduplication"
+  },
+  {
+    "next_action": "Create focused regression and new logical-view version after evidence; preserve old bundles",
+    "provider_answer": "Identical rows represent different batch indices/events",
+    "what_changes": "Current logical collapse conflates real interval records"
+  },
+  {
+    "next_action": "Recover original flags and define separate policy; confidence alone is not normal-beat proof",
+    "provider_answer": "Enhanced BBI confidence or other quality flags available",
+    "what_changes": "New provenance may distinguish withheld/low-confidence measurements"
+  },
+  {
+    "next_action": "Do not label current IBI calculations physiological NN HRV; request validation/collection evidence",
+    "provider_answer": "Quality flags absent or irretrievably dropped",
+    "what_changes": "Normal-beat and upstream rejection status remain unresolved"
+  },
+  {
+    "next_action": "Document semantics; specify and version any revised summaries before performance evaluation",
+    "provider_answer": "HR is cached/smoothed or activity timestamps are update clocks",
+    "what_changes": "Per-row weighting/freshness and counter-interval attribution need review"
+  },
+  {
+    "next_action": "Check intended prompt event and prediction-time availability; do not infer from completions",
+    "provider_answer": "Full delivered-prompt logs exist",
+    "what_changes": "Midday/Endday recall boundaries may be observable"
+  },
+  {
+    "next_action": "Finish feasibility limitation; plan improved collection rather than more window search",
+    "provider_answer": "No prompt logs or actual acquisition clock recoverable",
+    "what_changes": "Recall alignment cannot be made exact with existing data"
+  }
+]

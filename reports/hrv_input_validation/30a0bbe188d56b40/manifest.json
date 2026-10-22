@@ -1,0 +1,33 @@
+{
+  "artifact_sha256": {
+    "combinations.json": "f90754305a610d91e580f84d53cbf374ecaa324b15fe13dac1835fc62487e4c1",
+    "continuity.json": "70b9da07db8075a9810006b0c16817f7c1c510b5d19ff5293af64f0a46517aa3",
+    "continuity_explanation.png": "59e9bde2a771e06f1d59aca89fca7a9fcdde14da5c5429a08d3f35ea8d1439e8",
+    "diagnostic_variations.png": "49e199e4c71023443b954765afe3cd5819cc384e4a6b5844b2d1504050a093ea",
+    "overview.json": "16133664689c43ec8f8c32d493b3f62f09311c9989ebf18ae140f2902130359c",
+    "pair_timing.json": "9e1d00229715134cbb50ea30ee34699c3414817eac9ae45b22b4456cddbc7bc7",
+    "reasons.json": "061eeb1b0ae1c47a851b20cc635cc405ee254d38d8ee94c64367503318cfd6df",
+    "rejection_explanation.png": "638ee060c90e8375c0e0adb0232fadfac2bcc3abba85ae295fa4a2de997abed9",
+    "report.md": "69dadaffe77dbd992856d53a5e898e56ea58140d656ff680d7283b90e828d6e2",
+    "runs.json": "a64a203e5b861a61a25a5a7d664e8254595b2b14d9f851e2dd3068769ad605a3",
+    "summary.json": "66712af4d35a83ae9a7c9d3333dc9408c751f566bb0561212811f545ef8a179a",
+    "synthetic_validation.json": "f4646142884d682cf85d36dbee62d103a821d372c4c0d9cfa4b1eefcf4fb47eb",
+    "timestamp_precision.json": "1d87112e96ea686339616753e5083f7f915ab90a36cac41d3ca70e80a6dac085",
+    "variations.json": "cea45cf70e64b01be2f79ceb65911aac7bc15e89c9177c0eb4089cad744dd95e"
+  },
+  "inputs": {
+    "diagnostic_manifest": "c6e897386d7de6e70e0d7d0aa27b6139488f9f1829274210eaaf35df6aa3faff",
+    "environment_sha256": "4ada4399145db7e17a93bb1db2054f0c21189d4f51657f0ef2adef7dc1d15b00",
+    "source_sha256": {
+      "src/garmin_hrv_input/__init__.py": "9c3579b8edffe0ac20a870f2bdef99cde1cea4506e5a16a9fcb549796a1dbe52",
+      "src/garmin_hrv_input/access.py": "d8078fe3b5c05fac6d022902012c44bad2c4beaad45ef1566afa410e6167eac2",
+      "src/garmin_hrv_input/contract.py": "e75d56c4242b0925c71206a751c0db1dcf44bd8ce7e7d28a0b2cd0e44f52e3c8",
+      "src/garmin_hrv_input/diagnostics.py": "c9ca7fbc828a9dce8b8cd3e8d3b439415f26beedf93777ef0ec69719749c7f1d",
+      "src/garmin_hrv_input/report.py": "3d7de9958a45b82ddb334715624a8efa0848961fd44daf6fb92cb19302063418",
+      "src/garmin_hrv_input/synthetic.py": "f85817fb3de8ab6655136dd55f326904dd168ff48be68c36cae310743aac8448",
+      "src/garmin_hrv_input/verify.py": "e6d3e8b84ad4fd38551f8951629526f7e3cd90452eadc16b2a6d00782b3c3708"
+    },
+    "specification_sha256": "3435b64d4c4134785e05a9be9ad893030e3c2b11f10852aac9f8052fdd5adcde"
+  },
+  "version": "30a0bbe188d56b40"
+}

@@ -1,0 +1,134 @@
+[
+  {
+    "between_fraction": 0.4647141537716245,
+    "between_variance_contribution": 3.3765194322109457,
+    "cohort": "all_development",
+    "measure": "pss_combo",
+    "participants": 125,
+    "responses": 3689,
+    "variance": 7.265798566295176,
+    "within_fraction": 0.5352858462283755,
+    "within_variance_contribution": 3.889279134084231
+  },
+  {
+    "between_fraction": 0.25253798581191134,
+    "between_variance_contribution": 0.2891857015724848,
+    "cohort": "all_development",
+    "measure": "ordinal_nervous",
+    "participants": 125,
+    "responses": 3692,
+    "variance": 1.1451176370269636,
+    "within_fraction": 0.7474620141880887,
+    "within_variance_contribution": 0.8559319354544788
+  },
+  {
+    "between_fraction": 0.5071266844151523,
+    "between_variance_contribution": 0.6507142444680543,
+    "cohort": "all_development",
+    "measure": "ordinal_cope_difficulty",
+    "participants": 125,
+    "responses": 3690,
+    "variance": 1.2831394293883303,
+    "within_fraction": 0.49287331558484776,
+    "within_variance_contribution": 0.632425184920276
+  },
+  {
+    "between_fraction": 0.5016334077538431,
+    "between_variance_contribution": 0.6793766942198969,
+    "cohort": "all_development",
+    "measure": "ordinal_control_difficulty",
+    "participants": 125,
+    "responses": 3689,
+    "variance": 1.3543290453120582,
+    "within_fraction": 0.4983665922461568,
+    "within_variance_contribution": 0.6749523510921613
+  },
+  {
+    "between_fraction": 0.5071266844151523,
+    "between_variance_contribution": 0.6507142444680543,
+    "cohort": "all_development",
+    "measure": "item_cope",
+    "participants": 125,
+    "responses": 3690,
+    "variance": 1.2831394293883303,
+    "within_fraction": 0.49287331558484776,
+    "within_variance_contribution": 0.632425184920276
+  },
+  {
+    "between_fraction": 0.5016334077538431,
+    "between_variance_contribution": 0.6793766942198969,
+    "cohort": "all_development",
+    "measure": "item_control",
+    "participants": 125,
+    "responses": 3689,
+    "variance": 1.3543290453120582,
+    "within_fraction": 0.4983665922461568,
+    "within_variance_contribution": 0.6749523510921613
+  },
+  {
+    "between_fraction": 0.48817266521526703,
+    "between_variance_contribution": 3.1575301847085635,
+    "cohort": "matched_observed",
+    "measure": "pss_combo",
+    "participants": 113,
+    "responses": 1355,
+    "variance": 6.468060196111562,
+    "within_fraction": 0.511827334784733,
+    "within_variance_contribution": 3.310530011402998
+  },
+  {
+    "between_fraction": 0.3233739404635959,
+    "between_variance_contribution": 0.3544015666761842,
+    "cohort": "matched_observed",
+    "measure": "ordinal_nervous",
+    "participants": 113,
+    "responses": 1355,
+    "variance": 1.0959496803239819,
+    "within_fraction": 0.6766260595364041,
+    "within_variance_contribution": 0.7415481136477977
+  },
+  {
+    "between_fraction": 0.5601720146996105,
+    "between_variance_contribution": 0.655106953697114,
+    "cohort": "matched_observed",
+    "measure": "ordinal_cope_difficulty",
+    "participants": 113,
+    "responses": 1355,
+    "variance": 1.1694746194138455,
+    "within_fraction": 0.4398279853003895,
+    "within_variance_contribution": 0.5143676657167315
+  },
+  {
+    "between_fraction": 0.4834869678079551,
+    "between_variance_contribution": 0.548500386518728,
+    "cohort": "matched_observed",
+    "measure": "ordinal_control_difficulty",
+    "participants": 113,
+    "responses": 1355,
+    "variance": 1.1344677789466227,
+    "within_fraction": 0.5165130321920449,
+    "within_variance_contribution": 0.5859673924278945
+  },
+  {
+    "between_fraction": 0.5601720146996105,
+    "between_variance_contribution": 0.655106953697114,
+    "cohort": "matched_observed",
+    "measure": "item_cope",
+    "participants": 113,
+    "responses": 1355,
+    "variance": 1.1694746194138455,
+    "within_fraction": 0.4398279853003895,
+    "within_variance_contribution": 0.5143676657167315
+  },
+  {
+    "between_fraction": 0.4834869678079551,
+    "between_variance_contribution": 0.548500386518728,
+    "cohort": "matched_observed",
+    "measure": "item_control",
+    "participants": 113,
+    "responses": 1355,
+    "variance": 1.1344677789466227,
+    "within_fraction": 0.5165130321920449,
+    "within_variance_contribution": 0.5859673924278945
+  }
+]

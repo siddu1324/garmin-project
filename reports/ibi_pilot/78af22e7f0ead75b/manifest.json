@@ -1,0 +1,21 @@
+{
+  "aggregate_only": true,
+  "artifact_sha256": {
+    "duration_summary.json": "6708e770ff39f8929669867ff2af1f5457d46c1d8d7a957220ab6a6fc3eb734f",
+    "feasibility.json": "c4b1d3f520bff1ca5d2fb7e1378647bda9823e413f02801ac1a2f1acd3ba0589",
+    "feasibility.png": "567be2979b73c4c908b85b92062aea6a502e067acde31489417dce647234c626",
+    "feature_summary.json": "aeebeba7189ab2a3d4a08575443bcc55e97b63ca070547752ec5d2c768223020",
+    "immediate_attrition.png": "3dcb70fbc75953ff255ba9f06bb68f4adbe80dace753b3af419d54fda71678c4",
+    "package_summary.json": "04286cdc383f7047099c1c9be7aa4e0c1b032171b918eddee3ca3471ffa469e9",
+    "report.md": "8183e923127293288bae4c4a6c658dd6060f0f5ca0bffc139a4cefbf19d6a402",
+    "sample_overlap.json": "126b82967f53248ff20bdcaaaf0b234f6e15267d59c74ae9d1188bee8424c7c3",
+    "synthetic_example.json": "f68e69223abedad22cdd7284ffda81150a210e035fd0d091c8990dff9b0731ec"
+  },
+  "complete": true,
+  "inputs": {
+    "calculation_manifest": "7e570494ec405e8cd447078730d8abd3503e0705d76aad3bdb36495c47626cc3",
+    "code_sha256": "e04d62d3f9028e85e76a44aa323de54692d81c556b76a2d23fd4558bba5b98d3",
+    "selection_manifest": "0992eb7f97c340bef1168dab0c124fbf8737c8dbd4f4d8381b8ac60f24e5d083"
+  },
+  "version": "78af22e7f0ead75b"
+}

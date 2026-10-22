@@ -1,0 +1,13 @@
+{
+  "all_678_candidates_checked": true,
+  "all_label_checks": 11118,
+  "all_outcome_checks": 3706,
+  "classification_model_replays": 50,
+  "development_participants": 125,
+  "feature_value_checks": 6780,
+  "final_test_evaluated": false,
+  "inner_separation_checks": 150,
+  "new_model_searches": 0,
+  "physical_clock_value_checks": 30,
+  "response_checks": 10
+}

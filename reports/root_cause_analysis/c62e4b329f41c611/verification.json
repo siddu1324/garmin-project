@@ -1,0 +1,15 @@
+{
+  "all_responses": 3706,
+  "complete_original_to_prediction_traces": 1,
+  "counter_feature_checks": 80,
+  "counter_pair_mask_checks": 83927,
+  "final_test_evaluated": false,
+  "independent_fresh_fits": 3,
+  "inner_separation_checks": 315,
+  "new_confirmed_defects": [],
+  "prior_files_preserved": 789,
+  "prior_manifests_preserved": 2873,
+  "raw_metadata_checks": 7870,
+  "training_replays": 185,
+  "validation_replays": 185
+}

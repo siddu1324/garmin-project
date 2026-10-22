@@ -1,0 +1,8 @@
+modality,status,candidate_columns
+floors,supported_observed_summary,56
+history,supported_observed_summary,48
+hr,supported_observed_summary,240
+interaction,supported_observed_summary,24
+multiscale,supported_observed_summary,14
+pulseox,provisional_pulseox_sensitivity,240
+steps,supported_observed_summary,56

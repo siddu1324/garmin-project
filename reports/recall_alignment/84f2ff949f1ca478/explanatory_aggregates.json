@@ -1,0 +1,9 @@
+{
+  "accepted_candidate_median_maximum_gap_seconds": 2649.322343826294,
+  "accepted_candidate_median_occupancy": 0.4142857142857143,
+  "candidate_duration_max_seconds": 39540.0,
+  "candidate_duration_min_seconds": 60.0,
+  "nonpositive_nominal_wake_after_actual": 53,
+  "nonpositive_nominal_wake_between_cutoff_and_actual": 11,
+  "nonpositive_nominal_wake_equal_actual": 31
+}

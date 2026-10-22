@@ -1,0 +1,5 @@
+{
+  "previous_archive_sha256": "088c7270fa39e7721dd30fa4a7caaabf415073f30568be89c4d72467881fe0ef",
+  "previous_presentation_preserved": "private/pipeline_review/presentation_drafts/088c7270fa39e772",
+  "change": "Deterministic cached notebook rerun removes the first-run pandas FutureWarning; canonical code, datasets, calculations, predictions and metrics unchanged."
+}

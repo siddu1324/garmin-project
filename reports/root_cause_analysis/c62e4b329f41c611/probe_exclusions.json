@@ -1,0 +1,158 @@
+[
+  {
+    "eligible": false,
+    "intervals": 8,
+    "participants": 7,
+    "reasons": "hr_gaps"
+  },
+  {
+    "eligible": false,
+    "intervals": 7,
+    "participants": 5,
+    "reasons": "hr_gaps|intermediate_or_unobserved_activity"
+  },
+  {
+    "eligible": false,
+    "intervals": 1,
+    "participants": 1,
+    "reasons": "hr_gaps|step_support"
+  },
+  {
+    "eligible": false,
+    "intervals": 1,
+    "participants": 1,
+    "reasons": "hr_gaps|step_support|intermediate_or_unobserved_activity"
+  },
+  {
+    "eligible": false,
+    "intervals": 68,
+    "participants": 42,
+    "reasons": "hr_gaps|step_support|step_gaps"
+  },
+  {
+    "eligible": false,
+    "intervals": 59,
+    "participants": 35,
+    "reasons": "hr_gaps|step_support|step_gaps|intermediate_or_unobserved_activity"
+  },
+  {
+    "eligible": false,
+    "intervals": 3,
+    "participants": 3,
+    "reasons": "hr_occupancy|hr_gaps"
+  },
+  {
+    "eligible": false,
+    "intervals": 14,
+    "participants": 3,
+    "reasons": "hr_occupancy|hr_gaps|hr_feature_support"
+  },
+  {
+    "eligible": false,
+    "intervals": 6,
+    "participants": 2,
+    "reasons": "hr_occupancy|hr_gaps|hr_feature_support|intermediate_or_unobserved_activity"
+  },
+  {
+    "eligible": false,
+    "intervals": 2,
+    "participants": 2,
+    "reasons": "hr_occupancy|hr_gaps|hr_feature_support|step_support"
+  },
+  {
+    "eligible": false,
+    "intervals": 2,
+    "participants": 2,
+    "reasons": "hr_occupancy|hr_gaps|hr_feature_support|step_support|intermediate_or_unobserved_activity"
+  },
+  {
+    "eligible": false,
+    "intervals": 162,
+    "participants": 63,
+    "reasons": "hr_occupancy|hr_gaps|hr_feature_support|step_support|step_gaps"
+  },
+  {
+    "eligible": false,
+    "intervals": 26414,
+    "participants": 125,
+    "reasons": "hr_occupancy|hr_gaps|hr_feature_support|step_support|step_gaps|intermediate_or_unobserved_activity"
+  },
+  {
+    "eligible": false,
+    "intervals": 9,
+    "participants": 6,
+    "reasons": "hr_occupancy|hr_gaps|intermediate_or_unobserved_activity"
+  },
+  {
+    "eligible": false,
+    "intervals": 4,
+    "participants": 4,
+    "reasons": "hr_occupancy|hr_gaps|step_support"
+  },
+  {
+    "eligible": false,
+    "intervals": 2,
+    "participants": 2,
+    "reasons": "hr_occupancy|hr_gaps|step_support|intermediate_or_unobserved_activity"
+  },
+  {
+    "eligible": false,
+    "intervals": 164,
+    "participants": 77,
+    "reasons": "hr_occupancy|hr_gaps|step_support|step_gaps"
+  },
+  {
+    "eligible": false,
+    "intervals": 209,
+    "participants": 83,
+    "reasons": "hr_occupancy|hr_gaps|step_support|step_gaps|intermediate_or_unobserved_activity"
+  },
+  {
+    "eligible": false,
+    "intervals": 1,
+    "participants": 1,
+    "reasons": "hr_occupancy|step_support"
+  },
+  {
+    "eligible": false,
+    "intervals": 1,
+    "participants": 1,
+    "reasons": "hr_occupancy|step_support|step_gaps"
+  },
+  {
+    "eligible": false,
+    "intervals": 322,
+    "participants": 86,
+    "reasons": "intermediate_or_unobserved_activity"
+  },
+  {
+    "eligible": false,
+    "intervals": 111,
+    "participants": 64,
+    "reasons": "step_support"
+  },
+  {
+    "eligible": false,
+    "intervals": 131,
+    "participants": 61,
+    "reasons": "step_support|intermediate_or_unobserved_activity"
+  },
+  {
+    "eligible": false,
+    "intervals": 3626,
+    "participants": 111,
+    "reasons": "step_support|step_gaps"
+  },
+  {
+    "eligible": false,
+    "intervals": 9101,
+    "participants": 118,
+    "reasons": "step_support|step_gaps|intermediate_or_unobserved_activity"
+  },
+  {
+    "eligible": true,
+    "intervals": 596,
+    "participants": 90,
+    "reasons": ""
+  }
+]

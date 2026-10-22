@@ -1,0 +1,50 @@
+[
+  {
+    "at_least_two": 125,
+    "count_kind": "all_responses",
+    "maximum": 32,
+    "median": 31,
+    "minimum": 17,
+    "participants": 125,
+    "q25": 29,
+    "q75": 32.0,
+    "responses": 3706,
+    "scope": "all_development"
+  },
+  {
+    "at_least_two": 125,
+    "count_kind": "valid_composite",
+    "maximum": 32,
+    "median": 31,
+    "minimum": 17,
+    "participants": 125,
+    "q25": 28,
+    "q75": 32.0,
+    "responses": 3689,
+    "scope": "all_development"
+  },
+  {
+    "at_least_two": 117,
+    "count_kind": "all_responses",
+    "maximum": 30,
+    "median": 13,
+    "minimum": 1,
+    "participants": 118,
+    "q25": 8,
+    "q75": 19.75,
+    "responses": 1634,
+    "scope": "native_60m_hr"
+  },
+  {
+    "at_least_two": 117,
+    "count_kind": "valid_composite",
+    "maximum": 30,
+    "median": 13,
+    "minimum": 1,
+    "participants": 118,
+    "q25": 8,
+    "q75": 19.75,
+    "responses": 1634,
+    "scope": "native_60m_hr"
+  }
+]

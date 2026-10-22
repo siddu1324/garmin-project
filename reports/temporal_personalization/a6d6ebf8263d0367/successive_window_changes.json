@@ -1,0 +1,24 @@
+[
+  {
+    "limitation": "Current and previous fixed-hour summaries, not full interresponse/recall intervals; unknown answer availability; descriptive only",
+    "median_absolute_hr_change": 7.999694225819155,
+    "median_gap_hours": 4.104722222222223,
+    "paired_observed_changes": 1016,
+    "paired_participants": 108,
+    "participants": 125,
+    "retrospective_change_correlation": -0.07258741638653886,
+    "start_ordered_pairs": 3581,
+    "view": "all_successive_starts"
+  },
+  {
+    "limitation": "Current and previous fixed-hour summaries, not full interresponse/recall intervals; unknown answer availability; descriptive only",
+    "median_absolute_hr_change": 8.00752905260839,
+    "median_gap_hours": 4.105555555555555,
+    "paired_observed_changes": 1015,
+    "paired_participants": 107,
+    "participants": 125,
+    "retrospective_change_correlation": -0.07260012835783178,
+    "start_ordered_pairs": 3577,
+    "view": "nonoverlapping_hour_windows"
+  }
+]

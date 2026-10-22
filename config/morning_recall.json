@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "baseline_bundle": "private/ema_baseline/runs/640600af77404ff6",
+  "recall_bundle": "private/recall_diagnostics/runs/0b217d08cb1c3dce",
+  "feature_bundle": "private/hr_activity/features/76f5885b3955d5b0",
+  "primary_fixed_minutes": 60,
+  "secondary_fixed_minutes": [5, 120],
+  "scenarios": ["reported_minute_start", "reported_minute_end_sensitivity"],
+  "hr_features": ["hr_mean_bpm", "hr_sd_bpm", "hr_latest_bpm", "hr_slope_bpm_per_minute"],
+  "ridge_alpha": 1.0,
+  "ridge_solver": "svd",
+  "bootstrap_draws": 2000,
+  "bootstrap_seed": 20261002,
+  "minimum_training_responses": 2,
+  "minimum_training_participants": 2,
+  "small_cohort_responses": 100,
+  "small_cohort_participants": 30,
+  "small_validation_participants_per_fold": 5,
+  "label": "Retrospective Morning-only exploratory window comparison; current-survey wake is not a predictor"
+}

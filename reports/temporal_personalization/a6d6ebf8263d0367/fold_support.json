@@ -1,0 +1,5462 @@
+[
+  {
+    "class_support": [
+      799,
+      2149
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "activity",
+    "participants": 100,
+    "responses": 2948,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      234,
+      507
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "activity",
+    "participants": 25,
+    "responses": 741,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      829,
+      2096
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "activity",
+    "participants": 100,
+    "responses": 2925,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      204,
+      560
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "activity",
+    "participants": 25,
+    "responses": 764,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      894,
+      2051
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "activity",
+    "participants": 100,
+    "responses": 2945,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      139,
+      605
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "activity",
+    "participants": 25,
+    "responses": 744,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      805,
+      2157
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "activity",
+    "participants": 100,
+    "responses": 2962,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      228,
+      499
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "activity",
+    "participants": 25,
+    "responses": 727,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      805,
+      2171
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "activity",
+    "participants": 100,
+    "responses": 2976,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      228,
+      485
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "activity",
+    "participants": 25,
+    "responses": 713,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      799,
+      2149
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "context",
+    "participants": 100,
+    "responses": 2948,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      234,
+      507
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "context",
+    "participants": 25,
+    "responses": 741,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      829,
+      2096
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "context",
+    "participants": 100,
+    "responses": 2925,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      204,
+      560
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "context",
+    "participants": 25,
+    "responses": 764,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      894,
+      2051
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "context",
+    "participants": 100,
+    "responses": 2945,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      139,
+      605
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "context",
+    "participants": 25,
+    "responses": 744,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      805,
+      2157
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "context",
+    "participants": 100,
+    "responses": 2962,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      228,
+      499
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "context",
+    "participants": 25,
+    "responses": 727,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      805,
+      2171
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "context",
+    "participants": 100,
+    "responses": 2976,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      228,
+      485
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "context",
+    "participants": 25,
+    "responses": 713,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      799,
+      2149
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "extended",
+    "participants": 100,
+    "responses": 2948,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      234,
+      507
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "extended",
+    "participants": 25,
+    "responses": 741,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      829,
+      2096
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "extended",
+    "participants": 100,
+    "responses": 2925,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      204,
+      560
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "extended",
+    "participants": 25,
+    "responses": 764,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      894,
+      2051
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "extended",
+    "participants": 100,
+    "responses": 2945,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      139,
+      605
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "extended",
+    "participants": 25,
+    "responses": 744,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      805,
+      2157
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "extended",
+    "participants": 100,
+    "responses": 2962,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      228,
+      499
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "extended",
+    "participants": 25,
+    "responses": 727,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      805,
+      2171
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "extended",
+    "participants": 100,
+    "responses": 2976,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      228,
+      485
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "extended",
+    "participants": 25,
+    "responses": 713,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      799,
+      2149
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "hgb_context",
+    "participants": 100,
+    "responses": 2948,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      234,
+      507
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "hgb_context",
+    "participants": 25,
+    "responses": 741,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      829,
+      2096
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "hgb_context",
+    "participants": 100,
+    "responses": 2925,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      204,
+      560
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "hgb_context",
+    "participants": 25,
+    "responses": 764,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      894,
+      2051
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "hgb_context",
+    "participants": 100,
+    "responses": 2945,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      139,
+      605
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "hgb_context",
+    "participants": 25,
+    "responses": 744,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      805,
+      2157
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "hgb_context",
+    "participants": 100,
+    "responses": 2962,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      228,
+      499
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "hgb_context",
+    "participants": 25,
+    "responses": 727,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      805,
+      2171
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "hgb_context",
+    "participants": 100,
+    "responses": 2976,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      228,
+      485
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "hgb_context",
+    "participants": 25,
+    "responses": 713,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      799,
+      2149
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "hgb_personal",
+    "participants": 100,
+    "responses": 2948,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      234,
+      507
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "hgb_personal",
+    "participants": 25,
+    "responses": 741,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      829,
+      2096
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "hgb_personal",
+    "participants": 100,
+    "responses": 2925,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      204,
+      560
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "hgb_personal",
+    "participants": 25,
+    "responses": 764,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      894,
+      2051
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "hgb_personal",
+    "participants": 100,
+    "responses": 2945,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      139,
+      605
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "hgb_personal",
+    "participants": 25,
+    "responses": 744,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      805,
+      2157
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "hgb_personal",
+    "participants": 100,
+    "responses": 2962,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      228,
+      499
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "hgb_personal",
+    "participants": 25,
+    "responses": 727,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      805,
+      2171
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "hgb_personal",
+    "participants": 100,
+    "responses": 2976,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      228,
+      485
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "hgb_personal",
+    "participants": 25,
+    "responses": 713,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      799,
+      2149
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "hgb_raw",
+    "participants": 100,
+    "responses": 2948,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      234,
+      507
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "hgb_raw",
+    "participants": 25,
+    "responses": 741,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      829,
+      2096
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "hgb_raw",
+    "participants": 100,
+    "responses": 2925,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      204,
+      560
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "hgb_raw",
+    "participants": 25,
+    "responses": 764,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      894,
+      2051
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "hgb_raw",
+    "participants": 100,
+    "responses": 2945,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      139,
+      605
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "hgb_raw",
+    "participants": 25,
+    "responses": 744,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      805,
+      2157
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "hgb_raw",
+    "participants": 100,
+    "responses": 2962,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      228,
+      499
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "hgb_raw",
+    "participants": 25,
+    "responses": 727,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      805,
+      2171
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "hgb_raw",
+    "participants": 100,
+    "responses": 2976,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      228,
+      485
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "hgb_raw",
+    "participants": 25,
+    "responses": 713,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      799,
+      2149
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "missingness",
+    "participants": 100,
+    "responses": 2948,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      234,
+      507
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "missingness",
+    "participants": 25,
+    "responses": 741,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      829,
+      2096
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "missingness",
+    "participants": 100,
+    "responses": 2925,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      204,
+      560
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "missingness",
+    "participants": 25,
+    "responses": 764,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      894,
+      2051
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "missingness",
+    "participants": 100,
+    "responses": 2945,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      139,
+      605
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "missingness",
+    "participants": 25,
+    "responses": 744,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      805,
+      2157
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "missingness",
+    "participants": 100,
+    "responses": 2962,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      228,
+      499
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "missingness",
+    "participants": 25,
+    "responses": 727,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      805,
+      2171
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "missingness",
+    "participants": 100,
+    "responses": 2976,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      228,
+      485
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "missingness",
+    "participants": 25,
+    "responses": 713,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      299,
+      710
+    ],
+    "cohort": "observed",
+    "fold": 0,
+    "model": "observed_context",
+    "participants": 88,
+    "responses": 1009,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      73,
+      230
+    ],
+    "cohort": "observed",
+    "fold": 0,
+    "model": "observed_context",
+    "participants": 24,
+    "responses": 303,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      290,
+      754
+    ],
+    "cohort": "observed",
+    "fold": 1,
+    "model": "observed_context",
+    "participants": 91,
+    "responses": 1044,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      82,
+      186
+    ],
+    "cohort": "observed",
+    "fold": 1,
+    "model": "observed_context",
+    "participants": 21,
+    "responses": 268,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      299,
+      733
+    ],
+    "cohort": "observed",
+    "fold": 2,
+    "model": "observed_context",
+    "participants": 89,
+    "responses": 1032,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      73,
+      207
+    ],
+    "cohort": "observed",
+    "fold": 2,
+    "model": "observed_context",
+    "participants": 23,
+    "responses": 280,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      287,
+      767
+    ],
+    "cohort": "observed",
+    "fold": 3,
+    "model": "observed_context",
+    "participants": 90,
+    "responses": 1054,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      85,
+      173
+    ],
+    "cohort": "observed",
+    "fold": 3,
+    "model": "observed_context",
+    "participants": 22,
+    "responses": 258,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      313,
+      796
+    ],
+    "cohort": "observed",
+    "fold": 4,
+    "model": "observed_context",
+    "participants": 90,
+    "responses": 1109,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      59,
+      144
+    ],
+    "cohort": "observed",
+    "fold": 4,
+    "model": "observed_context",
+    "participants": 22,
+    "responses": 203,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      299,
+      710
+    ],
+    "cohort": "observed",
+    "fold": 0,
+    "model": "observed_personal",
+    "participants": 88,
+    "responses": 1009,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      73,
+      230
+    ],
+    "cohort": "observed",
+    "fold": 0,
+    "model": "observed_personal",
+    "participants": 24,
+    "responses": 303,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      290,
+      754
+    ],
+    "cohort": "observed",
+    "fold": 1,
+    "model": "observed_personal",
+    "participants": 91,
+    "responses": 1044,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      82,
+      186
+    ],
+    "cohort": "observed",
+    "fold": 1,
+    "model": "observed_personal",
+    "participants": 21,
+    "responses": 268,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      299,
+      733
+    ],
+    "cohort": "observed",
+    "fold": 2,
+    "model": "observed_personal",
+    "participants": 89,
+    "responses": 1032,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      73,
+      207
+    ],
+    "cohort": "observed",
+    "fold": 2,
+    "model": "observed_personal",
+    "participants": 23,
+    "responses": 280,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      287,
+      767
+    ],
+    "cohort": "observed",
+    "fold": 3,
+    "model": "observed_personal",
+    "participants": 90,
+    "responses": 1054,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      85,
+      173
+    ],
+    "cohort": "observed",
+    "fold": 3,
+    "model": "observed_personal",
+    "participants": 22,
+    "responses": 258,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      313,
+      796
+    ],
+    "cohort": "observed",
+    "fold": 4,
+    "model": "observed_personal",
+    "participants": 90,
+    "responses": 1109,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      59,
+      144
+    ],
+    "cohort": "observed",
+    "fold": 4,
+    "model": "observed_personal",
+    "participants": 22,
+    "responses": 203,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      299,
+      710
+    ],
+    "cohort": "observed",
+    "fold": 0,
+    "model": "observed_raw",
+    "participants": 88,
+    "responses": 1009,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      73,
+      230
+    ],
+    "cohort": "observed",
+    "fold": 0,
+    "model": "observed_raw",
+    "participants": 24,
+    "responses": 303,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      290,
+      754
+    ],
+    "cohort": "observed",
+    "fold": 1,
+    "model": "observed_raw",
+    "participants": 91,
+    "responses": 1044,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      82,
+      186
+    ],
+    "cohort": "observed",
+    "fold": 1,
+    "model": "observed_raw",
+    "participants": 21,
+    "responses": 268,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      299,
+      733
+    ],
+    "cohort": "observed",
+    "fold": 2,
+    "model": "observed_raw",
+    "participants": 89,
+    "responses": 1032,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      73,
+      207
+    ],
+    "cohort": "observed",
+    "fold": 2,
+    "model": "observed_raw",
+    "participants": 23,
+    "responses": 280,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      287,
+      767
+    ],
+    "cohort": "observed",
+    "fold": 3,
+    "model": "observed_raw",
+    "participants": 90,
+    "responses": 1054,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      85,
+      173
+    ],
+    "cohort": "observed",
+    "fold": 3,
+    "model": "observed_raw",
+    "participants": 22,
+    "responses": 258,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      313,
+      796
+    ],
+    "cohort": "observed",
+    "fold": 4,
+    "model": "observed_raw",
+    "participants": 90,
+    "responses": 1109,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      59,
+      144
+    ],
+    "cohort": "observed",
+    "fold": 4,
+    "model": "observed_raw",
+    "participants": 22,
+    "responses": 203,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      299,
+      710
+    ],
+    "cohort": "observed",
+    "fold": 0,
+    "model": "observed_reference",
+    "participants": 88,
+    "responses": 1009,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      73,
+      230
+    ],
+    "cohort": "observed",
+    "fold": 0,
+    "model": "observed_reference",
+    "participants": 24,
+    "responses": 303,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      290,
+      754
+    ],
+    "cohort": "observed",
+    "fold": 1,
+    "model": "observed_reference",
+    "participants": 91,
+    "responses": 1044,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      82,
+      186
+    ],
+    "cohort": "observed",
+    "fold": 1,
+    "model": "observed_reference",
+    "participants": 21,
+    "responses": 268,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      299,
+      733
+    ],
+    "cohort": "observed",
+    "fold": 2,
+    "model": "observed_reference",
+    "participants": 89,
+    "responses": 1032,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      73,
+      207
+    ],
+    "cohort": "observed",
+    "fold": 2,
+    "model": "observed_reference",
+    "participants": 23,
+    "responses": 280,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      287,
+      767
+    ],
+    "cohort": "observed",
+    "fold": 3,
+    "model": "observed_reference",
+    "participants": 90,
+    "responses": 1054,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      85,
+      173
+    ],
+    "cohort": "observed",
+    "fold": 3,
+    "model": "observed_reference",
+    "participants": 22,
+    "responses": 258,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      313,
+      796
+    ],
+    "cohort": "observed",
+    "fold": 4,
+    "model": "observed_reference",
+    "participants": 90,
+    "responses": 1109,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      59,
+      144
+    ],
+    "cohort": "observed",
+    "fold": 4,
+    "model": "observed_reference",
+    "participants": 22,
+    "responses": 203,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      799,
+      2149
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "permuted_19",
+    "participants": 100,
+    "responses": 2948,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      234,
+      507
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "permuted_19",
+    "participants": 25,
+    "responses": 741,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      829,
+      2096
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "permuted_19",
+    "participants": 100,
+    "responses": 2925,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      204,
+      560
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "permuted_19",
+    "participants": 25,
+    "responses": 764,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      894,
+      2051
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "permuted_19",
+    "participants": 100,
+    "responses": 2945,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      139,
+      605
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "permuted_19",
+    "participants": 25,
+    "responses": 744,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      805,
+      2157
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "permuted_19",
+    "participants": 100,
+    "responses": 2962,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      228,
+      499
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "permuted_19",
+    "participants": 25,
+    "responses": 727,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      805,
+      2171
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "permuted_19",
+    "participants": 100,
+    "responses": 2976,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      228,
+      485
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "permuted_19",
+    "participants": 25,
+    "responses": 713,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      799,
+      2149
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "permuted_7",
+    "participants": 100,
+    "responses": 2948,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      234,
+      507
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "permuted_7",
+    "participants": 25,
+    "responses": 741,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      829,
+      2096
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "permuted_7",
+    "participants": 100,
+    "responses": 2925,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      204,
+      560
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "permuted_7",
+    "participants": 25,
+    "responses": 764,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      894,
+      2051
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "permuted_7",
+    "participants": 100,
+    "responses": 2945,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      139,
+      605
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "permuted_7",
+    "participants": 25,
+    "responses": 744,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      805,
+      2157
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "permuted_7",
+    "participants": 100,
+    "responses": 2962,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      228,
+      499
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "permuted_7",
+    "participants": 25,
+    "responses": 727,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      805,
+      2171
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "permuted_7",
+    "participants": 100,
+    "responses": 2976,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      228,
+      485
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "permuted_7",
+    "participants": 25,
+    "responses": 713,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      799,
+      2149
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "personal",
+    "participants": 100,
+    "responses": 2948,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      234,
+      507
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "personal",
+    "participants": 25,
+    "responses": 741,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      829,
+      2096
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "personal",
+    "participants": 100,
+    "responses": 2925,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      204,
+      560
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "personal",
+    "participants": 25,
+    "responses": 764,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      894,
+      2051
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "personal",
+    "participants": 100,
+    "responses": 2945,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      139,
+      605
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "personal",
+    "participants": 25,
+    "responses": 744,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      805,
+      2157
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "personal",
+    "participants": 100,
+    "responses": 2962,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      228,
+      499
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "personal",
+    "participants": 25,
+    "responses": 727,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      805,
+      2171
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "personal",
+    "participants": 100,
+    "responses": 2976,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      228,
+      485
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "personal",
+    "participants": 25,
+    "responses": 713,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      799,
+      2149
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "personal_quality",
+    "participants": 100,
+    "responses": 2948,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      234,
+      507
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "personal_quality",
+    "participants": 25,
+    "responses": 741,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      829,
+      2096
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "personal_quality",
+    "participants": 100,
+    "responses": 2925,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      204,
+      560
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "personal_quality",
+    "participants": 25,
+    "responses": 764,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      894,
+      2051
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "personal_quality",
+    "participants": 100,
+    "responses": 2945,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      139,
+      605
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "personal_quality",
+    "participants": 25,
+    "responses": 744,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      805,
+      2157
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "personal_quality",
+    "participants": 100,
+    "responses": 2962,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      228,
+      499
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "personal_quality",
+    "participants": 25,
+    "responses": 727,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      805,
+      2171
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "personal_quality",
+    "participants": 100,
+    "responses": 2976,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      228,
+      485
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "personal_quality",
+    "participants": 25,
+    "responses": 713,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      799,
+      2149
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "physiology",
+    "participants": 100,
+    "responses": 2948,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      234,
+      507
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "physiology",
+    "participants": 25,
+    "responses": 741,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      829,
+      2096
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "physiology",
+    "participants": 100,
+    "responses": 2925,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      204,
+      560
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "physiology",
+    "participants": 25,
+    "responses": 764,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      894,
+      2051
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "physiology",
+    "participants": 100,
+    "responses": 2945,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      139,
+      605
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "physiology",
+    "participants": 25,
+    "responses": 744,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      805,
+      2157
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "physiology",
+    "participants": 100,
+    "responses": 2962,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      228,
+      499
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "physiology",
+    "participants": 25,
+    "responses": 727,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      805,
+      2171
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "physiology",
+    "participants": 100,
+    "responses": 2976,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      228,
+      485
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "physiology",
+    "participants": 25,
+    "responses": 713,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      799,
+      2149
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "quality",
+    "participants": 100,
+    "responses": 2948,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      234,
+      507
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "quality",
+    "participants": 25,
+    "responses": 741,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      829,
+      2096
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "quality",
+    "participants": 100,
+    "responses": 2925,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      204,
+      560
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "quality",
+    "participants": 25,
+    "responses": 764,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      894,
+      2051
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "quality",
+    "participants": 100,
+    "responses": 2945,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      139,
+      605
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "quality",
+    "participants": 25,
+    "responses": 744,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      805,
+      2157
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "quality",
+    "participants": 100,
+    "responses": 2962,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      228,
+      499
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "quality",
+    "participants": 25,
+    "responses": 727,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      805,
+      2171
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "quality",
+    "participants": 100,
+    "responses": 2976,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      228,
+      485
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "quality",
+    "participants": 25,
+    "responses": 713,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      799,
+      2149
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "raw",
+    "participants": 100,
+    "responses": 2948,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      234,
+      507
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "raw",
+    "participants": 25,
+    "responses": 741,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      829,
+      2096
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "raw",
+    "participants": 100,
+    "responses": 2925,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      204,
+      560
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "raw",
+    "participants": 25,
+    "responses": 764,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      894,
+      2051
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "raw",
+    "participants": 100,
+    "responses": 2945,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      139,
+      605
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "raw",
+    "participants": 25,
+    "responses": 744,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      805,
+      2157
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "raw",
+    "participants": 100,
+    "responses": 2962,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      228,
+      499
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "raw",
+    "participants": 25,
+    "responses": 727,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      805,
+      2171
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "raw",
+    "participants": 100,
+    "responses": 2976,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      228,
+      485
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "raw",
+    "participants": 25,
+    "responses": 713,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      799,
+      2149
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "reference",
+    "participants": 100,
+    "responses": 2948,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      234,
+      507
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "reference",
+    "participants": 25,
+    "responses": 741,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      829,
+      2096
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "reference",
+    "participants": 100,
+    "responses": 2925,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      204,
+      560
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "reference",
+    "participants": 25,
+    "responses": 764,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      894,
+      2051
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "reference",
+    "participants": 100,
+    "responses": 2945,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      139,
+      605
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "reference",
+    "participants": 25,
+    "responses": 744,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      805,
+      2157
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "reference",
+    "participants": 100,
+    "responses": 2962,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      228,
+      499
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "reference",
+    "participants": 25,
+    "responses": 727,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      805,
+      2171
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "reference",
+    "participants": 100,
+    "responses": 2976,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      228,
+      485
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "reference",
+    "participants": 25,
+    "responses": 713,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      235,
+      610
+    ],
+    "cohort": "supported",
+    "fold": 0,
+    "model": "supported_context",
+    "participants": 80,
+    "responses": 845,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      59,
+      211
+    ],
+    "cohort": "supported",
+    "fold": 0,
+    "model": "supported_context",
+    "participants": 24,
+    "responses": 270,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      235,
+      640
+    ],
+    "cohort": "supported",
+    "fold": 1,
+    "model": "supported_context",
+    "participants": 86,
+    "responses": 875,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      59,
+      181
+    ],
+    "cohort": "supported",
+    "fold": 1,
+    "model": "supported_context",
+    "participants": 18,
+    "responses": 240,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      230,
+      657
+    ],
+    "cohort": "supported",
+    "fold": 2,
+    "model": "supported_context",
+    "participants": 83,
+    "responses": 887,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      64,
+      164
+    ],
+    "cohort": "supported",
+    "fold": 2,
+    "model": "supported_context",
+    "participants": 21,
+    "responses": 228,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      228,
+      662
+    ],
+    "cohort": "supported",
+    "fold": 3,
+    "model": "supported_context",
+    "participants": 83,
+    "responses": 890,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      66,
+      159
+    ],
+    "cohort": "supported",
+    "fold": 3,
+    "model": "supported_context",
+    "participants": 21,
+    "responses": 225,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      248,
+      715
+    ],
+    "cohort": "supported",
+    "fold": 4,
+    "model": "supported_context",
+    "participants": 84,
+    "responses": 963,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      46,
+      106
+    ],
+    "cohort": "supported",
+    "fold": 4,
+    "model": "supported_context",
+    "participants": 20,
+    "responses": 152,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      235,
+      610
+    ],
+    "cohort": "supported",
+    "fold": 0,
+    "model": "supported_raw",
+    "participants": 80,
+    "responses": 845,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      59,
+      211
+    ],
+    "cohort": "supported",
+    "fold": 0,
+    "model": "supported_raw",
+    "participants": 24,
+    "responses": 270,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      235,
+      640
+    ],
+    "cohort": "supported",
+    "fold": 1,
+    "model": "supported_raw",
+    "participants": 86,
+    "responses": 875,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      59,
+      181
+    ],
+    "cohort": "supported",
+    "fold": 1,
+    "model": "supported_raw",
+    "participants": 18,
+    "responses": 240,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      230,
+      657
+    ],
+    "cohort": "supported",
+    "fold": 2,
+    "model": "supported_raw",
+    "participants": 83,
+    "responses": 887,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      64,
+      164
+    ],
+    "cohort": "supported",
+    "fold": 2,
+    "model": "supported_raw",
+    "participants": 21,
+    "responses": 228,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      228,
+      662
+    ],
+    "cohort": "supported",
+    "fold": 3,
+    "model": "supported_raw",
+    "participants": 83,
+    "responses": 890,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      66,
+      159
+    ],
+    "cohort": "supported",
+    "fold": 3,
+    "model": "supported_raw",
+    "participants": 21,
+    "responses": 225,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      248,
+      715
+    ],
+    "cohort": "supported",
+    "fold": 4,
+    "model": "supported_raw",
+    "participants": 84,
+    "responses": 963,
+    "role": "train",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      46,
+      106
+    ],
+    "cohort": "supported",
+    "fold": 4,
+    "model": "supported_raw",
+    "participants": 20,
+    "responses": 152,
+    "role": "validation",
+    "task": "A"
+  },
+  {
+    "class_support": [
+      2538,
+      410
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "activity",
+    "participants": 100,
+    "responses": 2948,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      636,
+      105
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "activity",
+    "participants": 25,
+    "responses": 741,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2527,
+      398
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "activity",
+    "participants": 100,
+    "responses": 2925,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      647,
+      117
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "activity",
+    "participants": 25,
+    "responses": 764,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2531,
+      414
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "activity",
+    "participants": 100,
+    "responses": 2945,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      643,
+      101
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "activity",
+    "participants": 25,
+    "responses": 744,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2563,
+      399
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "activity",
+    "participants": 100,
+    "responses": 2962,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      611,
+      116
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "activity",
+    "participants": 25,
+    "responses": 727,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2537,
+      439
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "activity",
+    "participants": 100,
+    "responses": 2976,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      637,
+      76
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "activity",
+    "participants": 25,
+    "responses": 713,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2538,
+      410
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "context",
+    "participants": 100,
+    "responses": 2948,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      636,
+      105
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "context",
+    "participants": 25,
+    "responses": 741,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2527,
+      398
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "context",
+    "participants": 100,
+    "responses": 2925,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      647,
+      117
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "context",
+    "participants": 25,
+    "responses": 764,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2531,
+      414
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "context",
+    "participants": 100,
+    "responses": 2945,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      643,
+      101
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "context",
+    "participants": 25,
+    "responses": 744,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2563,
+      399
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "context",
+    "participants": 100,
+    "responses": 2962,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      611,
+      116
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "context",
+    "participants": 25,
+    "responses": 727,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2537,
+      439
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "context",
+    "participants": 100,
+    "responses": 2976,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      637,
+      76
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "context",
+    "participants": 25,
+    "responses": 713,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2538,
+      410
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "extended",
+    "participants": 100,
+    "responses": 2948,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      636,
+      105
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "extended",
+    "participants": 25,
+    "responses": 741,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2527,
+      398
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "extended",
+    "participants": 100,
+    "responses": 2925,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      647,
+      117
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "extended",
+    "participants": 25,
+    "responses": 764,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2531,
+      414
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "extended",
+    "participants": 100,
+    "responses": 2945,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      643,
+      101
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "extended",
+    "participants": 25,
+    "responses": 744,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2563,
+      399
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "extended",
+    "participants": 100,
+    "responses": 2962,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      611,
+      116
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "extended",
+    "participants": 25,
+    "responses": 727,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2537,
+      439
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "extended",
+    "participants": 100,
+    "responses": 2976,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      637,
+      76
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "extended",
+    "participants": 25,
+    "responses": 713,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2538,
+      410
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "hgb_context",
+    "participants": 100,
+    "responses": 2948,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      636,
+      105
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "hgb_context",
+    "participants": 25,
+    "responses": 741,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2527,
+      398
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "hgb_context",
+    "participants": 100,
+    "responses": 2925,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      647,
+      117
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "hgb_context",
+    "participants": 25,
+    "responses": 764,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2531,
+      414
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "hgb_context",
+    "participants": 100,
+    "responses": 2945,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      643,
+      101
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "hgb_context",
+    "participants": 25,
+    "responses": 744,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2563,
+      399
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "hgb_context",
+    "participants": 100,
+    "responses": 2962,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      611,
+      116
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "hgb_context",
+    "participants": 25,
+    "responses": 727,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2537,
+      439
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "hgb_context",
+    "participants": 100,
+    "responses": 2976,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      637,
+      76
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "hgb_context",
+    "participants": 25,
+    "responses": 713,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2538,
+      410
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "hgb_personal",
+    "participants": 100,
+    "responses": 2948,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      636,
+      105
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "hgb_personal",
+    "participants": 25,
+    "responses": 741,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2527,
+      398
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "hgb_personal",
+    "participants": 100,
+    "responses": 2925,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      647,
+      117
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "hgb_personal",
+    "participants": 25,
+    "responses": 764,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2531,
+      414
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "hgb_personal",
+    "participants": 100,
+    "responses": 2945,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      643,
+      101
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "hgb_personal",
+    "participants": 25,
+    "responses": 744,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2563,
+      399
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "hgb_personal",
+    "participants": 100,
+    "responses": 2962,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      611,
+      116
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "hgb_personal",
+    "participants": 25,
+    "responses": 727,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2537,
+      439
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "hgb_personal",
+    "participants": 100,
+    "responses": 2976,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      637,
+      76
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "hgb_personal",
+    "participants": 25,
+    "responses": 713,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2538,
+      410
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "hgb_raw",
+    "participants": 100,
+    "responses": 2948,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      636,
+      105
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "hgb_raw",
+    "participants": 25,
+    "responses": 741,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2527,
+      398
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "hgb_raw",
+    "participants": 100,
+    "responses": 2925,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      647,
+      117
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "hgb_raw",
+    "participants": 25,
+    "responses": 764,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2531,
+      414
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "hgb_raw",
+    "participants": 100,
+    "responses": 2945,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      643,
+      101
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "hgb_raw",
+    "participants": 25,
+    "responses": 744,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2563,
+      399
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "hgb_raw",
+    "participants": 100,
+    "responses": 2962,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      611,
+      116
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "hgb_raw",
+    "participants": 25,
+    "responses": 727,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2537,
+      439
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "hgb_raw",
+    "participants": 100,
+    "responses": 2976,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      637,
+      76
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "hgb_raw",
+    "participants": 25,
+    "responses": 713,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2538,
+      410
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "missingness",
+    "participants": 100,
+    "responses": 2948,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      636,
+      105
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "missingness",
+    "participants": 25,
+    "responses": 741,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2527,
+      398
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "missingness",
+    "participants": 100,
+    "responses": 2925,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      647,
+      117
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "missingness",
+    "participants": 25,
+    "responses": 764,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2531,
+      414
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "missingness",
+    "participants": 100,
+    "responses": 2945,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      643,
+      101
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "missingness",
+    "participants": 25,
+    "responses": 744,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2563,
+      399
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "missingness",
+    "participants": 100,
+    "responses": 2962,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      611,
+      116
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "missingness",
+    "participants": 25,
+    "responses": 727,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2537,
+      439
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "missingness",
+    "participants": 100,
+    "responses": 2976,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      637,
+      76
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "missingness",
+    "participants": 25,
+    "responses": 713,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      883,
+      126
+    ],
+    "cohort": "observed",
+    "fold": 0,
+    "model": "observed_context",
+    "participants": 88,
+    "responses": 1009,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      274,
+      29
+    ],
+    "cohort": "observed",
+    "fold": 0,
+    "model": "observed_context",
+    "participants": 24,
+    "responses": 303,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      926,
+      118
+    ],
+    "cohort": "observed",
+    "fold": 1,
+    "model": "observed_context",
+    "participants": 91,
+    "responses": 1044,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      231,
+      37
+    ],
+    "cohort": "observed",
+    "fold": 1,
+    "model": "observed_context",
+    "participants": 21,
+    "responses": 268,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      904,
+      128
+    ],
+    "cohort": "observed",
+    "fold": 2,
+    "model": "observed_context",
+    "participants": 89,
+    "responses": 1032,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      253,
+      27
+    ],
+    "cohort": "observed",
+    "fold": 2,
+    "model": "observed_context",
+    "participants": 23,
+    "responses": 280,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      941,
+      113
+    ],
+    "cohort": "observed",
+    "fold": 3,
+    "model": "observed_context",
+    "participants": 90,
+    "responses": 1054,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      216,
+      42
+    ],
+    "cohort": "observed",
+    "fold": 3,
+    "model": "observed_context",
+    "participants": 22,
+    "responses": 258,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      974,
+      135
+    ],
+    "cohort": "observed",
+    "fold": 4,
+    "model": "observed_context",
+    "participants": 90,
+    "responses": 1109,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      183,
+      20
+    ],
+    "cohort": "observed",
+    "fold": 4,
+    "model": "observed_context",
+    "participants": 22,
+    "responses": 203,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      883,
+      126
+    ],
+    "cohort": "observed",
+    "fold": 0,
+    "model": "observed_personal",
+    "participants": 88,
+    "responses": 1009,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      274,
+      29
+    ],
+    "cohort": "observed",
+    "fold": 0,
+    "model": "observed_personal",
+    "participants": 24,
+    "responses": 303,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      926,
+      118
+    ],
+    "cohort": "observed",
+    "fold": 1,
+    "model": "observed_personal",
+    "participants": 91,
+    "responses": 1044,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      231,
+      37
+    ],
+    "cohort": "observed",
+    "fold": 1,
+    "model": "observed_personal",
+    "participants": 21,
+    "responses": 268,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      904,
+      128
+    ],
+    "cohort": "observed",
+    "fold": 2,
+    "model": "observed_personal",
+    "participants": 89,
+    "responses": 1032,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      253,
+      27
+    ],
+    "cohort": "observed",
+    "fold": 2,
+    "model": "observed_personal",
+    "participants": 23,
+    "responses": 280,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      941,
+      113
+    ],
+    "cohort": "observed",
+    "fold": 3,
+    "model": "observed_personal",
+    "participants": 90,
+    "responses": 1054,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      216,
+      42
+    ],
+    "cohort": "observed",
+    "fold": 3,
+    "model": "observed_personal",
+    "participants": 22,
+    "responses": 258,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      974,
+      135
+    ],
+    "cohort": "observed",
+    "fold": 4,
+    "model": "observed_personal",
+    "participants": 90,
+    "responses": 1109,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      183,
+      20
+    ],
+    "cohort": "observed",
+    "fold": 4,
+    "model": "observed_personal",
+    "participants": 22,
+    "responses": 203,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      883,
+      126
+    ],
+    "cohort": "observed",
+    "fold": 0,
+    "model": "observed_raw",
+    "participants": 88,
+    "responses": 1009,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      274,
+      29
+    ],
+    "cohort": "observed",
+    "fold": 0,
+    "model": "observed_raw",
+    "participants": 24,
+    "responses": 303,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      926,
+      118
+    ],
+    "cohort": "observed",
+    "fold": 1,
+    "model": "observed_raw",
+    "participants": 91,
+    "responses": 1044,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      231,
+      37
+    ],
+    "cohort": "observed",
+    "fold": 1,
+    "model": "observed_raw",
+    "participants": 21,
+    "responses": 268,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      904,
+      128
+    ],
+    "cohort": "observed",
+    "fold": 2,
+    "model": "observed_raw",
+    "participants": 89,
+    "responses": 1032,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      253,
+      27
+    ],
+    "cohort": "observed",
+    "fold": 2,
+    "model": "observed_raw",
+    "participants": 23,
+    "responses": 280,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      941,
+      113
+    ],
+    "cohort": "observed",
+    "fold": 3,
+    "model": "observed_raw",
+    "participants": 90,
+    "responses": 1054,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      216,
+      42
+    ],
+    "cohort": "observed",
+    "fold": 3,
+    "model": "observed_raw",
+    "participants": 22,
+    "responses": 258,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      974,
+      135
+    ],
+    "cohort": "observed",
+    "fold": 4,
+    "model": "observed_raw",
+    "participants": 90,
+    "responses": 1109,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      183,
+      20
+    ],
+    "cohort": "observed",
+    "fold": 4,
+    "model": "observed_raw",
+    "participants": 22,
+    "responses": 203,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      883,
+      126
+    ],
+    "cohort": "observed",
+    "fold": 0,
+    "model": "observed_reference",
+    "participants": 88,
+    "responses": 1009,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      274,
+      29
+    ],
+    "cohort": "observed",
+    "fold": 0,
+    "model": "observed_reference",
+    "participants": 24,
+    "responses": 303,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      926,
+      118
+    ],
+    "cohort": "observed",
+    "fold": 1,
+    "model": "observed_reference",
+    "participants": 91,
+    "responses": 1044,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      231,
+      37
+    ],
+    "cohort": "observed",
+    "fold": 1,
+    "model": "observed_reference",
+    "participants": 21,
+    "responses": 268,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      904,
+      128
+    ],
+    "cohort": "observed",
+    "fold": 2,
+    "model": "observed_reference",
+    "participants": 89,
+    "responses": 1032,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      253,
+      27
+    ],
+    "cohort": "observed",
+    "fold": 2,
+    "model": "observed_reference",
+    "participants": 23,
+    "responses": 280,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      941,
+      113
+    ],
+    "cohort": "observed",
+    "fold": 3,
+    "model": "observed_reference",
+    "participants": 90,
+    "responses": 1054,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      216,
+      42
+    ],
+    "cohort": "observed",
+    "fold": 3,
+    "model": "observed_reference",
+    "participants": 22,
+    "responses": 258,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      974,
+      135
+    ],
+    "cohort": "observed",
+    "fold": 4,
+    "model": "observed_reference",
+    "participants": 90,
+    "responses": 1109,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      183,
+      20
+    ],
+    "cohort": "observed",
+    "fold": 4,
+    "model": "observed_reference",
+    "participants": 22,
+    "responses": 203,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2538,
+      410
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "permuted_19",
+    "participants": 100,
+    "responses": 2948,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      636,
+      105
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "permuted_19",
+    "participants": 25,
+    "responses": 741,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2527,
+      398
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "permuted_19",
+    "participants": 100,
+    "responses": 2925,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      647,
+      117
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "permuted_19",
+    "participants": 25,
+    "responses": 764,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2531,
+      414
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "permuted_19",
+    "participants": 100,
+    "responses": 2945,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      643,
+      101
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "permuted_19",
+    "participants": 25,
+    "responses": 744,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2563,
+      399
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "permuted_19",
+    "participants": 100,
+    "responses": 2962,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      611,
+      116
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "permuted_19",
+    "participants": 25,
+    "responses": 727,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2537,
+      439
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "permuted_19",
+    "participants": 100,
+    "responses": 2976,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      637,
+      76
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "permuted_19",
+    "participants": 25,
+    "responses": 713,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2538,
+      410
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "permuted_7",
+    "participants": 100,
+    "responses": 2948,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      636,
+      105
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "permuted_7",
+    "participants": 25,
+    "responses": 741,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2527,
+      398
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "permuted_7",
+    "participants": 100,
+    "responses": 2925,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      647,
+      117
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "permuted_7",
+    "participants": 25,
+    "responses": 764,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2531,
+      414
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "permuted_7",
+    "participants": 100,
+    "responses": 2945,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      643,
+      101
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "permuted_7",
+    "participants": 25,
+    "responses": 744,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2563,
+      399
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "permuted_7",
+    "participants": 100,
+    "responses": 2962,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      611,
+      116
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "permuted_7",
+    "participants": 25,
+    "responses": 727,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2537,
+      439
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "permuted_7",
+    "participants": 100,
+    "responses": 2976,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      637,
+      76
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "permuted_7",
+    "participants": 25,
+    "responses": 713,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2538,
+      410
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "personal",
+    "participants": 100,
+    "responses": 2948,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      636,
+      105
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "personal",
+    "participants": 25,
+    "responses": 741,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2527,
+      398
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "personal",
+    "participants": 100,
+    "responses": 2925,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      647,
+      117
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "personal",
+    "participants": 25,
+    "responses": 764,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2531,
+      414
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "personal",
+    "participants": 100,
+    "responses": 2945,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      643,
+      101
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "personal",
+    "participants": 25,
+    "responses": 744,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2563,
+      399
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "personal",
+    "participants": 100,
+    "responses": 2962,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      611,
+      116
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "personal",
+    "participants": 25,
+    "responses": 727,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2537,
+      439
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "personal",
+    "participants": 100,
+    "responses": 2976,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      637,
+      76
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "personal",
+    "participants": 25,
+    "responses": 713,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2538,
+      410
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "personal_quality",
+    "participants": 100,
+    "responses": 2948,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      636,
+      105
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "personal_quality",
+    "participants": 25,
+    "responses": 741,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2527,
+      398
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "personal_quality",
+    "participants": 100,
+    "responses": 2925,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      647,
+      117
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "personal_quality",
+    "participants": 25,
+    "responses": 764,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2531,
+      414
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "personal_quality",
+    "participants": 100,
+    "responses": 2945,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      643,
+      101
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "personal_quality",
+    "participants": 25,
+    "responses": 744,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2563,
+      399
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "personal_quality",
+    "participants": 100,
+    "responses": 2962,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      611,
+      116
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "personal_quality",
+    "participants": 25,
+    "responses": 727,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2537,
+      439
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "personal_quality",
+    "participants": 100,
+    "responses": 2976,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      637,
+      76
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "personal_quality",
+    "participants": 25,
+    "responses": 713,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2538,
+      410
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "physiology",
+    "participants": 100,
+    "responses": 2948,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      636,
+      105
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "physiology",
+    "participants": 25,
+    "responses": 741,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2527,
+      398
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "physiology",
+    "participants": 100,
+    "responses": 2925,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      647,
+      117
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "physiology",
+    "participants": 25,
+    "responses": 764,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2531,
+      414
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "physiology",
+    "participants": 100,
+    "responses": 2945,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      643,
+      101
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "physiology",
+    "participants": 25,
+    "responses": 744,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2563,
+      399
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "physiology",
+    "participants": 100,
+    "responses": 2962,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      611,
+      116
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "physiology",
+    "participants": 25,
+    "responses": 727,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2537,
+      439
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "physiology",
+    "participants": 100,
+    "responses": 2976,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      637,
+      76
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "physiology",
+    "participants": 25,
+    "responses": 713,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2538,
+      410
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "quality",
+    "participants": 100,
+    "responses": 2948,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      636,
+      105
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "quality",
+    "participants": 25,
+    "responses": 741,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2527,
+      398
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "quality",
+    "participants": 100,
+    "responses": 2925,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      647,
+      117
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "quality",
+    "participants": 25,
+    "responses": 764,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2531,
+      414
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "quality",
+    "participants": 100,
+    "responses": 2945,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      643,
+      101
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "quality",
+    "participants": 25,
+    "responses": 744,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2563,
+      399
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "quality",
+    "participants": 100,
+    "responses": 2962,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      611,
+      116
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "quality",
+    "participants": 25,
+    "responses": 727,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2537,
+      439
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "quality",
+    "participants": 100,
+    "responses": 2976,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      637,
+      76
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "quality",
+    "participants": 25,
+    "responses": 713,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2538,
+      410
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "raw",
+    "participants": 100,
+    "responses": 2948,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      636,
+      105
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "raw",
+    "participants": 25,
+    "responses": 741,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2527,
+      398
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "raw",
+    "participants": 100,
+    "responses": 2925,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      647,
+      117
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "raw",
+    "participants": 25,
+    "responses": 764,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2531,
+      414
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "raw",
+    "participants": 100,
+    "responses": 2945,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      643,
+      101
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "raw",
+    "participants": 25,
+    "responses": 744,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2563,
+      399
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "raw",
+    "participants": 100,
+    "responses": 2962,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      611,
+      116
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "raw",
+    "participants": 25,
+    "responses": 727,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2537,
+      439
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "raw",
+    "participants": 100,
+    "responses": 2976,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      637,
+      76
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "raw",
+    "participants": 25,
+    "responses": 713,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2538,
+      410
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "reference",
+    "participants": 100,
+    "responses": 2948,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      636,
+      105
+    ],
+    "cohort": "all",
+    "fold": 0,
+    "model": "reference",
+    "participants": 25,
+    "responses": 741,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2527,
+      398
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "reference",
+    "participants": 100,
+    "responses": 2925,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      647,
+      117
+    ],
+    "cohort": "all",
+    "fold": 1,
+    "model": "reference",
+    "participants": 25,
+    "responses": 764,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2531,
+      414
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "reference",
+    "participants": 100,
+    "responses": 2945,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      643,
+      101
+    ],
+    "cohort": "all",
+    "fold": 2,
+    "model": "reference",
+    "participants": 25,
+    "responses": 744,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2563,
+      399
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "reference",
+    "participants": 100,
+    "responses": 2962,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      611,
+      116
+    ],
+    "cohort": "all",
+    "fold": 3,
+    "model": "reference",
+    "participants": 25,
+    "responses": 727,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      2537,
+      439
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "reference",
+    "participants": 100,
+    "responses": 2976,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      637,
+      76
+    ],
+    "cohort": "all",
+    "fold": 4,
+    "model": "reference",
+    "participants": 25,
+    "responses": 713,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      732,
+      113
+    ],
+    "cohort": "supported",
+    "fold": 0,
+    "model": "supported_context",
+    "participants": 80,
+    "responses": 845,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      244,
+      26
+    ],
+    "cohort": "supported",
+    "fold": 0,
+    "model": "supported_context",
+    "participants": 24,
+    "responses": 270,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      769,
+      106
+    ],
+    "cohort": "supported",
+    "fold": 1,
+    "model": "supported_context",
+    "participants": 86,
+    "responses": 875,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      207,
+      33
+    ],
+    "cohort": "supported",
+    "fold": 1,
+    "model": "supported_context",
+    "participants": 18,
+    "responses": 240,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      770,
+      117
+    ],
+    "cohort": "supported",
+    "fold": 2,
+    "model": "supported_context",
+    "participants": 83,
+    "responses": 887,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      206,
+      22
+    ],
+    "cohort": "supported",
+    "fold": 2,
+    "model": "supported_context",
+    "participants": 21,
+    "responses": 228,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      789,
+      101
+    ],
+    "cohort": "supported",
+    "fold": 3,
+    "model": "supported_context",
+    "participants": 83,
+    "responses": 890,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      187,
+      38
+    ],
+    "cohort": "supported",
+    "fold": 3,
+    "model": "supported_context",
+    "participants": 21,
+    "responses": 225,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      844,
+      119
+    ],
+    "cohort": "supported",
+    "fold": 4,
+    "model": "supported_context",
+    "participants": 84,
+    "responses": 963,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      132,
+      20
+    ],
+    "cohort": "supported",
+    "fold": 4,
+    "model": "supported_context",
+    "participants": 20,
+    "responses": 152,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      732,
+      113
+    ],
+    "cohort": "supported",
+    "fold": 0,
+    "model": "supported_raw",
+    "participants": 80,
+    "responses": 845,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      244,
+      26
+    ],
+    "cohort": "supported",
+    "fold": 0,
+    "model": "supported_raw",
+    "participants": 24,
+    "responses": 270,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      769,
+      106
+    ],
+    "cohort": "supported",
+    "fold": 1,
+    "model": "supported_raw",
+    "participants": 86,
+    "responses": 875,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      207,
+      33
+    ],
+    "cohort": "supported",
+    "fold": 1,
+    "model": "supported_raw",
+    "participants": 18,
+    "responses": 240,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      770,
+      117
+    ],
+    "cohort": "supported",
+    "fold": 2,
+    "model": "supported_raw",
+    "participants": 83,
+    "responses": 887,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      206,
+      22
+    ],
+    "cohort": "supported",
+    "fold": 2,
+    "model": "supported_raw",
+    "participants": 21,
+    "responses": 228,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      789,
+      101
+    ],
+    "cohort": "supported",
+    "fold": 3,
+    "model": "supported_raw",
+    "participants": 83,
+    "responses": 890,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      187,
+      38
+    ],
+    "cohort": "supported",
+    "fold": 3,
+    "model": "supported_raw",
+    "participants": 21,
+    "responses": 225,
+    "role": "validation",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      844,
+      119
+    ],
+    "cohort": "supported",
+    "fold": 4,
+    "model": "supported_raw",
+    "participants": 84,
+    "responses": 963,
+    "role": "train",
+    "task": "B"
+  },
+  {
+    "class_support": [
+      132,
+      20
+    ],
+    "cohort": "supported",
+    "fold": 4,
+    "model": "supported_raw",
+    "participants": 20,
+    "responses": 152,
+    "role": "validation",
+    "task": "B"
+  }
+]

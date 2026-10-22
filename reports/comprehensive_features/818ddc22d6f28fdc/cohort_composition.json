@@ -1,0 +1,242 @@
+[
+  {
+    "class_support": [
+      1033,
+      2141,
+      515
+    ],
+    "cohort": "all_valid",
+    "included": true,
+    "participants": 125,
+    "responses": 3689,
+    "score_mean": 6.406885334779073,
+    "score_median": 6.0,
+    "scores_available": 3689,
+    "survey": "All"
+  },
+  {
+    "class_support": [
+      227,
+      547,
+      157
+    ],
+    "cohort": "all_valid",
+    "included": true,
+    "participants": 125,
+    "responses": 931,
+    "score_mean": 6.656283566058002,
+    "score_median": 7.0,
+    "scores_available": 931,
+    "survey": "Morning"
+  },
+  {
+    "class_support": [
+      532,
+      1052,
+      242
+    ],
+    "cohort": "all_valid",
+    "included": true,
+    "participants": 125,
+    "responses": 1826,
+    "score_mean": 6.343921139101862,
+    "score_median": 6.0,
+    "scores_available": 1826,
+    "survey": "Midday"
+  },
+  {
+    "class_support": [
+      274,
+      542,
+      116
+    ],
+    "cohort": "all_valid",
+    "included": true,
+    "participants": 124,
+    "responses": 932,
+    "score_mean": 6.281115879828326,
+    "score_median": 6.0,
+    "scores_available": 932,
+    "survey": "Endday"
+  },
+  {
+    "class_support": [
+      0,
+      0,
+      0
+    ],
+    "cohort": "all_valid",
+    "included": false,
+    "participants": 14,
+    "responses": 17,
+    "score_mean": null,
+    "score_median": null,
+    "scores_available": 0,
+    "survey": "All"
+  },
+  {
+    "class_support": [
+      0,
+      0,
+      0
+    ],
+    "cohort": "all_valid",
+    "included": false,
+    "participants": 3,
+    "responses": 3,
+    "score_mean": null,
+    "score_median": null,
+    "scores_available": 0,
+    "survey": "Morning"
+  },
+  {
+    "class_support": [
+      0,
+      0,
+      0
+    ],
+    "cohort": "all_valid",
+    "included": false,
+    "participants": 11,
+    "responses": 12,
+    "score_mean": null,
+    "score_median": null,
+    "scores_available": 0,
+    "survey": "Midday"
+  },
+  {
+    "class_support": [
+      0,
+      0,
+      0
+    ],
+    "cohort": "all_valid",
+    "included": false,
+    "participants": 2,
+    "responses": 2,
+    "score_mean": null,
+    "score_median": null,
+    "scores_available": 0,
+    "survey": "Endday"
+  },
+  {
+    "class_support": [
+      384,
+      808,
+      163
+    ],
+    "cohort": "complete60",
+    "included": true,
+    "participants": 113,
+    "responses": 1355,
+    "score_mean": 6.26789667896679,
+    "score_median": 6.0,
+    "scores_available": 1355,
+    "survey": "All"
+  },
+  {
+    "class_support": [
+      51,
+      100,
+      26
+    ],
+    "cohort": "complete60",
+    "included": true,
+    "participants": 73,
+    "responses": 177,
+    "score_mean": 6.367231638418079,
+    "score_median": 6.0,
+    "scores_available": 177,
+    "survey": "Morning"
+  },
+  {
+    "class_support": [
+      230,
+      476,
+      99
+    ],
+    "cohort": "complete60",
+    "included": true,
+    "participants": 111,
+    "responses": 805,
+    "score_mean": 6.267080745341615,
+    "score_median": 6.0,
+    "scores_available": 805,
+    "survey": "Midday"
+  },
+  {
+    "class_support": [
+      103,
+      232,
+      38
+    ],
+    "cohort": "complete60",
+    "included": true,
+    "participants": 97,
+    "responses": 373,
+    "score_mean": 6.222520107238606,
+    "score_median": 6.0,
+    "scores_available": 373,
+    "survey": "Endday"
+  },
+  {
+    "class_support": [
+      649,
+      1333,
+      352
+    ],
+    "cohort": "complete60",
+    "included": false,
+    "participants": 125,
+    "responses": 2351,
+    "score_mean": 6.487574978577549,
+    "score_median": 6.0,
+    "scores_available": 2334,
+    "survey": "All"
+  },
+  {
+    "class_support": [
+      176,
+      447,
+      131
+    ],
+    "cohort": "complete60",
+    "included": false,
+    "participants": 125,
+    "responses": 757,
+    "score_mean": 6.724137931034483,
+    "score_median": 7.0,
+    "scores_available": 754,
+    "survey": "Morning"
+  },
+  {
+    "class_support": [
+      302,
+      576,
+      143
+    ],
+    "cohort": "complete60",
+    "included": false,
+    "participants": 122,
+    "responses": 1033,
+    "score_mean": 6.404505386875612,
+    "score_median": 6.0,
+    "scores_available": 1021,
+    "survey": "Midday"
+  },
+  {
+    "class_support": [
+      171,
+      310,
+      78
+    ],
+    "cohort": "complete60",
+    "included": false,
+    "participants": 119,
+    "responses": 561,
+    "score_mean": 6.320214669051879,
+    "score_median": 6.0,
+    "scores_available": 559,
+    "survey": "Endday"
+  }
+]

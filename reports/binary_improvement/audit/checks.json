@@ -1,0 +1,15 @@
+{
+  "all_development_rows": 3706,
+  "final_test_evaluated": false,
+  "implementation_bug_found": false,
+  "independent_clock_checks": 3706,
+  "independent_lineage_boundaries": 74120,
+  "missing_outcomes": 17,
+  "original_artifacts_preserved": true,
+  "participants": 125,
+  "raw_reextracted": false,
+  "sampled_reading_traces": 45,
+  "sampled_source_hashes": 1,
+  "score_checks": 3706,
+  "valid_score_context_rows": 3689
+}

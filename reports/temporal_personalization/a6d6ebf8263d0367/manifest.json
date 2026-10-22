@@ -1,0 +1,33 @@
+{
+  "artifact_sha256": {
+    "associations.json": "c7ad847bec677879457f663360c50df27e953e6c21c4905d216a364a71fa6fd8",
+    "availability.json": "c33fa9d41e4883c7bdab435d5139fe71e7d5c6c463d8fcfbb86abb3758e20cc2",
+    "calibration.json": "000d95a18ca85e45a9b2387e87f1480636a7df62cc559bfd346634e49e98d181",
+    "coefficients.json": "6d073258e0b655dc3433dbf04d2d47db1ed142c1d129c53b3517fa969dd9bebd",
+    "comparison.json": "50e4a9ffb21c97449ecc2e5ae8a428203341a697c861c3b662ae51ce0b414499",
+    "composition.json": "758fdcf535253d80e45937cef4638151795cb15e467339a411fad6f2f2c618bd",
+    "coverage.json": "5b3e90de5697214d153d7263c33bbf9fa9224230911e87c7e63824b1d4ee5ebe",
+    "failures.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "figures/01_labels.png": "82957213336a9e72d33eca91bb32c63e655e942a24f70510ce042ac425fc030c",
+    "figures/02_timeline.png": "5c476d54678b086c35d7589a838bdf7d352f73f3f763aba9cb787f19f08a8054",
+    "figures/03_pooling.png": "3095bb4fbd7218b1fe7447e7d0b60ab1f751820f84b5eb79ad7f55265186823d",
+    "figures/04_models.png": "5342dc59cfcad0ca0cd2af4f2483a15632eaca498c3c9df72231acc34e6d27f0",
+    "figures/05_increment.png": "d74371e2a76e1411119176e335b6fc7deee11466f687e1070e2405abb6e84f00",
+    "figures/06_availability.png": "f89cee10f24ad7219484b70458efdea69ca1d6edc5bf69e9255c6a042c9adbeb",
+    "figures/07_calibration.png": "a30164d7e24911c757c90558fe4b6ef450e7da78aa38b83e0f48ce1dc539309a",
+    "fold_support.json": "04791423130bb6bd0fcd8c108b4eb1c94f648996386a563afd33f355f6f4611e",
+    "folds.json": "18e21b26c7f2c8c9728aed044d9afb600fb66fd35c2b22f2766bff30a09309ec",
+    "metrics.json": "5bf7ac08a93ea60316dd71bbd7faa363bb5f05e2845ec661f6d8d787fd34e47c",
+    "paired.json": "6d636d4d119071cb2bf976e9c601b9d274358a252277cc3a4152ad8b037ce5a1",
+    "participant_summary.json": "0b0dc440c24a560bee22f44bd8c87dbc151248289f4e55029e082f01d5f1c09b",
+    "presentation.json": "0db3d8f1215fb3897a70f2ce22c4e17ae29a6728378fc7fba1e8ab9342de3af1",
+    "selected.json": "67085d0f15ad8a1e9633a168909422c2f8b56c43eeae3ddf2950edec77962edf",
+    "strata.json": "358f0437a2c932729b5920c16149040cabe27031eb1447f75d1409d109998d9c",
+    "successive_window_changes.json": "fd1c1d3e29324bd977753b23802d7f71b000275c5ec3f301b4126ed2963ec02b",
+    "training_metrics.json": "2ec917d5b8947556501b11f09c403b26be23beffd65979c641a4fed5085a18b5",
+    "verification.json": "bcdae256cd87407d54790b45835c0ae5a98407b02e93c06c91aed241e27db281"
+  },
+  "complete": true,
+  "private_manifest_sha256": "5dea8d27e79f06104c4847616d900aa4bb4f572d3333bb8aaaaa7f9c3460ef18",
+  "version": "a6d6ebf8263d0367"
+}

@@ -1,0 +1,28 @@
+{
+  "evidence": {
+    "accepted_adjacent_pairs": 15613572,
+    "accepted_distinct_timestamps": 15613695,
+    "accepted_hr_quantiles": {
+      "max": 203.0,
+      "median": 90.0,
+      "min": 35.0,
+      "p25": 81.0,
+      "p75": 100.0
+    },
+    "accepted_timestamp_gap_seconds_quantiles": {
+      "median": 1.0503008365631104,
+      "p25": 1.0390419960021973,
+      "p75": 1.8876798152923584,
+      "p95": 3.1496798992156982
+    },
+    "bad_clock_records": 78,
+    "bad_value_records": 4466,
+    "logical_records": 15618282,
+    "repeated_value_adjacent_pairs": 1495636,
+    "repeated_values_interpretation": "Equal values at different clocks are retained; integer resolution, true stable HR or stale/batched reports cannot be separated without provider evidence. Counts overlap. Gaps here do not create HRV adjacency.",
+    "same_time_value_excess": 1,
+    "timestamp_conflict_records": 42
+  },
+  "source": "reports/root_cause_analysis/c62e4b329f41c611/sensor_summary.json",
+  "source_sha256": "5057492dcdfa4b629592ceebadf724edbcbf4f570336338cd3419162efefe22d"
+}

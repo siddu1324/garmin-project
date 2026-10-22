@@ -1,0 +1,50 @@
+[
+  {
+    "consequence": "Receipt clocks can misdate observations; live availability needs its own receipt log",
+    "current_action": "Preserve cutoff; label all timing provisional",
+    "rule": "Clock window membership and precision buffer",
+    "unverified_assumption": "ts locates relevant event; local start/offset is the intended boundary"
+  },
+  {
+    "consequence": "Wrong units, missed beats or upstream processing can invalidate artifact interpretation",
+    "current_action": "Keep ranges and >20% flag provisional; no threshold changes",
+    "rule": "IBI plausibility and interval-change flags",
+    "unverified_assumption": "val is milliseconds; ordered neighbors have appropriate biological meaning"
+  },
+  {
+    "consequence": "Callback jitter/batches can sever valid physiological runs or mimic close observations",
+    "current_action": "Keep both frozen hypotheses; no reconstructed timestamps",
+    "rule": "Pair consistency and gap/expected ratio",
+    "unverified_assumption": "Adjacent exported clocks correspond to adjacent interval endpoints/starts"
+  },
+  {
+    "consequence": "Both hypotheses fail if ts is receipt; union is then geometry, not acquired duration",
+    "current_action": "Report conditional eligibility; Screen can admit only a 120-second run",
+    "rule": "Edge gaps, supported-time union, contiguous span and duration/elapsed ratio",
+    "unverified_assumption": "ts anchors each interval under the chosen start/end hypothesis"
+  },
+  {
+    "consequence": "Batch flattening could merge distinct equal intervals or create artificial conflicts",
+    "current_action": "Preserve physical copies and lineage; require original batch/event/index identity",
+    "rule": "Exact duplicates and same-time conflicts",
+    "unverified_assumption": "Identical full rows are redundant events; timestamps distinguish interval identity"
+  },
+  {
+    "consequence": "Freshness and occupied bins may describe delivery cadence; dense batches affect means",
+    "current_action": "Observed-reading summaries only; quality separate; no continuous-coverage claim",
+    "rule": "HR latest/slope/occupancy and earlier reference",
+    "unverified_assumption": "Clocks locate observations; values are new readings rather than cached repeats"
+  },
+  {
+    "consequence": "Delayed values, hidden resets and boundary-spanning measurement intervals misattribute additions",
+    "current_action": "Keep supported-only deltas provisional; unsupported remains missing",
+    "rule": "Supported activity deltas",
+    "unverified_assumption": "Counter increments occur within the two recorded endpoint clocks; reset/update behavior understood"
+  },
+  {
+    "consequence": "Numerical agreement cannot establish normal beats or sensor validity",
+    "current_action": "Keep current restricted adapters; no additional real HRV",
+    "rule": "Package-adapter gating",
+    "unverified_assumption": "RRI units, actual adjacent-pair identity and permitted anchor are correct"
+  }
+]

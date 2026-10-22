@@ -1,0 +1,122 @@
+[
+  {
+    "block": "hr",
+    "included": false,
+    "participants": 114,
+    "responses": 493,
+    "score_mean": 6.340122199593,
+    "score_median": 6.0,
+    "survey_category": "Endday",
+    "valid_scores": 491
+  },
+  {
+    "block": "hr",
+    "included": false,
+    "participants": 120,
+    "responses": 879,
+    "score_mean": 6.387543252595,
+    "score_median": 6.0,
+    "survey_category": "Midday",
+    "valid_scores": 867
+  },
+  {
+    "block": "hr",
+    "included": false,
+    "participants": 125,
+    "responses": 700,
+    "score_mean": 6.717360114778,
+    "score_median": 7.0,
+    "survey_category": "Morning",
+    "valid_scores": 697
+  },
+  {
+    "block": "hr",
+    "included": true,
+    "participants": 104,
+    "responses": 441,
+    "score_mean": 6.215419501134,
+    "score_median": 6.0,
+    "survey_category": "Endday",
+    "valid_scores": 441
+  },
+  {
+    "block": "hr",
+    "included": true,
+    "participants": 117,
+    "responses": 959,
+    "score_mean": 6.304483837331,
+    "score_median": 6.0,
+    "survey_category": "Midday",
+    "valid_scores": 959
+  },
+  {
+    "block": "hr",
+    "included": true,
+    "participants": 88,
+    "responses": 234,
+    "score_mean": 6.474358974359,
+    "score_median": 6.0,
+    "survey_category": "Morning",
+    "valid_scores": 234
+  },
+  {
+    "block": "hr_steps",
+    "included": false,
+    "participants": 119,
+    "responses": 561,
+    "score_mean": 6.320214669052,
+    "score_median": 6.0,
+    "survey_category": "Endday",
+    "valid_scores": 559
+  },
+  {
+    "block": "hr_steps",
+    "included": false,
+    "participants": 122,
+    "responses": 1033,
+    "score_mean": 6.404505386876,
+    "score_median": 6.0,
+    "survey_category": "Midday",
+    "valid_scores": 1021
+  },
+  {
+    "block": "hr_steps",
+    "included": false,
+    "participants": 125,
+    "responses": 757,
+    "score_mean": 6.724137931034,
+    "score_median": 7.0,
+    "survey_category": "Morning",
+    "valid_scores": 754
+  },
+  {
+    "block": "hr_steps",
+    "included": true,
+    "participants": 97,
+    "responses": 373,
+    "score_mean": 6.222520107239,
+    "score_median": 6.0,
+    "survey_category": "Endday",
+    "valid_scores": 373
+  },
+  {
+    "block": "hr_steps",
+    "included": true,
+    "participants": 111,
+    "responses": 805,
+    "score_mean": 6.267080745342,
+    "score_median": 6.0,
+    "survey_category": "Midday",
+    "valid_scores": 805
+  },
+  {
+    "block": "hr_steps",
+    "included": true,
+    "participants": 73,
+    "responses": 177,
+    "score_mean": 6.367231638418,
+    "score_median": 6.0,
+    "survey_category": "Morning",
+    "valid_scores": 177
+  }
+]

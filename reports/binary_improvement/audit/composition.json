@@ -1,0 +1,482 @@
+[
+  {
+    "class0": 151,
+    "class1": 457,
+    "cohort": "supported",
+    "included": true,
+    "participants": 87,
+    "responses": 608,
+    "survey": "All",
+    "task": "A"
+  },
+  {
+    "class0": 5,
+    "class1": 7,
+    "cohort": "supported",
+    "included": true,
+    "participants": 8,
+    "responses": 12,
+    "survey": "Morning",
+    "task": "A"
+  },
+  {
+    "class0": 86,
+    "class1": 274,
+    "cohort": "supported",
+    "included": true,
+    "participants": 81,
+    "responses": 360,
+    "survey": "Midday",
+    "task": "A"
+  },
+  {
+    "class0": 60,
+    "class1": 176,
+    "cohort": "supported",
+    "included": true,
+    "participants": 66,
+    "responses": 236,
+    "survey": "Endday",
+    "task": "A"
+  },
+  {
+    "class0": 882,
+    "class1": 2199,
+    "cohort": "supported",
+    "included": false,
+    "participants": 125,
+    "responses": 3081,
+    "survey": "All",
+    "task": "A"
+  },
+  {
+    "class0": 222,
+    "class1": 697,
+    "cohort": "supported",
+    "included": false,
+    "participants": 125,
+    "responses": 919,
+    "survey": "Morning",
+    "task": "A"
+  },
+  {
+    "class0": 446,
+    "class1": 1020,
+    "cohort": "supported",
+    "included": false,
+    "participants": 125,
+    "responses": 1466,
+    "survey": "Midday",
+    "task": "A"
+  },
+  {
+    "class0": 214,
+    "class1": 482,
+    "cohort": "supported",
+    "included": false,
+    "participants": 123,
+    "responses": 696,
+    "survey": "Endday",
+    "task": "A"
+  },
+  {
+    "class0": 59,
+    "class1": 168,
+    "cohort": "retro_nominal",
+    "included": true,
+    "participants": 86,
+    "responses": 227,
+    "survey": "All",
+    "task": "A"
+  },
+  {
+    "class0": 59,
+    "class1": 168,
+    "cohort": "retro_nominal",
+    "included": true,
+    "participants": 86,
+    "responses": 227,
+    "survey": "Morning",
+    "task": "A"
+  },
+  {
+    "class0": 0,
+    "class1": 0,
+    "cohort": "retro_nominal",
+    "included": true,
+    "participants": 0,
+    "responses": 0,
+    "survey": "Midday",
+    "task": "A"
+  },
+  {
+    "class0": 0,
+    "class1": 0,
+    "cohort": "retro_nominal",
+    "included": true,
+    "participants": 0,
+    "responses": 0,
+    "survey": "Endday",
+    "task": "A"
+  },
+  {
+    "class0": 974,
+    "class1": 2488,
+    "cohort": "retro_nominal",
+    "included": false,
+    "participants": 125,
+    "responses": 3462,
+    "survey": "All",
+    "task": "A"
+  },
+  {
+    "class0": 168,
+    "class1": 536,
+    "cohort": "retro_nominal",
+    "included": false,
+    "participants": 125,
+    "responses": 704,
+    "survey": "Morning",
+    "task": "A"
+  },
+  {
+    "class0": 532,
+    "class1": 1294,
+    "cohort": "retro_nominal",
+    "included": false,
+    "participants": 125,
+    "responses": 1826,
+    "survey": "Midday",
+    "task": "A"
+  },
+  {
+    "class0": 274,
+    "class1": 658,
+    "cohort": "retro_nominal",
+    "included": false,
+    "participants": 124,
+    "responses": 932,
+    "survey": "Endday",
+    "task": "A"
+  },
+  {
+    "class0": 59,
+    "class1": 168,
+    "cohort": "retro_later",
+    "included": true,
+    "participants": 86,
+    "responses": 227,
+    "survey": "All",
+    "task": "A"
+  },
+  {
+    "class0": 59,
+    "class1": 168,
+    "cohort": "retro_later",
+    "included": true,
+    "participants": 86,
+    "responses": 227,
+    "survey": "Morning",
+    "task": "A"
+  },
+  {
+    "class0": 0,
+    "class1": 0,
+    "cohort": "retro_later",
+    "included": true,
+    "participants": 0,
+    "responses": 0,
+    "survey": "Midday",
+    "task": "A"
+  },
+  {
+    "class0": 0,
+    "class1": 0,
+    "cohort": "retro_later",
+    "included": true,
+    "participants": 0,
+    "responses": 0,
+    "survey": "Endday",
+    "task": "A"
+  },
+  {
+    "class0": 974,
+    "class1": 2488,
+    "cohort": "retro_later",
+    "included": false,
+    "participants": 125,
+    "responses": 3462,
+    "survey": "All",
+    "task": "A"
+  },
+  {
+    "class0": 168,
+    "class1": 536,
+    "cohort": "retro_later",
+    "included": false,
+    "participants": 125,
+    "responses": 704,
+    "survey": "Morning",
+    "task": "A"
+  },
+  {
+    "class0": 532,
+    "class1": 1294,
+    "cohort": "retro_later",
+    "included": false,
+    "participants": 125,
+    "responses": 1826,
+    "survey": "Midday",
+    "task": "A"
+  },
+  {
+    "class0": 274,
+    "class1": 658,
+    "cohort": "retro_later",
+    "included": false,
+    "participants": 124,
+    "responses": 932,
+    "survey": "Endday",
+    "task": "A"
+  },
+  {
+    "class0": 538,
+    "class1": 70,
+    "cohort": "supported",
+    "included": true,
+    "participants": 87,
+    "responses": 608,
+    "survey": "All",
+    "task": "B"
+  },
+  {
+    "class0": 12,
+    "class1": 0,
+    "cohort": "supported",
+    "included": true,
+    "participants": 8,
+    "responses": 12,
+    "survey": "Morning",
+    "task": "B"
+  },
+  {
+    "class0": 318,
+    "class1": 42,
+    "cohort": "supported",
+    "included": true,
+    "participants": 81,
+    "responses": 360,
+    "survey": "Midday",
+    "task": "B"
+  },
+  {
+    "class0": 208,
+    "class1": 28,
+    "cohort": "supported",
+    "included": true,
+    "participants": 66,
+    "responses": 236,
+    "survey": "Endday",
+    "task": "B"
+  },
+  {
+    "class0": 2636,
+    "class1": 445,
+    "cohort": "supported",
+    "included": false,
+    "participants": 125,
+    "responses": 3081,
+    "survey": "All",
+    "task": "B"
+  },
+  {
+    "class0": 762,
+    "class1": 157,
+    "cohort": "supported",
+    "included": false,
+    "participants": 125,
+    "responses": 919,
+    "survey": "Morning",
+    "task": "B"
+  },
+  {
+    "class0": 1266,
+    "class1": 200,
+    "cohort": "supported",
+    "included": false,
+    "participants": 125,
+    "responses": 1466,
+    "survey": "Midday",
+    "task": "B"
+  },
+  {
+    "class0": 608,
+    "class1": 88,
+    "cohort": "supported",
+    "included": false,
+    "participants": 123,
+    "responses": 696,
+    "survey": "Endday",
+    "task": "B"
+  },
+  {
+    "class0": 191,
+    "class1": 36,
+    "cohort": "retro_nominal",
+    "included": true,
+    "participants": 86,
+    "responses": 227,
+    "survey": "All",
+    "task": "B"
+  },
+  {
+    "class0": 191,
+    "class1": 36,
+    "cohort": "retro_nominal",
+    "included": true,
+    "participants": 86,
+    "responses": 227,
+    "survey": "Morning",
+    "task": "B"
+  },
+  {
+    "class0": 0,
+    "class1": 0,
+    "cohort": "retro_nominal",
+    "included": true,
+    "participants": 0,
+    "responses": 0,
+    "survey": "Midday",
+    "task": "B"
+  },
+  {
+    "class0": 0,
+    "class1": 0,
+    "cohort": "retro_nominal",
+    "included": true,
+    "participants": 0,
+    "responses": 0,
+    "survey": "Endday",
+    "task": "B"
+  },
+  {
+    "class0": 2983,
+    "class1": 479,
+    "cohort": "retro_nominal",
+    "included": false,
+    "participants": 125,
+    "responses": 3462,
+    "survey": "All",
+    "task": "B"
+  },
+  {
+    "class0": 583,
+    "class1": 121,
+    "cohort": "retro_nominal",
+    "included": false,
+    "participants": 125,
+    "responses": 704,
+    "survey": "Morning",
+    "task": "B"
+  },
+  {
+    "class0": 1584,
+    "class1": 242,
+    "cohort": "retro_nominal",
+    "included": false,
+    "participants": 125,
+    "responses": 1826,
+    "survey": "Midday",
+    "task": "B"
+  },
+  {
+    "class0": 816,
+    "class1": 116,
+    "cohort": "retro_nominal",
+    "included": false,
+    "participants": 124,
+    "responses": 932,
+    "survey": "Endday",
+    "task": "B"
+  },
+  {
+    "class0": 191,
+    "class1": 36,
+    "cohort": "retro_later",
+    "included": true,
+    "participants": 86,
+    "responses": 227,
+    "survey": "All",
+    "task": "B"
+  },
+  {
+    "class0": 191,
+    "class1": 36,
+    "cohort": "retro_later",
+    "included": true,
+    "participants": 86,
+    "responses": 227,
+    "survey": "Morning",
+    "task": "B"
+  },
+  {
+    "class0": 0,
+    "class1": 0,
+    "cohort": "retro_later",
+    "included": true,
+    "participants": 0,
+    "responses": 0,
+    "survey": "Midday",
+    "task": "B"
+  },
+  {
+    "class0": 0,
+    "class1": 0,
+    "cohort": "retro_later",
+    "included": true,
+    "participants": 0,
+    "responses": 0,
+    "survey": "Endday",
+    "task": "B"
+  },
+  {
+    "class0": 2983,
+    "class1": 479,
+    "cohort": "retro_later",
+    "included": false,
+    "participants": 125,
+    "responses": 3462,
+    "survey": "All",
+    "task": "B"
+  },
+  {
+    "class0": 583,
+    "class1": 121,
+    "cohort": "retro_later",
+    "included": false,
+    "participants": 125,
+    "responses": 704,
+    "survey": "Morning",
+    "task": "B"
+  },
+  {
+    "class0": 1584,
+    "class1": 242,
+    "cohort": "retro_later",
+    "included": false,
+    "participants": 125,
+    "responses": 1826,
+    "survey": "Midday",
+    "task": "B"
+  },
+  {
+    "class0": 816,
+    "class1": 116,
+    "cohort": "retro_later",
+    "included": false,
+    "participants": 124,
+    "responses": 932,
+    "survey": "Endday",
+    "task": "B"
+  }
+]

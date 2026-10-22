@@ -1,0 +1,1423 @@
+[
+  {
+    "matrix": [
+      [
+        3174,
+        0
+      ],
+      [
+        515,
+        0
+      ]
+    ],
+    "task": "at_least_10",
+    "view": "context"
+  },
+  {
+    "matrix": [
+      [
+        1192,
+        0
+      ],
+      [
+        163,
+        0
+      ]
+    ],
+    "task": "at_least_10",
+    "view": "context_complete"
+  },
+  {
+    "matrix": [
+      [
+        3174,
+        0
+      ],
+      [
+        515,
+        0
+      ]
+    ],
+    "task": "at_least_10",
+    "view": "dummy_frequency"
+  },
+  {
+    "matrix": [
+      [
+        1192,
+        0
+      ],
+      [
+        163,
+        0
+      ]
+    ],
+    "task": "at_least_10",
+    "view": "dummy_frequency_complete"
+  },
+  {
+    "matrix": [
+      [
+        3174,
+        0
+      ],
+      [
+        515,
+        0
+      ]
+    ],
+    "task": "at_least_10",
+    "view": "dummy_majority"
+  },
+  {
+    "matrix": [
+      [
+        1192,
+        0
+      ],
+      [
+        163,
+        0
+      ]
+    ],
+    "task": "at_least_10",
+    "view": "dummy_majority_complete"
+  },
+  {
+    "matrix": [
+      [
+        2934,
+        240
+      ],
+      [
+        471,
+        44
+      ]
+    ],
+    "task": "at_least_10",
+    "view": "full"
+  },
+  {
+    "matrix": [
+      [
+        2109,
+        1065
+      ],
+      [
+        351,
+        164
+      ]
+    ],
+    "task": "at_least_10",
+    "view": "full_balanced"
+  },
+  {
+    "matrix": [
+      [
+        2982,
+        192
+      ],
+      [
+        481,
+        34
+      ]
+    ],
+    "task": "at_least_10",
+    "view": "full_corr"
+  },
+  {
+    "matrix": [
+      [
+        3103,
+        71
+      ],
+      [
+        503,
+        12
+      ]
+    ],
+    "task": "at_least_10",
+    "view": "full_elastic"
+  },
+  {
+    "matrix": [
+      [
+        3104,
+        70
+      ],
+      [
+        500,
+        15
+      ]
+    ],
+    "task": "at_least_10",
+    "view": "full_l1"
+  },
+  {
+    "matrix": [
+      [
+        3009,
+        165
+      ],
+      [
+        483,
+        32
+      ]
+    ],
+    "task": "at_least_10",
+    "view": "full_no_flags"
+  },
+  {
+    "matrix": [
+      [
+        2934,
+        240
+      ],
+      [
+        471,
+        44
+      ]
+    ],
+    "task": "at_least_10",
+    "view": "group_select"
+  },
+  {
+    "matrix": [
+      [
+        3173,
+        1
+      ],
+      [
+        515,
+        0
+      ]
+    ],
+    "task": "at_least_10",
+    "view": "hr60"
+  },
+  {
+    "matrix": [
+      [
+        3171,
+        3
+      ],
+      [
+        515,
+        0
+      ]
+    ],
+    "task": "at_least_10",
+    "view": "hr_120m"
+  },
+  {
+    "matrix": [
+      [
+        3168,
+        6
+      ],
+      [
+        514,
+        1
+      ]
+    ],
+    "task": "at_least_10",
+    "view": "hr_1440m"
+  },
+  {
+    "matrix": [
+      [
+        3172,
+        2
+      ],
+      [
+        515,
+        0
+      ]
+    ],
+    "task": "at_least_10",
+    "view": "hr_15m"
+  },
+  {
+    "matrix": [
+      [
+        3166,
+        8
+      ],
+      [
+        515,
+        0
+      ]
+    ],
+    "task": "at_least_10",
+    "view": "hr_30m"
+  },
+  {
+    "matrix": [
+      [
+        3172,
+        2
+      ],
+      [
+        514,
+        1
+      ]
+    ],
+    "task": "at_least_10",
+    "view": "hr_360m"
+  },
+  {
+    "matrix": [
+      [
+        3173,
+        1
+      ],
+      [
+        515,
+        0
+      ]
+    ],
+    "task": "at_least_10",
+    "view": "hr_5m"
+  },
+  {
+    "matrix": [
+      [
+        3173,
+        1
+      ],
+      [
+        515,
+        0
+      ]
+    ],
+    "task": "at_least_10",
+    "view": "hr_720m"
+  },
+  {
+    "matrix": [
+      [
+        3165,
+        9
+      ],
+      [
+        511,
+        4
+      ]
+    ],
+    "task": "at_least_10",
+    "view": "hr_activity60"
+  },
+  {
+    "matrix": [
+      [
+        3084,
+        90
+      ],
+      [
+        495,
+        20
+      ]
+    ],
+    "task": "at_least_10",
+    "view": "hr_all"
+  },
+  {
+    "matrix": [
+      [
+        3153,
+        21
+      ],
+      [
+        512,
+        3
+      ]
+    ],
+    "task": "at_least_10",
+    "view": "missingness"
+  },
+  {
+    "matrix": [
+      [
+        3174,
+        0
+      ],
+      [
+        515,
+        0
+      ]
+    ],
+    "task": "at_least_10",
+    "view": "original60"
+  },
+  {
+    "matrix": [
+      [
+        1727,
+        1447
+      ],
+      [
+        252,
+        263
+      ]
+    ],
+    "task": "at_least_10",
+    "view": "original60_balanced"
+  },
+  {
+    "matrix": [
+      [
+        1192,
+        0
+      ],
+      [
+        163,
+        0
+      ]
+    ],
+    "task": "at_least_10",
+    "view": "original60_complete"
+  },
+  {
+    "matrix": [
+      [
+        2836,
+        338
+      ],
+      [
+        467,
+        48
+      ]
+    ],
+    "task": "at_least_10",
+    "view": "pulseox_full"
+  },
+  {
+    "matrix": [
+      [
+        3127,
+        47
+      ],
+      [
+        505,
+        10
+      ]
+    ],
+    "task": "at_least_10",
+    "view": "quality"
+  },
+  {
+    "matrix": [
+      [
+        0,
+        1033
+      ],
+      [
+        0,
+        2656
+      ]
+    ],
+    "task": "at_least_5",
+    "view": "context"
+  },
+  {
+    "matrix": [
+      [
+        0,
+        384
+      ],
+      [
+        0,
+        971
+      ]
+    ],
+    "task": "at_least_5",
+    "view": "context_complete"
+  },
+  {
+    "matrix": [
+      [
+        0,
+        1033
+      ],
+      [
+        0,
+        2656
+      ]
+    ],
+    "task": "at_least_5",
+    "view": "dummy_frequency"
+  },
+  {
+    "matrix": [
+      [
+        0,
+        384
+      ],
+      [
+        0,
+        971
+      ]
+    ],
+    "task": "at_least_5",
+    "view": "dummy_frequency_complete"
+  },
+  {
+    "matrix": [
+      [
+        0,
+        1033
+      ],
+      [
+        0,
+        2656
+      ]
+    ],
+    "task": "at_least_5",
+    "view": "dummy_majority"
+  },
+  {
+    "matrix": [
+      [
+        0,
+        384
+      ],
+      [
+        0,
+        971
+      ]
+    ],
+    "task": "at_least_5",
+    "view": "dummy_majority_complete"
+  },
+  {
+    "matrix": [
+      [
+        186,
+        847
+      ],
+      [
+        428,
+        2228
+      ]
+    ],
+    "task": "at_least_5",
+    "view": "full"
+  },
+  {
+    "matrix": [
+      [
+        474,
+        559
+      ],
+      [
+        1091,
+        1565
+      ]
+    ],
+    "task": "at_least_5",
+    "view": "full_balanced"
+  },
+  {
+    "matrix": [
+      [
+        178,
+        855
+      ],
+      [
+        428,
+        2228
+      ]
+    ],
+    "task": "at_least_5",
+    "view": "full_corr"
+  },
+  {
+    "matrix": [
+      [
+        86,
+        947
+      ],
+      [
+        264,
+        2392
+      ]
+    ],
+    "task": "at_least_5",
+    "view": "full_elastic"
+  },
+  {
+    "matrix": [
+      [
+        77,
+        956
+      ],
+      [
+        243,
+        2413
+      ]
+    ],
+    "task": "at_least_5",
+    "view": "full_l1"
+  },
+  {
+    "matrix": [
+      [
+        133,
+        900
+      ],
+      [
+        384,
+        2272
+      ]
+    ],
+    "task": "at_least_5",
+    "view": "full_no_flags"
+  },
+  {
+    "matrix": [
+      [
+        178,
+        855
+      ],
+      [
+        421,
+        2235
+      ]
+    ],
+    "task": "at_least_5",
+    "view": "group_select"
+  },
+  {
+    "matrix": [
+      [
+        6,
+        1027
+      ],
+      [
+        8,
+        2648
+      ]
+    ],
+    "task": "at_least_5",
+    "view": "hr60"
+  },
+  {
+    "matrix": [
+      [
+        4,
+        1029
+      ],
+      [
+        16,
+        2640
+      ]
+    ],
+    "task": "at_least_5",
+    "view": "hr_120m"
+  },
+  {
+    "matrix": [
+      [
+        16,
+        1017
+      ],
+      [
+        42,
+        2614
+      ]
+    ],
+    "task": "at_least_5",
+    "view": "hr_1440m"
+  },
+  {
+    "matrix": [
+      [
+        22,
+        1011
+      ],
+      [
+        39,
+        2617
+      ]
+    ],
+    "task": "at_least_5",
+    "view": "hr_15m"
+  },
+  {
+    "matrix": [
+      [
+        8,
+        1025
+      ],
+      [
+        20,
+        2636
+      ]
+    ],
+    "task": "at_least_5",
+    "view": "hr_30m"
+  },
+  {
+    "matrix": [
+      [
+        6,
+        1027
+      ],
+      [
+        25,
+        2631
+      ]
+    ],
+    "task": "at_least_5",
+    "view": "hr_360m"
+  },
+  {
+    "matrix": [
+      [
+        6,
+        1027
+      ],
+      [
+        21,
+        2635
+      ]
+    ],
+    "task": "at_least_5",
+    "view": "hr_5m"
+  },
+  {
+    "matrix": [
+      [
+        7,
+        1026
+      ],
+      [
+        29,
+        2627
+      ]
+    ],
+    "task": "at_least_5",
+    "view": "hr_720m"
+  },
+  {
+    "matrix": [
+      [
+        17,
+        1016
+      ],
+      [
+        34,
+        2622
+      ]
+    ],
+    "task": "at_least_5",
+    "view": "hr_activity60"
+  },
+  {
+    "matrix": [
+      [
+        104,
+        929
+      ],
+      [
+        258,
+        2398
+      ]
+    ],
+    "task": "at_least_5",
+    "view": "hr_all"
+  },
+  {
+    "matrix": [
+      [
+        55,
+        978
+      ],
+      [
+        120,
+        2536
+      ]
+    ],
+    "task": "at_least_5",
+    "view": "missingness"
+  },
+  {
+    "matrix": [
+      [
+        0,
+        1033
+      ],
+      [
+        1,
+        2655
+      ]
+    ],
+    "task": "at_least_5",
+    "view": "original60"
+  },
+  {
+    "matrix": [
+      [
+        612,
+        421
+      ],
+      [
+        1455,
+        1201
+      ]
+    ],
+    "task": "at_least_5",
+    "view": "original60_balanced"
+  },
+  {
+    "matrix": [
+      [
+        0,
+        384
+      ],
+      [
+        0,
+        971
+      ]
+    ],
+    "task": "at_least_5",
+    "view": "original60_complete"
+  },
+  {
+    "matrix": [
+      [
+        226,
+        807
+      ],
+      [
+        544,
+        2112
+      ]
+    ],
+    "task": "at_least_5",
+    "view": "pulseox_full"
+  },
+  {
+    "matrix": [
+      [
+        52,
+        981
+      ],
+      [
+        180,
+        2476
+      ]
+    ],
+    "task": "at_least_5",
+    "view": "quality"
+  },
+  {
+    "matrix": [
+      [
+        0,
+        1033,
+        0
+      ],
+      [
+        0,
+        2141,
+        0
+      ],
+      [
+        0,
+        515,
+        0
+      ]
+    ],
+    "task": "three_class",
+    "view": "context"
+  },
+  {
+    "matrix": [
+      [
+        0,
+        384,
+        0
+      ],
+      [
+        0,
+        808,
+        0
+      ],
+      [
+        0,
+        163,
+        0
+      ]
+    ],
+    "task": "three_class",
+    "view": "context_complete"
+  },
+  {
+    "matrix": [
+      [
+        0,
+        1033,
+        0
+      ],
+      [
+        0,
+        2141,
+        0
+      ],
+      [
+        0,
+        515,
+        0
+      ]
+    ],
+    "task": "three_class",
+    "view": "dummy_frequency"
+  },
+  {
+    "matrix": [
+      [
+        0,
+        384,
+        0
+      ],
+      [
+        0,
+        808,
+        0
+      ],
+      [
+        0,
+        163,
+        0
+      ]
+    ],
+    "task": "three_class",
+    "view": "dummy_frequency_complete"
+  },
+  {
+    "matrix": [
+      [
+        0,
+        1033,
+        0
+      ],
+      [
+        0,
+        2141,
+        0
+      ],
+      [
+        0,
+        515,
+        0
+      ]
+    ],
+    "task": "three_class",
+    "view": "dummy_majority"
+  },
+  {
+    "matrix": [
+      [
+        0,
+        384,
+        0
+      ],
+      [
+        0,
+        808,
+        0
+      ],
+      [
+        0,
+        163,
+        0
+      ]
+    ],
+    "task": "three_class",
+    "view": "dummy_majority_complete"
+  },
+  {
+    "matrix": [
+      [
+        242,
+        677,
+        114
+      ],
+      [
+        445,
+        1434,
+        262
+      ],
+      [
+        106,
+        353,
+        56
+      ]
+    ],
+    "task": "three_class",
+    "view": "full"
+  },
+  {
+    "matrix": [
+      [
+        373,
+        411,
+        249
+      ],
+      [
+        720,
+        810,
+        611
+      ],
+      [
+        161,
+        216,
+        138
+      ]
+    ],
+    "task": "three_class",
+    "view": "full_balanced"
+  },
+  {
+    "matrix": [
+      [
+        200,
+        742,
+        91
+      ],
+      [
+        422,
+        1510,
+        209
+      ],
+      [
+        96,
+        378,
+        41
+      ]
+    ],
+    "task": "three_class",
+    "view": "full_corr"
+  },
+  {
+    "matrix": [
+      [
+        156,
+        833,
+        44
+      ],
+      [
+        346,
+        1678,
+        117
+      ],
+      [
+        70,
+        416,
+        29
+      ]
+    ],
+    "task": "three_class",
+    "view": "full_elastic"
+  },
+  {
+    "matrix": [
+      [
+        151,
+        840,
+        42
+      ],
+      [
+        332,
+        1712,
+        97
+      ],
+      [
+        65,
+        421,
+        29
+      ]
+    ],
+    "task": "three_class",
+    "view": "full_l1"
+  },
+  {
+    "matrix": [
+      [
+        180,
+        789,
+        64
+      ],
+      [
+        392,
+        1597,
+        152
+      ],
+      [
+        85,
+        382,
+        48
+      ]
+    ],
+    "task": "three_class",
+    "view": "full_no_flags"
+  },
+  {
+    "matrix": [
+      [
+        232,
+        697,
+        104
+      ],
+      [
+        430,
+        1466,
+        245
+      ],
+      [
+        99,
+        362,
+        54
+      ]
+    ],
+    "task": "three_class",
+    "view": "group_select"
+  },
+  {
+    "matrix": [
+      [
+        12,
+        1021,
+        0
+      ],
+      [
+        19,
+        2117,
+        5
+      ],
+      [
+        3,
+        512,
+        0
+      ]
+    ],
+    "task": "three_class",
+    "view": "hr60"
+  },
+  {
+    "matrix": [
+      [
+        13,
+        1020,
+        0
+      ],
+      [
+        40,
+        2094,
+        7
+      ],
+      [
+        5,
+        509,
+        1
+      ]
+    ],
+    "task": "three_class",
+    "view": "hr_120m"
+  },
+  {
+    "matrix": [
+      [
+        33,
+        997,
+        3
+      ],
+      [
+        73,
+        2058,
+        10
+      ],
+      [
+        26,
+        487,
+        2
+      ]
+    ],
+    "task": "three_class",
+    "view": "hr_1440m"
+  },
+  {
+    "matrix": [
+      [
+        35,
+        995,
+        3
+      ],
+      [
+        57,
+        2076,
+        8
+      ],
+      [
+        8,
+        506,
+        1
+      ]
+    ],
+    "task": "three_class",
+    "view": "hr_15m"
+  },
+  {
+    "matrix": [
+      [
+        16,
+        1014,
+        3
+      ],
+      [
+        36,
+        2093,
+        12
+      ],
+      [
+        7,
+        505,
+        3
+      ]
+    ],
+    "task": "three_class",
+    "view": "hr_30m"
+  },
+  {
+    "matrix": [
+      [
+        17,
+        1014,
+        2
+      ],
+      [
+        52,
+        2086,
+        3
+      ],
+      [
+        13,
+        501,
+        1
+      ]
+    ],
+    "task": "three_class",
+    "view": "hr_360m"
+  },
+  {
+    "matrix": [
+      [
+        12,
+        1019,
+        2
+      ],
+      [
+        33,
+        2102,
+        6
+      ],
+      [
+        6,
+        507,
+        2
+      ]
+    ],
+    "task": "three_class",
+    "view": "hr_5m"
+  },
+  {
+    "matrix": [
+      [
+        14,
+        1018,
+        1
+      ],
+      [
+        59,
+        2078,
+        4
+      ],
+      [
+        17,
+        498,
+        0
+      ]
+    ],
+    "task": "three_class",
+    "view": "hr_720m"
+  },
+  {
+    "matrix": [
+      [
+        30,
+        1000,
+        3
+      ],
+      [
+        57,
+        2067,
+        17
+      ],
+      [
+        10,
+        501,
+        4
+      ]
+    ],
+    "task": "three_class",
+    "view": "hr_activity60"
+  },
+  {
+    "matrix": [
+      [
+        157,
+        828,
+        48
+      ],
+      [
+        292,
+        1748,
+        101
+      ],
+      [
+        72,
+        413,
+        30
+      ]
+    ],
+    "task": "three_class",
+    "view": "hr_all"
+  },
+  {
+    "matrix": [
+      [
+        90,
+        928,
+        15
+      ],
+      [
+        189,
+        1913,
+        39
+      ],
+      [
+        35,
+        468,
+        12
+      ]
+    ],
+    "task": "three_class",
+    "view": "missingness"
+  },
+  {
+    "matrix": [
+      [
+        0,
+        1033,
+        0
+      ],
+      [
+        1,
+        2140,
+        0
+      ],
+      [
+        0,
+        515,
+        0
+      ]
+    ],
+    "task": "three_class",
+    "view": "original60"
+  },
+  {
+    "matrix": [
+      [
+        496,
+        250,
+        287
+      ],
+      [
+        997,
+        521,
+        623
+      ],
+      [
+        233,
+        118,
+        164
+      ]
+    ],
+    "task": "three_class",
+    "view": "original60_balanced"
+  },
+  {
+    "matrix": [
+      [
+        1,
+        383,
+        0
+      ],
+      [
+        1,
+        807,
+        0
+      ],
+      [
+        1,
+        162,
+        0
+      ]
+    ],
+    "task": "three_class",
+    "view": "original60_complete"
+  },
+  {
+    "matrix": [
+      [
+        253,
+        651,
+        129
+      ],
+      [
+        506,
+        1363,
+        272
+      ],
+      [
+        115,
+        337,
+        63
+      ]
+    ],
+    "task": "three_class",
+    "view": "pulseox_full"
+  },
+  {
+    "matrix": [
+      [
+        101,
+        906,
+        26
+      ],
+      [
+        269,
+        1807,
+        65
+      ],
+      [
+        52,
+        444,
+        19
+      ]
+    ],
+    "task": "three_class",
+    "view": "quality"
+  }
+]

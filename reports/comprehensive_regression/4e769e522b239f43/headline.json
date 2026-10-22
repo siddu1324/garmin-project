@@ -1,0 +1,8 @@
+{
+  "best_full_point_model": "all_valid__full__elastic",
+  "collapse": "Elastic Net selects zero coefficients in every full-feature outer fold and reproduces the matching training-mean dummy. Its small pooled prediction variation comes only from different training-fold means; it has no within-fold physiological discrimination. The median dummy predicts 6 throughout and has undefined Spearman correlation, not zero correlation.",
+  "conclusion": "These comparisons do not establish a reliable improvement over both the matching median and context baselines. Point minima are descriptive, not a new selected model or final-test result. Repeated development exploration remains a limitation.",
+  "evidence": "The lowest point MAE among the prespecified full-feature models is Elastic Net at 2.245, compared with 2.209 for the matching median dummy. Its paired MAE difference from the median is +0.036 (95% interval -0.009 to +0.080); versus its matching context model, +0.006 (+0.001 to +0.010). RMSE is 2.700, R\u00b2 -0.004, and Spearman correlation -0.095. For actual scores 10\u201315, MAE is 4.754 and mean prediction\u2212actual is -4.754.",
+  "primary_participants": 125,
+  "primary_responses": 3689
+}

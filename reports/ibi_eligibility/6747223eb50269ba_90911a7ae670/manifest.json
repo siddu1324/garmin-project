@@ -1,0 +1,14 @@
+{
+  "artifact_sha256": {
+    "attrition.json": "7b9fcafad71532050575536ad9386382014d80e500bc146e1276a9dc123a3185",
+    "coverage.json": "5c79b75b3302d161df8da8f8bd4fb1f42f3abf932ae959794c25877dd1cb488a",
+    "coverage.png": "2f5e765992e0169d54fbe10d99fc5a59a49a3c8ec644b6f57d3b85adcd911274",
+    "coverage_table.md": "5c6af669851a7a93068abaffbcc32cd0249ef75ca9702f9b1bb43b6929034d92",
+    "report.md": "03ae71d66a1267962b029071eb2ba3c885b241088be6737e2187c31327e7a85b",
+    "run_summary.json": "93cdbafc09368d0ce08445ebb42377a5952b19935012e95397916e2b63d43d60",
+    "timing.json": "eab13b3a960cafd97ac9ad37d2181e1c478ef5fda7a2c2966b7bc8b350d3df58",
+    "timing_agreement.png": "814481899fd8ee71261bd52d68348973a3a08f143a4d771036ec13fa1f421a35"
+  },
+  "audit_version": "6747223eb50269ba",
+  "renderer_version": "90911a7ae670"
+}

@@ -1,0 +1,2810 @@
+[
+  {
+    "only_this_check": 0,
+    "overlapping": 5,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "clock_flag",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 9,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "conflicting_timestamp_values",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 139,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "duration_elapsed_mismatch",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 435,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "excessive_artifact_flags",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 1443,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "excessive_internal_gap_ratio",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 7,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "fewer_than_two_contained_intervals",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 1,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "implausible_or_missing_ibi",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 244,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "insufficient_edge_support",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 1491,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "insufficient_interval_time_agreement",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 1507,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "insufficient_supported_duration",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 1510,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "insufficient_unbroken_sequence",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 2196,
+    "overlapping": 2196,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "no_recorded_ibi",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 9,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "repeated_timestamp",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 1,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "clock_flag",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "conflicting_timestamp_values",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 18,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "duration_elapsed_mismatch",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 110,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "excessive_artifact_flags",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 368,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "excessive_internal_gap_ratio",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 1,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "fewer_than_two_contained_intervals",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "implausible_or_missing_ibi",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 37,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "insufficient_edge_support",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 376,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "insufficient_interval_time_agreement",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 374,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "insufficient_supported_duration",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 376,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "insufficient_unbroken_sequence",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 558,
+    "overlapping": 558,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "no_recorded_ibi",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "repeated_timestamp",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 4,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "clock_flag",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 9,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "conflicting_timestamp_values",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 100,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "duration_elapsed_mismatch",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 251,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "excessive_artifact_flags",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 868,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "excessive_internal_gap_ratio",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 3,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "fewer_than_two_contained_intervals",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "implausible_or_missing_ibi",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 160,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "insufficient_edge_support",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 902,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "insufficient_interval_time_agreement",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 920,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "insufficient_supported_duration",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 920,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "insufficient_unbroken_sequence",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 918,
+    "overlapping": 918,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "no_recorded_ibi",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 9,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "repeated_timestamp",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "clock_flag",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "conflicting_timestamp_values",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 21,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "duration_elapsed_mismatch",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 74,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "excessive_artifact_flags",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 207,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "excessive_internal_gap_ratio",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 3,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "fewer_than_two_contained_intervals",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 1,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "implausible_or_missing_ibi",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 47,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "insufficient_edge_support",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 213,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "insufficient_interval_time_agreement",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 213,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "insufficient_supported_duration",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 214,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "insufficient_unbroken_sequence",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 720,
+    "overlapping": 720,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "no_recorded_ibi",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "repeated_timestamp",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 5,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "clock_flag",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 9,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "conflicting_timestamp_values",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 143,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "duration_elapsed_mismatch",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 439,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "excessive_artifact_flags",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 1437,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "excessive_internal_gap_ratio",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 10,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "fewer_than_two_contained_intervals",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 1,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "implausible_or_missing_ibi",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 243,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "insufficient_edge_support",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 1489,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "insufficient_interval_time_agreement",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 1507,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "insufficient_supported_duration",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 1510,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "insufficient_unbroken_sequence",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 2196,
+    "overlapping": 2196,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "no_recorded_ibi",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 9,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "repeated_timestamp",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 1,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "clock_flag",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "conflicting_timestamp_values",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 18,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "duration_elapsed_mismatch",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 110,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "excessive_artifact_flags",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 368,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "excessive_internal_gap_ratio",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 1,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "fewer_than_two_contained_intervals",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "implausible_or_missing_ibi",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 35,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "insufficient_edge_support",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 376,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "insufficient_interval_time_agreement",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 374,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "insufficient_supported_duration",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 376,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "insufficient_unbroken_sequence",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 558,
+    "overlapping": 558,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "no_recorded_ibi",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "repeated_timestamp",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 4,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "clock_flag",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 9,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "conflicting_timestamp_values",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 104,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "duration_elapsed_mismatch",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 253,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "excessive_artifact_flags",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 861,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "excessive_internal_gap_ratio",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 6,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "fewer_than_two_contained_intervals",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "implausible_or_missing_ibi",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 164,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "insufficient_edge_support",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 900,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "insufficient_interval_time_agreement",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 919,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "insufficient_supported_duration",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 920,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "insufficient_unbroken_sequence",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 918,
+    "overlapping": 918,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "no_recorded_ibi",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 9,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "repeated_timestamp",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "clock_flag",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "conflicting_timestamp_values",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 21,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "duration_elapsed_mismatch",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 76,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "excessive_artifact_flags",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 208,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "excessive_internal_gap_ratio",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 3,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "fewer_than_two_contained_intervals",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 1,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "implausible_or_missing_ibi",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 44,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "insufficient_edge_support",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 213,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "insufficient_interval_time_agreement",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 214,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "insufficient_supported_duration",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 214,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "insufficient_unbroken_sequence",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 720,
+    "overlapping": 720,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "no_recorded_ibi",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 0,
+    "policy": "conservative",
+    "reason": "repeated_timestamp",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 5,
+    "pass_if_only_gate_waived": 4,
+    "policy": "screen",
+    "reason": "clock_flag",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 9,
+    "pass_if_only_gate_waived": 4,
+    "policy": "screen",
+    "reason": "conflicting_timestamp_values",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 74,
+    "pass_if_only_gate_waived": 4,
+    "policy": "screen",
+    "reason": "duration_elapsed_mismatch",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 23,
+    "pass_if_only_gate_waived": 4,
+    "policy": "screen",
+    "reason": "excessive_artifact_flags",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 31,
+    "overlapping": 1409,
+    "pass_if_only_gate_waived": 35,
+    "policy": "screen",
+    "reason": "excessive_internal_gap_ratio",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 7,
+    "pass_if_only_gate_waived": 4,
+    "policy": "screen",
+    "reason": "fewer_than_two_contained_intervals",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 4,
+    "policy": "screen",
+    "reason": "implausible_or_missing_ibi",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 227,
+    "pass_if_only_gate_waived": 4,
+    "policy": "screen",
+    "reason": "insufficient_edge_support",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 86,
+    "pass_if_only_gate_waived": 4,
+    "policy": "screen",
+    "reason": "insufficient_interval_time_agreement",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 926,
+    "pass_if_only_gate_waived": 4,
+    "policy": "screen",
+    "reason": "insufficient_supported_duration",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 21,
+    "overlapping": 1469,
+    "pass_if_only_gate_waived": 25,
+    "policy": "screen",
+    "reason": "insufficient_unbroken_sequence",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 2196,
+    "overlapping": 2196,
+    "pass_if_only_gate_waived": 4,
+    "policy": "screen",
+    "reason": "no_recorded_ibi",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 9,
+    "pass_if_only_gate_waived": 4,
+    "policy": "screen",
+    "reason": "repeated_timestamp",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 1,
+    "pass_if_only_gate_waived": 3,
+    "policy": "screen",
+    "reason": "clock_flag",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 3,
+    "policy": "screen",
+    "reason": "conflicting_timestamp_values",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 4,
+    "pass_if_only_gate_waived": 3,
+    "policy": "screen",
+    "reason": "duration_elapsed_mismatch",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 4,
+    "pass_if_only_gate_waived": 3,
+    "policy": "screen",
+    "reason": "excessive_artifact_flags",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 8,
+    "overlapping": 357,
+    "pass_if_only_gate_waived": 11,
+    "policy": "screen",
+    "reason": "excessive_internal_gap_ratio",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 1,
+    "pass_if_only_gate_waived": 3,
+    "policy": "screen",
+    "reason": "fewer_than_two_contained_intervals",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 3,
+    "policy": "screen",
+    "reason": "implausible_or_missing_ibi",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 34,
+    "pass_if_only_gate_waived": 3,
+    "policy": "screen",
+    "reason": "insufficient_edge_support",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 15,
+    "pass_if_only_gate_waived": 3,
+    "policy": "screen",
+    "reason": "insufficient_interval_time_agreement",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 198,
+    "pass_if_only_gate_waived": 3,
+    "policy": "screen",
+    "reason": "insufficient_supported_duration",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 7,
+    "overlapping": 365,
+    "pass_if_only_gate_waived": 10,
+    "policy": "screen",
+    "reason": "insufficient_unbroken_sequence",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 558,
+    "overlapping": 558,
+    "pass_if_only_gate_waived": 3,
+    "policy": "screen",
+    "reason": "no_recorded_ibi",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 3,
+    "policy": "screen",
+    "reason": "repeated_timestamp",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 4,
+    "pass_if_only_gate_waived": 0,
+    "policy": "screen",
+    "reason": "clock_flag",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 9,
+    "pass_if_only_gate_waived": 0,
+    "policy": "screen",
+    "reason": "conflicting_timestamp_values",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 58,
+    "pass_if_only_gate_waived": 0,
+    "policy": "screen",
+    "reason": "duration_elapsed_mismatch",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 13,
+    "pass_if_only_gate_waived": 0,
+    "policy": "screen",
+    "reason": "excessive_artifact_flags",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 16,
+    "overlapping": 851,
+    "pass_if_only_gate_waived": 16,
+    "policy": "screen",
+    "reason": "excessive_internal_gap_ratio",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 3,
+    "pass_if_only_gate_waived": 0,
+    "policy": "screen",
+    "reason": "fewer_than_two_contained_intervals",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 0,
+    "policy": "screen",
+    "reason": "implausible_or_missing_ibi",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 151,
+    "pass_if_only_gate_waived": 0,
+    "policy": "screen",
+    "reason": "insufficient_edge_support",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 59,
+    "pass_if_only_gate_waived": 0,
+    "policy": "screen",
+    "reason": "insufficient_interval_time_agreement",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 591,
+    "pass_if_only_gate_waived": 0,
+    "policy": "screen",
+    "reason": "insufficient_supported_duration",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 9,
+    "overlapping": 901,
+    "pass_if_only_gate_waived": 9,
+    "policy": "screen",
+    "reason": "insufficient_unbroken_sequence",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 918,
+    "overlapping": 918,
+    "pass_if_only_gate_waived": 0,
+    "policy": "screen",
+    "reason": "no_recorded_ibi",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 9,
+    "pass_if_only_gate_waived": 0,
+    "policy": "screen",
+    "reason": "repeated_timestamp",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 1,
+    "policy": "screen",
+    "reason": "clock_flag",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 1,
+    "policy": "screen",
+    "reason": "conflicting_timestamp_values",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 12,
+    "pass_if_only_gate_waived": 1,
+    "policy": "screen",
+    "reason": "duration_elapsed_mismatch",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 6,
+    "pass_if_only_gate_waived": 1,
+    "policy": "screen",
+    "reason": "excessive_artifact_flags",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 7,
+    "overlapping": 201,
+    "pass_if_only_gate_waived": 8,
+    "policy": "screen",
+    "reason": "excessive_internal_gap_ratio",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 3,
+    "pass_if_only_gate_waived": 1,
+    "policy": "screen",
+    "reason": "fewer_than_two_contained_intervals",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 1,
+    "policy": "screen",
+    "reason": "implausible_or_missing_ibi",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 42,
+    "pass_if_only_gate_waived": 1,
+    "policy": "screen",
+    "reason": "insufficient_edge_support",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 12,
+    "pass_if_only_gate_waived": 1,
+    "policy": "screen",
+    "reason": "insufficient_interval_time_agreement",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 137,
+    "pass_if_only_gate_waived": 1,
+    "policy": "screen",
+    "reason": "insufficient_supported_duration",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 5,
+    "overlapping": 203,
+    "pass_if_only_gate_waived": 6,
+    "policy": "screen",
+    "reason": "insufficient_unbroken_sequence",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 720,
+    "overlapping": 720,
+    "pass_if_only_gate_waived": 1,
+    "policy": "screen",
+    "reason": "no_recorded_ibi",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 1,
+    "policy": "screen",
+    "reason": "repeated_timestamp",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 5,
+    "pass_if_only_gate_waived": 5,
+    "policy": "screen",
+    "reason": "clock_flag",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 9,
+    "pass_if_only_gate_waived": 5,
+    "policy": "screen",
+    "reason": "conflicting_timestamp_values",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 78,
+    "pass_if_only_gate_waived": 5,
+    "policy": "screen",
+    "reason": "duration_elapsed_mismatch",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 26,
+    "pass_if_only_gate_waived": 5,
+    "policy": "screen",
+    "reason": "excessive_artifact_flags",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 21,
+    "overlapping": 1396,
+    "pass_if_only_gate_waived": 26,
+    "policy": "screen",
+    "reason": "excessive_internal_gap_ratio",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 10,
+    "pass_if_only_gate_waived": 5,
+    "policy": "screen",
+    "reason": "fewer_than_two_contained_intervals",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 5,
+    "policy": "screen",
+    "reason": "implausible_or_missing_ibi",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 229,
+    "pass_if_only_gate_waived": 5,
+    "policy": "screen",
+    "reason": "insufficient_edge_support",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 91,
+    "pass_if_only_gate_waived": 5,
+    "policy": "screen",
+    "reason": "insufficient_interval_time_agreement",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 966,
+    "pass_if_only_gate_waived": 5,
+    "policy": "screen",
+    "reason": "insufficient_supported_duration",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 24,
+    "overlapping": 1477,
+    "pass_if_only_gate_waived": 29,
+    "policy": "screen",
+    "reason": "insufficient_unbroken_sequence",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 2196,
+    "overlapping": 2196,
+    "pass_if_only_gate_waived": 5,
+    "policy": "screen",
+    "reason": "no_recorded_ibi",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 9,
+    "pass_if_only_gate_waived": 5,
+    "policy": "screen",
+    "reason": "repeated_timestamp",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 1,
+    "pass_if_only_gate_waived": 3,
+    "policy": "screen",
+    "reason": "clock_flag",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 3,
+    "policy": "screen",
+    "reason": "conflicting_timestamp_values",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 4,
+    "pass_if_only_gate_waived": 3,
+    "policy": "screen",
+    "reason": "duration_elapsed_mismatch",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 4,
+    "pass_if_only_gate_waived": 3,
+    "policy": "screen",
+    "reason": "excessive_artifact_flags",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 7,
+    "overlapping": 355,
+    "pass_if_only_gate_waived": 10,
+    "policy": "screen",
+    "reason": "excessive_internal_gap_ratio",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 1,
+    "pass_if_only_gate_waived": 3,
+    "policy": "screen",
+    "reason": "fewer_than_two_contained_intervals",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 3,
+    "policy": "screen",
+    "reason": "implausible_or_missing_ibi",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 33,
+    "pass_if_only_gate_waived": 3,
+    "policy": "screen",
+    "reason": "insufficient_edge_support",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 15,
+    "pass_if_only_gate_waived": 3,
+    "policy": "screen",
+    "reason": "insufficient_interval_time_agreement",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 208,
+    "pass_if_only_gate_waived": 3,
+    "policy": "screen",
+    "reason": "insufficient_supported_duration",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 8,
+    "overlapping": 366,
+    "pass_if_only_gate_waived": 11,
+    "policy": "screen",
+    "reason": "insufficient_unbroken_sequence",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 558,
+    "overlapping": 558,
+    "pass_if_only_gate_waived": 3,
+    "policy": "screen",
+    "reason": "no_recorded_ibi",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 3,
+    "policy": "screen",
+    "reason": "repeated_timestamp",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 4,
+    "pass_if_only_gate_waived": 1,
+    "policy": "screen",
+    "reason": "clock_flag",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 9,
+    "pass_if_only_gate_waived": 1,
+    "policy": "screen",
+    "reason": "conflicting_timestamp_values",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 62,
+    "pass_if_only_gate_waived": 1,
+    "policy": "screen",
+    "reason": "duration_elapsed_mismatch",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 15,
+    "pass_if_only_gate_waived": 1,
+    "policy": "screen",
+    "reason": "excessive_artifact_flags",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 10,
+    "overlapping": 842,
+    "pass_if_only_gate_waived": 11,
+    "policy": "screen",
+    "reason": "excessive_internal_gap_ratio",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 6,
+    "pass_if_only_gate_waived": 1,
+    "policy": "screen",
+    "reason": "fewer_than_two_contained_intervals",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 1,
+    "policy": "screen",
+    "reason": "implausible_or_missing_ibi",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 154,
+    "pass_if_only_gate_waived": 1,
+    "policy": "screen",
+    "reason": "insufficient_edge_support",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 62,
+    "pass_if_only_gate_waived": 1,
+    "policy": "screen",
+    "reason": "insufficient_interval_time_agreement",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 613,
+    "pass_if_only_gate_waived": 1,
+    "policy": "screen",
+    "reason": "insufficient_supported_duration",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 10,
+    "overlapping": 906,
+    "pass_if_only_gate_waived": 11,
+    "policy": "screen",
+    "reason": "insufficient_unbroken_sequence",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 918,
+    "overlapping": 918,
+    "pass_if_only_gate_waived": 1,
+    "policy": "screen",
+    "reason": "no_recorded_ibi",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 9,
+    "pass_if_only_gate_waived": 1,
+    "policy": "screen",
+    "reason": "repeated_timestamp",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 1,
+    "policy": "screen",
+    "reason": "clock_flag",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 1,
+    "policy": "screen",
+    "reason": "conflicting_timestamp_values",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 12,
+    "pass_if_only_gate_waived": 1,
+    "policy": "screen",
+    "reason": "duration_elapsed_mismatch",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 7,
+    "pass_if_only_gate_waived": 1,
+    "policy": "screen",
+    "reason": "excessive_artifact_flags",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 4,
+    "overlapping": 199,
+    "pass_if_only_gate_waived": 5,
+    "policy": "screen",
+    "reason": "excessive_internal_gap_ratio",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 3,
+    "pass_if_only_gate_waived": 1,
+    "policy": "screen",
+    "reason": "fewer_than_two_contained_intervals",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 1,
+    "policy": "screen",
+    "reason": "implausible_or_missing_ibi",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 42,
+    "pass_if_only_gate_waived": 1,
+    "policy": "screen",
+    "reason": "insufficient_edge_support",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 14,
+    "pass_if_only_gate_waived": 1,
+    "policy": "screen",
+    "reason": "insufficient_interval_time_agreement",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 145,
+    "pass_if_only_gate_waived": 1,
+    "policy": "screen",
+    "reason": "insufficient_supported_duration",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 6,
+    "overlapping": 205,
+    "pass_if_only_gate_waived": 7,
+    "policy": "screen",
+    "reason": "insufficient_unbroken_sequence",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 720,
+    "overlapping": 720,
+    "pass_if_only_gate_waived": 1,
+    "policy": "screen",
+    "reason": "no_recorded_ibi",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 1,
+    "policy": "screen",
+    "reason": "repeated_timestamp",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 5,
+    "pass_if_only_gate_waived": 20,
+    "policy": "timing_sensitivity",
+    "reason": "clock_flag",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 9,
+    "pass_if_only_gate_waived": 20,
+    "policy": "timing_sensitivity",
+    "reason": "conflicting_timestamp_values",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 74,
+    "pass_if_only_gate_waived": 20,
+    "policy": "timing_sensitivity",
+    "reason": "duration_elapsed_mismatch",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 23,
+    "pass_if_only_gate_waived": 20,
+    "policy": "timing_sensitivity",
+    "reason": "excessive_artifact_flags",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 161,
+    "overlapping": 1409,
+    "pass_if_only_gate_waived": 181,
+    "policy": "timing_sensitivity",
+    "reason": "excessive_internal_gap_ratio",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 7,
+    "pass_if_only_gate_waived": 20,
+    "policy": "timing_sensitivity",
+    "reason": "fewer_than_two_contained_intervals",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 20,
+    "policy": "timing_sensitivity",
+    "reason": "implausible_or_missing_ibi",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 227,
+    "pass_if_only_gate_waived": 20,
+    "policy": "timing_sensitivity",
+    "reason": "insufficient_edge_support",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 40,
+    "pass_if_only_gate_waived": 20,
+    "policy": "timing_sensitivity",
+    "reason": "insufficient_interval_time_agreement",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 926,
+    "pass_if_only_gate_waived": 20,
+    "policy": "timing_sensitivity",
+    "reason": "insufficient_supported_duration",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 6,
+    "overlapping": 1265,
+    "pass_if_only_gate_waived": 26,
+    "policy": "timing_sensitivity",
+    "reason": "insufficient_unbroken_sequence",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 2196,
+    "overlapping": 2196,
+    "pass_if_only_gate_waived": 20,
+    "policy": "timing_sensitivity",
+    "reason": "no_recorded_ibi",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 9,
+    "pass_if_only_gate_waived": 20,
+    "policy": "timing_sensitivity",
+    "reason": "repeated_timestamp",
+    "scenario": "interval_end",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 1,
+    "pass_if_only_gate_waived": 8,
+    "policy": "timing_sensitivity",
+    "reason": "clock_flag",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 8,
+    "policy": "timing_sensitivity",
+    "reason": "conflicting_timestamp_values",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 4,
+    "pass_if_only_gate_waived": 8,
+    "policy": "timing_sensitivity",
+    "reason": "duration_elapsed_mismatch",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 4,
+    "pass_if_only_gate_waived": 8,
+    "policy": "timing_sensitivity",
+    "reason": "excessive_artifact_flags",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 37,
+    "overlapping": 357,
+    "pass_if_only_gate_waived": 45,
+    "policy": "timing_sensitivity",
+    "reason": "excessive_internal_gap_ratio",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 1,
+    "pass_if_only_gate_waived": 8,
+    "policy": "timing_sensitivity",
+    "reason": "fewer_than_two_contained_intervals",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 8,
+    "policy": "timing_sensitivity",
+    "reason": "implausible_or_missing_ibi",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 34,
+    "pass_if_only_gate_waived": 8,
+    "policy": "timing_sensitivity",
+    "reason": "insufficient_edge_support",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 4,
+    "pass_if_only_gate_waived": 8,
+    "policy": "timing_sensitivity",
+    "reason": "insufficient_interval_time_agreement",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 198,
+    "pass_if_only_gate_waived": 8,
+    "policy": "timing_sensitivity",
+    "reason": "insufficient_supported_duration",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 2,
+    "overlapping": 320,
+    "pass_if_only_gate_waived": 10,
+    "policy": "timing_sensitivity",
+    "reason": "insufficient_unbroken_sequence",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 558,
+    "overlapping": 558,
+    "pass_if_only_gate_waived": 8,
+    "policy": "timing_sensitivity",
+    "reason": "no_recorded_ibi",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 8,
+    "policy": "timing_sensitivity",
+    "reason": "repeated_timestamp",
+    "scenario": "interval_end",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 4,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "clock_flag",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 9,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "conflicting_timestamp_values",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 58,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "duration_elapsed_mismatch",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 13,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "excessive_artifact_flags",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 100,
+    "overlapping": 851,
+    "pass_if_only_gate_waived": 106,
+    "policy": "timing_sensitivity",
+    "reason": "excessive_internal_gap_ratio",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 3,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "fewer_than_two_contained_intervals",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "implausible_or_missing_ibi",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 151,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "insufficient_edge_support",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 31,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "insufficient_interval_time_agreement",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 591,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "insufficient_supported_duration",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 4,
+    "overlapping": 774,
+    "pass_if_only_gate_waived": 10,
+    "policy": "timing_sensitivity",
+    "reason": "insufficient_unbroken_sequence",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 918,
+    "overlapping": 918,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "no_recorded_ibi",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 9,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "repeated_timestamp",
+    "scenario": "interval_end",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "clock_flag",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "conflicting_timestamp_values",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 12,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "duration_elapsed_mismatch",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 6,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "excessive_artifact_flags",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 24,
+    "overlapping": 201,
+    "pass_if_only_gate_waived": 30,
+    "policy": "timing_sensitivity",
+    "reason": "excessive_internal_gap_ratio",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 3,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "fewer_than_two_contained_intervals",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "implausible_or_missing_ibi",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 42,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "insufficient_edge_support",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 5,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "insufficient_interval_time_agreement",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 137,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "insufficient_supported_duration",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 171,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "insufficient_unbroken_sequence",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 720,
+    "overlapping": 720,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "no_recorded_ibi",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "repeated_timestamp",
+    "scenario": "interval_end",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 5,
+    "pass_if_only_gate_waived": 22,
+    "policy": "timing_sensitivity",
+    "reason": "clock_flag",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 9,
+    "pass_if_only_gate_waived": 22,
+    "policy": "timing_sensitivity",
+    "reason": "conflicting_timestamp_values",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 78,
+    "pass_if_only_gate_waived": 22,
+    "policy": "timing_sensitivity",
+    "reason": "duration_elapsed_mismatch",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 26,
+    "pass_if_only_gate_waived": 22,
+    "policy": "timing_sensitivity",
+    "reason": "excessive_artifact_flags",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 145,
+    "overlapping": 1396,
+    "pass_if_only_gate_waived": 167,
+    "policy": "timing_sensitivity",
+    "reason": "excessive_internal_gap_ratio",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 10,
+    "pass_if_only_gate_waived": 22,
+    "policy": "timing_sensitivity",
+    "reason": "fewer_than_two_contained_intervals",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 22,
+    "policy": "timing_sensitivity",
+    "reason": "implausible_or_missing_ibi",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 229,
+    "pass_if_only_gate_waived": 22,
+    "policy": "timing_sensitivity",
+    "reason": "insufficient_edge_support",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 41,
+    "pass_if_only_gate_waived": 22,
+    "policy": "timing_sensitivity",
+    "reason": "insufficient_interval_time_agreement",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 966,
+    "pass_if_only_gate_waived": 22,
+    "policy": "timing_sensitivity",
+    "reason": "insufficient_supported_duration",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 8,
+    "overlapping": 1267,
+    "pass_if_only_gate_waived": 30,
+    "policy": "timing_sensitivity",
+    "reason": "insufficient_unbroken_sequence",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 2196,
+    "overlapping": 2196,
+    "pass_if_only_gate_waived": 22,
+    "policy": "timing_sensitivity",
+    "reason": "no_recorded_ibi",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 9,
+    "pass_if_only_gate_waived": 22,
+    "policy": "timing_sensitivity",
+    "reason": "repeated_timestamp",
+    "scenario": "interval_start",
+    "survey_category": "All"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 1,
+    "pass_if_only_gate_waived": 9,
+    "policy": "timing_sensitivity",
+    "reason": "clock_flag",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 9,
+    "policy": "timing_sensitivity",
+    "reason": "conflicting_timestamp_values",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 4,
+    "pass_if_only_gate_waived": 9,
+    "policy": "timing_sensitivity",
+    "reason": "duration_elapsed_mismatch",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 4,
+    "pass_if_only_gate_waived": 9,
+    "policy": "timing_sensitivity",
+    "reason": "excessive_artifact_flags",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 35,
+    "overlapping": 355,
+    "pass_if_only_gate_waived": 44,
+    "policy": "timing_sensitivity",
+    "reason": "excessive_internal_gap_ratio",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 1,
+    "pass_if_only_gate_waived": 9,
+    "policy": "timing_sensitivity",
+    "reason": "fewer_than_two_contained_intervals",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 9,
+    "policy": "timing_sensitivity",
+    "reason": "implausible_or_missing_ibi",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 33,
+    "pass_if_only_gate_waived": 9,
+    "policy": "timing_sensitivity",
+    "reason": "insufficient_edge_support",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 4,
+    "pass_if_only_gate_waived": 9,
+    "policy": "timing_sensitivity",
+    "reason": "insufficient_interval_time_agreement",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 208,
+    "pass_if_only_gate_waived": 9,
+    "policy": "timing_sensitivity",
+    "reason": "insufficient_supported_duration",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 2,
+    "overlapping": 320,
+    "pass_if_only_gate_waived": 11,
+    "policy": "timing_sensitivity",
+    "reason": "insufficient_unbroken_sequence",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 558,
+    "overlapping": 558,
+    "pass_if_only_gate_waived": 9,
+    "policy": "timing_sensitivity",
+    "reason": "no_recorded_ibi",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 9,
+    "policy": "timing_sensitivity",
+    "reason": "repeated_timestamp",
+    "scenario": "interval_start",
+    "survey_category": "Endday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 4,
+    "pass_if_only_gate_waived": 7,
+    "policy": "timing_sensitivity",
+    "reason": "clock_flag",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 9,
+    "pass_if_only_gate_waived": 7,
+    "policy": "timing_sensitivity",
+    "reason": "conflicting_timestamp_values",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 62,
+    "pass_if_only_gate_waived": 7,
+    "policy": "timing_sensitivity",
+    "reason": "duration_elapsed_mismatch",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 15,
+    "pass_if_only_gate_waived": 7,
+    "policy": "timing_sensitivity",
+    "reason": "excessive_artifact_flags",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 90,
+    "overlapping": 842,
+    "pass_if_only_gate_waived": 97,
+    "policy": "timing_sensitivity",
+    "reason": "excessive_internal_gap_ratio",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 6,
+    "pass_if_only_gate_waived": 7,
+    "policy": "timing_sensitivity",
+    "reason": "fewer_than_two_contained_intervals",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 7,
+    "policy": "timing_sensitivity",
+    "reason": "implausible_or_missing_ibi",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 154,
+    "pass_if_only_gate_waived": 7,
+    "policy": "timing_sensitivity",
+    "reason": "insufficient_edge_support",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 32,
+    "pass_if_only_gate_waived": 7,
+    "policy": "timing_sensitivity",
+    "reason": "insufficient_interval_time_agreement",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 613,
+    "pass_if_only_gate_waived": 7,
+    "policy": "timing_sensitivity",
+    "reason": "insufficient_supported_duration",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 5,
+    "overlapping": 774,
+    "pass_if_only_gate_waived": 12,
+    "policy": "timing_sensitivity",
+    "reason": "insufficient_unbroken_sequence",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 918,
+    "overlapping": 918,
+    "pass_if_only_gate_waived": 7,
+    "policy": "timing_sensitivity",
+    "reason": "no_recorded_ibi",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 9,
+    "pass_if_only_gate_waived": 7,
+    "policy": "timing_sensitivity",
+    "reason": "repeated_timestamp",
+    "scenario": "interval_start",
+    "survey_category": "Midday"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "clock_flag",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "conflicting_timestamp_values",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 12,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "duration_elapsed_mismatch",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 7,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "excessive_artifact_flags",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 20,
+    "overlapping": 199,
+    "pass_if_only_gate_waived": 26,
+    "policy": "timing_sensitivity",
+    "reason": "excessive_internal_gap_ratio",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 3,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "fewer_than_two_contained_intervals",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "implausible_or_missing_ibi",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 42,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "insufficient_edge_support",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 5,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "insufficient_interval_time_agreement",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 145,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "insufficient_supported_duration",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 1,
+    "overlapping": 173,
+    "pass_if_only_gate_waived": 7,
+    "policy": "timing_sensitivity",
+    "reason": "insufficient_unbroken_sequence",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 720,
+    "overlapping": 720,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "no_recorded_ibi",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  },
+  {
+    "only_this_check": 0,
+    "overlapping": 0,
+    "pass_if_only_gate_waived": 6,
+    "policy": "timing_sensitivity",
+    "reason": "repeated_timestamp",
+    "scenario": "interval_start",
+    "survey_category": "Morning"
+  }
+]

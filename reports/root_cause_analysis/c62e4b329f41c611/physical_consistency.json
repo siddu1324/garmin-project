@@ -1,0 +1,8 @@
+{
+  "equal_participant_weight": true,
+  "lower": -2.7422756032092757,
+  "mean_within_person_active_minus_inactive_bpm": 17.8862994657607,
+  "meaning": "Conditional counter-defined activity; observed supports only, no PSS selection; not ground-truth physical activity",
+  "participants_with_both": 4,
+  "upper": 41.69537877629405
+}

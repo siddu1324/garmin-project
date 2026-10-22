@@ -1,0 +1,137 @@
+[
+  {
+    "heldout_fold": 0,
+    "model": "context",
+    "saved_converged": true,
+    "saved_nonzero_coefficients": 0,
+    "saved_prediction_sd": 0.0,
+    "saved_training_objective": 1.058685446009,
+    "saved_unique_predictions_8dp": 1
+  },
+  {
+    "heldout_fold": 0,
+    "model": "hr",
+    "saved_converged": true,
+    "saved_nonzero_coefficients": 0,
+    "saved_prediction_sd": 0.0,
+    "saved_training_objective": 1.058685446009,
+    "saved_unique_predictions_8dp": 1
+  },
+  {
+    "heldout_fold": 0,
+    "model": "context_hr",
+    "saved_converged": true,
+    "saved_nonzero_coefficients": 0,
+    "saved_prediction_sd": 8.881784197e-16,
+    "saved_training_objective": 1.058685446009,
+    "saved_unique_predictions_8dp": 1
+  },
+  {
+    "heldout_fold": 1,
+    "model": "context",
+    "saved_converged": true,
+    "saved_nonzero_coefficients": 0,
+    "saved_prediction_sd": 0.0,
+    "saved_training_objective": 1.005509641873,
+    "saved_unique_predictions_8dp": 1
+  },
+  {
+    "heldout_fold": 1,
+    "model": "hr",
+    "saved_converged": true,
+    "saved_nonzero_coefficients": 0,
+    "saved_prediction_sd": 0.0,
+    "saved_training_objective": 1.005509641873,
+    "saved_unique_predictions_8dp": 1
+  },
+  {
+    "heldout_fold": 1,
+    "model": "context_hr",
+    "saved_converged": true,
+    "saved_nonzero_coefficients": 0,
+    "saved_prediction_sd": 0.0,
+    "saved_training_objective": 1.005509641873,
+    "saved_unique_predictions_8dp": 1
+  },
+  {
+    "heldout_fold": 2,
+    "model": "context",
+    "saved_converged": true,
+    "saved_nonzero_coefficients": 0,
+    "saved_prediction_sd": 0.0,
+    "saved_training_objective": 1.052,
+    "saved_unique_predictions_8dp": 1
+  },
+  {
+    "heldout_fold": 2,
+    "model": "hr",
+    "saved_converged": true,
+    "saved_nonzero_coefficients": 0,
+    "saved_prediction_sd": 0.0,
+    "saved_training_objective": 1.052,
+    "saved_unique_predictions_8dp": 1
+  },
+  {
+    "heldout_fold": 2,
+    "model": "context_hr",
+    "saved_converged": true,
+    "saved_nonzero_coefficients": 0,
+    "saved_prediction_sd": 8.881784197e-16,
+    "saved_training_objective": 1.052,
+    "saved_unique_predictions_8dp": 1
+  },
+  {
+    "heldout_fold": 3,
+    "model": "context",
+    "saved_converged": true,
+    "saved_nonzero_coefficients": 0,
+    "saved_prediction_sd": 0.0,
+    "saved_training_objective": 0.985765124555,
+    "saved_unique_predictions_8dp": 1
+  },
+  {
+    "heldout_fold": 3,
+    "model": "hr",
+    "saved_converged": true,
+    "saved_nonzero_coefficients": 0,
+    "saved_prediction_sd": 0.0,
+    "saved_training_objective": 0.985765124555,
+    "saved_unique_predictions_8dp": 1
+  },
+  {
+    "heldout_fold": 3,
+    "model": "context_hr",
+    "saved_converged": true,
+    "saved_nonzero_coefficients": 0,
+    "saved_prediction_sd": 0.0,
+    "saved_training_objective": 0.985765124555,
+    "saved_unique_predictions_8dp": 1
+  },
+  {
+    "heldout_fold": 4,
+    "model": "context",
+    "saved_converged": true,
+    "saved_nonzero_coefficients": 0,
+    "saved_prediction_sd": 0.0,
+    "saved_training_objective": 1.029736618522,
+    "saved_unique_predictions_8dp": 1
+  },
+  {
+    "heldout_fold": 4,
+    "model": "hr",
+    "saved_converged": true,
+    "saved_nonzero_coefficients": 0,
+    "saved_prediction_sd": 0.0,
+    "saved_training_objective": 1.029736618522,
+    "saved_unique_predictions_8dp": 1
+  },
+  {
+    "heldout_fold": 4,
+    "model": "context_hr",
+    "saved_converged": true,
+    "saved_nonzero_coefficients": 0,
+    "saved_prediction_sd": 0.0,
+    "saved_training_objective": 1.029736618522,
+    "saved_unique_predictions_8dp": 1
+  }
+]

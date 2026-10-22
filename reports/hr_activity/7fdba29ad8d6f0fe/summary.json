@@ -1,0 +1,53 @@
+{
+  "all_development_ema_retained": true,
+  "expanded_hrv": false,
+  "feature_rows": 3706,
+  "final_test_processed": false,
+  "imputation": false,
+  "inputs": {
+    "assignments_sha256": "93e8da449a56c911c2326492ef678bf71d609f88c935f22918fecdb50a283853",
+    "code": {
+      "features.py": "8964fef1924b8cfe02d81f21d05bcf879e49b641a21abeabad487f9220d8b41e",
+      "pipeline.py": "da71c95715333f3a6123b7b76cd60ad694868849e7f616aa7a73032e8a478b90"
+    },
+    "config_sha256": "3a6fc575b5e2eac23f734e8e210816622282c41c223775d17f54f4568f893227",
+    "corrected_eligibility": "private/preprocessing/eligibility/974e98729579967b",
+    "corrected_eligibility_manifest": "fb69c16f70277ad73e6b967530b5dc3387f06bc9ade899e93451f10754f99b06",
+    "environment_sha256": "4ada4399145db7e17a93bb1db2054f0c21189d4f51657f0ef2adef7dc1d15b00",
+    "normalized_manifest": "8d4c5637ae196d49c2e7b0225171fd356e102ba09f32164d8864111fa653ade4",
+    "specification_sha256": "fd13f6a472afad512aa7e200f453c366cc7182f51ae169bffd06a3781c1dabec"
+  },
+  "label": "Provisional summaries of observed HR and supported counter increments; acquisition timing unconfirmed",
+  "lineage_rows": 148240,
+  "model": false,
+  "predictor_count": 88,
+  "pss_targets": false,
+  "quality_rows": 148240,
+  "reading_disposition_rows": 17364780,
+  "sensor_rows": {
+    "calories": 650760,
+    "floorsClimbed": 15175,
+    "hr": 15618282,
+    "intensityMinutes": 17270,
+    "steps": 1063293
+  },
+  "supported_counter_union_seconds": {
+    "floorsClimbed__120m": 213440.74121832848,
+    "floorsClimbed__1440m": 570332.6345777512,
+    "floorsClimbed__15m": 20070.53893470764,
+    "floorsClimbed__30m": 41776.43969583511,
+    "floorsClimbed__360m": 473926.73547172546,
+    "floorsClimbed__5m": 5740.723302602768,
+    "floorsClimbed__60m": 98958.7867615223,
+    "floorsClimbed__720m": 536788.8036804199,
+    "steps__120m": 2534207.235323429,
+    "steps__1440m": 6223520.470992088,
+    "steps__15m": 289102.7758374214,
+    "steps__30m": 601641.7618794441,
+    "steps__360m": 5482640.907211304,
+    "steps__5m": 78492.5848710537,
+    "steps__60m": 1246006.0551843643,
+    "steps__720m": 5967408.876773119
+  },
+  "version": "76f5885b3955d5b0"
+}

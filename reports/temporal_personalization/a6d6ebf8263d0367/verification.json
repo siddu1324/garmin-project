@@ -1,0 +1,17 @@
+{
+  "accounted_responses": 3706,
+  "candidate_evaluations": 620,
+  "failed_jobs": [],
+  "final_test_evaluated": false,
+  "independent_fresh_refits": 6,
+  "independent_ledger_traces": 8,
+  "inner_split_checks": 630,
+  "nonconverged_candidates": 0,
+  "prior_files_preserved": 848,
+  "prior_manifests_preserved": 2661,
+  "raw_metadata_checks": 7870,
+  "real_history_prediction_rows": 0,
+  "source_partition_hashes": 250,
+  "training_replays": 210,
+  "validation_replays": 210
+}

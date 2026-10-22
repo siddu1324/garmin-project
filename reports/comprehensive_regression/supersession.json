@@ -1,0 +1,7 @@
+{
+  "compatibility": "430 completed jobs reused only after input, model-code, and fit-path AST equivalence checks. Unpublished XGBoost jobs rerun.",
+  "current_run": "private/comprehensive_regression/runs/4e769e522b239f43",
+  "preserved_predecessor": "private/comprehensive_regression/runs/b3eedd7230280409",
+  "previous_checkpoints": "All preserved; Notebook14 is a separate regression experiment.",
+  "reason": "Strict JSON cannot encode the XGBoost missing=NaN default; metadata serialization corrected, no model/preprocessing/selection changes."
+}

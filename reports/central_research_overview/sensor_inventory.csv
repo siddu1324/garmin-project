@@ -1,0 +1,9 @@
+modality,physical_rows,logical_rows,duplicate_excess,participants,use
+calories,650790,650760,30,123,Excluded
+floorsClimbed,15176,15175,1,122,438 supported block
+hr,15618530,15618282,248,123,438 supported block
+ibi,34427546,34427074,472,123,Limited pilot only; no HRV predictors
+intensityMinutes,17272,17270,2,119,Excluded
+pulseOx,1471476,1471461,15,123,240 provisional; sensitivity only
+steps,1063305,1063293,12,123,438 supported block
+stress,4287943,4287874,69,123,Excluded

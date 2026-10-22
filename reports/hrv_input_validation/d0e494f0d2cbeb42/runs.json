@@ -1,0 +1,80 @@
+[
+  {
+    "accepted_records": 613697,
+    "allowed_adjacent_pairs": 378647,
+    "boundary_excluded_records": 1282,
+    "native_neurokit_compatible_pairs": 46031,
+    "pilot_candidate_runs": 0,
+    "policy": "conservative",
+    "provisional_jump_records": 4689,
+    "records": 620094,
+    "runs": 235050,
+    "scenario": "interval_end",
+    "windows_with_pilot_candidate": 0
+  },
+  {
+    "accepted_records": 613538,
+    "allowed_adjacent_pairs": 369743,
+    "boundary_excluded_records": 1446,
+    "native_neurokit_compatible_pairs": 45600,
+    "pilot_candidate_runs": 0,
+    "policy": "conservative",
+    "provisional_jump_records": 4684,
+    "records": 620094,
+    "runs": 243795,
+    "scenario": "interval_start",
+    "windows_with_pilot_candidate": 0
+  },
+  {
+    "accepted_records": 613698,
+    "allowed_adjacent_pairs": 562850,
+    "boundary_excluded_records": 1282,
+    "native_neurokit_compatible_pairs": 46031,
+    "pilot_candidate_runs": 1,
+    "policy": "screen",
+    "provisional_jump_records": 4689,
+    "records": 620094,
+    "runs": 50848,
+    "scenario": "interval_end",
+    "windows_with_pilot_candidate": 1
+  },
+  {
+    "accepted_records": 613539,
+    "allowed_adjacent_pairs": 560176,
+    "boundary_excluded_records": 1446,
+    "native_neurokit_compatible_pairs": 46013,
+    "pilot_candidate_runs": 1,
+    "policy": "screen",
+    "provisional_jump_records": 4684,
+    "records": 620094,
+    "runs": 53363,
+    "scenario": "interval_start",
+    "windows_with_pilot_candidate": 1
+  },
+  {
+    "accepted_records": 613698,
+    "allowed_adjacent_pairs": 586503,
+    "boundary_excluded_records": 1282,
+    "native_neurokit_compatible_pairs": 46031,
+    "pilot_candidate_runs": 10,
+    "policy": "timing_sensitivity",
+    "provisional_jump_records": 4689,
+    "records": 620094,
+    "runs": 27195,
+    "scenario": "interval_end",
+    "windows_with_pilot_candidate": 10
+  },
+  {
+    "accepted_records": 613539,
+    "allowed_adjacent_pairs": 586400,
+    "boundary_excluded_records": 1446,
+    "native_neurokit_compatible_pairs": 46013,
+    "pilot_candidate_runs": 10,
+    "policy": "timing_sensitivity",
+    "provisional_jump_records": 4684,
+    "records": 620094,
+    "runs": 27139,
+    "scenario": "interval_start",
+    "windows_with_pilot_candidate": 10
+  }
+]

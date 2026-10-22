@@ -1,0 +1,178 @@
+[
+  {
+    "both_have_hr": 203,
+    "candidate_only_hr": 49,
+    "fixed_only_hr": 0,
+    "lookback_minutes": 5,
+    "median_paired_occupancy_difference_candidate_minus_fixed": 0.0,
+    "neither_hr": 574,
+    "responses": 826,
+    "scenario": "reported_minute_end_sensitivity",
+    "survey_category": "Morning"
+  },
+  {
+    "both_have_hr": 216,
+    "candidate_only_hr": 36,
+    "fixed_only_hr": 0,
+    "lookback_minutes": 15,
+    "median_paired_occupancy_difference_candidate_minus_fixed": 0.0,
+    "neither_hr": 574,
+    "responses": 826,
+    "scenario": "reported_minute_end_sensitivity",
+    "survey_category": "Morning"
+  },
+  {
+    "both_have_hr": 224,
+    "candidate_only_hr": 28,
+    "fixed_only_hr": 0,
+    "lookback_minutes": 30,
+    "median_paired_occupancy_difference_candidate_minus_fixed": 0.0,
+    "neither_hr": 574,
+    "responses": 826,
+    "scenario": "reported_minute_end_sensitivity",
+    "survey_category": "Morning"
+  },
+  {
+    "both_have_hr": 239,
+    "candidate_only_hr": 13,
+    "fixed_only_hr": 1,
+    "lookback_minutes": 60,
+    "median_paired_occupancy_difference_candidate_minus_fixed": 0.0,
+    "neither_hr": 573,
+    "responses": 826,
+    "scenario": "reported_minute_end_sensitivity",
+    "survey_category": "Morning"
+  },
+  {
+    "both_have_hr": 248,
+    "candidate_only_hr": 4,
+    "fixed_only_hr": 1,
+    "lookback_minutes": 120,
+    "median_paired_occupancy_difference_candidate_minus_fixed": 0.0,
+    "neither_hr": 573,
+    "responses": 826,
+    "scenario": "reported_minute_end_sensitivity",
+    "survey_category": "Morning"
+  },
+  {
+    "both_have_hr": 252,
+    "candidate_only_hr": 0,
+    "fixed_only_hr": 4,
+    "lookback_minutes": 360,
+    "median_paired_occupancy_difference_candidate_minus_fixed": 0.0,
+    "neither_hr": 570,
+    "responses": 826,
+    "scenario": "reported_minute_end_sensitivity",
+    "survey_category": "Morning"
+  },
+  {
+    "both_have_hr": 252,
+    "candidate_only_hr": 0,
+    "fixed_only_hr": 303,
+    "lookback_minutes": 720,
+    "median_paired_occupancy_difference_candidate_minus_fixed": 0.0,
+    "neither_hr": 271,
+    "responses": 826,
+    "scenario": "reported_minute_end_sensitivity",
+    "survey_category": "Morning"
+  },
+  {
+    "both_have_hr": 252,
+    "candidate_only_hr": 0,
+    "fixed_only_hr": 488,
+    "lookback_minutes": 1440,
+    "median_paired_occupancy_difference_candidate_minus_fixed": -0.086111111111,
+    "neither_hr": 86,
+    "responses": 826,
+    "scenario": "reported_minute_end_sensitivity",
+    "survey_category": "Morning"
+  },
+  {
+    "both_have_hr": 204,
+    "candidate_only_hr": 49,
+    "fixed_only_hr": 0,
+    "lookback_minutes": 5,
+    "median_paired_occupancy_difference_candidate_minus_fixed": 0.0,
+    "neither_hr": 583,
+    "responses": 836,
+    "scenario": "reported_minute_start",
+    "survey_category": "Morning"
+  },
+  {
+    "both_have_hr": 217,
+    "candidate_only_hr": 36,
+    "fixed_only_hr": 0,
+    "lookback_minutes": 15,
+    "median_paired_occupancy_difference_candidate_minus_fixed": 0.0,
+    "neither_hr": 583,
+    "responses": 836,
+    "scenario": "reported_minute_start",
+    "survey_category": "Morning"
+  },
+  {
+    "both_have_hr": 225,
+    "candidate_only_hr": 28,
+    "fixed_only_hr": 0,
+    "lookback_minutes": 30,
+    "median_paired_occupancy_difference_candidate_minus_fixed": 0.0,
+    "neither_hr": 583,
+    "responses": 836,
+    "scenario": "reported_minute_start",
+    "survey_category": "Morning"
+  },
+  {
+    "both_have_hr": 240,
+    "candidate_only_hr": 13,
+    "fixed_only_hr": 1,
+    "lookback_minutes": 60,
+    "median_paired_occupancy_difference_candidate_minus_fixed": 0.0,
+    "neither_hr": 582,
+    "responses": 836,
+    "scenario": "reported_minute_start",
+    "survey_category": "Morning"
+  },
+  {
+    "both_have_hr": 249,
+    "candidate_only_hr": 4,
+    "fixed_only_hr": 1,
+    "lookback_minutes": 120,
+    "median_paired_occupancy_difference_candidate_minus_fixed": 0.0,
+    "neither_hr": 582,
+    "responses": 836,
+    "scenario": "reported_minute_start",
+    "survey_category": "Morning"
+  },
+  {
+    "both_have_hr": 253,
+    "candidate_only_hr": 0,
+    "fixed_only_hr": 4,
+    "lookback_minutes": 360,
+    "median_paired_occupancy_difference_candidate_minus_fixed": 0.0,
+    "neither_hr": 579,
+    "responses": 836,
+    "scenario": "reported_minute_start",
+    "survey_category": "Morning"
+  },
+  {
+    "both_have_hr": 253,
+    "candidate_only_hr": 0,
+    "fixed_only_hr": 310,
+    "lookback_minutes": 720,
+    "median_paired_occupancy_difference_candidate_minus_fixed": 0.0,
+    "neither_hr": 273,
+    "responses": 836,
+    "scenario": "reported_minute_start",
+    "survey_category": "Morning"
+  },
+  {
+    "both_have_hr": 253,
+    "candidate_only_hr": 0,
+    "fixed_only_hr": 497,
+    "lookback_minutes": 1440,
+    "median_paired_occupancy_difference_candidate_minus_fixed": -0.087847222222,
+    "neither_hr": 86,
+    "responses": 836,
+    "scenario": "reported_minute_start",
+    "survey_category": "Morning"
+  }
+]

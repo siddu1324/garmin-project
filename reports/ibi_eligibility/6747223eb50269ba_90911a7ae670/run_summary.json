@@ -1,0 +1,72 @@
+{
+  "all_development_ema_accounted": true,
+  "datasets": {
+    "eligibility": "private/preprocessing/eligibility/6747223eb50269ba",
+    "normalized": "private/preprocessing/normalized/31e51c934bcdeffa"
+  },
+  "development_participants": 125,
+  "ema_accounting_rows": 177888,
+  "ema_rows": 3706,
+  "final_test_rows_processed": 0,
+  "inputs": {
+    "code_sha256": {
+      "audit.py": "aa8ba3ef4d6384c2dfea1772f6e40fc42f884762c51dbee93b5e42a59a6590de",
+      "eligibility.py": "930677068086b9160f91251f6a80e434eb2f2bb1efee0f7b0000518f2fcc6c28"
+    },
+    "environment_sha256": "1889623178160718b5c269877a282f5a26442c0e058fb7a399ea245434bd5eb4",
+    "normalization_manifest_sha256": "8d4c5637ae196d49c2e7b0225171fd356e102ba09f32164d8864111fa653ade4",
+    "normalization_version": "31e51c934bcdeffa",
+    "policy_document_sha256": "a0f0f9619208300c4b6014c99c985fb53e94974cfc68aa48e78fcd7fdc934758",
+    "policy_sha256": "add24204a76358e656f14f1bee6882e0f8c7f64ff5ccbc28f332a0e4a8b4cd15"
+  },
+  "normal_beat_status": "unverified",
+  "normalization": {
+    "all_ema_folds_preserved": true,
+    "counts": {
+      "conflicting_physical_rows": 6120,
+      "exact_duplicate_excess_rows": 849,
+      "logical_sensor_rows": 57551189,
+      "physical_sensor_rows": 57552038,
+      "sealed_final_test_sources": 31
+    },
+    "development_participants": 125,
+    "development_participants_with_garmin": 123,
+    "ema_rows": 3706,
+    "final_test_rows_written": 0,
+    "mapping_rows": {
+      "content_mbl_cod": 50941979,
+      "content_rsp_id": 6271946,
+      "reference_content_hash": 338113
+    },
+    "raw_roundtrip_verified": true,
+    "sensor_rows": {
+      "calories": 650790,
+      "floorsClimbed": 15176,
+      "hr": 15618530,
+      "ibi": 34427546,
+      "intensityMinutes": 17272,
+      "pulseOx": 1471476,
+      "steps": 1063305,
+      "stress": 4287943
+    },
+    "version": "31e51c934bcdeffa"
+  },
+  "reason_bits": {
+    "1": "no_recorded_ibi",
+    "1024": "insufficient_unbroken_sequence",
+    "128": "excessive_internal_gap_ratio",
+    "16": "conflicting_timestamp_values",
+    "2": "fewer_than_two_contained_intervals",
+    "2048": "excessive_artifact_flags",
+    "256": "insufficient_edge_support",
+    "32": "clock_flag",
+    "4": "implausible_or_missing_ibi",
+    "4096": "duration_elapsed_mismatch",
+    "512": "insufficient_supported_duration",
+    "64": "insufficient_interval_time_agreement",
+    "8": "repeated_timestamp"
+  },
+  "targets_or_hrv_calculated": false,
+  "version": "6747223eb50269ba",
+  "window_rows": 5321816
+}

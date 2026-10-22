@@ -1,0 +1,60 @@
+{
+  "all_ema_accounting_rows": 59296,
+  "calculation_bundle": "private/ibi_pilot/calculation/59b11baba770afb0",
+  "commit_performed": false,
+  "corrected_clocks": 3294634,
+  "corrected_window_rows": 5321816,
+  "deterministic_selection": true,
+  "executed_notebook": "outputs/03_ibi_variability_pilot.78af22e7f0ead75b.executed.ipynb",
+  "executed_notebook_text_privacy_passed": true,
+  "final_test_processed": false,
+  "frozen_folds": 5,
+  "frozen_participant_counts": [
+    125,
+    32
+  ],
+  "git_diff_check": true,
+  "ignored_artifacts_checked": 138,
+  "input_integrity": true,
+  "limitations": [
+    "Normal-beat and acquisition/receipt semantics unverified.",
+    "Corrected Screen census supersedes old 12/24-hour counts; full prior three-policy report reissue deferred.",
+    "NeuroKit2 blocked on all 20 selected run-hypothesis inputs.",
+    "Chronological 20-row convenience sample shares eight participants across hypotheses."
+  ],
+  "lock_check_offline": true,
+  "notebook_code_cells_executed": 5,
+  "notebook_outputs_error_free": true,
+  "original_synthetic_adapters_unchanged": true,
+  "package_blocked": 20,
+  "package_compared": 20,
+  "preserved_prior_files": 64,
+  "prior_notebook_lint_limitation": "Repository-wide Ruff finds one pre-existing F401 unused Markdown import in preserved Notebook 02; relevant source/tests/Notebook 03 pass.",
+  "public_files_scanned": 82,
+  "public_report": "reports/ibi_pilot/78af22e7f0ead75b/report.md",
+  "push_performed": false,
+  "rerun": {
+    "artifacts_unchanged": true,
+    "no_additional_feature_calculation": true,
+    "same_calculation_version": true,
+    "same_selection_version": true
+  },
+  "row_counts": {
+    "private/ibi_pilot/calculation/59b11baba770afb0/package_comparisons.parquet": 40,
+    "private/ibi_pilot/calculation/59b11baba770afb0/run_level.parquet": 20,
+    "private/ibi_pilot/calculation/59b11baba770afb0/selected_window_members.parquet": 8482,
+    "private/ibi_pilot/selection/52eb55d251e1d5e1/candidate_views.parquet": 3772,
+    "private/ibi_pilot/selection/52eb55d251e1d5e1/ema_availability.parquet": 59296,
+    "private/ibi_pilot/selection/52eb55d251e1d5e1/selected_exact_views.parquet": 33,
+    "private/ibi_pilot/selection/52eb55d251e1d5e1/selected_runs.parquet": 20
+  },
+  "ruff_passed": true,
+  "ruff_scope": "src tests notebooks/03_ibi_variability_pilot.ipynb",
+  "selection_bundle": "private/ibi_pilot/selection/52eb55d251e1d5e1",
+  "selection_precedes_features": true,
+  "source_members_exactly_preserved": true,
+  "source_notebook_output_free": true,
+  "source_notebook_sha256": "3b6bbabc1e03f8f4aadb758979cee996fd018c60a84758be012e358165e40676",
+  "staged_changes": false,
+  "tests_passed": 72
+}

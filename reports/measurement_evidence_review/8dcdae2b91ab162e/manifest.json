@@ -1,0 +1,28 @@
+{
+  "artifact_sha256": {
+    "coverage_comparison.md": "0c5e0018f135de33f5984eaf4acb2d9c811ad32e6118f933a993060e26dabdbd",
+    "evidence_status.json": "f317e2f4e3880e410da893e09cff722140ff2dc808ce94e567122cb36ffbbaf0",
+    "existing_coverage_by_survey.json": "adfb76b9b1295bfa4fdb9d53358e8da9a426bb186a8f4863826a37a2feaa49f2",
+    "existing_pilot_feasibility.json": "c4b1d3f520bff1ca5d2fb7e1378647bda9823e413f02801ac1a2f1acd3ba0589",
+    "feature_dictionary.md": "a243b45cc887352d44e7ab8b6fefe66aac8bd6b8e35a7b201fc118c8ac3919a9",
+    "proposed_matched_cohort_experiment.md": "c4e26f4f60f8b72f3913dc3f4620d8db3acb22eda99dbf1d1997d45f7a14c28c",
+    "review.md": "5fd18a6c1c2f188155fcd0c5fd8c1ae5f06736d49587226257c73dd280f8f1d3"
+  },
+  "complete": true,
+  "inputs": {
+    "new_evidence_sha256": {},
+    "scope": "Documentation only; measurement-source review pending",
+    "source_sha256": {
+      "config/ibi_eligibility.json": "add24204a76358e656f14f1bee6882e0f8c7f64ff5ccbc28f332a0e4a8b4cd15",
+      "reports/hrv_input_specification.md": "3435b64d4c4134785e05a9be9ad893030e3c2b11f10852aac9f8052fdd5adcde",
+      "reports/ibi_eligibility/974e98729579967b_8ac2c64795c6/coverage.json": "adfb76b9b1295bfa4fdb9d53358e8da9a426bb186a8f4863826a37a2feaa49f2",
+      "reports/ibi_pilot/78af22e7f0ead75b/feasibility.json": "c4b1d3f520bff1ca5d2fb7e1378647bda9823e413f02801ac1a2f1acd3ba0589",
+      "reports/measurement_source/1c44cb036f4ba779/report.md": "9fadbb25d8e9e0385556139199ea5154018a89481e327d2d39d9aeea00aab987",
+      "reports/window_supersession.json": "581db6247b08404cf5b6060c9a3c59d61a6c5851e5c68d5707eddf9d14905447",
+      "src/garmin_ibi_pilot/adapters.py": "f20fa097e8e00fcf835cb681018b6a097aceea03632d2fc57c32c36a46decdef"
+    }
+  },
+  "pipeline_changed": false,
+  "status": "awaiting_evidence_location",
+  "version": "8dcdae2b91ab162e"
+}

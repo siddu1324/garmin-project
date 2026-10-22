@@ -1,0 +1,1658 @@
+[
+  {
+    "lookback_minutes": 5,
+    "measure": "supported_seconds",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 0.0,
+    "responses": 3706,
+    "sensor": "floors"
+  },
+  {
+    "lookback_minutes": 5,
+    "measure": "supported_pairs",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 0.0,
+    "responses": 3706,
+    "sensor": "floors"
+  },
+  {
+    "lookback_minutes": 15,
+    "measure": "supported_seconds",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 0.0,
+    "responses": 3706,
+    "sensor": "floors"
+  },
+  {
+    "lookback_minutes": 15,
+    "measure": "supported_pairs",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 0.0,
+    "responses": 3706,
+    "sensor": "floors"
+  },
+  {
+    "lookback_minutes": 30,
+    "measure": "supported_seconds",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 0.0,
+    "responses": 3706,
+    "sensor": "floors"
+  },
+  {
+    "lookback_minutes": 30,
+    "measure": "supported_pairs",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 0.0,
+    "responses": 3706,
+    "sensor": "floors"
+  },
+  {
+    "lookback_minutes": 60,
+    "measure": "supported_seconds",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 0.0,
+    "responses": 3706,
+    "sensor": "floors"
+  },
+  {
+    "lookback_minutes": 60,
+    "measure": "supported_pairs",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 0.0,
+    "responses": 3706,
+    "sensor": "floors"
+  },
+  {
+    "lookback_minutes": 120,
+    "measure": "supported_seconds",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 142.28810811042786,
+    "responses": 3706,
+    "sensor": "floors"
+  },
+  {
+    "lookback_minutes": 120,
+    "measure": "supported_pairs",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 1.0,
+    "responses": 3706,
+    "sensor": "floors"
+  },
+  {
+    "lookback_minutes": 360,
+    "measure": "supported_seconds",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 488.5969820022583,
+    "responses": 3706,
+    "sensor": "floors"
+  },
+  {
+    "lookback_minutes": 360,
+    "measure": "supported_pairs",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 5.0,
+    "responses": 3706,
+    "sensor": "floors"
+  },
+  {
+    "lookback_minutes": 720,
+    "measure": "supported_seconds",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 804.1820492744446,
+    "responses": 3706,
+    "sensor": "floors"
+  },
+  {
+    "lookback_minutes": 720,
+    "measure": "supported_pairs",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 8.0,
+    "responses": 3706,
+    "sensor": "floors"
+  },
+  {
+    "lookback_minutes": 1440,
+    "measure": "supported_seconds",
+    "median": 170.41860353946686,
+    "p10": 0.0,
+    "p90": 1428.5835546255112,
+    "responses": 3706,
+    "sensor": "floors"
+  },
+  {
+    "lookback_minutes": 1440,
+    "measure": "supported_pairs",
+    "median": 2.0,
+    "p10": 0.0,
+    "p90": 14.0,
+    "responses": 3706,
+    "sensor": "floors"
+  },
+  {
+    "lookback_minutes": 5,
+    "measure": "accepted_readings",
+    "median": 12921.5,
+    "p10": 243.5,
+    "p90": 31928.0,
+    "responses": 3706,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 5,
+    "measure": "occupied_fraction",
+    "median": 0.22881944444444444,
+    "p10": 0.00625,
+    "p90": 0.5347222222222222,
+    "responses": 3706,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 5,
+    "measure": "span_seconds",
+    "median": 72297.77233219147,
+    "p10": 19639.682147979736,
+    "p90": 86398.33100008965,
+    "responses": 3461,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 5,
+    "measure": "latest_age_seconds",
+    "median": 6021.58340215683,
+    "p10": 300.4027318954468,
+    "p90": 43639.53091287613,
+    "responses": 3461,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 5,
+    "measure": "maximum_gap_seconds",
+    "median": 42794.25425338745,
+    "p10": 32927.90341591835,
+    "p90": 73055.43879699707,
+    "responses": 3706,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 15,
+    "measure": "accepted_readings",
+    "median": 12875.0,
+    "p10": 236.5,
+    "p90": 31932.5,
+    "responses": 3706,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 15,
+    "measure": "occupied_fraction",
+    "median": 0.22847222222222222,
+    "p10": 0.005902777777777778,
+    "p90": 0.5347222222222222,
+    "responses": 3706,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 15,
+    "measure": "span_seconds",
+    "median": 72483.05778312683,
+    "p10": 19770.812094688416,
+    "p90": 86398.15199995041,
+    "responses": 3461,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 15,
+    "measure": "latest_age_seconds",
+    "median": 7391.90499997139,
+    "p10": 900.4051351547241,
+    "p90": 44131.75682401657,
+    "responses": 3461,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 15,
+    "measure": "maximum_gap_seconds",
+    "median": 42733.231026887894,
+    "p10": 32855.67973899841,
+    "p90": 73461.0785819292,
+    "responses": 3706,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 30,
+    "measure": "accepted_readings",
+    "median": 12885.5,
+    "p10": 235.0,
+    "p90": 31910.5,
+    "responses": 3706,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 30,
+    "measure": "occupied_fraction",
+    "median": 0.2263888888888889,
+    "p10": 0.005902777777777778,
+    "p90": 0.5350694444444444,
+    "responses": 3706,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 30,
+    "measure": "span_seconds",
+    "median": 72730.85957860947,
+    "p10": 20233.317057204255,
+    "p90": 86398.26279833316,
+    "responses": 3458,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 30,
+    "measure": "latest_age_seconds",
+    "median": 8649.775372624397,
+    "p10": 1800.4164343595505,
+    "p90": 44361.1523365736,
+    "responses": 3458,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 30,
+    "measure": "maximum_gap_seconds",
+    "median": 42682.09152460098,
+    "p10": 32731.137891054153,
+    "p90": 73876.87894201279,
+    "responses": 3706,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 60,
+    "measure": "accepted_readings",
+    "median": 12921.5,
+    "p10": 231.5,
+    "p90": 31800.5,
+    "responses": 3706,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 60,
+    "measure": "occupied_fraction",
+    "median": 0.2267361111111111,
+    "p10": 0.005555555555555556,
+    "p90": 0.5350694444444444,
+    "responses": 3706,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 60,
+    "measure": "span_seconds",
+    "median": 73139.21499991417,
+    "p10": 20767.807111120223,
+    "p90": 86398.31938552856,
+    "responses": 3449,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 60,
+    "measure": "latest_age_seconds",
+    "median": 9949.886294841766,
+    "p10": 3600.3967847824097,
+    "p90": 45031.11249918938,
+    "responses": 3449,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 60,
+    "measure": "maximum_gap_seconds",
+    "median": 42661.318345069885,
+    "p10": 32294.507668972015,
+    "p90": 74976.10409450531,
+    "responses": 3706,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 120,
+    "measure": "accepted_readings",
+    "median": 12930.0,
+    "p10": 222.5,
+    "p90": 31797.5,
+    "responses": 3706,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 120,
+    "measure": "occupied_fraction",
+    "median": 0.22777777777777777,
+    "p10": 0.005555555555555556,
+    "p90": 0.5364583333333333,
+    "responses": 3706,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 120,
+    "measure": "span_seconds",
+    "median": 72860.66935455799,
+    "p10": 21277.153207182884,
+    "p90": 86398.22086677552,
+    "responses": 3442,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 120,
+    "measure": "latest_age_seconds",
+    "median": 11749.075416564941,
+    "p10": 7200.39645280838,
+    "p90": 46866.10648834705,
+    "responses": 3442,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 120,
+    "measure": "maximum_gap_seconds",
+    "median": 42521.18268299103,
+    "p10": 31311.203380823135,
+    "p90": 76350.18142056465,
+    "responses": 3706,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 360,
+    "measure": "accepted_readings",
+    "median": 12525.0,
+    "p10": 3.5,
+    "p90": 31979.0,
+    "responses": 3706,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 360,
+    "measure": "occupied_fraction",
+    "median": 0.21736111111111112,
+    "p10": 0.0006944444444444445,
+    "p90": 0.5381944444444444,
+    "responses": 3706,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 360,
+    "measure": "span_seconds",
+    "median": 50071.976182579994,
+    "p10": 19629.275410056114,
+    "p90": 86397.59530508518,
+    "responses": 3366,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 360,
+    "measure": "latest_age_seconds",
+    "median": 34007.6609429121,
+    "p10": 21600.510404467583,
+    "p90": 62216.86864066124,
+    "responses": 3366,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 360,
+    "measure": "maximum_gap_seconds",
+    "median": 39640.884940981865,
+    "p10": 21915.556858062744,
+    "p90": 80289.37025737762,
+    "responses": 3706,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 720,
+    "measure": "accepted_readings",
+    "median": 11930.5,
+    "p10": 0.0,
+    "p90": 31950.0,
+    "responses": 3706,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 720,
+    "measure": "occupied_fraction",
+    "median": 0.21180555555555555,
+    "p10": 0.0,
+    "p90": 0.5371527777777778,
+    "responses": 3706,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 720,
+    "measure": "span_seconds",
+    "median": 45463.11899995804,
+    "p10": 20364.82763314247,
+    "p90": 86184.17949998379,
+    "responses": 3256,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 720,
+    "measure": "latest_age_seconds",
+    "median": 57360.471747636795,
+    "p10": 43200.74410748482,
+    "p90": 85502.68491756916,
+    "responses": 3256,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 720,
+    "measure": "maximum_gap_seconds",
+    "median": 39106.49309551716,
+    "p10": 24993.61675488949,
+    "p90": 86400.0,
+    "responses": 3706,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 1440,
+    "measure": "accepted_readings",
+    "median": 10594.5,
+    "p10": 0.0,
+    "p90": 31187.5,
+    "responses": 3706,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 1440,
+    "measure": "occupied_fraction",
+    "median": 0.1840277777777778,
+    "p10": 0.0,
+    "p90": 0.5256944444444445,
+    "responses": 3706,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 1440,
+    "measure": "span_seconds",
+    "median": 74066.59099984169,
+    "p10": 16252.891939544677,
+    "p90": 86398.46477336883,
+    "responses": 3137,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 1440,
+    "measure": "latest_age_seconds",
+    "median": 86622.23000001907,
+    "p10": 86400.33444786072,
+    "p90": 127611.65848155021,
+    "responses": 3137,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 1440,
+    "measure": "maximum_gap_seconds",
+    "median": 43447.91293525696,
+    "p10": 33258.108842134476,
+    "p90": 86400.0,
+    "responses": 3706,
+    "sensor": "history"
+  },
+  {
+    "lookback_minutes": 5,
+    "measure": "accepted_readings",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 222.0,
+    "responses": 3706,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 5,
+    "measure": "accepted_fraction",
+    "median": 1.0,
+    "p10": 1.0,
+    "p90": 1.0,
+    "responses": 1520,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 5,
+    "measure": "occupied_fraction",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 1.0,
+    "responses": 3706,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 5,
+    "measure": "span_seconds",
+    "median": 297.9976419210434,
+    "p10": 198.0287467002869,
+    "p90": 299.255721449852,
+    "responses": 1498,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 5,
+    "measure": "latest_age_seconds",
+    "median": 0.7784005403518677,
+    "p10": 0.1467000722885132,
+    "p90": 2.813018918037414,
+    "responses": 1498,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 5,
+    "measure": "maximum_gap_seconds",
+    "median": 300.0,
+    "p10": 5.048135995864868,
+    "p90": 300.0,
+    "responses": 3706,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 15,
+    "measure": "accepted_readings",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 654.0,
+    "responses": 3706,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 15,
+    "measure": "accepted_fraction",
+    "median": 1.0,
+    "p10": 1.0,
+    "p90": 1.0,
+    "responses": 1598,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 15,
+    "measure": "occupied_fraction",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 1.0,
+    "responses": 3706,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 15,
+    "measure": "span_seconds",
+    "median": 897.7614321708679,
+    "p10": 202.41322653293614,
+    "p90": 899.2517555475235,
+    "responses": 1554,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 15,
+    "measure": "latest_age_seconds",
+    "median": 0.8078564405441284,
+    "p10": 0.1536402225494385,
+    "p90": 3.7643008947372443,
+    "responses": 1554,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 15,
+    "measure": "maximum_gap_seconds",
+    "median": 900.0,
+    "p10": 7.965851306915283,
+    "p90": 900.0,
+    "responses": 3706,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 30,
+    "measure": "accepted_readings",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 1291.0,
+    "responses": 3706,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 30,
+    "measure": "accepted_fraction",
+    "median": 1.0,
+    "p10": 1.0,
+    "p90": 1.0,
+    "responses": 1663,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 30,
+    "measure": "occupied_fraction",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 1.0,
+    "responses": 3706,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 30,
+    "measure": "span_seconds",
+    "median": 1797.5166883468628,
+    "p10": 231.4433401823044,
+    "p90": 1799.2357311487199,
+    "responses": 1610,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 30,
+    "measure": "latest_age_seconds",
+    "median": 0.8322230577468872,
+    "p10": 0.15834293365478516,
+    "p90": 9.042247295379664,
+    "responses": 1610,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 30,
+    "measure": "maximum_gap_seconds",
+    "median": 1800.0,
+    "p10": 10.08518397808075,
+    "p90": 1800.0,
+    "responses": 3706,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 60,
+    "measure": "accepted_readings",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 2552.5,
+    "responses": 3706,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 60,
+    "measure": "accepted_fraction",
+    "median": 1.0,
+    "p10": 0.9993529393467857,
+    "p90": 1.0,
+    "responses": 1797,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 60,
+    "measure": "occupied_fraction",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 1.0,
+    "responses": 3706,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 60,
+    "measure": "span_seconds",
+    "median": 3597.037750005722,
+    "p10": 329.2079727172852,
+    "p90": 3599.2247618198394,
+    "responses": 1725,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 60,
+    "measure": "latest_age_seconds",
+    "median": 0.9097590446472168,
+    "p10": 0.16555323600769042,
+    "p90": 886.5784395217908,
+    "responses": 1725,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 60,
+    "measure": "maximum_gap_seconds",
+    "median": 3600.0,
+    "p10": 13.062340021133423,
+    "p90": 3600.0,
+    "responses": 3706,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 120,
+    "measure": "accepted_readings",
+    "median": 11.0,
+    "p10": 0.0,
+    "p90": 5034.5,
+    "responses": 3706,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 120,
+    "measure": "accepted_fraction",
+    "median": 1.0,
+    "p10": 0.999024006349355,
+    "p90": 1.0,
+    "responses": 1979,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 120,
+    "measure": "occupied_fraction",
+    "median": 0.008333333333333333,
+    "p10": 0.0,
+    "p90": 1.0,
+    "responses": 3706,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 120,
+    "measure": "span_seconds",
+    "median": 7194.361523151398,
+    "p10": 456.26876373291014,
+    "p90": 7199.11582365036,
+    "responses": 1897,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 120,
+    "measure": "latest_age_seconds",
+    "median": 1.0201678276062012,
+    "p10": 0.17902603149414062,
+    "p90": 3208.9372128486652,
+    "responses": 1897,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 120,
+    "measure": "maximum_gap_seconds",
+    "median": 7171.069707989693,
+    "p10": 17.010696411132812,
+    "p90": 7200.0,
+    "responses": 3706,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 360,
+    "measure": "accepted_readings",
+    "median": 2211.5,
+    "p10": 0.0,
+    "p90": 14046.5,
+    "responses": 3706,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 360,
+    "measure": "accepted_fraction",
+    "median": 1.0,
+    "p10": 0.999235062191615,
+    "p90": 1.0,
+    "responses": 2790,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 360,
+    "measure": "occupied_fraction",
+    "median": 0.16111111111111112,
+    "p10": 0.0,
+    "p90": 0.9722222222222222,
+    "responses": 3706,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 360,
+    "measure": "span_seconds",
+    "median": 13005.616125106812,
+    "p10": 259.8289698600769,
+    "p90": 21598.461174583434,
+    "responses": 2693,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 360,
+    "measure": "latest_age_seconds",
+    "median": 2.8023080825805664,
+    "p10": 0.2548200607299805,
+    "p90": 14139.597024011613,
+    "responses": 2693,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 360,
+    "measure": "maximum_gap_seconds",
+    "median": 12703.871928930283,
+    "p10": 482.3984968662262,
+    "p90": 21600.0,
+    "responses": 3706,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 720,
+    "measure": "accepted_readings",
+    "median": 4462.5,
+    "p10": 0.0,
+    "p90": 21513.5,
+    "responses": 3706,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 720,
+    "measure": "accepted_fraction",
+    "median": 1.0,
+    "p10": 0.9973446798326232,
+    "p90": 1.0,
+    "responses": 3219,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 720,
+    "measure": "occupied_fraction",
+    "median": 0.15694444444444444,
+    "p10": 0.0,
+    "p90": 0.7305555555555555,
+    "responses": 3706,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 720,
+    "measure": "span_seconds",
+    "median": 19614.307024002075,
+    "p10": 774.0808823585513,
+    "p90": 43020.34905908108,
+    "responses": 3098,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 720,
+    "measure": "latest_age_seconds",
+    "median": 871.9914333820343,
+    "p10": 0.297700047492981,
+    "p90": 34531.22235925198,
+    "responses": 3098,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 720,
+    "measure": "maximum_gap_seconds",
+    "median": 26660.723828554153,
+    "p10": 8484.677018046379,
+    "p90": 43200.0,
+    "responses": 3706,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 1440,
+    "measure": "accepted_readings",
+    "median": 12914.5,
+    "p10": 244.0,
+    "p90": 31903.5,
+    "responses": 3706,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 1440,
+    "measure": "accepted_fraction",
+    "median": 0.9998790273801363,
+    "p10": 0.9987734420195533,
+    "p90": 1.0,
+    "responses": 3539,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 1440,
+    "measure": "occupied_fraction",
+    "median": 0.22916666666666666,
+    "p10": 0.00625,
+    "p90": 0.5350694444444444,
+    "responses": 3706,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 1440,
+    "measure": "span_seconds",
+    "median": 72347.04172241688,
+    "p10": 19474.970505213736,
+    "p90": 86398.43294541836,
+    "responses": 3464,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 1440,
+    "measure": "latest_age_seconds",
+    "median": 3757.8696191310883,
+    "p10": 0.34093301296234135,
+    "p90": 43495.171544981,
+    "responses": 3464,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 1440,
+    "measure": "maximum_gap_seconds",
+    "median": 42830.75663292408,
+    "p10": 32950.99864649773,
+    "p90": 72954.9853105545,
+    "responses": 3706,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 5,
+    "measure": "accepted_readings",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 11.0,
+    "responses": 3706,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 5,
+    "measure": "accepted_fraction",
+    "median": 1.0,
+    "p10": 0.0,
+    "p90": 1.0,
+    "responses": 835,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 5,
+    "measure": "occupied_fraction",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 0.4,
+    "responses": 3706,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 5,
+    "measure": "span_seconds",
+    "median": 135.548210978508,
+    "p10": 0.0,
+    "p90": 285.10521426200864,
+    "responses": 712,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 5,
+    "measure": "latest_age_seconds",
+    "median": 44.42851436138153,
+    "p10": 1.562474250793457,
+    "p90": 209.67305316925038,
+    "responses": 712,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 5,
+    "measure": "maximum_gap_seconds",
+    "median": 300.0,
+    "p10": 155.86554944515228,
+    "p90": 300.0,
+    "responses": 3706,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 15,
+    "measure": "accepted_readings",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 44.0,
+    "responses": 3706,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 15,
+    "measure": "accepted_fraction",
+    "median": 1.0,
+    "p10": 0.0,
+    "p90": 1.0,
+    "responses": 1162,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 15,
+    "measure": "occupied_fraction",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 0.4,
+    "responses": 3706,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 15,
+    "measure": "span_seconds",
+    "median": 465.61214113235474,
+    "p10": 1.8901716232299806,
+    "p90": 860.7948645591736,
+    "responses": 993,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 15,
+    "measure": "latest_age_seconds",
+    "median": 102.41358494758606,
+    "p10": 2.70624794960022,
+    "p90": 631.4357470512392,
+    "responses": 993,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 15,
+    "measure": "maximum_gap_seconds",
+    "median": 900.0,
+    "p10": 336.64500999450684,
+    "p90": 900.0,
+    "responses": 3706,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 30,
+    "measure": "accepted_readings",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 85.5,
+    "responses": 3706,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 30,
+    "measure": "accepted_fraction",
+    "median": 1.0,
+    "p10": 0.0,
+    "p90": 1.0,
+    "responses": 1360,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 30,
+    "measure": "occupied_fraction",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 0.4,
+    "responses": 3706,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 30,
+    "measure": "span_seconds",
+    "median": 1012.7079639434814,
+    "p10": 1.9181608200073244,
+    "p90": 1744.536858558655,
+    "responses": 1165,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 30,
+    "measure": "latest_age_seconds",
+    "median": 155.71987390518188,
+    "p10": 4.142410707473756,
+    "p90": 1129.3474472999578,
+    "responses": 1165,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 30,
+    "measure": "maximum_gap_seconds",
+    "median": 1800.0,
+    "p10": 573.3454240560532,
+    "p90": 1800.0,
+    "responses": 3706,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 60,
+    "measure": "accepted_readings",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 178.0,
+    "responses": 3706,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 60,
+    "measure": "accepted_fraction",
+    "median": 1.0,
+    "p10": 0.0,
+    "p90": 1.0,
+    "responses": 1570,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 60,
+    "measure": "occupied_fraction",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 0.35,
+    "responses": 3706,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 60,
+    "measure": "span_seconds",
+    "median": 2351.0138370990753,
+    "p10": 36.79571032524118,
+    "p90": 3510.953068161011,
+    "responses": 1353,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 60,
+    "measure": "latest_age_seconds",
+    "median": 244.7033669948578,
+    "p10": 5.877850532531742,
+    "p90": 2176.5246857643124,
+    "responses": 1353,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 60,
+    "measure": "maximum_gap_seconds",
+    "median": 3600.0,
+    "p10": 909.0515290498734,
+    "p90": 3600.0,
+    "responses": 3706,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 120,
+    "measure": "accepted_readings",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 365.0,
+    "responses": 3706,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 120,
+    "measure": "accepted_fraction",
+    "median": 0.9938641069075851,
+    "p10": 0.0,
+    "p90": 1.0,
+    "responses": 1816,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 120,
+    "measure": "occupied_fraction",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 0.325,
+    "responses": 3706,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 120,
+    "measure": "span_seconds",
+    "median": 4791.525889158249,
+    "p10": 169.62280249595648,
+    "p90": 7036.58997490406,
+    "responses": 1594,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 120,
+    "measure": "latest_age_seconds",
+    "median": 414.0266600847244,
+    "p10": 8.77742385864258,
+    "p90": 4545.830883550647,
+    "responses": 1594,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 120,
+    "measure": "maximum_gap_seconds",
+    "median": 7200.0,
+    "p10": 1551.8723273277283,
+    "p90": 7200.0,
+    "responses": 3706,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 360,
+    "measure": "accepted_readings",
+    "median": 24.0,
+    "p10": 0.0,
+    "p90": 1193.5,
+    "responses": 3706,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 360,
+    "measure": "accepted_fraction",
+    "median": 0.985441008928808,
+    "p10": 0.0,
+    "p90": 1.0,
+    "responses": 2706,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 360,
+    "measure": "occupied_fraction",
+    "median": 0.016666666666666666,
+    "p10": 0.0,
+    "p90": 0.2972222222222222,
+    "responses": 3706,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 360,
+    "measure": "span_seconds",
+    "median": 10875.783538103104,
+    "p10": 180.74485452175142,
+    "p90": 20940.82064983845,
+    "responses": 2328,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 360,
+    "measure": "latest_age_seconds",
+    "median": 1794.2925860881805,
+    "p10": 18.16657330989838,
+    "p90": 14157.148971319199,
+    "responses": 2328,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 360,
+    "measure": "maximum_gap_seconds",
+    "median": 14303.363086938858,
+    "p10": 3807.4071370363235,
+    "p90": 21600.0,
+    "responses": 3706,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 720,
+    "measure": "accepted_readings",
+    "median": 89.0,
+    "p10": 0.0,
+    "p90": 2215.5,
+    "responses": 3706,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 720,
+    "measure": "accepted_fraction",
+    "median": 0.984472049689441,
+    "p10": 0.0,
+    "p90": 1.0,
+    "responses": 3133,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 720,
+    "measure": "occupied_fraction",
+    "median": 0.022222222222222223,
+    "p10": 0.0,
+    "p90": 0.2326388888888889,
+    "responses": 3706,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 720,
+    "measure": "span_seconds",
+    "median": 15981.542017698288,
+    "p10": 301.73943340778357,
+    "p90": 40506.46084890367,
+    "responses": 2784,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 720,
+    "measure": "latest_age_seconds",
+    "median": 3993.120602965355,
+    "p10": 27.153425526618957,
+    "p90": 35450.439956522016,
+    "responses": 2784,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 720,
+    "measure": "maximum_gap_seconds",
+    "median": 29277.857375383377,
+    "p10": 11047.208054065704,
+    "p90": 43200.0,
+    "responses": 3706,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 1440,
+    "measure": "accepted_readings",
+    "median": 441.5,
+    "p10": 0.0,
+    "p90": 3846.0,
+    "responses": 3706,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 1440,
+    "measure": "accepted_fraction",
+    "median": 0.9870242214532872,
+    "p10": 0.625,
+    "p90": 1.0,
+    "responses": 3527,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 1440,
+    "measure": "occupied_fraction",
+    "median": 0.04375,
+    "p10": 0.0,
+    "p90": 0.19305555555555556,
+    "responses": 3706,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 1440,
+    "measure": "span_seconds",
+    "median": 52755.974643945694,
+    "p10": 6263.124795913696,
+    "p90": 85717.19761061668,
+    "responses": 3328,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 1440,
+    "measure": "latest_age_seconds",
+    "median": 8573.840062975883,
+    "p10": 38.09213793277742,
+    "p90": 53871.13750691414,
+    "responses": 3328,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 1440,
+    "measure": "maximum_gap_seconds",
+    "median": 46131.87199997902,
+    "p10": 36018.41586303711,
+    "p90": 86400.0,
+    "responses": 3706,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 5,
+    "measure": "supported_seconds",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 80.55821084976196,
+    "responses": 3706,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 5,
+    "measure": "supported_pairs",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 13.0,
+    "responses": 3706,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 15,
+    "measure": "supported_seconds",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 325.8334845304489,
+    "responses": 3706,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 15,
+    "measure": "supported_pairs",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 41.0,
+    "responses": 3706,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 30,
+    "measure": "supported_seconds",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 642.6491255760193,
+    "responses": 3706,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 30,
+    "measure": "supported_pairs",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 82.0,
+    "responses": 3706,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 60,
+    "measure": "supported_seconds",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 1294.7851625680923,
+    "responses": 3706,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 60,
+    "measure": "supported_pairs",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 167.0,
+    "responses": 3706,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 120,
+    "measure": "supported_seconds",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 2323.2572236061096,
+    "responses": 3706,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 120,
+    "measure": "supported_pairs",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 350.0,
+    "responses": 3706,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 360,
+    "measure": "supported_seconds",
+    "median": 536.7714297771454,
+    "p10": 0.0,
+    "p90": 6016.815137386322,
+    "responses": 3706,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 360,
+    "measure": "supported_pairs",
+    "median": 54.0,
+    "p10": 0.0,
+    "p90": 973.0,
+    "responses": 3706,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 720,
+    "measure": "supported_seconds",
+    "median": 1288.346389055252,
+    "p10": 0.0,
+    "p90": 9059.086067318916,
+    "responses": 3706,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 720,
+    "measure": "supported_pairs",
+    "median": 152.0,
+    "p10": 0.0,
+    "p90": 1547.5,
+    "responses": 3706,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 1440,
+    "measure": "supported_seconds",
+    "median": 4423.736962676048,
+    "p10": 0.0,
+    "p90": 14037.838357686996,
+    "responses": 3706,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 1440,
+    "measure": "supported_pairs",
+    "median": 605.0,
+    "p10": 0.0,
+    "p90": 2530.5,
+    "responses": 3706,
+    "sensor": "steps"
+  },
+  {
+    "lookback_minutes": 5,
+    "measure": "zero_logical_record_fraction",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 0.0,
+    "responses": 1520,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 15,
+    "measure": "zero_logical_record_fraction",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 0.0,
+    "responses": 1598,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 30,
+    "measure": "zero_logical_record_fraction",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 0.0,
+    "responses": 1663,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 60,
+    "measure": "zero_logical_record_fraction",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 0.0005892081581598973,
+    "responses": 1797,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 120,
+    "measure": "zero_logical_record_fraction",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 0.0009082778524900785,
+    "responses": 1979,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 360,
+    "measure": "zero_logical_record_fraction",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 0.0007114928345474399,
+    "responses": 2790,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 720,
+    "measure": "zero_logical_record_fraction",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 0.0026234813775216936,
+    "responses": 3219,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 1440,
+    "measure": "zero_logical_record_fraction",
+    "median": 0.00010941717120140054,
+    "p10": 0.0,
+    "p90": 0.0011995042252956585,
+    "responses": 3539,
+    "sensor": "hr"
+  },
+  {
+    "lookback_minutes": 5,
+    "measure": "zero_logical_record_fraction",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 1.0,
+    "responses": 835,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 15,
+    "measure": "zero_logical_record_fraction",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 1.0,
+    "responses": 1162,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 30,
+    "measure": "zero_logical_record_fraction",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 1.0,
+    "responses": 1360,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 60,
+    "measure": "zero_logical_record_fraction",
+    "median": 0.0,
+    "p10": 0.0,
+    "p90": 1.0,
+    "responses": 1570,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 120,
+    "measure": "zero_logical_record_fraction",
+    "median": 0.006135893092414831,
+    "p10": 0.0,
+    "p90": 1.0,
+    "responses": 1816,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 360,
+    "measure": "zero_logical_record_fraction",
+    "median": 0.01455899107119201,
+    "p10": 0.0,
+    "p90": 1.0,
+    "responses": 2706,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 720,
+    "measure": "zero_logical_record_fraction",
+    "median": 0.015527950310559006,
+    "p10": 0.0,
+    "p90": 1.0,
+    "responses": 3133,
+    "sensor": "pulseox"
+  },
+  {
+    "lookback_minutes": 1440,
+    "measure": "zero_logical_record_fraction",
+    "median": 0.012975778546712802,
+    "p10": 0.0,
+    "p90": 0.375,
+    "responses": 3527,
+    "sensor": "pulseox"
+  }
+]

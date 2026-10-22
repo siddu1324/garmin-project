@@ -1,0 +1,47 @@
+{
+  "baseline_bundle": "private/ema_baseline/runs/640600af77404ff6",
+  "benchmark_bundle": "private/window_benchmark/runs/22397f30f1439325",
+  "bootstrap_draws": 2000,
+  "bootstrap_seed": 20261002,
+  "feature_bundle": "private/hr_activity/features/76f5885b3955d5b0",
+  "hgb_fixed": {
+    "categorical_features": null,
+    "early_stopping": false,
+    "l2_regularization": 1,
+    "learning_rate": 0.05,
+    "loss": "absolute_error",
+    "min_samples_leaf": 20,
+    "random_state": 20261006
+  },
+  "hgb_grid": [
+    {
+      "max_depth": 1,
+      "max_iter": 50
+    },
+    {
+      "max_depth": 1,
+      "max_iter": 150
+    },
+    {
+      "max_depth": 2,
+      "max_iter": 50
+    },
+    {
+      "max_depth": 2,
+      "max_iter": 150
+    }
+  ],
+  "history_end_hours": 1,
+  "history_start_hours": 25,
+  "inner_splits": 3,
+  "lookback_minutes": 60,
+  "minimum_occupied_utc_hours": 3,
+  "minimum_occupied_utc_minutes": 30,
+  "ridge_alphas": [
+    0.1,
+    1,
+    10,
+    100
+  ],
+  "version": "10-v1"
+}

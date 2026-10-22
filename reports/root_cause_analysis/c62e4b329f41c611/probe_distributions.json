@@ -1,0 +1,164 @@
+[
+  {
+    "intervals": 5,
+    "label": 0,
+    "measure": "hr__mean__60m",
+    "median": 92.8932584269663,
+    "participants": 5,
+    "q25": 89.5,
+    "q75": 100.98958333333333
+  },
+  {
+    "intervals": 5,
+    "label": 0,
+    "measure": "hr__sd__60m",
+    "median": 3.933753623608916,
+    "participants": 5,
+    "q25": 2.852276962527963,
+    "q75": 8.673913857607499
+  },
+  {
+    "intervals": 5,
+    "label": 0,
+    "measure": "hr__latest__60m",
+    "median": 96.0,
+    "participants": 5,
+    "q25": 88.0,
+    "q75": 97.0
+  },
+  {
+    "intervals": 5,
+    "label": 0,
+    "measure": "hr__slope__60m",
+    "median": -0.6137678902416336,
+    "participants": 5,
+    "q25": -3.6865718793358826,
+    "q75": 0.314261268323119
+  },
+  {
+    "intervals": 5,
+    "label": 0,
+    "measure": "supported_seconds",
+    "median": 248.9222640991211,
+    "participants": 5,
+    "q25": 244.6696319580078,
+    "q75": 258.2991452217102
+  },
+  {
+    "intervals": 5,
+    "label": 0,
+    "measure": "step_gap_seconds",
+    "median": 28.49623394012451,
+    "participants": 5,
+    "q25": 27.003986835479736,
+    "q75": 29.444058895111084
+  },
+  {
+    "intervals": 5,
+    "label": 0,
+    "measure": "hr_gap_seconds",
+    "median": 13.446079969406128,
+    "participants": 5,
+    "q25": 13.446057081222534,
+    "q75": 20.469202041625977
+  },
+  {
+    "intervals": 5,
+    "label": 0,
+    "measure": "hr_latest_age_seconds",
+    "median": 0.5850470066070557,
+    "participants": 5,
+    "q25": 0.5795309543609619,
+    "q75": 1.3902640342712402
+  },
+  {
+    "intervals": 5,
+    "label": 0,
+    "measure": "occupied_minutes",
+    "median": 5.0,
+    "participants": 5,
+    "q25": 5.0,
+    "q75": 5.0
+  },
+  {
+    "intervals": 591,
+    "label": 1,
+    "measure": "hr__mean__60m",
+    "median": 106.88157894736842,
+    "participants": 89,
+    "q25": 99.02465483234714,
+    "q75": 115.50932330827067
+  },
+  {
+    "intervals": 591,
+    "label": 1,
+    "measure": "hr__sd__60m",
+    "median": 5.188734695658998,
+    "participants": 89,
+    "q25": 3.9429716527611367,
+    "q75": 7.036613927526908
+  },
+  {
+    "intervals": 591,
+    "label": 1,
+    "measure": "hr__latest__60m",
+    "median": 108.0,
+    "participants": 89,
+    "q25": 98.0,
+    "q75": 117.0
+  },
+  {
+    "intervals": 591,
+    "label": 1,
+    "measure": "hr__slope__60m",
+    "median": -0.056916203965600494,
+    "participants": 89,
+    "q25": -1.6676238430487857,
+    "q75": 1.5676834375905666
+  },
+  {
+    "intervals": 591,
+    "label": 1,
+    "measure": "supported_seconds",
+    "median": 279.50564193725586,
+    "participants": 89,
+    "q25": 260.40921902656555,
+    "q75": 296.00499200820923
+  },
+  {
+    "intervals": 591,
+    "label": 1,
+    "measure": "step_gap_seconds",
+    "median": 18.31868004798889,
+    "participants": 89,
+    "q25": 3.416853427886963,
+    "q75": 32.01884162425995
+  },
+  {
+    "intervals": 591,
+    "label": 1,
+    "measure": "hr_gap_seconds",
+    "median": 10.895502090454102,
+    "participants": 89,
+    "q25": 7.979871511459351,
+    "q75": 14.071810483932495
+  },
+  {
+    "intervals": 591,
+    "label": 1,
+    "measure": "hr_latest_age_seconds",
+    "median": 0.903231143951416,
+    "participants": 89,
+    "q25": 0.45281195640563965,
+    "q75": 1.9659229516983032
+  },
+  {
+    "intervals": 591,
+    "label": 1,
+    "measure": "occupied_minutes",
+    "median": 5.0,
+    "participants": 89,
+    "q25": 5.0,
+    "q75": 5.0
+  }
+]

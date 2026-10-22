@@ -1,0 +1,386 @@
+[
+  {
+    "estimable_participants": 89,
+    "mean_person_auroc": 0.5382476758085623,
+    "median_person_auroc": 0.5169082125603864,
+    "model": "activity",
+    "participants": 125,
+    "task": "A"
+  },
+  {
+    "estimable_participants": 89,
+    "mean_person_auroc": 0.5,
+    "median_person_auroc": 0.5,
+    "model": "all_constant",
+    "participants": 125,
+    "task": "A"
+  },
+  {
+    "estimable_participants": 89,
+    "mean_person_auroc": 0.5330777989555954,
+    "median_person_auroc": 0.54,
+    "model": "context",
+    "participants": 125,
+    "task": "A"
+  },
+  {
+    "estimable_participants": 89,
+    "mean_person_auroc": 0.5305308349956843,
+    "median_person_auroc": 0.5478260869565218,
+    "model": "extended",
+    "participants": 125,
+    "task": "A"
+  },
+  {
+    "estimable_participants": 89,
+    "mean_person_auroc": 0.5263199980171206,
+    "median_person_auroc": 0.5333333333333333,
+    "model": "hgb_context",
+    "participants": 125,
+    "task": "A"
+  },
+  {
+    "estimable_participants": 89,
+    "mean_person_auroc": 0.48980603811944706,
+    "median_person_auroc": 0.5092592592592592,
+    "model": "hgb_personal",
+    "participants": 125,
+    "task": "A"
+  },
+  {
+    "estimable_participants": 89,
+    "mean_person_auroc": 0.49961181276454675,
+    "median_person_auroc": 0.494047619047619,
+    "model": "hgb_raw",
+    "participants": 125,
+    "task": "A"
+  },
+  {
+    "estimable_participants": 89,
+    "mean_person_auroc": 0.4966135095879353,
+    "median_person_auroc": 0.4836956521739131,
+    "model": "missingness",
+    "participants": 125,
+    "task": "A"
+  },
+  {
+    "estimable_participants": 64,
+    "mean_person_auroc": 0.5,
+    "median_person_auroc": 0.5,
+    "model": "observed_constant",
+    "participants": 112,
+    "task": "A"
+  },
+  {
+    "estimable_participants": 64,
+    "mean_person_auroc": 0.4983598012985485,
+    "median_person_auroc": 0.4583333333333333,
+    "model": "observed_context",
+    "participants": 112,
+    "task": "A"
+  },
+  {
+    "estimable_participants": 64,
+    "mean_person_auroc": 0.5056813053663761,
+    "median_person_auroc": 0.49736842105263157,
+    "model": "observed_personal",
+    "participants": 112,
+    "task": "A"
+  },
+  {
+    "estimable_participants": 64,
+    "mean_person_auroc": 0.522651281390418,
+    "median_person_auroc": 0.4797101449275362,
+    "model": "observed_raw",
+    "participants": 112,
+    "task": "A"
+  },
+  {
+    "estimable_participants": 64,
+    "mean_person_auroc": 0.48822302012719215,
+    "median_person_auroc": 0.4767316017316017,
+    "model": "observed_reference",
+    "participants": 112,
+    "task": "A"
+  },
+  {
+    "estimable_participants": 89,
+    "mean_person_auroc": 0.525005843222461,
+    "median_person_auroc": 0.5181818181818181,
+    "model": "permuted_19",
+    "participants": 125,
+    "task": "A"
+  },
+  {
+    "estimable_participants": 89,
+    "mean_person_auroc": 0.5273814169443203,
+    "median_person_auroc": 0.5238095238095237,
+    "model": "permuted_7",
+    "participants": 125,
+    "task": "A"
+  },
+  {
+    "estimable_participants": 89,
+    "mean_person_auroc": 0.5162387384466891,
+    "median_person_auroc": 0.5172413793103449,
+    "model": "personal",
+    "participants": 125,
+    "task": "A"
+  },
+  {
+    "estimable_participants": 89,
+    "mean_person_auroc": 0.49877552434606254,
+    "median_person_auroc": 0.5064935064935066,
+    "model": "personal_quality",
+    "participants": 125,
+    "task": "A"
+  },
+  {
+    "estimable_participants": 89,
+    "mean_person_auroc": 0.5071062226535316,
+    "median_person_auroc": 0.5141700404858299,
+    "model": "physiology",
+    "participants": 125,
+    "task": "A"
+  },
+  {
+    "estimable_participants": 89,
+    "mean_person_auroc": 0.4992870128514658,
+    "median_person_auroc": 0.5217391304347826,
+    "model": "quality",
+    "participants": 125,
+    "task": "A"
+  },
+  {
+    "estimable_participants": 89,
+    "mean_person_auroc": 0.5375453872002073,
+    "median_person_auroc": 0.5357142857142857,
+    "model": "raw",
+    "participants": 125,
+    "task": "A"
+  },
+  {
+    "estimable_participants": 89,
+    "mean_person_auroc": 0.5250402795543748,
+    "median_person_auroc": 0.5238095238095238,
+    "model": "reference",
+    "participants": 125,
+    "task": "A"
+  },
+  {
+    "estimable_participants": 54,
+    "mean_person_auroc": 0.5,
+    "median_person_auroc": 0.5,
+    "model": "supported_constant",
+    "participants": 104,
+    "task": "A"
+  },
+  {
+    "estimable_participants": 54,
+    "mean_person_auroc": 0.52922471867247,
+    "median_person_auroc": 0.539484126984127,
+    "model": "supported_context",
+    "participants": 104,
+    "task": "A"
+  },
+  {
+    "estimable_participants": 54,
+    "mean_person_auroc": 0.45659954500232275,
+    "median_person_auroc": 0.4638888888888889,
+    "model": "supported_raw",
+    "participants": 104,
+    "task": "A"
+  },
+  {
+    "estimable_participants": 94,
+    "mean_person_auroc": 0.5461327829009152,
+    "median_person_auroc": 0.5598484848484848,
+    "model": "activity",
+    "participants": 125,
+    "task": "B"
+  },
+  {
+    "estimable_participants": 94,
+    "mean_person_auroc": 0.5,
+    "median_person_auroc": 0.5,
+    "model": "all_constant",
+    "participants": 125,
+    "task": "B"
+  },
+  {
+    "estimable_participants": 94,
+    "mean_person_auroc": 0.5467548594474536,
+    "median_person_auroc": 0.5386904761904763,
+    "model": "context",
+    "participants": 125,
+    "task": "B"
+  },
+  {
+    "estimable_participants": 94,
+    "mean_person_auroc": 0.5328675885732592,
+    "median_person_auroc": 0.5250496031746031,
+    "model": "extended",
+    "participants": 125,
+    "task": "B"
+  },
+  {
+    "estimable_participants": 94,
+    "mean_person_auroc": 0.5399046315390884,
+    "median_person_auroc": 0.5634469696969697,
+    "model": "hgb_context",
+    "participants": 125,
+    "task": "B"
+  },
+  {
+    "estimable_participants": 94,
+    "mean_person_auroc": 0.5280117717585593,
+    "median_person_auroc": 0.5199692780337941,
+    "model": "hgb_personal",
+    "participants": 125,
+    "task": "B"
+  },
+  {
+    "estimable_participants": 94,
+    "mean_person_auroc": 0.5230193280529618,
+    "median_person_auroc": 0.5179487179487179,
+    "model": "hgb_raw",
+    "participants": 125,
+    "task": "B"
+  },
+  {
+    "estimable_participants": 94,
+    "mean_person_auroc": 0.5432004289904299,
+    "median_person_auroc": 0.5541786283891548,
+    "model": "missingness",
+    "participants": 125,
+    "task": "B"
+  },
+  {
+    "estimable_participants": 52,
+    "mean_person_auroc": 0.5,
+    "median_person_auroc": 0.5,
+    "model": "observed_constant",
+    "participants": 112,
+    "task": "B"
+  },
+  {
+    "estimable_participants": 52,
+    "mean_person_auroc": 0.49029760095761665,
+    "median_person_auroc": 0.5,
+    "model": "observed_context",
+    "participants": 112,
+    "task": "B"
+  },
+  {
+    "estimable_participants": 52,
+    "mean_person_auroc": 0.48617342082780285,
+    "median_person_auroc": 0.4602941176470588,
+    "model": "observed_personal",
+    "participants": 112,
+    "task": "B"
+  },
+  {
+    "estimable_participants": 52,
+    "mean_person_auroc": 0.5095308684233503,
+    "median_person_auroc": 0.5598214285714286,
+    "model": "observed_raw",
+    "participants": 112,
+    "task": "B"
+  },
+  {
+    "estimable_participants": 52,
+    "mean_person_auroc": 0.49563360497448233,
+    "median_person_auroc": 0.5,
+    "model": "observed_reference",
+    "participants": 112,
+    "task": "B"
+  },
+  {
+    "estimable_participants": 94,
+    "mean_person_auroc": 0.4822368689673221,
+    "median_person_auroc": 0.5013227513227513,
+    "model": "permuted_19",
+    "participants": 125,
+    "task": "B"
+  },
+  {
+    "estimable_participants": 94,
+    "mean_person_auroc": 0.47782387953055994,
+    "median_person_auroc": 0.4623709623709624,
+    "model": "permuted_7",
+    "participants": 125,
+    "task": "B"
+  },
+  {
+    "estimable_participants": 94,
+    "mean_person_auroc": 0.5379424961530266,
+    "median_person_auroc": 0.5303030303030303,
+    "model": "personal",
+    "participants": 125,
+    "task": "B"
+  },
+  {
+    "estimable_participants": 94,
+    "mean_person_auroc": 0.5255584332393861,
+    "median_person_auroc": 0.5189285714285714,
+    "model": "personal_quality",
+    "participants": 125,
+    "task": "B"
+  },
+  {
+    "estimable_participants": 94,
+    "mean_person_auroc": 0.4828039457075598,
+    "median_person_auroc": 0.5,
+    "model": "physiology",
+    "participants": 125,
+    "task": "B"
+  },
+  {
+    "estimable_participants": 94,
+    "mean_person_auroc": 0.5427221372098154,
+    "median_person_auroc": 0.5491935483870968,
+    "model": "quality",
+    "participants": 125,
+    "task": "B"
+  },
+  {
+    "estimable_participants": 94,
+    "mean_person_auroc": 0.5338061753224588,
+    "median_person_auroc": 0.5404040404040404,
+    "model": "raw",
+    "participants": 125,
+    "task": "B"
+  },
+  {
+    "estimable_participants": 94,
+    "mean_person_auroc": 0.5476670938306335,
+    "median_person_auroc": 0.5506015037593985,
+    "model": "reference",
+    "participants": 125,
+    "task": "B"
+  },
+  {
+    "estimable_participants": 49,
+    "mean_person_auroc": 0.5,
+    "median_person_auroc": 0.5,
+    "model": "supported_constant",
+    "participants": 104,
+    "task": "B"
+  },
+  {
+    "estimable_participants": 49,
+    "mean_person_auroc": 0.46940990920148373,
+    "median_person_auroc": 0.45833333333333337,
+    "model": "supported_context",
+    "participants": 104,
+    "task": "B"
+  },
+  {
+    "estimable_participants": 49,
+    "mean_person_auroc": 0.4731812449991827,
+    "median_person_auroc": 0.4615384615384615,
+    "model": "supported_raw",
+    "participants": 104,
+    "task": "B"
+  }
+]

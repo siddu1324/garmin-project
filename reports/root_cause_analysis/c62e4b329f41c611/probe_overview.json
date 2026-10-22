@@ -1,0 +1,9 @@
+{
+  "candidate_unique_hours": 3418.6666666666665,
+  "candidate_unique_intervals": 41024,
+  "eligible_intervals": 596,
+  "eligible_observation_hours": 49.666666666666664,
+  "eligible_participants": 90,
+  "participants_with_both": 4,
+  "warning": "Observation hours are not continuous supported physiological time; activity semantics provisional"
+}

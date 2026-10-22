@@ -1,0 +1,8 @@
+{
+  "current": "e5359ea4cc4b4efa",
+  "superseded": {
+    "3e1a43c69190c41a": "Unvalidated draft: counter availability incorrectly queried HR-only accepted_readings; counter occupancy not applicable was filled with zero. Retained for audit, do not cite.",
+    "6d247a913873546d": "Incomplete draft terminated on raw-field schema lookup. No validated results. Retained for audit."
+  },
+  "scope": "Notebook 19 drafts only; no prior checkpoint artifacts changed."
+}

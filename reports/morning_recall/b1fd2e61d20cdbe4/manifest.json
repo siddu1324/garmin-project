@@ -1,0 +1,36 @@
+{
+  "aggregate_only": true,
+  "artifact_sha256": {
+    "all_fold_counts.md": "1f198b295037398bca5396194c44efcbb457de2a3748b52aee6d4b6ee9519e67",
+    "availability.json": "df58db46de81267b9534493f392df1f6e61c9b4bcff4f711c6c1a0eca574a6e8",
+    "availability.png": "83810d5c2797ce2fd6fe65077da456d4e126ea32b752e32bc06ca185504589d3",
+    "cohorts.json": "8c73b6ce1bb3784169792ab2a96aab9266400f32ee52412a823160f39fc3155d",
+    "composition.json": "10d4718f93829e66bc0f9b4b1ab32d5932743dc6e4ae4e38af54276d7accb133",
+    "direct_window_differences.md": "1dd48e43e74bbb889cb737e6c4f903bd8d8eaf02d053858a3db1a395ffd2582d",
+    "exclusion_combinations.json": "191abd7fca0c8c51b7603ca9e07dc019e397171f22c8dc070ce5b0b221e8a649",
+    "fold_counts.json": "a0c65821ebb8709d0b81977c76dd6e977164d47bb3cf6ad35075db8972b18f07",
+    "fold_metrics.md": "345e82a988584424bd1885b7c12c1e3973bbf6c13a8e946eeb2e374a714e963a",
+    "included_excluded_scores.md": "981e1660778a30a1f9c9637bc090bf37326b7eb148395ccd8f964316811311aa",
+    "metrics.json": "963d2ca82d33675695b86034355bf103d6ec350e0ace9e3959e11ecabe722a6d",
+    "morning_accounting_totals.json": "323e4c4a6de04bbee42f93c68af8ecca07da261f236d0525d93e7a4821d6fdd0",
+    "paired_intervals.json": "02b43fb40993f068105882bd5b6314c47d1f6b743077f2d4ae9cb12fa1b01feb",
+    "performance.png": "ac82819909e23dd190f8872e22fd17d84d4f0896876cbbbae533f33424452d36",
+    "pooled_metrics.md": "6750ac32f8b98b49744fe8cf559153c367e7d20ee9704d72bd795b3b5a239486",
+    "primary_baseline_differences.md": "9d645b9e9b28e4ab7cc9792eb3695d6a238abff61cdcf7efea2c5b71210a6635",
+    "professor_summary.md": "844a5055f555fbd55541577cecb330e64ef6cbccf220984d776b97c272b1a4e1",
+    "quality_diagnostics.json": "e36608c385fc975ee26d142375da1f7a398de886ca7691a64a4992228087e49a",
+    "recording_support.png": "0fc777097622d8a49345ff3e0266f6160579f571900038d39f0842a889f79981",
+    "report.md": "154513a3bfbf5b069fd82e2cd3e32aa753f06d75d497e56e2d5c5459537f0680",
+    "score_distribution.json": "08b933ba6a69b710232cca88f2e57baac3742e14f30516d0e9a9d1429e203acf",
+    "synthetic_timeline.png": "4c8f1edbba58bbc71f3bb1698a2c421f631a7efc473a48679b7dd591013cf202"
+  },
+  "complete": true,
+  "inputs": {
+    "bundle_manifest": "f5c8e9d2d9e0273a14ccc4538af4175bfe61054adc31fe5b386a22cab85b4afc",
+    "report_code": "df12e2213274a87c6d90416465590cd533bd7d25f57efc769d0d499e1d0707c2",
+    "table_helper_code": "2861e2225d1f36be489aa505760ef2f38347fac34c121e3916c0e316abd16898"
+  },
+  "retrospective_only": true,
+  "source_run": "4c844f737b74ee62",
+  "version": "b1fd2e61d20cdbe4"
+}

@@ -1,0 +1,19 @@
+{
+  "boundary_reasons": {
+    "reported_minute_end_sensitivity": {
+      "candidate": 826,
+      "minute_uncertainty_reaches_cutoff": 10,
+      "missing_wake_response": 3,
+      "wake_not_before_cutoff": 95
+    },
+    "reported_minute_start": {
+      "candidate": 836,
+      "missing_wake_response": 3,
+      "wake_not_before_cutoff": 95
+    }
+  },
+  "missing_scores": 3,
+  "participants": 125,
+  "responses": 934,
+  "valid_scores": 931
+}

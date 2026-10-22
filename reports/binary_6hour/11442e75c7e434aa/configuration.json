@@ -1,0 +1,28 @@
+{
+  "C_grid": [
+    0.001,
+    0.01,
+    0.1,
+    1.0
+  ],
+  "bootstrap_draws": 2000,
+  "correlation_threshold": 0.95,
+  "feature_bundle": "private/comprehensive_features/features/eecf1da995c39b27",
+  "inner_splits": 3,
+  "max_iter": 10000,
+  "minimum_training_observed_fraction": 0.5,
+  "ratios": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "seed": 20261019,
+  "tol": 0.0001,
+  "version": "15-v1",
+  "windows": [
+    60,
+    120,
+    360
+  ],
+  "workers": 4
+}

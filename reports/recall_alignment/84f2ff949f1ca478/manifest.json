@@ -1,0 +1,27 @@
+{
+  "aggregate_only": true,
+  "artifact_sha256": {
+    "boundary_availability.json": "f104953d4a9e3ee02684dc94f0201029d8020f36e47be620b4f7d1386408c6cf",
+    "candidate_coverage.json": "c720de77b590eba2170731ff05d7f42e37b3572b367282fe6d4db64fb80414f6",
+    "explanatory_aggregates.json": "2ee6675cd89b9c3647b591b7fb306f4c946d7592992899b7431d51d532d8804f",
+    "matched_fixed_coverage.json": "adddc41b6ff173cc857fcac87d1a6076b6f4f5bb570b18fe6fce435823ac85a2",
+    "paired_coverage.json": "8daec8478c7165fa83b846a996897a5268f8fb6810bf04e2fa2ccb2c6325055e",
+    "professor_briefing.md": "48a060964f4379b5496c9ea14365217275d3aa577ed105037e771bcfca5faa49",
+    "questionnaire_evidence.md": "34aafc542f6cfb0b6473e72b7ac1ce75a5582603422d7c5c0c33b09319414985",
+    "recall_coverage.png": "355c103a088bcf8e57eead111b6ee62dedb75ac2941061cd82819b550749b437",
+    "report.md": "b07818e0abac8d086d420d9bb54f54f5513bbdd2d71e636a1af6c75f01aa67ce",
+    "representation.json": "7a221ec0d3ca13115193f27218ba2ebf0a54b426658213ad687af78c52fb8e4b",
+    "saved_model_inspection.json": "0dfdea867f75f323034096130561e2eee68173fa27d30464ef897c6ae0552b29",
+    "source_evidence.json": "e1e944ea4c639b0819dfb1c8d8a0bc3f3485731c340ca861234773416e9b42dc",
+    "training_collapse.png": "b202830b652e0d913eaae8c2c4d0d6ee60c18e68efe8265a43a3995b064956af",
+    "training_diagnostics.json": "ecc2bd31bd62f552eb93247484d6d0261ad62390c616ff424eba7bf6858a046d",
+    "training_fold_diagnostics.md": "ab2acbea3b3cb238c3c9bfddce388365d7f2ea2cabace380e1fcdd5f276466a3",
+    "training_summary.json": "3faef79600394baec7d01cdc036dddb4312ecf432ea15e6f435dc0ffd1223937"
+  },
+  "complete": true,
+  "inputs": {
+    "bundle_manifest": "d601424040532bb699be327040a493cc300d8c8cc021a5e81bf4320629a3c5c6",
+    "report_code": "c7241b6b7661ac2cc246f30a6faad598f767cb508875546a0ebe28751d0e98cb"
+  },
+  "version": "84f2ff949f1ca478"
+}

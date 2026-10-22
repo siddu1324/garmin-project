@@ -1,0 +1,57 @@
+[
+  {
+    "feature": "Continuous composite",
+    "meaning_or_limit": "Three valid stored 1\u20135 codes required; no clinical/binary cutoff",
+    "status": "Implemented, unchanged"
+  },
+  {
+    "feature": "Context + raw mean/SD/latest/slope",
+    "meaning_or_limit": "Current 60-minute observed readings; provisional timing",
+    "status": "Implemented and evaluated"
+  },
+  {
+    "feature": "Earlier-recording reference + deviations",
+    "meaning_or_limit": "24-hour history excluding current hour; \u226530 minutes and \u22653 UTC hours",
+    "status": "Implemented and evaluated here"
+  },
+  {
+    "feature": "Supported steps; other existing HR summaries",
+    "meaning_or_limit": "No additional activity or HR feature expansion here",
+    "status": "Implemented earlier; outside this experiment"
+  },
+  {
+    "feature": "Whole-record person means/centering",
+    "meaning_or_limit": "Never predictive features or saved person-level means",
+    "status": "Retrospective diagnostics only"
+  },
+  {
+    "feature": "Other history lengths/support thresholds",
+    "meaning_or_limit": "Would require a separate specification; no automatic search",
+    "status": "Untested candidates"
+  },
+  {
+    "feature": "Equal-minute current HR summaries",
+    "meaning_or_limit": "Notebook 09 descriptive weighting audit only",
+    "status": "Untested predictive candidate"
+  },
+  {
+    "feature": "Resting HR / complete daily physiological baseline",
+    "meaning_or_limit": "Requires validated rest/activity/wear and temporal support, not this reference",
+    "status": "Blocked by measurement evidence"
+  },
+  {
+    "feature": "Expanded HRV / normal-beat measures",
+    "meaning_or_limit": "IBI anchoring, missing beats and beat-quality status unresolved",
+    "status": "Blocked by measurement evidence"
+  },
+  {
+    "feature": "Recall-aligned prompt intervals",
+    "meaning_or_limit": "Previous completed EMA is not previous prompt",
+    "status": "Blocked where logs unavailable"
+  },
+  {
+    "feature": "Garmin stress, imputation, binary outcomes",
+    "meaning_or_limit": "Not authorized predictors/transformations here",
+    "status": "Excluded by design"
+  }
+]

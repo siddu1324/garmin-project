@@ -1,0 +1,117 @@
+{
+  "assignments": "93e8da449a56c911c2326492ef678bf71d609f88c935f22918fecdb50a283853",
+  "code": {
+    "models.py": "c34e8778bc052f94d5e90a6f491fd1f0a080f1d6ac74b35bf18cc7d570cf6904",
+    "run.py": "6767a78483e3a44585d82de6e3a85e05b013d54c4faf4f8507d633aed1c8ecbe"
+  },
+  "config": {
+    "boosting_learning_rate": 0.05,
+    "bootstrap_draws": 2000,
+    "correlation_threshold": 0.95,
+    "feature_bundle": "private/comprehensive_features/features/eecf1da995c39b27",
+    "hgb_depths": [
+      1,
+      2
+    ],
+    "hgb_iterations": [
+      50,
+      150
+    ],
+    "huber_alphas": [
+      1,
+      100
+    ],
+    "huber_epsilons": [
+      1.35,
+      2
+    ],
+    "huber_max_iter": 2000,
+    "huber_tolerance": 1e-05,
+    "inner_splits": 3,
+    "legacy_benchmark_bundle": "private/window_benchmark/runs/22397f30f1439325",
+    "legacy_regression_bundle": "private/ema_baseline/runs/640600af77404ff6",
+    "lgbm_profiles": [
+      [
+        7,
+        100,
+        40,
+        10
+      ],
+      [
+        7,
+        300,
+        20,
+        1
+      ],
+      [
+        15,
+        100,
+        40,
+        10
+      ],
+      [
+        15,
+        300,
+        20,
+        1
+      ]
+    ],
+    "linear_tolerance": 0.0001,
+    "max_iter_linear": 10000,
+    "ridge_alphas": [
+      0.1,
+      1,
+      10,
+      100,
+      1000
+    ],
+    "seed": 20261018,
+    "selector_alpha": 0.05,
+    "selector_coefficient_threshold": 1e-08,
+    "sparse_alphas": [
+      0.01,
+      0.1,
+      1
+    ],
+    "version": "14-v1",
+    "workers": 4,
+    "xgb_profiles": [
+      [
+        2,
+        100,
+        20,
+        10
+      ],
+      [
+        2,
+        300,
+        10,
+        1
+      ],
+      [
+        4,
+        100,
+        20,
+        10
+      ],
+      [
+        4,
+        300,
+        10,
+        1
+      ]
+    ]
+  },
+  "features": "daa09cf902a161eb10cf0548c9346b2e19447cd7e31e056f49bc4124db4ac1cf",
+  "packages": {
+    "joblib": "1.6.0",
+    "lightgbm": "4.6.0",
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "scikit-learn": "1.9.1",
+    "scipy": "1.17.1",
+    "xgboost": "3.0.5"
+  },
+  "reused_transform": "35cc96de61b8134d284fb9f3933410c862781a68732d3d87aa2fe8d8bd466a8d",
+  "specification": "a866a0d7e86bff38cd7ce8630011bb1c3ea13d92c757fe72cf3ddabb6fb51327"
+}

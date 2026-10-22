@@ -1,0 +1,1026 @@
+[
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__accepted_readings__5m",
+    "median": 0.0,
+    "observed": 3706,
+    "q25": 0.0,
+    "q75": 191.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__accepted_readings__15m",
+    "median": 0.0,
+    "observed": 3706,
+    "q25": 0.0,
+    "q75": 578.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__accepted_readings__30m",
+    "median": 0.0,
+    "observed": 3706,
+    "q25": 0.0,
+    "q75": 1137.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__accepted_readings__60m",
+    "median": 0.0,
+    "observed": 3706,
+    "q25": 0.0,
+    "q75": 2229.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__accepted_readings__120m",
+    "median": 11.0,
+    "observed": 3706,
+    "q25": 0.0,
+    "q75": 4041.25
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__accepted_readings__360m",
+    "median": 2211.5,
+    "observed": 3706,
+    "q25": 0.0,
+    "q75": 9107.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__accepted_readings__720m",
+    "median": 4462.5,
+    "observed": 3706,
+    "q25": 240.0,
+    "q75": 12281.5
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__accepted_readings__1440m",
+    "median": 12914.5,
+    "observed": 3706,
+    "q25": 3994.0,
+    "q75": 24641.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__accepted_fraction__5m",
+    "median": 1.0,
+    "observed": 1520,
+    "q25": 1.0,
+    "q75": 1.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__accepted_fraction__15m",
+    "median": 1.0,
+    "observed": 1598,
+    "q25": 1.0,
+    "q75": 1.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__accepted_fraction__30m",
+    "median": 1.0,
+    "observed": 1663,
+    "q25": 1.0,
+    "q75": 1.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__accepted_fraction__60m",
+    "median": 1.0,
+    "observed": 1797,
+    "q25": 1.0,
+    "q75": 1.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__accepted_fraction__120m",
+    "median": 1.0,
+    "observed": 1979,
+    "q25": 1.0,
+    "q75": 1.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__accepted_fraction__360m",
+    "median": 1.0,
+    "observed": 2790,
+    "q25": 0.9998932533962347,
+    "q75": 1.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__accepted_fraction__720m",
+    "median": 1.0,
+    "observed": 3219,
+    "q25": 0.9996859496584478,
+    "q75": 1.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__accepted_fraction__1440m",
+    "median": 0.9998790273801363,
+    "observed": 3539,
+    "q25": 0.9996748949198164,
+    "q75": 1.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__occupied_fraction__5m",
+    "median": 0.0,
+    "observed": 3706,
+    "q25": 0.0,
+    "q75": 1.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__occupied_fraction__15m",
+    "median": 0.0,
+    "observed": 3706,
+    "q25": 0.0,
+    "q75": 1.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__occupied_fraction__30m",
+    "median": 0.0,
+    "observed": 3706,
+    "q25": 0.0,
+    "q75": 1.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__occupied_fraction__60m",
+    "median": 0.0,
+    "observed": 3706,
+    "q25": 0.0,
+    "q75": 1.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__occupied_fraction__120m",
+    "median": 0.008333333333333333,
+    "observed": 3706,
+    "q25": 0.0,
+    "q75": 0.925
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__occupied_fraction__360m",
+    "median": 0.16111111111111112,
+    "observed": 3706,
+    "q25": 0.0,
+    "q75": 0.65
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__occupied_fraction__720m",
+    "median": 0.15694444444444444,
+    "observed": 3706,
+    "q25": 0.011111111111111112,
+    "q75": 0.4371527777777778
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__occupied_fraction__1440m",
+    "median": 0.22916666666666666,
+    "observed": 3706,
+    "q25": 0.06736111111111111,
+    "q75": 0.43472222222222223
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__span_seconds__5m",
+    "median": 297.9976419210434,
+    "observed": 1498,
+    "q25": 296.1005888581276,
+    "q75": 298.8704272508621
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__span_seconds__15m",
+    "median": 897.7614321708679,
+    "observed": 1554,
+    "q25": 892.5119878649712,
+    "q75": 898.7951994538307
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__span_seconds__30m",
+    "median": 1797.5166883468628,
+    "observed": 1610,
+    "q25": 1505.089481830597,
+    "q75": 1798.6968727707863
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__span_seconds__60m",
+    "median": 3597.037750005722,
+    "observed": 1725,
+    "q25": 1924.5230000019073,
+    "q75": 3598.62886095047
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__span_seconds__120m",
+    "median": 7194.361523151398,
+    "observed": 1897,
+    "q25": 2845.412575006485,
+    "q75": 7198.420544862747
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__span_seconds__360m",
+    "median": 13005.616125106812,
+    "observed": 2693,
+    "q25": 3674.648374080658,
+    "q75": 20330.99227499962
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__span_seconds__720m",
+    "median": 19614.307024002075,
+    "observed": 3098,
+    "q25": 7863.802288889885,
+    "q75": 32129.604362010956
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__span_seconds__1440m",
+    "median": 72347.04172241688,
+    "observed": 3464,
+    "q25": 39993.54577285051,
+    "q75": 86301.4712625742
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__latest_age_seconds__5m",
+    "median": 0.7784005403518677,
+    "observed": 1498,
+    "q25": 0.3728151321411133,
+    "q75": 1.5489568710327148
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__latest_age_seconds__15m",
+    "median": 0.8078564405441284,
+    "observed": 1554,
+    "q25": 0.3908264636993408,
+    "q75": 1.6996554136276245
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__latest_age_seconds__30m",
+    "median": 0.8322230577468872,
+    "observed": 1610,
+    "q25": 0.40280473232269287,
+    "q75": 1.850494146347046
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__latest_age_seconds__60m",
+    "median": 0.9097590446472168,
+    "observed": 1725,
+    "q25": 0.43877196311950684,
+    "q75": 2.3310000896453857
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__latest_age_seconds__120m",
+    "median": 1.0201678276062012,
+    "observed": 1897,
+    "q25": 0.47960400581359863,
+    "q75": 5.424393892288208
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__latest_age_seconds__360m",
+    "median": 2.8023080825805664,
+    "observed": 2693,
+    "q25": 0.6951589584350586,
+    "q75": 9663.846632957458
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__latest_age_seconds__720m",
+    "median": 871.9914333820343,
+    "observed": 3098,
+    "q25": 0.8070314526557922,
+    "q75": 13491.679013490677
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__latest_age_seconds__1440m",
+    "median": 3757.8696191310883,
+    "observed": 3464,
+    "q25": 0.9133652448654175,
+    "q75": 16144.314249932766
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__maximum_gap_seconds__5m",
+    "median": 300.0,
+    "observed": 3706,
+    "q25": 9.449353754520416,
+    "q75": 300.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__maximum_gap_seconds__15m",
+    "median": 900.0,
+    "observed": 3706,
+    "q25": 14.119705200195312,
+    "q75": 900.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__maximum_gap_seconds__30m",
+    "median": 1800.0,
+    "observed": 3706,
+    "q25": 19.168771743774414,
+    "q75": 1800.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__maximum_gap_seconds__60m",
+    "median": 3600.0,
+    "observed": 3706,
+    "q25": 47.96781927347183,
+    "q75": 3600.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__maximum_gap_seconds__120m",
+    "median": 7171.069707989693,
+    "observed": 3706,
+    "q25": 476.5868498682976,
+    "q75": 7200.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__maximum_gap_seconds__360m",
+    "median": 12703.871928930283,
+    "observed": 3706,
+    "q25": 6520.550872027874,
+    "q75": 21600.0
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__maximum_gap_seconds__720m",
+    "median": 26660.723828554153,
+    "observed": 3706,
+    "q25": 14351.866017818451,
+    "q75": 39393.068145275116
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__maximum_gap_seconds__1440m",
+    "median": 42830.75663292408,
+    "observed": 3706,
+    "q25": 38651.549000024796,
+    "q75": 53779.50275182724
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__supported_pairs__5m",
+    "median": null,
+    "observed": 0,
+    "q25": null,
+    "q75": null
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__supported_pairs__15m",
+    "median": null,
+    "observed": 0,
+    "q25": null,
+    "q75": null
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__supported_pairs__30m",
+    "median": null,
+    "observed": 0,
+    "q25": null,
+    "q75": null
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__supported_pairs__60m",
+    "median": null,
+    "observed": 0,
+    "q25": null,
+    "q75": null
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__supported_pairs__120m",
+    "median": null,
+    "observed": 0,
+    "q25": null,
+    "q75": null
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__supported_pairs__360m",
+    "median": null,
+    "observed": 0,
+    "q25": null,
+    "q75": null
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__supported_pairs__720m",
+    "median": null,
+    "observed": 0,
+    "q25": null,
+    "q75": null
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__supported_pairs__1440m",
+    "median": null,
+    "observed": 0,
+    "q25": null,
+    "q75": null
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__supported_seconds__5m",
+    "median": null,
+    "observed": 0,
+    "q25": null,
+    "q75": null
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__supported_seconds__15m",
+    "median": null,
+    "observed": 0,
+    "q25": null,
+    "q75": null
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__supported_seconds__30m",
+    "median": null,
+    "observed": 0,
+    "q25": null,
+    "q75": null
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__supported_seconds__60m",
+    "median": null,
+    "observed": 0,
+    "q25": null,
+    "q75": null
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__supported_seconds__120m",
+    "median": null,
+    "observed": 0,
+    "q25": null,
+    "q75": null
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__supported_seconds__360m",
+    "median": null,
+    "observed": 0,
+    "q25": null,
+    "q75": null
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__supported_seconds__720m",
+    "median": null,
+    "observed": 0,
+    "q25": null,
+    "q75": null
+  },
+  {
+    "cohort": "all_development",
+    "measure": "quality__hr__supported_seconds__1440m",
+    "median": null,
+    "observed": 0,
+    "q25": null,
+    "q75": null
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__accepted_readings__5m",
+    "median": 198.0,
+    "observed": 1355,
+    "q25": 169.0,
+    "q75": 219.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__accepted_readings__15m",
+    "median": 596.0,
+    "observed": 1355,
+    "q25": 499.5,
+    "q75": 644.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__accepted_readings__30m",
+    "median": 1180.0,
+    "observed": 1355,
+    "q25": 832.5,
+    "q75": 1274.5
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__accepted_readings__60m",
+    "median": 2347.0,
+    "observed": 1355,
+    "q25": 1593.0,
+    "q75": 2525.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__accepted_readings__120m",
+    "median": 4581.0,
+    "observed": 1355,
+    "q25": 2925.0,
+    "q75": 4982.5
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__accepted_readings__360m",
+    "median": 9957.0,
+    "observed": 1355,
+    "q25": 5350.5,
+    "q75": 13856.5
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__accepted_readings__720m",
+    "median": 11921.0,
+    "observed": 1355,
+    "q25": 6742.0,
+    "q75": 20174.5
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__accepted_readings__1440m",
+    "median": 23202.0,
+    "observed": 1355,
+    "q25": 14159.5,
+    "q75": 29897.5
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__accepted_fraction__5m",
+    "median": 1.0,
+    "observed": 1214,
+    "q25": 1.0,
+    "q75": 1.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__accepted_fraction__15m",
+    "median": 1.0,
+    "observed": 1254,
+    "q25": 1.0,
+    "q75": 1.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__accepted_fraction__30m",
+    "median": 1.0,
+    "observed": 1293,
+    "q25": 1.0,
+    "q75": 1.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__accepted_fraction__60m",
+    "median": 1.0,
+    "observed": 1355,
+    "q25": 1.0,
+    "q75": 1.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__accepted_fraction__120m",
+    "median": 1.0,
+    "observed": 1355,
+    "q25": 1.0,
+    "q75": 1.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__accepted_fraction__360m",
+    "median": 1.0,
+    "observed": 1355,
+    "q25": 0.9998849780484561,
+    "q75": 1.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__accepted_fraction__720m",
+    "median": 0.9999557600424703,
+    "observed": 1355,
+    "q25": 0.9997779715870674,
+    "q75": 1.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__accepted_fraction__1440m",
+    "median": 0.9998572295392083,
+    "observed": 1355,
+    "q25": 0.9997117421826569,
+    "q75": 0.9999377889252483
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__occupied_fraction__5m",
+    "median": 1.0,
+    "observed": 1355,
+    "q25": 1.0,
+    "q75": 1.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__occupied_fraction__15m",
+    "median": 1.0,
+    "observed": 1355,
+    "q25": 1.0,
+    "q75": 1.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__occupied_fraction__30m",
+    "median": 1.0,
+    "observed": 1355,
+    "q25": 0.9,
+    "q75": 1.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__occupied_fraction__60m",
+    "median": 1.0,
+    "observed": 1355,
+    "q25": 0.7833333333333333,
+    "q75": 1.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__occupied_fraction__120m",
+    "median": 1.0,
+    "observed": 1355,
+    "q25": 0.6666666666666666,
+    "q75": 1.0
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__occupied_fraction__360m",
+    "median": 0.6916666666666667,
+    "observed": 1355,
+    "q25": 0.40555555555555556,
+    "q75": 0.9666666666666667
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__occupied_fraction__720m",
+    "median": 0.4222222222222222,
+    "observed": 1355,
+    "q25": 0.24583333333333335,
+    "q75": 0.6944444444444444
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__occupied_fraction__1440m",
+    "median": 0.40625,
+    "observed": 1355,
+    "q25": 0.2534722222222222,
+    "q75": 0.5128472222222222
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__span_seconds__5m",
+    "median": 298.1929740905762,
+    "observed": 1212,
+    "q25": 296.7320732474327,
+    "q75": 299.03251415491104
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__span_seconds__15m",
+    "median": 897.9776594638824,
+    "observed": 1248,
+    "q25": 896.0816001296043,
+    "q75": 898.812810242176
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__span_seconds__30m",
+    "median": 1797.8269679546356,
+    "observed": 1288,
+    "q25": 1793.6326543092728,
+    "q75": 1798.8245545625687
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__span_seconds__60m",
+    "median": 3597.4275209903717,
+    "observed": 1355,
+    "q25": 3392.067699074745,
+    "q75": 3598.743085026741
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__span_seconds__120m",
+    "median": 7197.007858753204,
+    "observed": 1355,
+    "q25": 5529.1517983675,
+    "q75": 7198.656323552132
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__span_seconds__360m",
+    "median": 18145.457332849503,
+    "observed": 1355,
+    "q25": 12604.441375017166,
+    "q75": 21597.584975481033
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__span_seconds__720m",
+    "median": 28768.589184999466,
+    "observed": 1355,
+    "q25": 15384.483182430267,
+    "q75": 41395.86281454563
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__span_seconds__1440m",
+    "median": 86385.69764995575,
+    "observed": 1355,
+    "q25": 75028.75100004673,
+    "q75": 86398.24015641212
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__latest_age_seconds__5m",
+    "median": 0.7582950592041016,
+    "observed": 1212,
+    "q25": 0.3847835659980774,
+    "q75": 1.5182315111160278
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__latest_age_seconds__15m",
+    "median": 0.7823729515075684,
+    "observed": 1248,
+    "q25": 0.3944880962371826,
+    "q75": 1.6471606492996216
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__latest_age_seconds__30m",
+    "median": 0.810248613357544,
+    "observed": 1288,
+    "q25": 0.40480726957321167,
+    "q75": 1.7595254778862
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__latest_age_seconds__60m",
+    "median": 0.8505158424377441,
+    "observed": 1355,
+    "q25": 0.4344090223312378,
+    "q75": 2.0258694887161255
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__latest_age_seconds__120m",
+    "median": 0.8505158424377441,
+    "observed": 1355,
+    "q25": 0.4344090223312378,
+    "q75": 2.0258694887161255
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__latest_age_seconds__360m",
+    "median": 0.8505158424377441,
+    "observed": 1355,
+    "q25": 0.4344090223312378,
+    "q75": 2.0258694887161255
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__latest_age_seconds__720m",
+    "median": 0.8505158424377441,
+    "observed": 1355,
+    "q25": 0.4344090223312378,
+    "q75": 2.0258694887161255
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__latest_age_seconds__1440m",
+    "median": 0.8505158424377441,
+    "observed": 1355,
+    "q25": 0.4344090223312378,
+    "q75": 2.0258694887161255
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__maximum_gap_seconds__5m",
+    "median": 7.777726888656616,
+    "observed": 1355,
+    "q25": 5.066058397293091,
+    "q75": 14.915647506713867
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__maximum_gap_seconds__15m",
+    "median": 12.180307865142822,
+    "observed": 1355,
+    "q25": 8.189457058906555,
+    "q75": 29.844820380210876
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__maximum_gap_seconds__30m",
+    "median": 15.319658994674683,
+    "observed": 1355,
+    "q25": 10.929882884025574,
+    "q75": 176.39397954940796
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__maximum_gap_seconds__60m",
+    "median": 22.051016092300415,
+    "observed": 1355,
+    "q25": 13.78314197063446,
+    "q75": 734.6095665693283
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__maximum_gap_seconds__120m",
+    "median": 86.29883408546448,
+    "observed": 1355,
+    "q25": 17.828080534934998,
+    "q75": 2144.270141005516
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__maximum_gap_seconds__360m",
+    "median": 5740.87206697464,
+    "observed": 1355,
+    "q25": 592.9463855028152,
+    "q75": 10412.282736420631
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__maximum_gap_seconds__720m",
+    "median": 17467.386960983276,
+    "observed": 1355,
+    "q25": 10805.824516415596,
+    "q75": 29078.250776529312
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__maximum_gap_seconds__1440m",
+    "median": 41434.102820158005,
+    "observed": 1355,
+    "q25": 36562.46074998379,
+    "q75": 47344.733000040054
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__supported_pairs__5m",
+    "median": null,
+    "observed": 0,
+    "q25": null,
+    "q75": null
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__supported_pairs__15m",
+    "median": null,
+    "observed": 0,
+    "q25": null,
+    "q75": null
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__supported_pairs__30m",
+    "median": null,
+    "observed": 0,
+    "q25": null,
+    "q75": null
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__supported_pairs__60m",
+    "median": null,
+    "observed": 0,
+    "q25": null,
+    "q75": null
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__supported_pairs__120m",
+    "median": null,
+    "observed": 0,
+    "q25": null,
+    "q75": null
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__supported_pairs__360m",
+    "median": null,
+    "observed": 0,
+    "q25": null,
+    "q75": null
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__supported_pairs__720m",
+    "median": null,
+    "observed": 0,
+    "q25": null,
+    "q75": null
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__supported_pairs__1440m",
+    "median": null,
+    "observed": 0,
+    "q25": null,
+    "q75": null
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__supported_seconds__5m",
+    "median": null,
+    "observed": 0,
+    "q25": null,
+    "q75": null
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__supported_seconds__15m",
+    "median": null,
+    "observed": 0,
+    "q25": null,
+    "q75": null
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__supported_seconds__30m",
+    "median": null,
+    "observed": 0,
+    "q25": null,
+    "q75": null
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__supported_seconds__60m",
+    "median": null,
+    "observed": 0,
+    "q25": null,
+    "q75": null
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__supported_seconds__120m",
+    "median": null,
+    "observed": 0,
+    "q25": null,
+    "q75": null
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__supported_seconds__360m",
+    "median": null,
+    "observed": 0,
+    "q25": null,
+    "q75": null
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__supported_seconds__720m",
+    "median": null,
+    "observed": 0,
+    "q25": null,
+    "q75": null
+  },
+  {
+    "cohort": "matched_observed",
+    "measure": "quality__hr__supported_seconds__1440m",
+    "median": null,
+    "observed": 0,
+    "q25": null,
+    "q75": null
+  }
+]

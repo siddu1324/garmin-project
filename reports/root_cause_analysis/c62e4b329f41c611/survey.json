@@ -1,0 +1,326 @@
+[
+  {
+    "cohort": "all_development",
+    "mean": 6.281115879828326,
+    "measure": "pss_combo",
+    "participants": 124,
+    "responses": 932,
+    "sd": 2.6730841316645857,
+    "survey": "Endday"
+  },
+  {
+    "cohort": "all_development",
+    "mean": 6.343921139101862,
+    "measure": "pss_combo",
+    "participants": 125,
+    "responses": 1826,
+    "sd": 2.6916428272328385,
+    "survey": "Midday"
+  },
+  {
+    "cohort": "all_development",
+    "mean": 6.656283566058002,
+    "measure": "pss_combo",
+    "participants": 125,
+    "responses": 931,
+    "sd": 2.7123791764654115,
+    "survey": "Morning"
+  },
+  {
+    "cohort": "all_development",
+    "mean": 1.8468950749464668,
+    "measure": "ordinal_nervous",
+    "participants": 124,
+    "responses": 934,
+    "sd": 1.067449804145443,
+    "survey": "Endday"
+  },
+  {
+    "cohort": "all_development",
+    "mean": 1.883415435139573,
+    "measure": "ordinal_nervous",
+    "participants": 125,
+    "responses": 1827,
+    "sd": 1.078051335093965,
+    "survey": "Midday"
+  },
+  {
+    "cohort": "all_development",
+    "mean": 1.8120300751879699,
+    "measure": "ordinal_nervous",
+    "participants": 125,
+    "responses": 931,
+    "sd": 1.056523647841992,
+    "survey": "Morning"
+  },
+  {
+    "cohort": "all_development",
+    "mean": 2.137191854233655,
+    "measure": "ordinal_cope_difficulty",
+    "participants": 124,
+    "responses": 933,
+    "sd": 1.1339661504294742,
+    "survey": "Endday"
+  },
+  {
+    "cohort": "all_development",
+    "mean": 2.144578313253012,
+    "measure": "ordinal_cope_difficulty",
+    "participants": 125,
+    "responses": 1826,
+    "sd": 1.12550295005211,
+    "survey": "Midday"
+  },
+  {
+    "cohort": "all_development",
+    "mean": 2.277121374865736,
+    "measure": "ordinal_cope_difficulty",
+    "participants": 125,
+    "responses": 931,
+    "sd": 1.1408837761264927,
+    "survey": "Morning"
+  },
+  {
+    "cohort": "all_development",
+    "mean": 2.300429184549356,
+    "measure": "ordinal_control_difficulty",
+    "participants": 124,
+    "responses": 932,
+    "sd": 1.1142470729400684,
+    "survey": "Endday"
+  },
+  {
+    "cohort": "all_development",
+    "mean": 2.3154435925520263,
+    "measure": "ordinal_control_difficulty",
+    "participants": 125,
+    "responses": 1826,
+    "sd": 1.152080783575939,
+    "survey": "Midday"
+  },
+  {
+    "cohort": "all_development",
+    "mean": 2.5671321160042964,
+    "measure": "ordinal_control_difficulty",
+    "participants": 125,
+    "responses": 931,
+    "sd": 1.2139663255279531,
+    "survey": "Morning"
+  },
+  {
+    "cohort": "all_development",
+    "mean": 3.862808145766345,
+    "measure": "item_cope",
+    "participants": 124,
+    "responses": 933,
+    "sd": 1.1339661504294742,
+    "survey": "Endday"
+  },
+  {
+    "cohort": "all_development",
+    "mean": 3.855421686746988,
+    "measure": "item_cope",
+    "participants": 125,
+    "responses": 1826,
+    "sd": 1.12550295005211,
+    "survey": "Midday"
+  },
+  {
+    "cohort": "all_development",
+    "mean": 3.722878625134264,
+    "measure": "item_cope",
+    "participants": 125,
+    "responses": 931,
+    "sd": 1.1408837761264927,
+    "survey": "Morning"
+  },
+  {
+    "cohort": "all_development",
+    "mean": 3.699570815450644,
+    "measure": "item_control",
+    "participants": 124,
+    "responses": 932,
+    "sd": 1.1142470729400684,
+    "survey": "Endday"
+  },
+  {
+    "cohort": "all_development",
+    "mean": 3.6845564074479737,
+    "measure": "item_control",
+    "participants": 125,
+    "responses": 1826,
+    "sd": 1.152080783575939,
+    "survey": "Midday"
+  },
+  {
+    "cohort": "all_development",
+    "mean": 3.4328678839957036,
+    "measure": "item_control",
+    "participants": 125,
+    "responses": 931,
+    "sd": 1.2139663255279531,
+    "survey": "Morning"
+  },
+  {
+    "cohort": "matched_observed",
+    "mean": 6.222520107238606,
+    "measure": "pss_combo",
+    "participants": 97,
+    "responses": 373,
+    "sd": 2.46945361545197,
+    "survey": "Endday"
+  },
+  {
+    "cohort": "matched_observed",
+    "mean": 6.267080745341615,
+    "measure": "pss_combo",
+    "participants": 111,
+    "responses": 805,
+    "sd": 2.5572007491264306,
+    "survey": "Midday"
+  },
+  {
+    "cohort": "matched_observed",
+    "mean": 6.367231638418079,
+    "measure": "pss_combo",
+    "participants": 73,
+    "responses": 177,
+    "sd": 2.642667754526002,
+    "survey": "Morning"
+  },
+  {
+    "cohort": "matched_observed",
+    "mean": 1.8096514745308312,
+    "measure": "ordinal_nervous",
+    "participants": 97,
+    "responses": 373,
+    "sd": 1.007345674687191,
+    "survey": "Endday"
+  },
+  {
+    "cohort": "matched_observed",
+    "mean": 1.9055900621118012,
+    "measure": "ordinal_nervous",
+    "participants": 111,
+    "responses": 805,
+    "sd": 1.0690261788400666,
+    "survey": "Midday"
+  },
+  {
+    "cohort": "matched_observed",
+    "mean": 1.768361581920904,
+    "measure": "ordinal_nervous",
+    "participants": 73,
+    "responses": 177,
+    "sd": 1.0210923987071314,
+    "survey": "Morning"
+  },
+  {
+    "cohort": "matched_observed",
+    "mean": 2.1072386058981234,
+    "measure": "ordinal_cope_difficulty",
+    "participants": 97,
+    "responses": 373,
+    "sd": 1.1019416584922417,
+    "survey": "Endday"
+  },
+  {
+    "cohort": "matched_observed",
+    "mean": 2.080745341614907,
+    "measure": "ordinal_cope_difficulty",
+    "participants": 111,
+    "responses": 805,
+    "sd": 1.0637348269580027,
+    "survey": "Midday"
+  },
+  {
+    "cohort": "matched_observed",
+    "mean": 2.1129943502824857,
+    "measure": "ordinal_cope_difficulty",
+    "participants": 73,
+    "responses": 177,
+    "sd": 1.1224468832197438,
+    "survey": "Morning"
+  },
+  {
+    "cohort": "matched_observed",
+    "mean": 2.3056300268096517,
+    "measure": "ordinal_control_difficulty",
+    "participants": 97,
+    "responses": 373,
+    "sd": 1.0175320355630295,
+    "survey": "Endday"
+  },
+  {
+    "cohort": "matched_observed",
+    "mean": 2.280745341614907,
+    "measure": "ordinal_control_difficulty",
+    "participants": 111,
+    "responses": 805,
+    "sd": 1.0769818898377985,
+    "survey": "Midday"
+  },
+  {
+    "cohort": "matched_observed",
+    "mean": 2.4858757062146895,
+    "measure": "ordinal_control_difficulty",
+    "participants": 73,
+    "responses": 177,
+    "sd": 1.0980734401294943,
+    "survey": "Morning"
+  },
+  {
+    "cohort": "matched_observed",
+    "mean": 3.8927613941018766,
+    "measure": "item_cope",
+    "participants": 97,
+    "responses": 373,
+    "sd": 1.1019416584922417,
+    "survey": "Endday"
+  },
+  {
+    "cohort": "matched_observed",
+    "mean": 3.919254658385093,
+    "measure": "item_cope",
+    "participants": 111,
+    "responses": 805,
+    "sd": 1.0637348269580027,
+    "survey": "Midday"
+  },
+  {
+    "cohort": "matched_observed",
+    "mean": 3.8870056497175143,
+    "measure": "item_cope",
+    "participants": 73,
+    "responses": 177,
+    "sd": 1.1224468832197438,
+    "survey": "Morning"
+  },
+  {
+    "cohort": "matched_observed",
+    "mean": 3.6943699731903483,
+    "measure": "item_control",
+    "participants": 97,
+    "responses": 373,
+    "sd": 1.0175320355630295,
+    "survey": "Endday"
+  },
+  {
+    "cohort": "matched_observed",
+    "mean": 3.719254658385093,
+    "measure": "item_control",
+    "participants": 111,
+    "responses": 805,
+    "sd": 1.0769818898377985,
+    "survey": "Midday"
+  },
+  {
+    "cohort": "matched_observed",
+    "mean": 3.5141242937853105,
+    "measure": "item_control",
+    "participants": 73,
+    "responses": 177,
+    "sd": 1.0980734401294943,
+    "survey": "Morning"
+  }
+]

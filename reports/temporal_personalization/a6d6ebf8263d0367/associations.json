@@ -1,0 +1,46 @@
+[
+  {
+    "bootstrap_draws": 500,
+    "context_activity_adjusted_correlation": 0.038362779844863186,
+    "feature": "hr__mean__60m",
+    "lower": -0.05092059445834444,
+    "meaning": "Retrospective association; refit nuisance adjustment per participant draw; not predictive accuracy",
+    "participants": 113,
+    "raw_correlation": 0.03861920167020138,
+    "responses": 1373,
+    "upper": 0.13724897565346836
+  },
+  {
+    "bootstrap_draws": 500,
+    "context_activity_adjusted_correlation": 0.009330900829355771,
+    "feature": "hr__sd__60m",
+    "lower": -0.05121294013606214,
+    "meaning": "Retrospective association; refit nuisance adjustment per participant draw; not predictive accuracy",
+    "participants": 113,
+    "raw_correlation": 0.013574597593203997,
+    "responses": 1373,
+    "upper": 0.06406634583446237
+  },
+  {
+    "bootstrap_draws": 500,
+    "context_activity_adjusted_correlation": 0.011617590744680144,
+    "feature": "hr_mean_deviation_bpm",
+    "lower": -0.05365972011373603,
+    "meaning": "Retrospective association; refit nuisance adjustment per participant draw; not predictive accuracy",
+    "participants": 112,
+    "raw_correlation": 0.015161717335859392,
+    "responses": 1328,
+    "upper": 0.06845814177554058
+  },
+  {
+    "bootstrap_draws": 500,
+    "context_activity_adjusted_correlation": -0.05959730797519798,
+    "feature": "clock_mean_deviation",
+    "lower": -0.13404710667949657,
+    "meaning": "Retrospective association; refit nuisance adjustment per participant draw; not predictive accuracy",
+    "participants": 105,
+    "raw_correlation": -0.05461169379502171,
+    "responses": 756,
+    "upper": 0.010503263585846257
+  }
+]

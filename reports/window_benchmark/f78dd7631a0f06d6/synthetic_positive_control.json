@@ -1,0 +1,9 @@
+{
+  "fixed_ridge_mae": 0.0077438663306076275,
+  "hgb_mae": 0.266075355597806,
+  "median_mae": 3.6,
+  "outer_folds": 5,
+  "participants": 30,
+  "responses": 300,
+  "synthetic_only": true
+}

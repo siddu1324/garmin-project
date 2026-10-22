@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "baseline_bundle": "private/ema_baseline/runs/640600af77404ff6",
+  "followup_bundle": "private/hr_support_loss/runs/c9caf911d30a6271",
+  "feature_bundle": "private/hr_activity/features/76f5885b3955d5b0",
+  "lookbacks_minutes": [5, 15, 30, 60, 120, 360, 720, 1440],
+  "training_diagnostic_lookback_minutes": 5,
+  "training_diagnostic_policy": "A",
+  "training_diagnostic_scope": "native",
+  "models": ["context", "hr", "context_hr"],
+  "alphas": [0, 0.001, 0.01],
+  "quantile": 0.5,
+  "solver": "highs",
+  "coefficient_zero_tolerance": 1e-8,
+  "wake_scenarios_seconds": {"reported_minute_start": 0, "reported_minute_end_sensitivity": 60},
+  "wake_date_rule": "actual_start_local_calendar_date_no_rollover_repair",
+  "wake_offset_rule": "same_as_current_ema_provisional",
+  "boundary_available_at_prediction": false
+}

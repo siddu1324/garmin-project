@@ -1,0 +1,258 @@
+[
+  {
+    "band_counts": {
+      "10\u201315": 515,
+      "3\u20134": 1033,
+      "5\u20139": 2141
+    },
+    "cohort": "all_valid",
+    "included": true,
+    "participants": 125,
+    "responses": 3689,
+    "score_mean": 6.406885334779073,
+    "score_median": 6.0,
+    "score_sd": 2.6955145271905283,
+    "scores_available": 3689,
+    "survey": "All"
+  },
+  {
+    "band_counts": {
+      "10\u201315": 116,
+      "3\u20134": 274,
+      "5\u20139": 542
+    },
+    "cohort": "all_valid",
+    "included": true,
+    "participants": 124,
+    "responses": 932,
+    "score_mean": 6.281115879828326,
+    "score_median": 6.0,
+    "score_sd": 2.6730841316645857,
+    "scores_available": 932,
+    "survey": "Endday"
+  },
+  {
+    "band_counts": {
+      "10\u201315": 242,
+      "3\u20134": 532,
+      "5\u20139": 1052
+    },
+    "cohort": "all_valid",
+    "included": true,
+    "participants": 125,
+    "responses": 1826,
+    "score_mean": 6.343921139101862,
+    "score_median": 6.0,
+    "score_sd": 2.6916428272328385,
+    "scores_available": 1826,
+    "survey": "Midday"
+  },
+  {
+    "band_counts": {
+      "10\u201315": 157,
+      "3\u20134": 227,
+      "5\u20139": 547
+    },
+    "cohort": "all_valid",
+    "included": true,
+    "participants": 125,
+    "responses": 931,
+    "score_mean": 6.656283566058002,
+    "score_median": 7.0,
+    "score_sd": 2.7123791764654115,
+    "scores_available": 931,
+    "survey": "Morning"
+  },
+  {
+    "band_counts": {
+      "10\u201315": 0,
+      "3\u20134": 0,
+      "5\u20139": 0
+    },
+    "cohort": "all_valid",
+    "included": false,
+    "participants": 14,
+    "responses": 17,
+    "score_mean": null,
+    "score_median": null,
+    "score_sd": null,
+    "scores_available": 0,
+    "survey": "All"
+  },
+  {
+    "band_counts": {
+      "10\u201315": 0,
+      "3\u20134": 0,
+      "5\u20139": 0
+    },
+    "cohort": "all_valid",
+    "included": false,
+    "participants": 2,
+    "responses": 2,
+    "score_mean": null,
+    "score_median": null,
+    "score_sd": null,
+    "scores_available": 0,
+    "survey": "Endday"
+  },
+  {
+    "band_counts": {
+      "10\u201315": 0,
+      "3\u20134": 0,
+      "5\u20139": 0
+    },
+    "cohort": "all_valid",
+    "included": false,
+    "participants": 11,
+    "responses": 12,
+    "score_mean": null,
+    "score_median": null,
+    "score_sd": null,
+    "scores_available": 0,
+    "survey": "Midday"
+  },
+  {
+    "band_counts": {
+      "10\u201315": 0,
+      "3\u20134": 0,
+      "5\u20139": 0
+    },
+    "cohort": "all_valid",
+    "included": false,
+    "participants": 3,
+    "responses": 3,
+    "score_mean": null,
+    "score_median": null,
+    "score_sd": null,
+    "scores_available": 0,
+    "survey": "Morning"
+  },
+  {
+    "band_counts": {
+      "10\u201315": 163,
+      "3\u20134": 384,
+      "5\u20139": 808
+    },
+    "cohort": "complete60",
+    "included": true,
+    "participants": 113,
+    "responses": 1355,
+    "score_mean": 6.26789667896679,
+    "score_median": 6.0,
+    "score_sd": 2.543238132010363,
+    "scores_available": 1355,
+    "survey": "All"
+  },
+  {
+    "band_counts": {
+      "10\u201315": 38,
+      "3\u20134": 103,
+      "5\u20139": 232
+    },
+    "cohort": "complete60",
+    "included": true,
+    "participants": 97,
+    "responses": 373,
+    "score_mean": 6.222520107238606,
+    "score_median": 6.0,
+    "score_sd": 2.46945361545197,
+    "scores_available": 373,
+    "survey": "Endday"
+  },
+  {
+    "band_counts": {
+      "10\u201315": 99,
+      "3\u20134": 230,
+      "5\u20139": 476
+    },
+    "cohort": "complete60",
+    "included": true,
+    "participants": 111,
+    "responses": 805,
+    "score_mean": 6.267080745341615,
+    "score_median": 6.0,
+    "score_sd": 2.5572007491264306,
+    "scores_available": 805,
+    "survey": "Midday"
+  },
+  {
+    "band_counts": {
+      "10\u201315": 26,
+      "3\u20134": 51,
+      "5\u20139": 100
+    },
+    "cohort": "complete60",
+    "included": true,
+    "participants": 73,
+    "responses": 177,
+    "score_mean": 6.367231638418079,
+    "score_median": 6.0,
+    "score_sd": 2.642667754526002,
+    "scores_available": 177,
+    "survey": "Morning"
+  },
+  {
+    "band_counts": {
+      "10\u201315": 352,
+      "3\u20134": 649,
+      "5\u20139": 1333
+    },
+    "cohort": "complete60",
+    "included": false,
+    "participants": 125,
+    "responses": 2351,
+    "score_mean": 6.487574978577549,
+    "score_median": 6.0,
+    "score_sd": 2.7774380071523215,
+    "scores_available": 2334,
+    "survey": "All"
+  },
+  {
+    "band_counts": {
+      "10\u201315": 78,
+      "3\u20134": 171,
+      "5\u20139": 310
+    },
+    "cohort": "complete60",
+    "included": false,
+    "participants": 119,
+    "responses": 561,
+    "score_mean": 6.320214669051879,
+    "score_median": 6.0,
+    "score_sd": 2.8022269607399206,
+    "scores_available": 559,
+    "survey": "Endday"
+  },
+  {
+    "band_counts": {
+      "10\u201315": 143,
+      "3\u20134": 302,
+      "5\u20139": 576
+    },
+    "cohort": "complete60",
+    "included": false,
+    "participants": 122,
+    "responses": 1033,
+    "score_mean": 6.404505386875612,
+    "score_median": 6.0,
+    "score_sd": 2.7928373504202364,
+    "scores_available": 1021,
+    "survey": "Midday"
+  },
+  {
+    "band_counts": {
+      "10\u201315": 131,
+      "3\u20134": 176,
+      "5\u20139": 447
+    },
+    "cohort": "complete60",
+    "included": false,
+    "participants": 125,
+    "responses": 757,
+    "score_mean": 6.724137931034483,
+    "score_median": 7.0,
+    "score_sd": 2.725761389458825,
+    "scores_available": 754,
+    "survey": "Morning"
+  }
+]

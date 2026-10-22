@@ -1,0 +1,19 @@
+{
+  "scope": "Authorized repository publication; documentation and Git privacy policy only",
+  "changes": {
+    "README.md": {
+      "before_sha256": "907f29a4198f5191972bd405da3025fa5298be75186ac6be63c845cdd372f2cf",
+      "after_sha256": "0e863a49a8350a43aeb99123b9f5fb9357152352c795829389ba7e0f278757d0"
+    },
+    ".gitignore": {
+      "before_sha256": "4e1d7fecebc519d598c84084634e4799f10aa20c1e1ed1ea87e3d10ed25f241b",
+      "after_sha256": "9e98d5b8e52d5a12c04f61149edfb1730116ca292638431ed93de8ea8464e7f2"
+    },
+    "src/garmin_inventory/privacy.py": {
+      "before_sha256": "4e93270f51e64de8b5960775f9288c3eaa2d22a034445b06b62935e38ab47fd6",
+      "after_sha256": "dae0346991798131f9d236a0f5db6a6f4fd7cfa68ca6b228a9d465050ddbfc2d"
+    }
+  },
+  "research_results_changed": false,
+  "old_snapshots_preserved": true
+}

@@ -1,0 +1,21 @@
+{
+  "aggregate_only": true,
+  "artifact_sha256": {
+    "availability.json": "b53cb0924ca9805c93ab2d31463e13eca0c6a0dd86a622ad1d186526f8c00665",
+    "availability.png": "1e696e1d70c2b9e06cb6064eb6cb71bd6f480ca81fa4908d906b7ce2b8a95c4e",
+    "feature_dictionary.json": "171ad0a198cad93ef35182070e19158f4ed7d468ae0bc5dda4b66afaafbf7b56",
+    "gaps.json": "4a06d97fa6abc70e2c9ce2be2b73e279daa340a77bf4b4d95f4d01a2a8904797",
+    "overlap.json": "ea4bcbc56dc9bd5e1916b4c46d7920bbe2552f7bea72fa69c75d3b80cc9072f4",
+    "overlap_and_gaps.png": "5f152b76e1cb8eea739983f100f76cbb64ea0807b366b66e49d74447dfd51249",
+    "report.md": "8a112ee54fdf631e1368d8e3673a7833ba2237a7c99c236c3da2984b3e805159",
+    "summary.json": "0aff13e3f173d8e86eb8373b79b5e2cd5c74b8caca7cf21d2229aba8045f83a2",
+    "survey_availability.png": "38c4598fa5494fd180b4f95dab014080fa5a1ea6b38f0cce433612a980bb8094"
+  },
+  "complete": true,
+  "inputs": {
+    "feature_manifest": "ab183e1ca213f5316115d5ad85c9e979209150054555c15b3486fd8318708632",
+    "renderer_sha256": "0e2343b2f8508ed663cc262c8dbd7f5d8d58cd8217f2981a5e23e63618055b74",
+    "supersession_sha256": "581db6247b08404cf5b6060c9a3c59d61a6c5851e5c68d5707eddf9d14905447"
+  },
+  "version": "a0b35fdd1c3ad3ae"
+}

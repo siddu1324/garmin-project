@@ -1,0 +1,60 @@
+{
+  "complete": true,
+  "completed_at": "2026-10-20T00:55:41.602097+00:00",
+  "presentation_sha256": {
+    "notebooks/15_binary_pss_6hour_experiments.ipynb": "4481bb0ce2bb968593d1ba521e86a21f55223066c37ff1761792c5f3049d3a82",
+    "reports/binary_6hour/README.md": "54d0daa8efa66549234395bf64b6e4277c6b202a5e9ddcd750515df6c44832b5",
+    "reports/binary_6hour/index.html": "ead72f096964e3d8ad5e8ed1decd977f6034ca9fd5084ec93670040797d702a8",
+    "reports/binary_6hour/specification.md": "6f0a312e692576b6b56f958973d2295974bd93923b731bd7448c4cfc0b9b479c",
+    "reports/binary_6hour/summary_for_will.md": "de110af715523bcd7b97375bd2dcd52dec56378a924eeb4d3ca70c205f3aeb5c",
+    "reports/binary_6hour/verification.md": "c52875be49c8189839ce5cf4818bf87a485bd990a4c74fa0750766e836d83268"
+  },
+  "private_manifest_sha256": "28131de1dd2cbec6a2fc9616d312d9e0481a48af781e5acb480de75d9b3f1adf",
+  "public_manifest_sha256": "434e25deee58065ae7cc87d3f5acca2520b8310fffc2107325706ecf14f5dad0",
+  "row_counts": {
+    "all_predictions.parquet": 363106,
+    "ema_accounting.parquet": 3706,
+    "new_readings_120m.parquet": 3689,
+    "new_readings_360m.parquet": 3689,
+    "quality_accounting.parquet": 11067
+  },
+  "run": "11442e75c7e434aa",
+  "source_sha256": {
+    "config/binary_6hour.json": "67fb38b7b26e3cb61569a4844f3306375ab08c28dfccd07ba6e97b9b0138a7af",
+    "reports/binary_6hour/specification.md": "6f0a312e692576b6b56f958973d2295974bd93923b731bd7448c4cfc0b9b479c",
+    "src/garmin_binary_6hour/__init__.py": "ee9f55d09c3c5900dc406f93a7fff66ab0f57c1e1fddade59a8f9be0fd033971",
+    "src/garmin_binary_6hour/diagnostics.py": "9e4f8f59814a0ee12d20a89565ff4a93c129a01f814dd0156f2d570f67d5f12f",
+    "src/garmin_binary_6hour/evaluate.py": "9a4899b4b7f09dabffd05ec3db7825b4aa2e537bc66ee89cd67938aef8c83e94",
+    "src/garmin_binary_6hour/metrics.py": "f97732ca91f51a1945794126505ef0a36d49136ff19d7eb1615ccb1f93c39cbc",
+    "src/garmin_binary_6hour/models.py": "d05b2413a5f3e338ad8a441fa4a66e44ace22e8fecdfe08416df652cfc8b9dc3",
+    "src/garmin_binary_6hour/privacy.py": "5f7253ac08b41c24f548169c56ea76649be7a365ab54d0381d5da8851c19bc8d",
+    "src/garmin_binary_6hour/report.py": "75fc12c1c2125d5c7ae0574bc3b646a3fee4e78d73ca191f6c5959ab30e1a43e",
+    "src/garmin_binary_6hour/run.py": "2ba62865bb9ad0c5d0986fec186c0a429b464bccc8702415634a6e09852349d2",
+    "src/garmin_binary_6hour/verify.py": "68be331b18d318e19c6312de16d800ef14b148a68ce7fb689b870e1f11d70ec0",
+    "tests/test_binary_6hour.py": "5e0e87e7cffd0671423b19c041d7e6ee022f2bf6dc53b3ac130111b3960ad82b"
+  },
+  "verification": {
+    "browser_external_requests": 0,
+    "browser_screenshots": 15,
+    "estimator_replays": 500,
+    "executed_notebook_cells": 10,
+    "feature_bundle": "unchanged",
+    "final_test_evaluated": false,
+    "frozen_assignments": "unchanged",
+    "independent_fresh_fits": 12,
+    "inner_membership_checks": 1500,
+    "max_prediction_error": 0.0,
+    "nonconverged_candidates": 11,
+    "notebook13_and_14_seals": "unchanged",
+    "old_files_preserved": 730,
+    "old_private_manifests_preserved": 1518,
+    "privacy": "passed",
+    "public_files_scanned": 682,
+    "raw_contents_reread": false,
+    "raw_metadata_checks": 7870,
+    "ruff": "passed",
+    "tests_passed": 198,
+    "training_prediction_replays": 500,
+    "tuning_candidates": 5760
+  }
+}

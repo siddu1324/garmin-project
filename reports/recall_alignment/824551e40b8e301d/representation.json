@@ -1,0 +1,272 @@
+[
+  {
+    "candidate_participants": 0,
+    "candidate_responses": 0,
+    "fold": 0,
+    "participants": 25,
+    "responses": 189,
+    "scenario": "reported_minute_end_sensitivity",
+    "survey_category": "Endday"
+  },
+  {
+    "candidate_participants": 0,
+    "candidate_responses": 0,
+    "fold": 1,
+    "participants": 25,
+    "responses": 193,
+    "scenario": "reported_minute_end_sensitivity",
+    "survey_category": "Endday"
+  },
+  {
+    "candidate_participants": 0,
+    "candidate_responses": 0,
+    "fold": 2,
+    "participants": 25,
+    "responses": 191,
+    "scenario": "reported_minute_end_sensitivity",
+    "survey_category": "Endday"
+  },
+  {
+    "candidate_participants": 0,
+    "candidate_responses": 0,
+    "fold": 3,
+    "participants": 24,
+    "responses": 175,
+    "scenario": "reported_minute_end_sensitivity",
+    "survey_category": "Endday"
+  },
+  {
+    "candidate_participants": 0,
+    "candidate_responses": 0,
+    "fold": 4,
+    "participants": 25,
+    "responses": 186,
+    "scenario": "reported_minute_end_sensitivity",
+    "survey_category": "Endday"
+  },
+  {
+    "candidate_participants": 0,
+    "candidate_responses": 0,
+    "fold": 0,
+    "participants": 25,
+    "responses": 367,
+    "scenario": "reported_minute_end_sensitivity",
+    "survey_category": "Midday"
+  },
+  {
+    "candidate_participants": 0,
+    "candidate_responses": 0,
+    "fold": 1,
+    "participants": 25,
+    "responses": 380,
+    "scenario": "reported_minute_end_sensitivity",
+    "survey_category": "Midday"
+  },
+  {
+    "candidate_participants": 0,
+    "candidate_responses": 0,
+    "fold": 2,
+    "participants": 25,
+    "responses": 373,
+    "scenario": "reported_minute_end_sensitivity",
+    "survey_category": "Midday"
+  },
+  {
+    "candidate_participants": 0,
+    "candidate_responses": 0,
+    "fold": 3,
+    "participants": 25,
+    "responses": 367,
+    "scenario": "reported_minute_end_sensitivity",
+    "survey_category": "Midday"
+  },
+  {
+    "candidate_participants": 0,
+    "candidate_responses": 0,
+    "fold": 4,
+    "participants": 25,
+    "responses": 351,
+    "scenario": "reported_minute_end_sensitivity",
+    "survey_category": "Midday"
+  },
+  {
+    "candidate_participants": 25,
+    "candidate_responses": 166,
+    "fold": 0,
+    "participants": 25,
+    "responses": 188,
+    "scenario": "reported_minute_end_sensitivity",
+    "survey_category": "Morning"
+  },
+  {
+    "candidate_participants": 25,
+    "candidate_responses": 173,
+    "fold": 1,
+    "participants": 25,
+    "responses": 193,
+    "scenario": "reported_minute_end_sensitivity",
+    "survey_category": "Morning"
+  },
+  {
+    "candidate_participants": 25,
+    "candidate_responses": 154,
+    "fold": 2,
+    "participants": 25,
+    "responses": 182,
+    "scenario": "reported_minute_end_sensitivity",
+    "survey_category": "Morning"
+  },
+  {
+    "candidate_participants": 25,
+    "candidate_responses": 163,
+    "fold": 3,
+    "participants": 25,
+    "responses": 187,
+    "scenario": "reported_minute_end_sensitivity",
+    "survey_category": "Morning"
+  },
+  {
+    "candidate_participants": 25,
+    "candidate_responses": 170,
+    "fold": 4,
+    "participants": 25,
+    "responses": 184,
+    "scenario": "reported_minute_end_sensitivity",
+    "survey_category": "Morning"
+  },
+  {
+    "candidate_participants": 0,
+    "candidate_responses": 0,
+    "fold": 0,
+    "participants": 25,
+    "responses": 189,
+    "scenario": "reported_minute_start",
+    "survey_category": "Endday"
+  },
+  {
+    "candidate_participants": 0,
+    "candidate_responses": 0,
+    "fold": 1,
+    "participants": 25,
+    "responses": 193,
+    "scenario": "reported_minute_start",
+    "survey_category": "Endday"
+  },
+  {
+    "candidate_participants": 0,
+    "candidate_responses": 0,
+    "fold": 2,
+    "participants": 25,
+    "responses": 191,
+    "scenario": "reported_minute_start",
+    "survey_category": "Endday"
+  },
+  {
+    "candidate_participants": 0,
+    "candidate_responses": 0,
+    "fold": 3,
+    "participants": 24,
+    "responses": 175,
+    "scenario": "reported_minute_start",
+    "survey_category": "Endday"
+  },
+  {
+    "candidate_participants": 0,
+    "candidate_responses": 0,
+    "fold": 4,
+    "participants": 25,
+    "responses": 186,
+    "scenario": "reported_minute_start",
+    "survey_category": "Endday"
+  },
+  {
+    "candidate_participants": 0,
+    "candidate_responses": 0,
+    "fold": 0,
+    "participants": 25,
+    "responses": 367,
+    "scenario": "reported_minute_start",
+    "survey_category": "Midday"
+  },
+  {
+    "candidate_participants": 0,
+    "candidate_responses": 0,
+    "fold": 1,
+    "participants": 25,
+    "responses": 380,
+    "scenario": "reported_minute_start",
+    "survey_category": "Midday"
+  },
+  {
+    "candidate_participants": 0,
+    "candidate_responses": 0,
+    "fold": 2,
+    "participants": 25,
+    "responses": 373,
+    "scenario": "reported_minute_start",
+    "survey_category": "Midday"
+  },
+  {
+    "candidate_participants": 0,
+    "candidate_responses": 0,
+    "fold": 3,
+    "participants": 25,
+    "responses": 367,
+    "scenario": "reported_minute_start",
+    "survey_category": "Midday"
+  },
+  {
+    "candidate_participants": 0,
+    "candidate_responses": 0,
+    "fold": 4,
+    "participants": 25,
+    "responses": 351,
+    "scenario": "reported_minute_start",
+    "survey_category": "Midday"
+  },
+  {
+    "candidate_participants": 25,
+    "candidate_responses": 167,
+    "fold": 0,
+    "participants": 25,
+    "responses": 188,
+    "scenario": "reported_minute_start",
+    "survey_category": "Morning"
+  },
+  {
+    "candidate_participants": 25,
+    "candidate_responses": 177,
+    "fold": 1,
+    "participants": 25,
+    "responses": 193,
+    "scenario": "reported_minute_start",
+    "survey_category": "Morning"
+  },
+  {
+    "candidate_participants": 25,
+    "candidate_responses": 157,
+    "fold": 2,
+    "participants": 25,
+    "responses": 182,
+    "scenario": "reported_minute_start",
+    "survey_category": "Morning"
+  },
+  {
+    "candidate_participants": 25,
+    "candidate_responses": 164,
+    "fold": 3,
+    "participants": 25,
+    "responses": 187,
+    "scenario": "reported_minute_start",
+    "survey_category": "Morning"
+  },
+  {
+    "candidate_participants": 25,
+    "candidate_responses": 171,
+    "fold": 4,
+    "participants": 25,
+    "responses": 184,
+    "scenario": "reported_minute_start",
+    "survey_category": "Morning"
+  }
+]

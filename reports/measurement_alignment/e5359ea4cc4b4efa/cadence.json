@@ -1,0 +1,34 @@
+[
+  {
+    "adjacent_pairs": 15618159,
+    "finite_clocks": 15618282,
+    "fractional_timestamps": 15617032,
+    "gap_gt_2_seconds": 3006889,
+    "gap_gt_300_seconds": 4723,
+    "gap_gt_3600_seconds": 2675,
+    "gap_gt_60_seconds": 7130,
+    "median_of_participant_median_gap_seconds": 1.050389051437378,
+    "participants": 123,
+    "records": 15618282,
+    "repeated_value_adjacent": 1498279,
+    "sensor": "hr",
+    "source_order_reversals": 0,
+    "timestamp_repeat_pairs": 22
+  },
+  {
+    "adjacent_pairs": 1063170,
+    "finite_clocks": 1063293,
+    "fractional_timestamps": 1063188,
+    "gap_gt_2_seconds": 123849,
+    "gap_gt_300_seconds": 19229,
+    "gap_gt_3600_seconds": 3283,
+    "gap_gt_60_seconds": 48834,
+    "median_of_participant_median_gap_seconds": 1.0496938228607178,
+    "participants": 123,
+    "records": 1063293,
+    "repeated_value_adjacent": 9473,
+    "sensor": "steps",
+    "source_order_reversals": 0,
+    "timestamp_repeat_pairs": 2
+  }
+]

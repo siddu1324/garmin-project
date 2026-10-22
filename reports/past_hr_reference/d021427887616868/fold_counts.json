@@ -1,0 +1,42 @@
+[
+  {
+    "fold": 0,
+    "status": "fitted",
+    "training_participants": 91,
+    "training_responses": 1211,
+    "validation_participants": 25,
+    "validation_responses": 364
+  },
+  {
+    "fold": 1,
+    "status": "fitted",
+    "training_participants": 94,
+    "training_responses": 1232,
+    "validation_participants": 22,
+    "validation_responses": 343
+  },
+  {
+    "fold": 2,
+    "status": "fitted",
+    "training_participants": 93,
+    "training_responses": 1270,
+    "validation_participants": 23,
+    "validation_responses": 305
+  },
+  {
+    "fold": 3,
+    "status": "fitted",
+    "training_participants": 94,
+    "training_responses": 1280,
+    "validation_participants": 22,
+    "validation_responses": 295
+  },
+  {
+    "fold": 4,
+    "status": "fitted",
+    "training_participants": 92,
+    "training_responses": 1307,
+    "validation_participants": 24,
+    "validation_responses": 268
+  }
+]

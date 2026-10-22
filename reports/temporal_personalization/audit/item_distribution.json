@@ -1,0 +1,170 @@
+[
+  {
+    "fraction": 0.19110870154513418,
+    "measure": "composite",
+    "responses": 705,
+    "value": 3.0
+  },
+  {
+    "fraction": 0.08891298454865817,
+    "measure": "composite",
+    "responses": 328,
+    "value": 4.0
+  },
+  {
+    "fraction": 0.14990512333965844,
+    "measure": "composite",
+    "responses": 553,
+    "value": 5.0
+  },
+  {
+    "fraction": 0.10897262130658715,
+    "measure": "composite",
+    "responses": 402,
+    "value": 6.0
+  },
+  {
+    "fraction": 0.13553808620222282,
+    "measure": "composite",
+    "responses": 500,
+    "value": 7.0
+  },
+  {
+    "fraction": 0.10517755489292491,
+    "measure": "composite",
+    "responses": 388,
+    "value": 8.0
+  },
+  {
+    "fraction": 0.08078069937652481,
+    "measure": "composite",
+    "responses": 298,
+    "value": 9.0
+  },
+  {
+    "fraction": 0.048251558687991324,
+    "measure": "composite",
+    "responses": 178,
+    "value": 10.0
+  },
+  {
+    "fraction": 0.052588777446462454,
+    "measure": "composite",
+    "responses": 194,
+    "value": 11.0
+  },
+  {
+    "fraction": 0.020330712930333422,
+    "measure": "composite",
+    "responses": 75,
+    "value": 12.0
+  },
+  {
+    "fraction": 0.009487666034155597,
+    "measure": "composite",
+    "responses": 35,
+    "value": 13.0
+  },
+  {
+    "fraction": 0.005150447275684467,
+    "measure": "composite",
+    "responses": 19,
+    "value": 14.0
+  },
+  {
+    "fraction": 0.003795066413662239,
+    "measure": "composite",
+    "responses": 14,
+    "value": 15.0
+  },
+  {
+    "fraction": 0.5135427952329361,
+    "measure": "item_nervous",
+    "responses": 1896,
+    "value": 1.0
+  },
+  {
+    "fraction": 0.23401950162513543,
+    "measure": "item_nervous",
+    "responses": 864,
+    "value": 2.0
+  },
+  {
+    "fraction": 0.15899241603466954,
+    "measure": "item_nervous",
+    "responses": 587,
+    "value": 3.0
+  },
+  {
+    "fraction": 0.06960996749729144,
+    "measure": "item_nervous",
+    "responses": 257,
+    "value": 4.0
+  },
+  {
+    "fraction": 0.023835319609967497,
+    "measure": "item_nervous",
+    "responses": 88,
+    "value": 5.0
+  },
+  {
+    "fraction": 0.34796747967479674,
+    "measure": "item_cope",
+    "responses": 1284,
+    "value": 1.0
+  },
+  {
+    "fraction": 0.3016260162601626,
+    "measure": "item_cope",
+    "responses": 1113,
+    "value": 2.0
+  },
+  {
+    "fraction": 0.22384823848238483,
+    "measure": "item_cope",
+    "responses": 826,
+    "value": 3.0
+  },
+  {
+    "fraction": 0.07940379403794037,
+    "measure": "item_cope",
+    "responses": 293,
+    "value": 4.0
+  },
+  {
+    "fraction": 0.04715447154471545,
+    "measure": "item_cope",
+    "responses": 174,
+    "value": 5.0
+  },
+  {
+    "fraction": 0.27812415288696124,
+    "measure": "item_control",
+    "responses": 1026,
+    "value": 1.0
+  },
+  {
+    "fraction": 0.28815397126592573,
+    "measure": "item_control",
+    "responses": 1063,
+    "value": 2.0
+  },
+  {
+    "fraction": 0.2762266196801301,
+    "measure": "item_control",
+    "responses": 1019,
+    "value": 3.0
+  },
+  {
+    "fraction": 0.09541881268636487,
+    "measure": "item_control",
+    "responses": 352,
+    "value": 4.0
+  },
+  {
+    "fraction": 0.062076443480618054,
+    "measure": "item_control",
+    "responses": 229,
+    "value": 5.0
+  }
+]

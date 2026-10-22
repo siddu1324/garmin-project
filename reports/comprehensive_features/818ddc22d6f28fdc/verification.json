@@ -1,0 +1,19 @@
+{
+  "browser_desktop_mobile": "passed",
+  "estimator_replays": 375,
+  "existing_files_preserved": 623,
+  "existing_private_manifests_preserved": 138,
+  "feature_manifest_sha256": "daa09cf902a161eb10cf0548c9346b2e19447cd7e31e056f49bc4124db4ac1cf",
+  "final_test_evaluation": false,
+  "frozen_assignments": "passed",
+  "independent_fresh_fits": 6,
+  "inner_split_checks": 1125,
+  "intentional_existing_change": "privacy.py adds explicitly authorized aggregate Notebook13 output validation",
+  "max_replay_probability_error": 0.0,
+  "nonconverged_candidates": 0,
+  "public_source_files_scanned": 39,
+  "ruff": "passed",
+  "source_integrity": "passed",
+  "tests_passed": 175,
+  "tuning_candidates": 1590
+}

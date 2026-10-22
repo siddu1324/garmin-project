@@ -1,0 +1,19 @@
+{
+  "augmentation_donors_checked": 419760,
+  "candidate_evaluations": 5290,
+  "extra_source_participants": 9,
+  "extra_source_traces": 36,
+  "failed_jobs": [],
+  "final_test_evaluated": false,
+  "independent_refits": 8,
+  "inner_participant_checks": 1920,
+  "matched_context_control_checks": 40,
+  "nonconverged_candidates": 0,
+  "original_checkpoint_reproductions": 180,
+  "preserved_files": 785,
+  "preserved_manifests": 2019,
+  "primary_prediction_rows_preserved": 401654,
+  "raw_metadata_checks": 7870,
+  "training_replays": 640,
+  "validation_replays": 640
+}

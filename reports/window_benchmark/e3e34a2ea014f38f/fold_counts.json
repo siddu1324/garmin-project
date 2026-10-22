@@ -1,0 +1,92 @@
+[
+  {
+    "block": "hr",
+    "fold": 0,
+    "status": "fitted",
+    "training_participants": 93,
+    "training_responses": 1262,
+    "validation_participants": 25,
+    "validation_responses": 372
+  },
+  {
+    "block": "hr",
+    "fold": 1,
+    "status": "fitted",
+    "training_participants": 95,
+    "training_responses": 1273,
+    "validation_participants": 23,
+    "validation_responses": 361
+  },
+  {
+    "block": "hr",
+    "fold": 2,
+    "status": "fitted",
+    "training_participants": 95,
+    "training_responses": 1320,
+    "validation_participants": 23,
+    "validation_responses": 314
+  },
+  {
+    "block": "hr",
+    "fold": 3,
+    "status": "fitted",
+    "training_participants": 95,
+    "training_responses": 1330,
+    "validation_participants": 23,
+    "validation_responses": 304
+  },
+  {
+    "block": "hr",
+    "fold": 4,
+    "status": "fitted",
+    "training_participants": 94,
+    "training_responses": 1351,
+    "validation_participants": 24,
+    "validation_responses": 283
+  },
+  {
+    "block": "hr_steps",
+    "fold": 0,
+    "status": "fitted",
+    "training_participants": 89,
+    "training_responses": 1048,
+    "validation_participants": 24,
+    "validation_responses": 307
+  },
+  {
+    "block": "hr_steps",
+    "fold": 1,
+    "status": "fitted",
+    "training_participants": 91,
+    "training_responses": 1075,
+    "validation_participants": 22,
+    "validation_responses": 280
+  },
+  {
+    "block": "hr_steps",
+    "fold": 2,
+    "status": "fitted",
+    "training_participants": 90,
+    "training_responses": 1066,
+    "validation_participants": 23,
+    "validation_responses": 289
+  },
+  {
+    "block": "hr_steps",
+    "fold": 3,
+    "status": "fitted",
+    "training_participants": 91,
+    "training_responses": 1090,
+    "validation_participants": 22,
+    "validation_responses": 265
+  },
+  {
+    "block": "hr_steps",
+    "fold": 4,
+    "status": "fitted",
+    "training_participants": 91,
+    "training_responses": 1141,
+    "validation_participants": 22,
+    "validation_responses": 214
+  }
+]

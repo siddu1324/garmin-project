@@ -1,0 +1,20 @@
+{
+  "current_aggregates": "reports/comprehensive_features/818ddc22d6f28fdc",
+  "current_features": "private/comprehensive_features/features/eecf1da995c39b27",
+  "current_models": "private/comprehensive_features/models/818ddc22d6f28fdc",
+  "preserved_base": "private/comprehensive_features/features/1bfbb247db489957",
+  "prior_notebooks_and_bundles": "Preserved; not silently replaced. Notebook13 is a new matched-cohort experiment.",
+  "scheduler_correction": "Duplicate quality control removed; 375 unique jobs unchanged. Executed source archived with model run.",
+  "superseded_model_runs": [
+    {
+      "complete_jobs": 80,
+      "status": "partial_before_original_sheet_history_completion; not evidence",
+      "version": "13e05e900f4c9efe"
+    },
+    {
+      "complete_jobs": 0,
+      "status": "initial_unexecuted_version; not evidence",
+      "version": "9a5695775b43557c"
+    }
+  ]
+}

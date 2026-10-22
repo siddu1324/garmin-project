@@ -1,0 +1,15 @@
+{
+  "logical_timestamps_on_0.001s_grid": 2772065,
+  "logical_timestamps_on_0.01s_grid": 279244,
+  "logical_timestamps_on_0.1s_grid": 27657,
+  "logical_timestamps_on_1s_grid": 2772,
+  "raw_ts_fraction_digits_0": 2706,
+  "raw_ts_fraction_digits_1": 24643,
+  "raw_ts_fraction_digits_2": 246373,
+  "raw_ts_fraction_digits_3": 2438145,
+  "raw_ts_fraction_digits_4": 214168,
+  "raw_ts_fraction_digits_5": 2144788,
+  "raw_ts_fraction_digits_6": 21423194,
+  "raw_ts_fraction_digits_7": 7933529,
+  "scientific_notation_rows": 0
+}

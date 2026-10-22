@@ -1,0 +1,833 @@
+{
+  "automatic_correction": false,
+  "cases": 13,
+  "comparisons": [
+    {
+      "actual": {
+        "mean_ibi_ms": 900.0,
+        "median_ibi_ms": null,
+        "pnn50_pairs_percent": 75.0,
+        "rmssd_ms": 90.13878188659973,
+        "sdnn_sample_ms": 79.05694150420949,
+        "warning_categories": []
+      },
+      "backend": "heartpy",
+      "case": "known_end",
+      "reference": {
+        "intervals": 5,
+        "mean_ibi_ms": 900.0,
+        "median_ibi_ms": 900.0,
+        "nk_native_pnn50_percent": 60.0,
+        "pairs": 4,
+        "pnn50_pairs_percent": 75.0,
+        "rmssd_ms": 90.13878188659973,
+        "sd_population_ms": 70.71067811865476,
+        "sdnn_sample_ms": 79.05694150420949
+      },
+      "run": 0,
+      "status": "matched"
+    },
+    {
+      "actual": {
+        "mean_ibi_ms": 900.0,
+        "median_ibi_ms": 900.0,
+        "pnn50_pairs_percent": 75.0,
+        "rmssd_ms": 90.13878188659973,
+        "sdnn_sample_ms": 79.05694150420949,
+        "warning_categories": []
+      },
+      "backend": "neurokit2",
+      "case": "known_end",
+      "reference": {
+        "intervals": 5,
+        "mean_ibi_ms": 900.0,
+        "median_ibi_ms": 900.0,
+        "nk_native_pnn50_percent": 60.0,
+        "pairs": 4,
+        "pnn50_pairs_percent": 75.0,
+        "rmssd_ms": 90.13878188659973,
+        "sd_population_ms": 70.71067811865476,
+        "sdnn_sample_ms": 79.05694150420949
+      },
+      "run": 0,
+      "status": "matched"
+    },
+    {
+      "actual": {
+        "mean_ibi_ms": 900.0,
+        "median_ibi_ms": null,
+        "pnn50_pairs_percent": 75.0,
+        "rmssd_ms": 90.13878188659973,
+        "sdnn_sample_ms": 79.05694150420949,
+        "warning_categories": []
+      },
+      "backend": "heartpy",
+      "case": "known_start",
+      "reference": {
+        "intervals": 5,
+        "mean_ibi_ms": 900.0,
+        "median_ibi_ms": 900.0,
+        "nk_native_pnn50_percent": 60.0,
+        "pairs": 4,
+        "pnn50_pairs_percent": 75.0,
+        "rmssd_ms": 90.13878188659973,
+        "sd_population_ms": 70.71067811865476,
+        "sdnn_sample_ms": 79.05694150420949
+      },
+      "run": 0,
+      "status": "matched"
+    },
+    {
+      "backend": "neurokit2",
+      "case": "known_start",
+      "run": 0,
+      "status": "blocked_native_adjacency_or_start_semantics"
+    },
+    {
+      "actual": {
+        "mean_ibi_ms": 800.0,
+        "median_ibi_ms": null,
+        "pnn50_pairs_percent": 0.0,
+        "rmssd_ms": 0.0,
+        "sdnn_sample_ms": 0.0,
+        "warning_categories": []
+      },
+      "backend": "heartpy",
+      "case": "constant_end",
+      "reference": {
+        "intervals": 6,
+        "mean_ibi_ms": 800.0,
+        "median_ibi_ms": 800.0,
+        "nk_native_pnn50_percent": 0.0,
+        "pairs": 5,
+        "pnn50_pairs_percent": 0.0,
+        "rmssd_ms": 0.0,
+        "sd_population_ms": 0.0,
+        "sdnn_sample_ms": 0.0
+      },
+      "run": 0,
+      "status": "matched"
+    },
+    {
+      "actual": {
+        "mean_ibi_ms": 800.0,
+        "median_ibi_ms": 800.0,
+        "pnn50_pairs_percent": 0.0,
+        "rmssd_ms": 0.0,
+        "sdnn_sample_ms": 0.0,
+        "warning_categories": []
+      },
+      "backend": "neurokit2",
+      "case": "constant_end",
+      "reference": {
+        "intervals": 6,
+        "mean_ibi_ms": 800.0,
+        "median_ibi_ms": 800.0,
+        "nk_native_pnn50_percent": 0.0,
+        "pairs": 5,
+        "pnn50_pairs_percent": 0.0,
+        "rmssd_ms": 0.0,
+        "sd_population_ms": 0.0,
+        "sdnn_sample_ms": 0.0
+      },
+      "run": 0,
+      "status": "matched"
+    },
+    {
+      "actual": {
+        "mean_ibi_ms": 900.0,
+        "median_ibi_ms": null,
+        "pnn50_pairs_percent": 75.0,
+        "rmssd_ms": 90.13878188659973,
+        "sdnn_sample_ms": 79.05694150420949,
+        "warning_categories": []
+      },
+      "backend": "heartpy",
+      "case": "jitter_some_10ms_matches",
+      "reference": {
+        "intervals": 5,
+        "mean_ibi_ms": 900.0,
+        "median_ibi_ms": 900.0,
+        "nk_native_pnn50_percent": 60.0,
+        "pairs": 4,
+        "pnn50_pairs_percent": 75.0,
+        "rmssd_ms": 90.13878188659973,
+        "sd_population_ms": 70.71067811865476,
+        "sdnn_sample_ms": 79.05694150420949
+      },
+      "run": 0,
+      "status": "matched"
+    },
+    {
+      "backend": "neurokit2",
+      "case": "jitter_some_10ms_matches",
+      "run": 0,
+      "status": "blocked_native_adjacency_or_start_semantics"
+    },
+    {
+      "actual": {
+        "mean_ibi_ms": 900.0,
+        "median_ibi_ms": null,
+        "pnn50_pairs_percent": 75.0,
+        "rmssd_ms": 90.13878188659973,
+        "sdnn_sample_ms": 79.05694150420949,
+        "warning_categories": []
+      },
+      "backend": "heartpy",
+      "case": "jitter_no_10ms_matches",
+      "reference": {
+        "intervals": 5,
+        "mean_ibi_ms": 900.0,
+        "median_ibi_ms": 900.0,
+        "nk_native_pnn50_percent": 60.0,
+        "pairs": 4,
+        "pnn50_pairs_percent": 75.0,
+        "rmssd_ms": 90.13878188659973,
+        "sd_population_ms": 70.71067811865476,
+        "sdnn_sample_ms": 79.05694150420949
+      },
+      "run": 0,
+      "status": "matched"
+    },
+    {
+      "backend": "neurokit2",
+      "case": "jitter_no_10ms_matches",
+      "run": 0,
+      "status": "blocked_native_adjacency_or_start_semantics"
+    },
+    {
+      "actual": {
+        "mean_ibi_ms": 850.0,
+        "median_ibi_ms": null,
+        "pnn50_pairs_percent": 100.0,
+        "rmssd_ms": 100.0,
+        "sdnn_sample_ms": 70.71067811865476,
+        "warning_categories": []
+      },
+      "backend": "heartpy",
+      "case": "recording_gap",
+      "reference": {
+        "intervals": 2,
+        "mean_ibi_ms": 850.0,
+        "median_ibi_ms": 850.0,
+        "nk_native_pnn50_percent": 50.0,
+        "pairs": 1,
+        "pnn50_pairs_percent": 100.0,
+        "rmssd_ms": 100.0,
+        "sd_population_ms": 50.0,
+        "sdnn_sample_ms": 70.71067811865476
+      },
+      "run": 0,
+      "status": "matched"
+    },
+    {
+      "actual": {
+        "mean_ibi_ms": 850.0,
+        "median_ibi_ms": 850.0,
+        "pnn50_pairs_percent": 100.0,
+        "rmssd_ms": 100.0,
+        "sdnn_sample_ms": 70.71067811865476,
+        "warning_categories": [
+          "RuntimeWarning"
+        ]
+      },
+      "backend": "neurokit2",
+      "case": "recording_gap",
+      "reference": {
+        "intervals": 2,
+        "mean_ibi_ms": 850.0,
+        "median_ibi_ms": 850.0,
+        "nk_native_pnn50_percent": 50.0,
+        "pairs": 1,
+        "pnn50_pairs_percent": 100.0,
+        "rmssd_ms": 100.0,
+        "sd_population_ms": 50.0,
+        "sdnn_sample_ms": 70.71067811865476
+      },
+      "run": 0,
+      "status": "matched"
+    },
+    {
+      "actual": {
+        "mean_ibi_ms": 933.3333333333334,
+        "median_ibi_ms": null,
+        "pnn50_pairs_percent": 50.0,
+        "rmssd_ms": 79.05694150420949,
+        "sdnn_sample_ms": 76.37626158259732,
+        "warning_categories": []
+      },
+      "backend": "heartpy",
+      "case": "recording_gap",
+      "reference": {
+        "intervals": 3,
+        "mean_ibi_ms": 933.3333333333334,
+        "median_ibi_ms": 950.0,
+        "nk_native_pnn50_percent": 33.333333333333336,
+        "pairs": 2,
+        "pnn50_pairs_percent": 50.0,
+        "rmssd_ms": 79.05694150420949,
+        "sd_population_ms": 62.36095644623236,
+        "sdnn_sample_ms": 76.37626158259734
+      },
+      "run": 1,
+      "status": "matched"
+    },
+    {
+      "actual": {
+        "mean_ibi_ms": 933.3333333333334,
+        "median_ibi_ms": 950.0,
+        "pnn50_pairs_percent": 49.99999999999999,
+        "rmssd_ms": 79.05694150420949,
+        "sdnn_sample_ms": 76.37626158259734,
+        "warning_categories": []
+      },
+      "backend": "neurokit2",
+      "case": "recording_gap",
+      "reference": {
+        "intervals": 3,
+        "mean_ibi_ms": 933.3333333333334,
+        "median_ibi_ms": 950.0,
+        "nk_native_pnn50_percent": 33.333333333333336,
+        "pairs": 2,
+        "pnn50_pairs_percent": 50.0,
+        "rmssd_ms": 79.05694150420949,
+        "sd_population_ms": 62.36095644623236,
+        "sdnn_sample_ms": 76.37626158259734
+      },
+      "run": 1,
+      "status": "matched"
+    },
+    {
+      "actual": {
+        "mean_ibi_ms": 850.0,
+        "median_ibi_ms": null,
+        "pnn50_pairs_percent": 100.0,
+        "rmssd_ms": 100.0,
+        "sdnn_sample_ms": 70.71067811865476,
+        "warning_categories": []
+      },
+      "backend": "heartpy",
+      "case": "removed_interval",
+      "reference": {
+        "intervals": 2,
+        "mean_ibi_ms": 850.0,
+        "median_ibi_ms": 850.0,
+        "nk_native_pnn50_percent": 50.0,
+        "pairs": 1,
+        "pnn50_pairs_percent": 100.0,
+        "rmssd_ms": 100.0,
+        "sd_population_ms": 50.0,
+        "sdnn_sample_ms": 70.71067811865476
+      },
+      "run": 0,
+      "status": "matched"
+    },
+    {
+      "actual": {
+        "mean_ibi_ms": 850.0,
+        "median_ibi_ms": 850.0,
+        "pnn50_pairs_percent": 100.0,
+        "rmssd_ms": 100.0,
+        "sdnn_sample_ms": 70.71067811865476,
+        "warning_categories": [
+          "RuntimeWarning"
+        ]
+      },
+      "backend": "neurokit2",
+      "case": "removed_interval",
+      "reference": {
+        "intervals": 2,
+        "mean_ibi_ms": 850.0,
+        "median_ibi_ms": 850.0,
+        "nk_native_pnn50_percent": 50.0,
+        "pairs": 1,
+        "pnn50_pairs_percent": 100.0,
+        "rmssd_ms": 100.0,
+        "sd_population_ms": 50.0,
+        "sdnn_sample_ms": 70.71067811865476
+      },
+      "run": 0,
+      "status": "matched"
+    },
+    {
+      "actual": {
+        "mean_ibi_ms": 900.0,
+        "median_ibi_ms": null,
+        "pnn50_pairs_percent": 100.0,
+        "rmssd_ms": 100.0,
+        "sdnn_sample_ms": 70.71067811865476,
+        "warning_categories": []
+      },
+      "backend": "heartpy",
+      "case": "removed_interval",
+      "reference": {
+        "intervals": 2,
+        "mean_ibi_ms": 900.0,
+        "median_ibi_ms": 900.0,
+        "nk_native_pnn50_percent": 50.0,
+        "pairs": 1,
+        "pnn50_pairs_percent": 100.0,
+        "rmssd_ms": 100.0,
+        "sd_population_ms": 50.0,
+        "sdnn_sample_ms": 70.71067811865476
+      },
+      "run": 1,
+      "status": "matched"
+    },
+    {
+      "actual": {
+        "mean_ibi_ms": 900.0,
+        "median_ibi_ms": 900.0,
+        "pnn50_pairs_percent": 100.0,
+        "rmssd_ms": 100.0,
+        "sdnn_sample_ms": 70.71067811865476,
+        "warning_categories": [
+          "RuntimeWarning"
+        ]
+      },
+      "backend": "neurokit2",
+      "case": "removed_interval",
+      "reference": {
+        "intervals": 2,
+        "mean_ibi_ms": 900.0,
+        "median_ibi_ms": 900.0,
+        "nk_native_pnn50_percent": 50.0,
+        "pairs": 1,
+        "pnn50_pairs_percent": 100.0,
+        "rmssd_ms": 100.0,
+        "sd_population_ms": 50.0,
+        "sdnn_sample_ms": 70.71067811865476
+      },
+      "run": 1,
+      "status": "matched"
+    },
+    {
+      "actual": {
+        "mean_ibi_ms": 850.0,
+        "median_ibi_ms": null,
+        "pnn50_pairs_percent": 100.0,
+        "rmssd_ms": 100.0,
+        "sdnn_sample_ms": 70.71067811865476,
+        "warning_categories": []
+      },
+      "backend": "heartpy",
+      "case": "rejected_interval",
+      "reference": {
+        "intervals": 2,
+        "mean_ibi_ms": 850.0,
+        "median_ibi_ms": 850.0,
+        "nk_native_pnn50_percent": 50.0,
+        "pairs": 1,
+        "pnn50_pairs_percent": 100.0,
+        "rmssd_ms": 100.0,
+        "sd_population_ms": 50.0,
+        "sdnn_sample_ms": 70.71067811865476
+      },
+      "run": 0,
+      "status": "matched"
+    },
+    {
+      "actual": {
+        "mean_ibi_ms": 850.0,
+        "median_ibi_ms": 850.0,
+        "pnn50_pairs_percent": 100.0,
+        "rmssd_ms": 100.0,
+        "sdnn_sample_ms": 70.71067811865476,
+        "warning_categories": [
+          "RuntimeWarning"
+        ]
+      },
+      "backend": "neurokit2",
+      "case": "rejected_interval",
+      "reference": {
+        "intervals": 2,
+        "mean_ibi_ms": 850.0,
+        "median_ibi_ms": 850.0,
+        "nk_native_pnn50_percent": 50.0,
+        "pairs": 1,
+        "pnn50_pairs_percent": 100.0,
+        "rmssd_ms": 100.0,
+        "sd_population_ms": 50.0,
+        "sdnn_sample_ms": 70.71067811865476
+      },
+      "run": 0,
+      "status": "matched"
+    },
+    {
+      "actual": {
+        "mean_ibi_ms": 900.0,
+        "median_ibi_ms": null,
+        "pnn50_pairs_percent": 100.0,
+        "rmssd_ms": 100.0,
+        "sdnn_sample_ms": 70.71067811865476,
+        "warning_categories": []
+      },
+      "backend": "heartpy",
+      "case": "rejected_interval",
+      "reference": {
+        "intervals": 2,
+        "mean_ibi_ms": 900.0,
+        "median_ibi_ms": 900.0,
+        "nk_native_pnn50_percent": 50.0,
+        "pairs": 1,
+        "pnn50_pairs_percent": 100.0,
+        "rmssd_ms": 100.0,
+        "sd_population_ms": 50.0,
+        "sdnn_sample_ms": 70.71067811865476
+      },
+      "run": 1,
+      "status": "matched"
+    },
+    {
+      "actual": {
+        "mean_ibi_ms": 900.0,
+        "median_ibi_ms": 900.0,
+        "pnn50_pairs_percent": 100.0,
+        "rmssd_ms": 100.0,
+        "sdnn_sample_ms": 70.71067811865476,
+        "warning_categories": [
+          "RuntimeWarning"
+        ]
+      },
+      "backend": "neurokit2",
+      "case": "rejected_interval",
+      "reference": {
+        "intervals": 2,
+        "mean_ibi_ms": 900.0,
+        "median_ibi_ms": 900.0,
+        "nk_native_pnn50_percent": 50.0,
+        "pairs": 1,
+        "pnn50_pairs_percent": 100.0,
+        "rmssd_ms": 100.0,
+        "sd_population_ms": 50.0,
+        "sdnn_sample_ms": 70.71067811865476
+      },
+      "run": 1,
+      "status": "matched"
+    },
+    {
+      "actual": {
+        "mean_ibi_ms": 933.3333333333334,
+        "median_ibi_ms": null,
+        "pnn50_pairs_percent": 50.0,
+        "rmssd_ms": 79.05694150420949,
+        "sdnn_sample_ms": 76.37626158259732,
+        "warning_categories": []
+      },
+      "backend": "heartpy",
+      "case": "remaining_duplicate_timestamp",
+      "reference": {
+        "intervals": 3,
+        "mean_ibi_ms": 933.3333333333334,
+        "median_ibi_ms": 950.0,
+        "nk_native_pnn50_percent": 33.333333333333336,
+        "pairs": 2,
+        "pnn50_pairs_percent": 50.0,
+        "rmssd_ms": 79.05694150420949,
+        "sd_population_ms": 62.36095644623236,
+        "sdnn_sample_ms": 76.37626158259734
+      },
+      "run": 1,
+      "status": "matched"
+    },
+    {
+      "actual": {
+        "mean_ibi_ms": 933.3333333333334,
+        "median_ibi_ms": 950.0,
+        "pnn50_pairs_percent": 49.99999999999999,
+        "rmssd_ms": 79.05694150420949,
+        "sdnn_sample_ms": 76.37626158259734,
+        "warning_categories": []
+      },
+      "backend": "neurokit2",
+      "case": "remaining_duplicate_timestamp",
+      "reference": {
+        "intervals": 3,
+        "mean_ibi_ms": 933.3333333333334,
+        "median_ibi_ms": 950.0,
+        "nk_native_pnn50_percent": 33.333333333333336,
+        "pairs": 2,
+        "pnn50_pairs_percent": 50.0,
+        "rmssd_ms": 79.05694150420949,
+        "sd_population_ms": 62.36095644623236,
+        "sdnn_sample_ms": 76.37626158259734
+      },
+      "run": 1,
+      "status": "matched"
+    },
+    {
+      "actual": {
+        "mean_ibi_ms": 933.3333333333334,
+        "median_ibi_ms": null,
+        "pnn50_pairs_percent": 50.0,
+        "rmssd_ms": 79.05694150420949,
+        "sdnn_sample_ms": 76.37626158259732,
+        "warning_categories": []
+      },
+      "backend": "heartpy",
+      "case": "conflicting_timestamp",
+      "reference": {
+        "intervals": 3,
+        "mean_ibi_ms": 933.3333333333334,
+        "median_ibi_ms": 950.0,
+        "nk_native_pnn50_percent": 33.333333333333336,
+        "pairs": 2,
+        "pnn50_pairs_percent": 50.0,
+        "rmssd_ms": 79.05694150420949,
+        "sd_population_ms": 62.36095644623236,
+        "sdnn_sample_ms": 76.37626158259734
+      },
+      "run": 1,
+      "status": "matched"
+    },
+    {
+      "actual": {
+        "mean_ibi_ms": 933.3333333333334,
+        "median_ibi_ms": 950.0,
+        "pnn50_pairs_percent": 49.99999999999999,
+        "rmssd_ms": 79.05694150420949,
+        "sdnn_sample_ms": 76.37626158259734,
+        "warning_categories": []
+      },
+      "backend": "neurokit2",
+      "case": "conflicting_timestamp",
+      "reference": {
+        "intervals": 3,
+        "mean_ibi_ms": 933.3333333333334,
+        "median_ibi_ms": 950.0,
+        "nk_native_pnn50_percent": 33.333333333333336,
+        "pairs": 2,
+        "pnn50_pairs_percent": 50.0,
+        "rmssd_ms": 79.05694150420949,
+        "sd_population_ms": 62.36095644623236,
+        "sdnn_sample_ms": 76.37626158259734
+      },
+      "run": 1,
+      "status": "matched"
+    },
+    {
+      "actual": {
+        "mean_ibi_ms": 800.0,
+        "median_ibi_ms": null,
+        "pnn50_pairs_percent": 0.0,
+        "rmssd_ms": 0.0,
+        "sdnn_sample_ms": 0.0,
+        "warning_categories": []
+      },
+      "backend": "heartpy",
+      "case": "boundary_start",
+      "reference": {
+        "intervals": 2,
+        "mean_ibi_ms": 800.0,
+        "median_ibi_ms": 800.0,
+        "nk_native_pnn50_percent": 0.0,
+        "pairs": 1,
+        "pnn50_pairs_percent": 0.0,
+        "rmssd_ms": 0.0,
+        "sd_population_ms": 0.0,
+        "sdnn_sample_ms": 0.0
+      },
+      "run": 1,
+      "status": "matched"
+    },
+    {
+      "backend": "neurokit2",
+      "case": "boundary_start",
+      "run": 1,
+      "status": "blocked_native_adjacency_or_start_semantics"
+    },
+    {
+      "actual": {
+        "mean_ibi_ms": 825.25,
+        "median_ibi_ms": null,
+        "pnn50_pairs_percent": 33.33333333333333,
+        "rmssd_ms": 50.33554079044613,
+        "sdnn_sample_ms": 29.159046623646663,
+        "warning_categories": []
+      },
+      "backend": "heartpy",
+      "case": "strict_50ms_threshold",
+      "reference": {
+        "intervals": 4,
+        "mean_ibi_ms": 825.25,
+        "median_ibi_ms": 825.0,
+        "nk_native_pnn50_percent": 25.0,
+        "pairs": 3,
+        "pnn50_pairs_percent": 33.333333333333336,
+        "rmssd_ms": 50.33554079044613,
+        "sd_population_ms": 25.252475126212875,
+        "sdnn_sample_ms": 29.159046623646667
+      },
+      "run": 0,
+      "status": "matched"
+    },
+    {
+      "actual": {
+        "mean_ibi_ms": 825.25,
+        "median_ibi_ms": 825.0,
+        "pnn50_pairs_percent": 33.333333333333336,
+        "rmssd_ms": 50.33554079044613,
+        "sdnn_sample_ms": 29.159046623646667,
+        "warning_categories": []
+      },
+      "backend": "neurokit2",
+      "case": "strict_50ms_threshold",
+      "reference": {
+        "intervals": 4,
+        "mean_ibi_ms": 825.25,
+        "median_ibi_ms": 825.0,
+        "nk_native_pnn50_percent": 25.0,
+        "pairs": 3,
+        "pnn50_pairs_percent": 33.333333333333336,
+        "rmssd_ms": 50.33554079044613,
+        "sd_population_ms": 25.252475126212875,
+        "sdnn_sample_ms": 29.159046623646667
+      },
+      "run": 0,
+      "status": "matched"
+    }
+  ],
+  "interpolation": false,
+  "native_probes": [
+    {
+      "case": "known_end",
+      "demonstration_only": true,
+      "effective_package_pairs": 4,
+      "mean_ibi_ms": 900.0,
+      "median_ibi_ms": 900.0,
+      "native_10ms_matching_pairs": 4,
+      "native_missing_detected": false,
+      "native_pnn50_percent": 60.0,
+      "native_rmssd_ms": 90.13878188659973,
+      "reference_conventions_match": true,
+      "sample_sdnn_ms": 79.05694150420949,
+      "warnings": []
+    },
+    {
+      "case": "known_start",
+      "demonstration_only": true,
+      "effective_package_pairs": 4,
+      "mean_ibi_ms": 900.0,
+      "median_ibi_ms": 900.0,
+      "native_10ms_matching_pairs": 0,
+      "native_missing_detected": false,
+      "native_pnn50_percent": 60.0,
+      "native_rmssd_ms": 90.13878188659973,
+      "reference_conventions_match": true,
+      "sample_sdnn_ms": 79.05694150420949,
+      "warnings": []
+    },
+    {
+      "case": "jitter_some_10ms_matches",
+      "demonstration_only": true,
+      "effective_package_pairs": 2,
+      "mean_ibi_ms": 900.0,
+      "median_ibi_ms": 900.0,
+      "native_10ms_matching_pairs": 2,
+      "native_missing_detected": true,
+      "native_pnn50_percent": 33.33333333333333,
+      "native_rmssd_ms": 79.05694150420949,
+      "reference_conventions_match": true,
+      "sample_sdnn_ms": 79.05694150420949,
+      "warnings": []
+    },
+    {
+      "case": "jitter_no_10ms_matches",
+      "demonstration_only": true,
+      "effective_package_pairs": 4,
+      "mean_ibi_ms": 900.0,
+      "median_ibi_ms": 900.0,
+      "native_10ms_matching_pairs": 0,
+      "native_missing_detected": false,
+      "native_pnn50_percent": 60.0,
+      "native_rmssd_ms": 90.13878188659973,
+      "reference_conventions_match": true,
+      "sample_sdnn_ms": 79.05694150420949,
+      "warnings": []
+    },
+    {
+      "case": "recording_gap",
+      "demonstration_only": true,
+      "effective_package_pairs": 3,
+      "mean_ibi_ms": 900.0,
+      "median_ibi_ms": 900.0,
+      "native_10ms_matching_pairs": 3,
+      "native_missing_detected": true,
+      "native_pnn50_percent": 50.0,
+      "native_rmssd_ms": 86.60254037844386,
+      "reference_conventions_match": true,
+      "sample_sdnn_ms": 79.05694150420949,
+      "warnings": []
+    },
+    {
+      "case": "removed_interval",
+      "demonstration_only": true,
+      "effective_package_pairs": 2,
+      "mean_ibi_ms": 875.0,
+      "median_ibi_ms": 875.0,
+      "native_10ms_matching_pairs": 2,
+      "native_missing_detected": true,
+      "native_pnn50_percent": 66.66666666666666,
+      "native_rmssd_ms": 100.0,
+      "reference_conventions_match": true,
+      "sample_sdnn_ms": 64.54972243679029,
+      "warnings": []
+    }
+  ],
+  "package_evidence": {
+    "inspected_interfaces": [
+      {
+        "function": "hrv_time",
+        "installed_docstring_present": true,
+        "module": "neurokit2.hrv.hrv_time",
+        "signature": "(peaks, sampling_rate=1000, show=False, **kwargs)",
+        "source_sha256": "32a15fa59622bba8cf170744dadec0c5928e3b61ffaac2a2cf88c0f2886b25ca"
+      },
+      {
+        "function": "_intervals_sanitize",
+        "installed_docstring_present": true,
+        "module": "neurokit2.hrv.intervals_utils",
+        "signature": "(intervals, intervals_time=None, remove_missing=True)",
+        "source_sha256": "4312049d2bfa381b4a40ae13237ddc79cb1bd43a3ad87fedaeeb72d622afd28e"
+      },
+      {
+        "function": "_intervals_successive",
+        "installed_docstring_present": true,
+        "module": "neurokit2.hrv.intervals_utils",
+        "signature": "(intervals, intervals_time=None, thresh_unequal=10, n_diff=1)",
+        "source_sha256": "4312049d2bfa381b4a40ae13237ddc79cb1bd43a3ad87fedaeeb72d622afd28e"
+      },
+      {
+        "function": "_intervals_missing",
+        "installed_docstring_present": false,
+        "module": "neurokit2.hrv.intervals_utils",
+        "signature": "(intervals, intervals_time=None)",
+        "source_sha256": "4312049d2bfa381b4a40ae13237ddc79cb1bd43a3ad87fedaeeb72d622afd28e"
+      },
+      {
+        "function": "process_rr",
+        "installed_docstring_present": true,
+        "module": "heartpy.heartpy",
+        "signature": "(rr_list, threshold_rr=False, clean_rr=False, clean_rr_method='quotient-filter', calc_freq=False, freq_method='welch', welch_wsize=240, square_spectrum=True, breathing_method='welch', measures={}, working_data={})",
+        "source_sha256": "48a4a21b06faf2e43887516e5b46c4430b465be8dd14334660ad60e999983d7d"
+      },
+      {
+        "function": "calc_ts_measures",
+        "installed_docstring_present": true,
+        "module": "heartpy.analysis",
+        "signature": "(rr_list, rr_diff, rr_sqdiff, measures={}, working_data={})",
+        "source_sha256": "33953ba8c9d1229996557442873cd8aa0e98115b0fb0b2fd57d2ce4382a5f4dc"
+      }
+    ],
+    "versions": {
+      "heartpy": "1.2.7",
+      "neurokit2": "0.2.13",
+      "numpy": "2.2.6",
+      "pandas": "2.3.3",
+      "scipy": "1.17.1",
+      "setuptools": "81.0.0"
+    }
+  },
+  "real_data_hrv_calculated": false,
+  "spectral_or_nonlinear_functions_called": false
+}

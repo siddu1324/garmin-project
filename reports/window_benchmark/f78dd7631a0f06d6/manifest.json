@@ -1,0 +1,37 @@
+{
+  "aggregate_only": true,
+  "artifact_sha256": {
+    "benchmark_errors.png": "eaad8fdb69642b1cc82d5fb8c2ae16e3b26e03ee2cfc11b38115e6841b282fcd",
+    "composition.json": "5398620d916bd96961b339175f522112c52b545e36c860cf74333a96edb17ac8",
+    "composition.md": "b0afbebeed8cba4f729f5a0beddd297900c361c161930c69acd30400702fef2d",
+    "density_summary.json": "11b8139d291346f13c6f7457a9c16eb5ed12b5d8e8de7fee5ee2b246fb910799",
+    "density_summary.md": "1c195877aa4e739509129ee043d503f7919763c22e20d3f06a3c36cea7abd398",
+    "density_weighting.png": "0ff6be2233b737d4294cb599cf72c9490609c0abedb57fa55b20430a83c51ab5",
+    "feature_differences.json": "e2bc0d61f49957b9b81a88cf44eb3e455da2b9a88e7e0dcc62cf3d5f884050fd",
+    "feature_differences.md": "4e64a659ad167e565750350d1b579bbb9ccae8401191a69b4507e5ac66d85f19",
+    "fold_counts.json": "0f98b119145cb0926e598d1837fda28ecbc169dada4a3348240fef6b35041c9e",
+    "fold_counts.md": "ee3a288add86bf1fe8113df3948759b44e88a2aa4c251c4a09c67668dc3d4c8f",
+    "metrics.json": "aec912c17776bfc016251c43409ee0a34aedb2e7f0894fde2c815887b00eb3f3",
+    "metrics.md": "262d5e0db000193a1a277887c77d923be5040553ffd7f527884c5175dd486209",
+    "paired_intervals.json": "df6b33d33a0b78b2d72d2b7008931b8a7acb4d7b6862377a76fd122a68deee02",
+    "paired_intervals.md": "cd2d9c632b399e116a3e919f4cd39e9de4c0b60e4e369c24d5f097890d0a7b84",
+    "professor_summary.md": "47e8980ec6dce6581205859c5ef1320cfeecb2195124b9747a9d966e7c26d42a",
+    "reference_agreement.json": "edf119415f7a68be3f56cc83efecc3eedbdaffa293aa5699465a2bb1659c60d5",
+    "report.md": "15550f5d33a98b1c7b69dca20187d99c529fbbae7322b9249de2a5755d18212b",
+    "selected_settings.json": "ae44857ecc3f59976b003758cd3461cc97fefff382a1cc77372a5724f68c225f",
+    "selected_settings.md": "b840c080db4fc191b47f2f81ed309f6f4a3a192edf428cb1ae9597c686d9904a",
+    "setting_stability.md": "2c4fcb7a9b4c4dee7f3de5528cec849a688d2418ca3c9f9ed8b2e9ea8bd7210b",
+    "source_verification.json": "d479cd753f5f71a49a8aedf02f8b7e8f832d725693824934597c335b7de06731",
+    "synthetic_positive_control.json": "6c274998c8cc22eec3f4960e2e672b2e5d5f54b0ccc5bead7fc275c4c931ffba",
+    "training_vs_oof.png": "f8fb6856b0391ac33a090f957e23cd48189d6259e4a06c89f02f75fa33cf1000",
+    "window_information.png": "01eba4b820ab95f55517cf3135084d237a843bd53761615728247cc74ad7f9c3",
+    "window_overlap.json": "20c0c7da20ce8858c936e9987386a3588adbb5f8db97a06a57c9f5c886e315e9",
+    "window_overlap.md": "7be6a3400133e25be24ff2acc9fafbe859643baef6f791c0bda918aae1c4d317"
+  },
+  "complete": true,
+  "inputs": {
+    "bundle_manifest": "c0b2d2234b6c45e44f9e0e8a04958748e4295a0fe8512c065b8425192395518e",
+    "renderer": "fa127d8992c60e13a9c7a00f12c42599b5c290fd53c1ad1dda85990eae21df80"
+  },
+  "version": "f78dd7631a0f06d6"
+}

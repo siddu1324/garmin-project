@@ -1,0 +1,25 @@
+{
+  "additional_versioned_document_scans": 4,
+  "aggregate_figures": 8,
+  "deterministic_fresh_refits": {
+    "fresh_selected_model_refits": 6,
+    "probabilities_bitwise_equal": true
+  },
+  "final_test_evaluated": false,
+  "fold_results": 2245,
+  "git_whitespace_check_passed": true,
+  "notebook_code_cells_executed": 15,
+  "notebook_execution_errors": 0,
+  "notebook_sha256": "bf674807cb17027d6bceb74dee803d64ac84360b0e6dc866be0051dc5d1ac9fe",
+  "paired_participant_comparisons": 1565,
+  "pooled_model_configurations": 449,
+  "privacy_full_scan": {
+    "git_ignore_guard_passed": true,
+    "known_private_tokens_found": 0,
+    "public_files_scanned": 544
+  },
+  "private_run_checksum_verified": true,
+  "ruff_passed": true,
+  "run_version": "8970bf5ebcc47bfd",
+  "tests_passed": 157
+}
